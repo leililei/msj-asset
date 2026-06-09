@@ -1,0 +1,146 @@
+
+Effect_macheranshao.png
+size: 1940,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/hy1/hy1_00000
+  rotate: false
+  xy: 1489, 192
+  size: 149, 227
+  orig: 232, 347
+  offset: 46, 28
+  index: -1
+chutu/hy1/hy1_00002
+  rotate: false
+  xy: 1003, 168
+  size: 162, 251
+  orig: 232, 347
+  offset: 42, 28
+  index: -1
+chutu/hy1/hy1_00004
+  rotate: false
+  xy: 504, 160
+  size: 164, 259
+  orig: 232, 347
+  offset: 42, 27
+  index: -1
+chutu/hy1/hy1_00006
+  rotate: false
+  xy: 337, 152
+  size: 165, 267
+  orig: 232, 347
+  offset: 43, 26
+  index: -1
+chutu/hy1/hy1_00008
+  rotate: false
+  xy: 834, 170
+  size: 167, 249
+  orig: 232, 347
+  offset: 41, 25
+  index: -1
+chutu/hy1/hy1_00010
+  rotate: false
+  xy: 1329, 174
+  size: 158, 245
+  orig: 232, 347
+  offset: 39, 26
+  index: -1
+chutu/hy1/hy1_00012
+  rotate: false
+  xy: 1167, 167
+  size: 160, 252
+  orig: 232, 347
+  offset: 38, 27
+  index: -1
+chutu/hy1/hy1_00014
+  rotate: false
+  xy: 670, 157
+  size: 162, 262
+  orig: 232, 347
+  offset: 35, 27
+  index: -1
+chutu/hy1/hy1_00016
+  rotate: false
+  xy: 170, 148
+  size: 165, 271
+  orig: 232, 347
+  offset: 31, 27
+  index: -1
+chutu/hy1/hy1_00018
+  rotate: false
+  xy: 3, 146
+  size: 165, 273
+  orig: 232, 347
+  offset: 30, 26
+  index: -1
+chutu/hy2/hy2_00000
+  rotate: true
+  xy: 337, 5
+  size: 145, 162
+  orig: 232, 347
+  offset: 42, 62
+  index: -1
+chutu/hy2/hy2_00002
+  rotate: true
+  xy: 504, 6
+  size: 149, 166
+  orig: 232, 347
+  offset: 41, 62
+  index: -1
+chutu/hy2/hy2_00004
+  rotate: false
+  xy: 672, 3
+  size: 152, 152
+  orig: 232, 347
+  offset: 40, 62
+  index: -1
+chutu/hy2/hy2_00006
+  rotate: true
+  xy: 1262, 12
+  size: 153, 165
+  orig: 232, 347
+  offset: 40, 62
+  index: -1
+chutu/hy2/hy2_00008
+  rotate: true
+  xy: 1061, 11
+  size: 154, 199
+  orig: 232, 347
+  offset: 40, 41
+  index: -1
+chutu/hy2/hy2_00010
+  rotate: true
+  xy: 1489, 35
+  size: 155, 210
+  orig: 232, 347
+  offset: 41, 43
+  index: -1
+chutu/hy2/hy2_00012
+  rotate: false
+  xy: 1640, 204
+  size: 156, 215
+  orig: 232, 347
+  offset: 42, 50
+  index: -1
+chutu/hy2/hy2_00014
+  rotate: true
+  xy: 1701, 33
+  size: 144, 219
+  orig: 232, 347
+  offset: 46, 58
+  index: -1
+chutu/hy2/hy2_00016
+  rotate: true
+  xy: 834, 28
+  size: 138, 225
+  orig: 232, 347
+  offset: 50, 62
+  index: -1
+chutu/hy2/hy2_00018
+  rotate: false
+  xy: 1798, 179
+  size: 139, 240
+  orig: 232, 347
+  offset: 46, 56
+  index: -1

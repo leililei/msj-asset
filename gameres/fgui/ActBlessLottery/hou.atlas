@@ -1,0 +1,13 @@
+
+hou.png
+size: 726,1847
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tian
+  rotate: false
+  xy: 2, 2
+  size: 722, 1843
+  orig: 722, 1843
+  offset: 0, 0
+  index: -1

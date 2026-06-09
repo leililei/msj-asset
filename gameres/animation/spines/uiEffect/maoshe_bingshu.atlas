@@ -1,0 +1,132 @@
+
+maoshe_bingshu.png
+size: 691,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi
+  rotate: true
+  xy: 562, 92
+  size: 106, 87
+  orig: 109, 89
+  offset: 3, 2
+  index: -1
+bi_touying
+  rotate: false
+  xy: 338, 13
+  size: 94, 22
+  orig: 94, 22
+  offset: 0, 0
+  index: -1
+guajian1
+  rotate: false
+  xy: 666, 5
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+guajian2
+  rotate: false
+  xy: 657, 93
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+guajian3
+  rotate: false
+  xy: 509, 14
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+shu_touying
+  rotate: true
+  xy: 505, 92
+  size: 120, 55
+  orig: 120, 55
+  offset: 0, 0
+  index: -1
+shumian
+  rotate: true
+  xy: 408, 106
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+shuqian
+  rotate: false
+  xy: 657, 63
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+shuye1
+  rotate: true
+  xy: 630, 170
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+shuye2
+  rotate: true
+  xy: 599, 29
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+shuye3
+  rotate: false
+  xy: 408, 17
+  size: 123, 87
+  orig: 123, 87
+  offset: 0, 0
+  index: -1
+shuye_touying
+  rotate: false
+  xy: 610, 110
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+xiaoguo
+  rotate: false
+  xy: 3, 3
+  size: 333, 242
+  orig: 333, 242
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: 180
+  xy: 599, 10
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 434, 5
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+yantai
+  rotate: true
+  xy: 533, 14
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+yantai_touying
+  rotate: true
+  xy: 657, 21
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: true
+  xy: 338, 37
+  size: 208, 68
+  orig: 208, 68
+  offset: 0, 0
+  index: -1

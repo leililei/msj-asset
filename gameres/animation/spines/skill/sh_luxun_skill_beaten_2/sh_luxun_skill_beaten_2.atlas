@@ -1,0 +1,69 @@
+
+sh_luxun_skill_beaten_2.png
+size: 561,1004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_mz_00
+  rotate: true
+  xy: 2, 2
+  size: 238, 215
+  orig: 267, 249
+  offset: 14, 18
+  index: -1
+effect/skill_mz_01
+  rotate: false
+  xy: 2, 432
+  size: 357, 267
+  orig: 365, 302
+  offset: 4, 19
+  index: -1
+effect/skill_mz_03
+  rotate: false
+  xy: 2, 701
+  size: 366, 301
+  orig: 386, 305
+  offset: 10, 2
+  index: -1
+effect/skill_mz_05
+  rotate: true
+  xy: 361, 276
+  size: 370, 198
+  orig: 382, 220
+  offset: 6, 17
+  index: -1
+effect/skill_mz_07
+  rotate: true
+  xy: 370, 648
+  size: 354, 189
+  orig: 380, 219
+  offset: 13, 15
+  index: -1
+effect/skill_mz_09
+  rotate: false
+  xy: 2, 242
+  size: 353, 188
+  orig: 361, 194
+  offset: 4, 3
+  index: -1
+effect/skill_mz_11
+  rotate: false
+  xy: 219, 103
+  size: 126, 137
+  orig: 131, 145
+  offset: 3, 4
+  index: -1
+effect/skill_mz_13
+  rotate: false
+  xy: 347, 5
+  size: 118, 129
+  orig: 128, 136
+  offset: 5, 4
+  index: -1
+effect/skill_mz_glow
+  rotate: false
+  xy: 357, 136
+  size: 139, 138
+  orig: 146, 145
+  offset: 3, 3
+  index: -1

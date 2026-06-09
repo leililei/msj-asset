@@ -1,0 +1,104 @@
+
+jiaxu_atk_tx_1.png
+size: 732,600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/2dg1/2dg1_0015
+  rotate: true
+  xy: 498, 358
+  size: 68, 223
+  orig: 237, 255
+  offset: 2, 31
+  index: -1
+chutu/attack/2dg1/2dg1_0016
+  rotate: true
+  xy: 497, 167
+  size: 188, 217
+  orig: 237, 255
+  offset: 1, 7
+  index: -1
+chutu/attack/2dg1/2dg1_0018
+  rotate: false
+  xy: 1, 206
+  size: 235, 190
+  orig: 237, 255
+  offset: 1, 1
+  index: -1
+chutu/attack/2dg1/2dg1_0020
+  rotate: false
+  xy: 498, 429
+  size: 233, 167
+  orig: 237, 255
+  offset: 1, 1
+  index: -1
+chutu/attack/2dg1/2dg1_0022
+  rotate: false
+  xy: 239, 140
+  size: 234, 134
+  orig: 237, 255
+  offset: 2, 2
+  index: -1
+chutu/attack/2dg1/2dg1_0024
+  rotate: true
+  xy: 476, 65
+  size: 99, 125
+  orig: 237, 255
+  offset: 132, 24
+  index: -1
+chutu/attack/2dg1/2dg1_0026
+  rotate: true
+  xy: 360, 7
+  size: 50, 123
+  orig: 237, 255
+  offset: 160, 35
+  index: -1
+chutu/attack/2dg2/2dg2_0015
+  rotate: true
+  xy: 225, 60
+  size: 77, 228
+  orig: 251, 265
+  offset: 3, 35
+  index: -1
+chutu/attack/2dg2/2dg2_0016
+  rotate: true
+  xy: 1, 5
+  size: 198, 221
+  orig: 251, 265
+  offset: 2, 9
+  index: -1
+chutu/attack/2dg2/2dg2_0018
+  rotate: false
+  xy: 1, 399
+  size: 247, 197
+  orig: 251, 265
+  offset: 2, 1
+  index: -1
+chutu/attack/2dg2/2dg2_0020
+  rotate: false
+  xy: 251, 423
+  size: 244, 173
+  orig: 251, 265
+  offset: 2, 2
+  index: -1
+chutu/attack/2dg2/2dg2_0022
+  rotate: false
+  xy: 251, 277
+  size: 243, 143
+  orig: 251, 265
+  offset: 5, 2
+  index: -1
+chutu/attack/2dg2/2dg2_0024
+  rotate: false
+  xy: 604, 29
+  size: 106, 135
+  orig: 251, 265
+  offset: 137, 25
+  index: -1
+chutu/attack/2dg2/2dg2_0026
+  rotate: true
+  xy: 225, 1
+  size: 56, 132
+  orig: 251, 265
+  offset: 165, 37
+  index: -1

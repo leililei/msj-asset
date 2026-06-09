@@ -1,0 +1,874 @@
+
+lusu_skill_tx_1.png
+size: 2017,907
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/bao/bao_34
+  rotate: false
+  xy: 1819, 40
+  size: 63, 62
+  orig: 121, 121
+  offset: 28, 29
+  index: -1
+images/chutu/bao/bao_35
+  rotate: true
+  xy: 780, 406
+  size: 100, 101
+  orig: 121, 121
+  offset: 9, 10
+  index: -1
+images/chutu/bao/bao_36
+  rotate: false
+  xy: 192, 2
+  size: 105, 107
+  orig: 121, 121
+  offset: 8, 7
+  index: -1
+images/chutu/bao/bao_37
+  rotate: false
+  xy: 1735, 555
+  size: 95, 95
+  orig: 121, 121
+  offset: 12, 15
+  index: -1
+images/chutu/ci_34
+  rotate: true
+  xy: 1324, 555
+  size: 137, 97
+  orig: 143, 101
+  offset: 3, 3
+  index: -1
+images/chutu/dimian/dimian_07
+  rotate: false
+  xy: 1423, 459
+  size: 143, 54
+  orig: 152, 63
+  offset: 5, 5
+  index: -1
+images/chutu/dimian/dimian_09
+  rotate: false
+  xy: 1568, 460
+  size: 144, 55
+  orig: 152, 63
+  offset: 4, 4
+  index: -1
+images/chutu/dimian/dimian_11
+  rotate: true
+  xy: 1021, 246
+  size: 143, 55
+  orig: 152, 63
+  offset: 4, 4
+  index: -1
+images/chutu/dimian/dimian_13
+  rotate: false
+  xy: 883, 100
+  size: 143, 55
+  orig: 152, 63
+  offset: 3, 4
+  index: -1
+images/chutu/dimian/dimian_15
+  rotate: true
+  xy: 1962, 514
+  size: 143, 53
+  orig: 152, 63
+  offset: 4, 5
+  index: -1
+images/chutu/dimian/dimian_17
+  rotate: false
+  xy: 1423, 515
+  size: 142, 53
+  orig: 152, 63
+  offset: 5, 5
+  index: -1
+images/chutu/dimian/dimian_19
+  rotate: false
+  xy: 1114, 274
+  size: 143, 53
+  orig: 152, 63
+  offset: 4, 5
+  index: -1
+images/chutu/dimian/dimian_21
+  rotate: false
+  xy: 1394, 403
+  size: 144, 54
+  orig: 152, 63
+  offset: 4, 4
+  index: -1
+images/chutu/dimian1/dimian1_07
+  rotate: false
+  xy: 1374, 341
+  size: 139, 60
+  orig: 149, 68
+  offset: 3, 3
+  index: -1
+images/chutu/dimian1/dimian1_09
+  rotate: false
+  xy: 877, 329
+  size: 142, 60
+  orig: 149, 68
+  offset: 3, 3
+  index: -1
+images/chutu/dimian1/dimian1_11
+  rotate: false
+  xy: 1259, 273
+  size: 141, 55
+  orig: 149, 68
+  offset: 4, 3
+  index: -1
+images/chutu/dimian1/dimian1_13
+  rotate: false
+  xy: 1568, 402
+  size: 142, 56
+  orig: 149, 68
+  offset: 3, 3
+  index: -1
+images/chutu/dimian1/dimian1_15
+  rotate: false
+  xy: 1515, 342
+  size: 141, 58
+  orig: 149, 68
+  offset: 4, 3
+  index: -1
+images/chutu/dimian1/dimian1_17
+  rotate: false
+  xy: 1528, 282
+  size: 141, 58
+  orig: 149, 68
+  offset: 4, 3
+  index: -1
+images/chutu/dimian1/dimian1_19
+  rotate: false
+  xy: 1528, 222
+  size: 141, 58
+  orig: 149, 68
+  offset: 4, 3
+  index: -1
+images/chutu/dimian1/dimian1_21
+  rotate: false
+  xy: 1282, 494
+  size: 139, 59
+  orig: 149, 68
+  offset: 4, 3
+  index: -1
+images/chutu/glow2_40
+  rotate: true
+  xy: 772, 328
+  size: 76, 103
+  orig: 90, 120
+  offset: 7, 9
+  index: -1
+images/chutu/glow3_41
+  rotate: false
+  xy: 2, 355
+  size: 290, 300
+  orig: 339, 326
+  offset: 24, 5
+  index: -1
+images/chutu/glow4_34
+  rotate: false
+  xy: 761, 131
+  size: 120, 121
+  orig: 130, 133
+  offset: 4, 6
+  index: -1
+images/chutu/goubian/goubian_31
+  rotate: true
+  xy: 975, 3
+  size: 95, 83
+  orig: 107, 98
+  offset: 8, 8
+  index: -1
+images/chutu/goubian/goubian_32
+  rotate: true
+  xy: 799, 2
+  size: 96, 86
+  orig: 107, 98
+  offset: 8, 7
+  index: -1
+images/chutu/goubian/goubian_33
+  rotate: true
+  xy: 887, 2
+  size: 96, 86
+  orig: 107, 98
+  offset: 8, 7
+  index: -1
+images/chutu/goubian/goubian_34
+  rotate: false
+  xy: 1718, 466
+  size: 97, 87
+  orig: 107, 98
+  offset: 7, 7
+  index: -1
+images/chutu/goubian/goubian_35
+  rotate: true
+  xy: 710, 2
+  size: 96, 87
+  orig: 107, 98
+  offset: 7, 7
+  index: -1
+images/chutu/goubian/goubian_36
+  rotate: false
+  xy: 1808, 367
+  size: 94, 87
+  orig: 107, 98
+  offset: 9, 7
+  index: -1
+images/chutu/goubian/goubian_37
+  rotate: true
+  xy: 1845, 271
+  size: 94, 89
+  orig: 107, 98
+  offset: 9, 6
+  index: -1
+images/chutu/goubian/goubian_38
+  rotate: false
+  xy: 1749, 275
+  size: 94, 90
+  orig: 107, 98
+  offset: 9, 6
+  index: -1
+images/chutu/goubian/goubian_39
+  rotate: false
+  xy: 1845, 179
+  size: 92, 90
+  orig: 107, 98
+  offset: 10, 6
+  index: -1
+images/chutu/goubian/goubian_40
+  rotate: false
+  xy: 1301, 182
+  size: 92, 89
+  orig: 107, 98
+  offset: 10, 7
+  index: -1
+images/chutu/goubian/goubian_41
+  rotate: false
+  xy: 1749, 184
+  size: 94, 89
+  orig: 107, 98
+  offset: 8, 7
+  index: -1
+images/chutu/goubian/goubian_42
+  rotate: false
+  xy: 1817, 456
+  size: 95, 88
+  orig: 107, 98
+  offset: 8, 7
+  index: -1
+images/chutu/goubian/goubian_43
+  rotate: false
+  xy: 1110, 183
+  size: 94, 89
+  orig: 107, 98
+  offset: 9, 6
+  index: -1
+images/chutu/goubian/goubian_44
+  rotate: true
+  xy: 1060, 8
+  size: 92, 89
+  orig: 107, 98
+  offset: 11, 5
+  index: -1
+images/chutu/goubian/goubian_45
+  rotate: false
+  xy: 1151, 2
+  size: 91, 89
+  orig: 107, 98
+  offset: 11, 4
+  index: -1
+images/chutu/goubian/goubian_46
+  rotate: false
+  xy: 1584, 132
+  size: 90, 88
+  orig: 107, 98
+  offset: 12, 3
+  index: -1
+images/chutu/goubian/goubian_47
+  rotate: false
+  xy: 1244, 3
+  size: 91, 88
+  orig: 107, 98
+  offset: 11, 3
+  index: -1
+images/chutu/goubian/goubian_48
+  rotate: false
+  xy: 1198, 93
+  size: 92, 88
+  orig: 107, 98
+  offset: 10, 4
+  index: -1
+images/chutu/goubian/goubian_49
+  rotate: false
+  xy: 1904, 367
+  size: 92, 87
+  orig: 107, 98
+  offset: 9, 5
+  index: -1
+images/chutu/goubian/goubian_50
+  rotate: false
+  xy: 1206, 183
+  size: 93, 88
+  orig: 107, 98
+  offset: 6, 5
+  index: -1
+images/chutu/goubian/goubian_51
+  rotate: false
+  xy: 1292, 93
+  size: 92, 87
+  orig: 107, 98
+  offset: 4, 7
+  index: -1
+images/chutu/goubian/goubian_52
+  rotate: false
+  xy: 1386, 87
+  size: 92, 87
+  orig: 107, 98
+  offset: 3, 8
+  index: -1
+images/chutu/goubian/goubian_53
+  rotate: false
+  xy: 1395, 176
+  size: 93, 85
+  orig: 107, 98
+  offset: 3, 10
+  index: -1
+images/chutu/goubian/goubian_54
+  rotate: false
+  xy: 1019, 157
+  size: 89, 84
+  orig: 107, 98
+  offset: 5, 11
+  index: -1
+images/chutu/goubian/goubian_55
+  rotate: false
+  xy: 1409, 3
+  size: 82, 82
+  orig: 107, 98
+  offset: 9, 9
+  index: -1
+images/chutu/goubian/goubian_56
+  rotate: true
+  xy: 1833, 104
+  size: 73, 80
+  orig: 107, 98
+  offset: 15, 9
+  index: -1
+images/chutu/hjlizi/hjlizi_34
+  rotate: false
+  xy: 1832, 546
+  size: 128, 111
+  orig: 244, 260
+  offset: 72, 64
+  index: -1
+images/chutu/hjlizi/hjlizi_36
+  rotate: false
+  xy: 1411, 695
+  size: 203, 210
+  orig: 244, 260
+  offset: 21, 23
+  index: -1
+images/chutu/hjlizi/hjlizi_38
+  rotate: true
+  xy: 1186, 694
+  size: 211, 223
+  orig: 244, 260
+  offset: 18, 18
+  index: -1
+images/chutu/hjlizi/hjlizi_40
+  rotate: true
+  xy: 684, 690
+  size: 215, 235
+  orig: 244, 260
+  offset: 13, 13
+  index: -1
+images/chutu/hjlizi/hjlizi_42
+  rotate: false
+  xy: 2, 111
+  size: 220, 242
+  orig: 244, 260
+  offset: 13, 9
+  index: -1
+images/chutu/hjlizi1/hjlizi1_21
+  rotate: false
+  xy: 2, 657
+  size: 362, 248
+  orig: 371, 280
+  offset: 1, 21
+  index: -1
+images/chutu/hjlizi1/hjlizi1_23
+  rotate: false
+  xy: 366, 685
+  size: 316, 220
+  orig: 371, 280
+  offset: 21, 47
+  index: -1
+images/chutu/hjlizi1/hjlizi1_25
+  rotate: false
+  xy: 921, 719
+  size: 263, 186
+  orig: 371, 280
+  offset: 51, 67
+  index: -1
+images/chutu/hjlizi1/hjlizi1_27
+  rotate: false
+  xy: 1616, 751
+  size: 198, 154
+  orig: 371, 280
+  offset: 94, 87
+  index: -1
+images/chutu/hjlizi1/hjlizi1_29
+  rotate: false
+  xy: 1490, 138
+  size: 92, 82
+  orig: 371, 280
+  offset: 153, 116
+  index: -1
+images/chutu/huo/huo_35
+  rotate: false
+  xy: 1946, 46
+  size: 43, 43
+  orig: 98, 97
+  offset: 19, 13
+  index: -1
+images/chutu/huo/huo_36
+  rotate: false
+  xy: 1884, 30
+  size: 60, 59
+  orig: 98, 97
+  offset: 11, 8
+  index: -1
+images/chutu/huo/huo_37
+  rotate: false
+  xy: 1939, 151
+  size: 75, 66
+  orig: 98, 97
+  offset: 7, 9
+  index: -1
+images/chutu/huo/huo_38
+  rotate: true
+  xy: 1337, 2
+  size: 83, 70
+  orig: 98, 97
+  offset: 5, 9
+  index: -1
+images/chutu/huo/huo_39
+  rotate: false
+  xy: 1110, 108
+  size: 86, 73
+  orig: 98, 97
+  offset: 4, 8
+  index: -1
+images/chutu/huo/huo_40
+  rotate: true
+  xy: 1734, 375
+  size: 89, 72
+  orig: 98, 97
+  offset: 3, 8
+  index: -1
+images/chutu/huo/huo_41
+  rotate: true
+  xy: 1939, 219
+  size: 86, 74
+  orig: 98, 97
+  offset: 4, 12
+  index: -1
+images/chutu/huo/huo_42
+  rotate: false
+  xy: 294, 355
+  size: 80, 77
+  orig: 98, 97
+  offset: 5, 13
+  index: -1
+images/chutu/huo/huo_43
+  rotate: true
+  xy: 1749, 107
+  size: 75, 82
+  orig: 98, 97
+  offset: 8, 11
+  index: -1
+images/chutu/huo/huo_44
+  rotate: false
+  xy: 1676, 154
+  size: 71, 84
+  orig: 98, 97
+  offset: 12, 11
+  index: -1
+images/chutu/huo/huo_45
+  rotate: true
+  xy: 1047, 549
+  size: 64, 79
+  orig: 98, 97
+  offset: 18, 17
+  index: -1
+images/chutu/huo/huo_46
+  rotate: false
+  xy: 1493, 27
+  size: 59, 70
+  orig: 98, 97
+  offset: 19, 26
+  index: -1
+images/chutu/huo/huo_47
+  rotate: true
+  xy: 1658, 342
+  size: 58, 74
+  orig: 98, 97
+  offset: 18, 22
+  index: -1
+images/chutu/huo/huo_48
+  rotate: true
+  xy: 1028, 102
+  size: 53, 74
+  orig: 98, 97
+  offset: 20, 20
+  index: -1
+images/chutu/huo/huo_49
+  rotate: true
+  xy: 1745, 52
+  size: 53, 72
+  orig: 98, 97
+  offset: 20, 20
+  index: -1
+images/chutu/huo/huo_50
+  rotate: false
+  xy: 1914, 478
+  size: 45, 66
+  orig: 98, 97
+  offset: 23, 20
+  index: -1
+images/chutu/huoyan1/huoyan1_18
+  rotate: false
+  xy: 1676, 87
+  size: 67, 65
+  orig: 245, 133
+  offset: 7, 61
+  index: -1
+images/chutu/huoyan1/huoyan1_20
+  rotate: false
+  xy: 1128, 407
+  size: 127, 103
+  orig: 245, 133
+  offset: 9, 20
+  index: -1
+images/chutu/huoyan1/huoyan1_22
+  rotate: false
+  xy: 2, 2
+  size: 188, 107
+  orig: 245, 133
+  offset: 13, 10
+  index: -1
+images/chutu/huoyan1/huoyan1_24
+  rotate: false
+  xy: 1616, 652
+  size: 207, 97
+  orig: 245, 133
+  offset: 23, 6
+  index: -1
+images/chutu/huoyan1/huoyan1_26
+  rotate: false
+  xy: 921, 615
+  size: 205, 102
+  orig: 245, 133
+  offset: 33, 5
+  index: -1
+images/chutu/huoyan1/huoyan1_28
+  rotate: false
+  xy: 322, 129
+  size: 191, 102
+  orig: 245, 133
+  offset: 46, 8
+  index: -1
+images/chutu/huoyan1/huoyan1_30
+  rotate: false
+  xy: 883, 526
+  size: 162, 87
+  orig: 245, 133
+  offset: 72, 15
+  index: -1
+images/chutu/huoyan1/huoyan1_32
+  rotate: false
+  xy: 1936, 307
+  size: 79, 58
+  orig: 245, 133
+  offset: 150, 25
+  index: -1
+images/chutu/huoyan1/huoyan1_34
+  rotate: false
+  xy: 1282, 555
+  size: 33, 32
+  orig: 245, 133
+  offset: 184, 36
+  index: -1
+images/chutu/mao1_35
+  rotate: false
+  xy: 621, 122
+  size: 138, 130
+  orig: 138, 130
+  offset: 0, 0
+  index: -1
+images/chutu/paizi_43
+  rotate: true
+  xy: 1480, 99
+  size: 37, 70
+  orig: 45, 78
+  offset: 4, 4
+  index: -1
+images/chutu/piao/piao_28
+  rotate: true
+  xy: 892, 243
+  size: 84, 127
+  orig: 92, 145
+  offset: 5, 2
+  index: -1
+images/chutu/piao/piao_30
+  rotate: true
+  xy: 883, 157
+  size: 84, 134
+  orig: 92, 145
+  offset: 5, 2
+  index: -1
+images/chutu/piao/piao_32
+  rotate: true
+  xy: 1257, 406
+  size: 86, 135
+  orig: 92, 145
+  offset: 4, 1
+  index: -1
+images/chutu/piao/piao_34
+  rotate: false
+  xy: 467, 2
+  size: 86, 125
+  orig: 92, 145
+  offset: 3, 2
+  index: -1
+images/chutu/piao/piao_36
+  rotate: false
+  xy: 1048, 415
+  size: 78, 132
+  orig: 92, 145
+  offset: 3, 2
+  index: -1
+images/chutu/piao/piao_38
+  rotate: true
+  xy: 1402, 263
+  size: 76, 124
+  orig: 92, 145
+  offset: 4, 2
+  index: -1
+images/chutu/piao/piao_40
+  rotate: true
+  xy: 1246, 330
+  size: 74, 126
+  orig: 92, 145
+  offset: 5, 2
+  index: -1
+images/chutu/piao/piao_42
+  rotate: true
+  xy: 757, 254
+  size: 72, 133
+  orig: 92, 145
+  offset: 8, 2
+  index: -1
+images/chutu/piao/piao_44
+  rotate: true
+  xy: 1114, 329
+  size: 76, 130
+  orig: 92, 145
+  offset: 4, 3
+  index: -1
+images/chutu/quan_34
+  rotate: false
+  xy: 515, 129
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+images/chutu/tiaodai/tiaodai_09
+  rotate: false
+  xy: 555, 2
+  size: 40, 20
+  orig: 206, 149
+  offset: 95, 31
+  index: -1
+images/chutu/tiaodai/tiaodai_10
+  rotate: false
+  xy: 1915, 91
+  size: 82, 58
+  orig: 206, 149
+  offset: 88, 23
+  index: -1
+images/chutu/tiaodai/tiaodai_11
+  rotate: true
+  xy: 1671, 240
+  size: 100, 76
+  orig: 206, 149
+  offset: 86, 21
+  index: -1
+images/chutu/tiaodai/tiaodai_12
+  rotate: true
+  xy: 503, 235
+  size: 116, 92
+  orig: 206, 149
+  offset: 76, 14
+  index: -1
+images/chutu/tiaodai/tiaodai_13
+  rotate: false
+  xy: 1423, 570
+  size: 142, 123
+  orig: 206, 149
+  offset: 51, 12
+  index: -1
+images/chutu/tiaodai/tiaodai_14
+  rotate: false
+  xy: 299, 2
+  size: 166, 125
+  orig: 206, 149
+  offset: 26, 14
+  index: -1
+images/chutu/tiaodai/tiaodai_15
+  rotate: false
+  xy: 1825, 659
+  size: 180, 121
+  orig: 206, 149
+  offset: 13, 19
+  index: -1
+images/chutu/tiaodai/tiaodai_16
+  rotate: false
+  xy: 1816, 782
+  size: 180, 123
+  orig: 206, 149
+  offset: 13, 18
+  index: -1
+images/chutu/tiaodai/tiaodai_17
+  rotate: false
+  xy: 322, 233
+  size: 179, 118
+  orig: 206, 149
+  offset: 13, 21
+  index: -1
+images/chutu/tiaodai/tiaodai_18
+  rotate: false
+  xy: 603, 567
+  size: 175, 116
+  orig: 206, 149
+  offset: 16, 21
+  index: -1
+images/chutu/tiaodai/tiaodai_19
+  rotate: false
+  xy: 604, 453
+  size: 174, 112
+  orig: 206, 149
+  offset: 17, 24
+  index: -1
+images/chutu/tiaodai/tiaodai_20
+  rotate: false
+  xy: 597, 349
+  size: 173, 102
+  orig: 206, 149
+  offset: 18, 30
+  index: -1
+images/chutu/tiaodai/tiaodai_21
+  rotate: false
+  xy: 1567, 569
+  size: 166, 81
+  orig: 206, 149
+  offset: 23, 47
+  index: -1
+images/chutu/tiaodai/tiaodai_22
+  rotate: false
+  xy: 883, 448
+  size: 163, 76
+  orig: 206, 149
+  offset: 24, 49
+  index: -1
+images/chutu/tiaodai/tiaodai_23
+  rotate: false
+  xy: 883, 391
+  size: 153, 55
+  orig: 206, 149
+  offset: 30, 67
+  index: -1
+images/chutu/tiaodai/tiaodai_24
+  rotate: false
+  xy: 1567, 517
+  size: 149, 50
+  orig: 206, 149
+  offset: 30, 70
+  index: -1
+images/chutu/tiaodai/tiaodai_25
+  rotate: true
+  xy: 1078, 280
+  size: 133, 34
+  orig: 206, 149
+  offset: 30, 77
+  index: -1
+images/chutu/xzyan/xzyan_00
+  rotate: false
+  xy: 1128, 512
+  size: 152, 75
+  orig: 234, 132
+  offset: 34, 17
+  index: -1
+images/chutu/xzyan/xzyan_02
+  rotate: false
+  xy: 1128, 589
+  size: 194, 103
+  orig: 234, 132
+  offset: 12, 10
+  index: -1
+images/chutu/xzyan/xzyan_04
+  rotate: true
+  xy: 294, 434
+  size: 221, 99
+  orig: 234, 132
+  offset: 3, 4
+  index: -1
+images/chutu/xzyan/xzyan_06
+  rotate: false
+  xy: 395, 461
+  size: 207, 102
+  orig: 234, 132
+  offset: 7, 13
+  index: -1
+images/chutu/xzyan/xzyan_08
+  rotate: false
+  xy: 395, 565
+  size: 206, 118
+  orig: 234, 132
+  offset: 16, 6
+  index: -1
+images/chutu/xzyan/xzyan_10
+  rotate: false
+  xy: 555, 24
+  size: 153, 96
+  orig: 234, 132
+  offset: 34, 17
+  index: -1
+images/chutu/xzyan/xzyan_12
+  rotate: true
+  xy: 780, 508
+  size: 180, 101
+  orig: 234, 132
+  offset: 26, 10
+  index: -1
+images/chutu/xzyan/xzyan_14
+  rotate: true
+  xy: 224, 136
+  size: 217, 96
+  orig: 234, 132
+  offset: 7, 4
+  index: -1
+images/chutu/xzyan/xzyan_16
+  rotate: false
+  xy: 597, 254
+  size: 158, 93
+  orig: 234, 132
+  offset: 37, 13
+  index: -1
+images/chutu/xzyan/xzyan_18
+  rotate: false
+  xy: 395, 353
+  size: 200, 106
+  orig: 234, 132
+  offset: 16, 6
+  index: -1

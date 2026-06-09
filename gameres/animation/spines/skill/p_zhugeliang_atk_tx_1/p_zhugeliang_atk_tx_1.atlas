@@ -1,0 +1,202 @@
+
+p_zhugeliang_atk_tx_1.png
+size: 318,2033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/dandao/dandao_00000
+  rotate: false
+  xy: 4, 1180
+  size: 249, 84
+  orig: 274, 102
+  offset: 16, 8
+  index: -1
+atk/dandao/dandao_00002
+  rotate: false
+  xy: 4, 461
+  size: 255, 77
+  orig: 274, 102
+  offset: 11, 16
+  index: -1
+atk/dandao/dandao_00004
+  rotate: false
+  xy: 4, 380
+  size: 249, 77
+  orig: 274, 102
+  offset: 17, 16
+  index: -1
+atk/dandao/dandao_00006
+  rotate: false
+  xy: 4, 1356
+  size: 256, 83
+  orig: 274, 102
+  offset: 10, 10
+  index: -1
+atk/dandao/dandao_00008
+  rotate: false
+  xy: 4, 922
+  size: 253, 81
+  orig: 274, 102
+  offset: 13, 11
+  index: -1
+atk/dandao/dandao_00010
+  rotate: false
+  xy: 4, 1268
+  size: 251, 84
+  orig: 274, 102
+  offset: 15, 8
+  index: -1
+atk/dandao/dandao_00012
+  rotate: false
+  xy: 4, 669
+  size: 259, 77
+  orig: 274, 102
+  offset: 7, 16
+  index: -1
+atk/dandao/dandao_00014
+  rotate: false
+  xy: 4, 750
+  size: 245, 82
+  orig: 274, 102
+  offset: 21, 13
+  index: -1
+atk/dandao/dandao_00016
+  rotate: true
+  xy: 190, 1470
+  size: 257, 83
+  orig: 274, 102
+  offset: 9, 10
+  index: -1
+atk/dandao/dandao_00018
+  rotate: false
+  xy: 4, 836
+  size: 246, 82
+  orig: 274, 102
+  offset: 20, 11
+  index: -1
+atk/dandao/dandao_00020
+  rotate: true
+  xy: 199, 1731
+  size: 251, 85
+  orig: 274, 102
+  offset: 15, 8
+  index: -1
+atk/dandao/dandao_00022
+  rotate: false
+  xy: 4, 214
+  size: 239, 78
+  orig: 274, 102
+  offset: 26, 15
+  index: -1
+atk/dandao/dandao_00024
+  rotate: false
+  xy: 4, 296
+  size: 238, 80
+  orig: 274, 102
+  offset: 27, 13
+  index: -1
+atk/dandao/dandao_00026
+  rotate: false
+  xy: 4, 1007
+  size: 249, 83
+  orig: 274, 102
+  offset: 17, 10
+  index: -1
+atk/dandao/dandao_00028
+  rotate: false
+  xy: 4, 1094
+  size: 253, 82
+  orig: 274, 102
+  offset: 12, 11
+  index: -1
+atk/dg/dg_00016
+  rotate: false
+  xy: 4, 74
+  size: 206, 61
+  orig: 224, 78
+  offset: 3, 4
+  index: -1
+atk/dg/dg_00017
+  rotate: false
+  xy: 4, 139
+  size: 205, 71
+  orig: 224, 78
+  offset: 14, 0
+  index: -1
+atk/dg/dg_00019
+  rotate: true
+  xy: 214, 94
+  size: 116, 69
+  orig: 224, 78
+  offset: 105, 5
+  index: -1
+atk/dg/dg_00021
+  rotate: true
+  xy: 246, 305
+  size: 71, 68
+  orig: 224, 78
+  offset: 149, 8
+  index: -1
+atk/dg/dg_00023
+  rotate: false
+  xy: 247, 239
+  size: 62, 62
+  orig: 224, 78
+  offset: 158, 14
+  index: -1
+atk/dg/dg_00025
+  rotate: false
+  xy: 186, 2002
+  size: 54, 27
+  orig: 224, 78
+  offset: 157, 44
+  index: -1
+atk/gl_00016
+  rotate: false
+  xy: 170, 570
+  size: 95, 95
+  orig: 105, 107
+  offset: 5, 7
+  index: -1
+atk/glow_00016
+  rotate: false
+  xy: 214, 4
+  size: 86, 86
+  orig: 97, 98
+  offset: 5, 6
+  index: -1
+atk/qiu_00016
+  rotate: false
+  xy: 4, 1875
+  size: 178, 154
+  orig: 189, 164
+  offset: 6, 5
+  index: -1
+atk/sg/sg_00016
+  rotate: true
+  xy: 4, 542
+  size: 123, 162
+  orig: 169, 212
+  offset: 27, 21
+  index: -1
+atk/sg/sg_00017
+  rotate: true
+  xy: 4, 1587
+  size: 140, 182
+  orig: 169, 212
+  offset: 19, 19
+  index: -1
+atk/sg/sg_00018
+  rotate: true
+  xy: 4, 1443
+  size: 140, 182
+  orig: 169, 212
+  offset: 19, 19
+  index: -1
+atk/sg/sg_00019
+  rotate: true
+  xy: 4, 1731
+  size: 140, 191
+  orig: 169, 212
+  offset: 18, 12
+  index: -1

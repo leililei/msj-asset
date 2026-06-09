@@ -1,0 +1,90 @@
+
+xushi_2_tx.png
+size: 701,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/dian1/dian1_00000
+  rotate: true
+  xy: 594, 9
+  size: 55, 92
+  orig: 274, 231
+  offset: 122, 17
+  index: -1
+chutu/dian1/dian1_00001
+  rotate: true
+  xy: 2, 2
+  size: 75, 186
+  orig: 274, 231
+  offset: 105, 19
+  index: -1
+chutu/dian1/dian1_00003
+  rotate: true
+  xy: 129, 94
+  size: 222, 123
+  orig: 274, 231
+  offset: 32, 93
+  index: -1
+chutu/dian1/dian1_00005
+  rotate: true
+  xy: 2, 79
+  size: 237, 125
+  orig: 274, 231
+  offset: 15, 95
+  index: -1
+chutu/dian1/dian1_00008
+  rotate: true
+  xy: 254, 132
+  size: 184, 125
+  orig: 274, 231
+  offset: 19, 90
+  index: -1
+chutu/dian1/dian1_00009
+  rotate: true
+  xy: 499, 187
+  size: 129, 120
+  orig: 274, 231
+  offset: 35, 93
+  index: -1
+chutu/dian2/dian2_00005
+  rotate: true
+  xy: 190, 5
+  size: 87, 99
+  orig: 149, 172
+  offset: 9, 6
+  index: -1
+chutu/dian2/dian2_00007
+  rotate: false
+  xy: 478, 17
+  size: 114, 143
+  orig: 149, 172
+  offset: 15, 5
+  index: -1
+chutu/dian2/dian2_00009
+  rotate: false
+  xy: 381, 162
+  size: 116, 154
+  orig: 149, 172
+  offset: 17, 7
+  index: -1
+chutu/dian2/dian2_00012
+  rotate: false
+  xy: 594, 66
+  size: 100, 119
+  orig: 149, 172
+  offset: 30, 40
+  index: -1
+chutu/dian2/dian2_00013
+  rotate: true
+  xy: 621, 231
+  size: 85, 78
+  orig: 149, 172
+  offset: 43, 65
+  index: -1
+chutu/gl/gl_00000
+  rotate: false
+  xy: 291, 7
+  size: 185, 123
+  orig: 226, 159
+  offset: 24, 19
+  index: -1

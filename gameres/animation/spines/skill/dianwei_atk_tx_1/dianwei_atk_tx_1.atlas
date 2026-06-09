@@ -1,0 +1,76 @@
+
+dianwei_atk_tx_1.png
+size: 1344,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/dg/dg_00014
+  rotate: false
+  xy: 934, 80
+  size: 145, 171
+  orig: 283, 217
+  offset: 18, 37
+  index: -1
+chutu/dg/dg_00015
+  rotate: true
+  xy: 767, 16
+  size: 235, 165
+  orig: 283, 217
+  offset: 36, 46
+  index: -1
+chutu/dg/dg_00016
+  rotate: true
+  xy: 218, 3
+  size: 248, 182
+  orig: 283, 217
+  offset: 22, 14
+  index: -1
+chutu/dg/dg_00017
+  rotate: true
+  xy: 402, 3
+  size: 232, 182
+  orig: 283, 217
+  offset: 20, 14
+  index: -1
+chutu/dg/dg_00018
+  rotate: true
+  xy: 586, 3
+  size: 232, 179
+  orig: 283, 217
+  offset: 20, 14
+  index: -1
+chutu/dg/dg_00019
+  rotate: true
+  xy: 1178, 21
+  size: 230, 84
+  orig: 283, 217
+  offset: 20, 26
+  index: -1
+chutu/dg/dg_00020
+  rotate: true
+  xy: 1081, 19
+  size: 232, 95
+  orig: 283, 217
+  offset: 20, 28
+  index: -1
+chutu/dg/dg_00021
+  rotate: true
+  xy: 1264, 39
+  size: 212, 77
+  orig: 283, 217
+  offset: 37, 28
+  index: -1
+chutu/dg/dg_00022
+  rotate: false
+  xy: 934, 11
+  size: 131, 67
+  orig: 283, 217
+  offset: 37, 29
+  index: -1
+chutu/t/t_00014
+  rotate: false
+  xy: 3, 29
+  size: 213, 222
+  orig: 236, 238
+  offset: 6, 9
+  index: -1

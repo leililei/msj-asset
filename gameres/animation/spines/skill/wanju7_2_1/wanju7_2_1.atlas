@@ -1,0 +1,83 @@
+
+wanju7_2_1.png
+size: 263,938
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/ke_posui_fazhen_00
+  rotate: false
+  xy: 4, 4
+  size: 152, 53
+  orig: 156, 56
+  offset: 2, 2
+  index: -1
+effect/ke_posui_fazhen_02
+  rotate: false
+  xy: 4, 61
+  size: 186, 67
+  orig: 194, 70
+  offset: 4, 2
+  index: -1
+effect/ke_posui_fazhen_04
+  rotate: false
+  xy: 4, 132
+  size: 220, 78
+  orig: 226, 81
+  offset: 3, 2
+  index: -1
+effect/ke_posui_fazhen_06
+  rotate: false
+  xy: 4, 389
+  size: 239, 85
+  orig: 247, 88
+  offset: 4, 2
+  index: -1
+effect/ke_posui_fazhen_08
+  rotate: false
+  xy: 4, 567
+  size: 244, 86
+  orig: 250, 89
+  offset: 3, 2
+  index: -1
+effect/ke_posui_fazhen_10
+  rotate: false
+  xy: 4, 657
+  size: 248, 89
+  orig: 252, 90
+  offset: 2, 1
+  index: -1
+effect/ke_posui_fazhen_12
+  rotate: false
+  xy: 4, 750
+  size: 253, 89
+  orig: 258, 92
+  offset: 3, 2
+  index: -1
+effect/ke_posui_fazhen_14
+  rotate: false
+  xy: 4, 843
+  size: 255, 91
+  orig: 262, 94
+  offset: 4, 2
+  index: -1
+effect/ke_posui_fazhen_16
+  rotate: false
+  xy: 4, 478
+  size: 240, 85
+  orig: 250, 89
+  offset: 5, 3
+  index: -1
+effect/ke_posui_fazhen_18
+  rotate: false
+  xy: 4, 300
+  size: 237, 85
+  orig: 245, 88
+  offset: 4, 2
+  index: -1
+effect/ke_posui_fazhen_20
+  rotate: false
+  xy: 4, 214
+  size: 232, 82
+  orig: 240, 85
+  offset: 4, 2
+  index: -1

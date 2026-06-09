@@ -1,0 +1,160 @@
+
+bing.png
+size: 1947,1672
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: true
+  xy: 2, 55
+  size: 630, 849
+  orig: 701, 893
+  offset: 61, 0
+  index: -1
+bing_guang
+  rotate: false
+  xy: 2, 687
+  size: 713, 983
+  orig: 713, 983
+  offset: 0, 0
+  index: -1
+tielian1
+  rotate: true
+  xy: 1187, 2
+  size: 307, 226
+  orig: 309, 228
+  offset: 1, 1
+  index: -1
+tielian2
+  rotate: false
+  xy: 1187, 311
+  size: 758, 557
+  orig: 758, 557
+  offset: 0, 0
+  index: -1
+tielian3_1
+  rotate: true
+  xy: 1819, 33
+  size: 134, 99
+  orig: 136, 102
+  offset: 1, 2
+  index: -1
+tielian3_2
+  rotate: false
+  xy: 853, 2
+  size: 56, 64
+  orig: 59, 66
+  offset: 1, 1
+  index: -1
+tielian4_1
+  rotate: true
+  xy: 1409, 950
+  size: 374, 470
+  orig: 376, 472
+  offset: 1, 1
+  index: -1
+tielian5
+  rotate: false
+  xy: 717, 687
+  size: 155, 181
+  orig: 155, 181
+  offset: 0, 0
+  index: -1
+tielian5_1
+  rotate: false
+  xy: 2, 3
+  size: 61, 50
+  orig: 63, 52
+  offset: 1, 1
+  index: -1
+tielian6
+  rotate: true
+  xy: 1415, 5
+  size: 304, 402
+  orig: 306, 404
+  offset: 1, 1
+  index: -1
+tielian7
+  rotate: true
+  xy: 1207, 1326
+  size: 344, 496
+  orig: 346, 498
+  offset: 1, 1
+  index: -1
+tielian8
+  rotate: false
+  xy: 1207, 908
+  size: 200, 416
+  orig: 200, 416
+  offset: 0, 0
+  index: -1
+tielian9
+  rotate: false
+  xy: 1705, 1476
+  size: 230, 194
+  orig: 230, 194
+  offset: 0, 0
+  index: -1
+xingguang1
+  rotate: false
+  xy: 1819, 169
+  size: 116, 140
+  orig: 128, 156
+  offset: 6, 8
+  index: -1
+xingguang2
+  rotate: false
+  xy: 1793, 1391
+  size: 82, 83
+  orig: 147, 108
+  offset: 60, 21
+  index: -1
+xingguang3
+  rotate: false
+  xy: 1705, 1387
+  size: 86, 87
+  orig: 92, 91
+  offset: 3, 2
+  index: -1
+xingguang4
+  rotate: false
+  xy: 911, 2
+  size: 55, 64
+  orig: 65, 76
+  offset: 5, 6
+  index: -1
+xingguang5
+  rotate: true
+  xy: 1409, 875
+  size: 73, 94
+  orig: 82, 106
+  offset: 4, 6
+  index: -1
+xingguang6
+  rotate: false
+  xy: 65, 6
+  size: 43, 47
+  orig: 51, 57
+  offset: 4, 5
+  index: -1
+xingguang7
+  rotate: true
+  xy: 968, 3
+  size: 63, 78
+  orig: 72, 91
+  offset: 5, 7
+  index: -1
+yanshi_shang
+  rotate: true
+  xy: 717, 870
+  size: 800, 488
+  orig: 802, 490
+  offset: 1, 1
+  index: -1
+yanshi_xia
+  rotate: true
+  xy: 874, 68
+  size: 800, 311
+  orig: 802, 313
+  offset: 1, 1
+  index: -1

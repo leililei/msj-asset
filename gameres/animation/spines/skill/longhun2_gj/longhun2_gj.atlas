@@ -1,0 +1,278 @@
+
+longhun2_gj.png
+size: 2048,2045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/bj01
+  rotate: false
+  xy: 313, 1062
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: -1
+images/effect/bj02
+  rotate: false
+  xy: 857, 868
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: -1
+images/effect/bj03
+  rotate: false
+  xy: 262, 3
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: -1
+images/effect/zh1/08
+  rotate: false
+  xy: 3, 486
+  size: 556, 279
+  orig: 700, 450
+  offset: 17, 80
+  index: -1
+images/effect/zh1/09
+  rotate: false
+  xy: 313, 767
+  size: 542, 293
+  orig: 700, 450
+  offset: 72, 53
+  index: -1
+images/effect/zh1/11
+  rotate: false
+  xy: 485, 1062
+  size: 561, 297
+  orig: 700, 450
+  offset: 59, 50
+  index: -1
+images/effect/zh1/13
+  rotate: false
+  xy: 1048, 1069
+  size: 568, 290
+  orig: 700, 450
+  offset: 52, 62
+  index: -1
+images/effect/zh1/15
+  rotate: false
+  xy: 561, 472
+  size: 534, 289
+  orig: 700, 450
+  offset: 52, 63
+  index: -1
+images/effect/zh1/17
+  rotate: false
+  xy: 3, 197
+  size: 533, 287
+  orig: 700, 450
+  offset: 49, 63
+  index: -1
+images/effect/zh1/29
+  rotate: false
+  xy: 3, 3
+  size: 257, 192
+  orig: 700, 450
+  offset: 45, 162
+  index: -1
+images/effect/zh2/03
+  rotate: false
+  xy: 3, 1705
+  size: 573, 338
+  orig: 700, 450
+  offset: 0, 80
+  index: -1
+images/effect/zh2/08
+  rotate: true
+  xy: 1599, 153
+  size: 488, 287
+  orig: 700, 450
+  offset: 2, 98
+  index: -1
+images/effect/zh2/09
+  rotate: false
+  xy: 1048, 763
+  size: 527, 304
+  orig: 700, 450
+  offset: 0, 96
+  index: -1
+images/effect/zh2/11
+  rotate: true
+  xy: 1618, 980
+  size: 527, 311
+  orig: 700, 450
+  offset: 0, 89
+  index: -1
+images/effect/zh2/13
+  rotate: false
+  xy: 485, 1368
+  size: 533, 313
+  orig: 700, 450
+  offset: 0, 87
+  index: -1
+images/effect/zh2/15
+  rotate: true
+  xy: 3, 818
+  size: 532, 308
+  orig: 700, 450
+  offset: 0, 89
+  index: -1
+images/effect/zh2/17
+  rotate: false
+  xy: 1097, 333
+  size: 500, 308
+  orig: 700, 450
+  offset: 0, 89
+  index: -1
+images/effect/zh2/20
+  rotate: false
+  xy: 538, 163
+  size: 494, 307
+  orig: 700, 450
+  offset: 0, 90
+  index: -1
+images/effect/zs/00
+  rotate: false
+  xy: 1888, 317
+  size: 151, 324
+  orig: 600, 600
+  offset: 168, 132
+  index: -1
+images/effect/zs/02
+  rotate: true
+  xy: 1034, 71
+  size: 260, 505
+  orig: 600, 600
+  offset: 96, 80
+  index: -1
+images/effect/zs/03
+  rotate: true
+  xy: 1020, 1361
+  size: 314, 531
+  orig: 600, 600
+  offset: 49, 57
+  index: -1
+images/effect/zs/04
+  rotate: false
+  xy: 1624, 1509
+  size: 341, 534
+  orig: 600, 600
+  offset: 28, 57
+  index: -1
+images/effect/zs/06
+  rotate: true
+  xy: 578, 1683
+  size: 360, 537
+  orig: 600, 600
+  offset: 16, 56
+  index: -1
+images/effect/zs/08
+  rotate: true
+  xy: 1117, 1677
+  size: 366, 505
+  orig: 600, 600
+  offset: 11, 86
+  index: -1
+images/effect/zs/10
+  rotate: true
+  xy: 3, 1352
+  size: 351, 480
+  orig: 600, 600
+  offset: 12, 111
+  index: -1
+images/effect/zs/12
+  rotate: true
+  xy: 1577, 643
+  size: 335, 469
+  orig: 600, 600
+  offset: 28, 122
+  index: -1
+
+longhun2_gj2.png
+size: 2000,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/glow1
+  rotate: false
+  xy: 1432, 194
+  size: 282, 282
+  orig: 300, 300
+  offset: 9, 9
+  index: -1
+images/effect/glow2
+  rotate: false
+  xy: 946, 187
+  size: 282, 282
+  orig: 300, 300
+  offset: 9, 9
+  index: -1
+images/effect/glow3
+  rotate: false
+  xy: 1716, 194
+  size: 282, 282
+  orig: 300, 300
+  offset: 9, 9
+  index: -1
+images/effect/zh1/00
+  rotate: false
+  xy: 3, 3
+  size: 280, 256
+  orig: 700, 450
+  offset: 0, 151
+  index: -1
+images/effect/zh1/01
+  rotate: false
+  xy: 529, 428
+  size: 415, 294
+  orig: 700, 450
+  offset: 0, 123
+  index: -1
+images/effect/zh1/20
+  rotate: false
+  xy: 3, 480
+  size: 524, 242
+  orig: 700, 450
+  offset: 49, 108
+  index: -1
+images/effect/zh1/23
+  rotate: true
+  xy: 723, 149
+  size: 277, 196
+  orig: 700, 450
+  offset: 47, 156
+  index: -1
+images/effect/zh1/26
+  rotate: true
+  xy: 1230, 187
+  size: 263, 199
+  orig: 700, 450
+  offset: 46, 156
+  index: -1
+images/effect/zh2/23
+  rotate: false
+  xy: 946, 471
+  size: 484, 251
+  orig: 700, 450
+  offset: 3, 136
+  index: -1
+images/effect/zh2/26
+  rotate: false
+  xy: 424, 174
+  size: 297, 252
+  orig: 700, 450
+  offset: 12, 137
+  index: -1
+images/effect/zs/01
+  rotate: true
+  xy: 3, 261
+  size: 217, 419
+  orig: 600, 600
+  offset: 128, 99
+  index: -1
+images/effect/zs/14
+  rotate: true
+  xy: 1432, 478
+  size: 244, 427
+  orig: 600, 600
+  offset: 118, 163
+  index: -1

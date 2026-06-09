@@ -1,0 +1,139 @@
+
+M_xiangzhujudun_atk_beaten_1.png
+size: 1923,489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_bz_00
+  rotate: false
+  xy: 1110, 64
+  size: 230, 114
+  orig: 234, 121
+  offset: 2, 1
+  index: -1
+effect/attack_bz_01
+  rotate: false
+  xy: 852, 35
+  size: 256, 142
+  orig: 258, 144
+  offset: 1, 1
+  index: -1
+effect/attack_bz_02
+  rotate: true
+  xy: 1277, 198
+  size: 289, 201
+  orig: 293, 269
+  offset: 2, 63
+  index: -1
+effect/attack_bz_03
+  rotate: true
+  xy: 634, 177
+  size: 310, 184
+  orig: 314, 189
+  offset: 2, 1
+  index: -1
+effect/attack_bz_04
+  rotate: true
+  xy: 428, 175
+  size: 312, 204
+  orig: 314, 209
+  offset: 1, 2
+  index: -1
+effect/attack_bz_05
+  rotate: true
+  xy: 218, 155
+  size: 332, 208
+  orig: 334, 212
+  offset: 1, 2
+  index: -1
+effect/attack_bz_07
+  rotate: true
+  xy: 2, 151
+  size: 336, 214
+  orig: 340, 217
+  offset: 2, 2
+  index: -1
+effect/attack_bz_09
+  rotate: true
+  xy: 1058, 180
+  size: 307, 217
+  orig: 307, 220
+  offset: 0, 2
+  index: -1
+effect/attack_bz_11
+  rotate: true
+  xy: 820, 179
+  size: 308, 236
+  orig: 308, 246
+  offset: 0, 9
+  index: -1
+effect/attack_bz_13
+  rotate: true
+  xy: 1480, 202
+  size: 285, 204
+  orig: 290, 208
+  offset: 2, 3
+  index: -1
+effect/attack_bz_15
+  rotate: true
+  xy: 1686, 19
+  size: 283, 203
+  orig: 290, 208
+  offset: 1, 4
+  index: -1
+effect/attack_bz_17
+  rotate: false
+  xy: 1342, 2
+  size: 273, 194
+  orig: 291, 204
+  offset: 1, 9
+  index: -1
+effect/attack_bz_19
+  rotate: false
+  xy: 1686, 304
+  size: 235, 183
+  orig: 238, 185
+  offset: 2, 1
+  index: -1
+effect/attack_bz_21
+  rotate: false
+  xy: 616, 8
+  size: 234, 165
+  orig: 238, 173
+  offset: 2, 1
+  index: -1
+effect/attack_bz_23
+  rotate: false
+  xy: 409, 4
+  size: 205, 149
+  orig: 214, 158
+  offset: 4, 1
+  index: -1
+effect/attack_bz_25
+  rotate: false
+  xy: 2, 2
+  size: 203, 147
+  orig: 214, 154
+  offset: 5, 2
+  index: -1
+effect/attack_bz_27
+  rotate: false
+  xy: 207, 4
+  size: 200, 145
+  orig: 211, 150
+  offset: 6, 2
+  index: -1
+effect/attack_bz_29
+  rotate: true
+  xy: 1617, 7
+  size: 193, 64
+  orig: 211, 70
+  offset: 9, 2
+  index: -1
+effect/attack_bz_31
+  rotate: false
+  xy: 1110, 7
+  size: 182, 55
+  orig: 203, 69
+  offset: 10, 5
+  index: -1

@@ -1,0 +1,20 @@
+
+xiaoqiao_skill_bj.png
+size: 136,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill/bj1/bj1_00040
+  rotate: false
+  xy: 2, 2
+  size: 65, 64
+  orig: 70, 70
+  offset: 2, 3
+  index: -1
+images/chutu/skill/bj1/bj1_00041
+  rotate: false
+  xy: 69, 2
+  size: 65, 64
+  orig: 70, 70
+  offset: 2, 3
+  index: -1

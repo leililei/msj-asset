@@ -1,0 +1,20 @@
+
+P_xiayun.png
+size: 1746,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 2, 2
+  size: 1002, 468
+  orig: 1002, 468
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1006, 18
+  size: 738, 452
+  orig: 738, 452
+  offset: 0, 0
+  index: -1

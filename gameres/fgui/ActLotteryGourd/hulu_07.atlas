@@ -1,0 +1,83 @@
+
+hulu_07.png
+size: 602,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hl7_lianyun
+  rotate: false
+  xy: 242, 22
+  size: 103, 29
+  orig: 103, 29
+  offset: 0, 0
+  index: -1
+hl7_meimao
+  rotate: false
+  xy: 349, 32
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+hl7_shenti
+  rotate: false
+  xy: 242, 55
+  size: 178, 328
+  orig: 180, 330
+  offset: 1, 1
+  index: -1
+hl7_shentiA
+  rotate: false
+  xy: 0, 0
+  size: 238, 383
+  orig: 248, 396
+  offset: 5, 5
+  index: -1
+hl7_shentiB
+  rotate: false
+  xy: 424, 55
+  size: 178, 328
+  orig: 180, 330
+  offset: 1, 1
+  index: -1
+hl7_yankuang1
+  rotate: false
+  xy: 419, 21
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+hl7_yankuang2
+  rotate: false
+  xy: 455, 21
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+hl7_yanzhu1_1
+  rotate: false
+  xy: 491, 21
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+hl7_yanzhu1_2
+  rotate: false
+  xy: 374, 5
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+hl7_yanzhu2_1
+  rotate: false
+  xy: 520, 21
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+hl7_yanzhu2_2
+  rotate: false
+  xy: 349, 3
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1

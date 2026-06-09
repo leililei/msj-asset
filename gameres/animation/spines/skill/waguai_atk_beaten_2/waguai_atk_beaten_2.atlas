@@ -1,0 +1,27 @@
+
+waguai_atk_beaten_2.png
+size: 167,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/1glow/1glow_0000
+  rotate: false
+  xy: 98, 15
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+chutu/2dile/2dile_0000
+  rotate: true
+  xy: 98, 53
+  size: 214, 67
+  orig: 216, 70
+  offset: 1, 1
+  index: -1
+chutu/3sj/3sj_0000
+  rotate: true
+  xy: 2, 2
+  size: 265, 94
+  orig: 269, 95
+  offset: 3, 0
+  index: -1

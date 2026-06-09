@@ -1,0 +1,62 @@
+
+Effect_wjzp.png
+size: 369,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di1
+  rotate: false
+  xy: 194, 42
+  size: 147, 134
+  orig: 147, 134
+  offset: 0, 0
+  index: -1
+di2
+  rotate: false
+  xy: 2, 3
+  size: 190, 173
+  orig: 190, 173
+  offset: 0, 0
+  index: -1
+dong1
+  rotate: false
+  xy: 343, 71
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+dong2
+  rotate: false
+  xy: 343, 86
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+fu
+  rotate: false
+  xy: 328, 4
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+sheng1
+  rotate: false
+  xy: 194, 13
+  size: 92, 27
+  orig: 92, 27
+  offset: 0, 0
+  index: -1
+sheng2
+  rotate: true
+  xy: 343, 103
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+zhu
+  rotate: false
+  xy: 288, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

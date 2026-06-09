@@ -1,0 +1,90 @@
+
+feiting3.png
+size: 200,734
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_lansheng1
+  rotate: false
+  xy: 146, 254
+  size: 49, 93
+  orig: 51, 95
+  offset: 1, 1
+  index: -1
+c_ceqiqiu
+  rotate: false
+  xy: 2, 182
+  size: 123, 82
+  orig: 125, 84
+  offset: 1, 1
+  index: -1
+c_chuance
+  rotate: false
+  xy: 2, 349
+  size: 165, 37
+  orig: 167, 39
+  offset: 1, 1
+  index: -1
+c_chuanshen
+  rotate: false
+  xy: 2, 388
+  size: 193, 90
+  orig: 195, 92
+  offset: 1, 1
+  index: -1
+c_chuanwei
+  rotate: false
+  xy: 127, 194
+  size: 63, 58
+  orig: 65, 60
+  offset: 1, 1
+  index: -1
+c_daqiqiu
+  rotate: true
+  xy: 2, 480
+  size: 252, 196
+  orig: 254, 198
+  offset: 1, 1
+  index: -1
+c_fangzi
+  rotate: true
+  xy: 127, 106
+  size: 86, 57
+  orig: 88, 59
+  offset: 1, 1
+  index: -1
+c_lanshen2
+  rotate: false
+  xy: 123, 11
+  size: 49, 93
+  orig: 51, 95
+  offset: 1, 1
+  index: -1
+c_lanshen3
+  rotate: true
+  xy: 2, 50
+  size: 48, 87
+  orig: 50, 89
+  offset: 1, 1
+  index: -1
+c_lanshen4
+  rotate: true
+  xy: 2, 2
+  size: 46, 86
+  orig: 48, 88
+  offset: 1, 1
+  index: -1
+c_yun1
+  rotate: false
+  xy: 2, 266
+  size: 142, 81
+  orig: 142, 81
+  offset: 0, 0
+  index: -1
+c_yun2
+  rotate: false
+  xy: 2, 100
+  size: 119, 80
+  orig: 119, 80
+  offset: 0, 0
+  index: -1

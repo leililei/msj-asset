@@ -1,0 +1,69 @@
+
+M_dongzhuo_atk_tx_1.png
+size: 1796,836
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/pg/dg1/dg1_33
+  rotate: false
+  xy: 452, 372
+  size: 444, 459
+  orig: 476, 476
+  offset: 24, 8
+  index: -1
+images/chutu/pg/dg1/dg1_34
+  rotate: false
+  xy: 4, 371
+  size: 444, 460
+  orig: 476, 476
+  offset: 24, 8
+  index: -1
+images/chutu/pg/dg1/dg1_35
+  rotate: false
+  xy: 900, 376
+  size: 443, 455
+  orig: 476, 476
+  offset: 24, 8
+  index: -1
+images/chutu/pg/dg1/dg1_36
+  rotate: true
+  xy: 1347, 386
+  size: 445, 421
+  orig: 476, 476
+  offset: 23, 7
+  index: -1
+images/chutu/pg/dg1/dg1_37
+  rotate: false
+  xy: 1347, 4
+  size: 442, 378
+  orig: 476, 476
+  offset: 24, 8
+  index: -1
+images/chutu/pg/dg1/dg1_38
+  rotate: false
+  xy: 900, 84
+  size: 439, 288
+  orig: 476, 476
+  offset: 24, 8
+  index: -1
+images/chutu/pg/dg1/dg1_39
+  rotate: false
+  xy: 452, 177
+  size: 373, 191
+  orig: 476, 476
+  offset: 25, 9
+  index: -1
+images/chutu/pg/dg1/dg1_40
+  rotate: false
+  xy: 4, 215
+  size: 380, 152
+  orig: 476, 476
+  offset: 32, 12
+  index: -1
+images/chutu/pg/dg1/dg1_41
+  rotate: false
+  xy: 4, 61
+  size: 333, 150
+  orig: 476, 476
+  offset: 33, 13
+  index: -1

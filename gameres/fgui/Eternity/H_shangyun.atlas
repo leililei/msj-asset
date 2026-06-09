@@ -1,0 +1,20 @@
+
+H_shangyun.png
+size: 1706,486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_s1
+  rotate: false
+  xy: 1006, 16
+  size: 698, 468
+  orig: 784, 468
+  offset: 43, 0
+  index: -1
+H_s2
+  rotate: false
+  xy: 2, 2
+  size: 1002, 482
+  orig: 1002, 482
+  offset: 0, 0
+  index: -1

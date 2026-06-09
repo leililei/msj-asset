@@ -1,0 +1,188 @@
+
+nuce.png
+size: 231,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuche__0
+  rotate: true
+  xy: 106, 235
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+nuche__1
+  rotate: true
+  xy: 4, 107
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+nuche__10
+  rotate: false
+  xy: 150, 198
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+nuche__11
+  rotate: false
+  xy: 214, 184
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+nuche__12
+  rotate: false
+  xy: 216, 56
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+nuche__13
+  rotate: true
+  xy: 205, 349
+  size: 88, 9
+  orig: 88, 9
+  offset: 0, 0
+  index: -1
+nuche__14
+  rotate: true
+  xy: 205, 349
+  size: 88, 9
+  orig: 88, 9
+  offset: 0, 0
+  index: -1
+nuche__23
+  rotate: true
+  xy: 205, 349
+  size: 88, 9
+  orig: 88, 9
+  offset: 0, 0
+  index: -1
+nuche__15
+  rotate: true
+  xy: 202, 111
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+nuche__16
+  rotate: true
+  xy: 175, 348
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+nuche__17
+  rotate: true
+  xy: 192, 6
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+nuche__18
+  rotate: false
+  xy: 184, 277
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+nuche__19
+  rotate: true
+  xy: 171, 111
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+nuche__2
+  rotate: false
+  xy: 4, 324
+  size: 101, 114
+  orig: 101, 114
+  offset: 0, 0
+  index: -1
+nuche__20
+  rotate: true
+  xy: 202, 147
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+nuche__21
+  rotate: true
+  xy: 4, 185
+  size: 45, 142
+  orig: 45, 142
+  offset: 0, 0
+  index: -1
+nuche__22
+  rotate: false
+  xy: 4, 234
+  size: 98, 86
+  orig: 98, 86
+  offset: 0, 0
+  index: -1
+nuche__24
+  rotate: true
+  xy: 90, 111
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+nuche__3
+  rotate: false
+  xy: 4, 9
+  size: 131, 38
+  orig: 131, 38
+  offset: 0, 0
+  index: -1
+nuche__4
+  rotate: true
+  xy: 175, 397
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+nuche__5
+  rotate: false
+  xy: 4, 51
+  size: 101, 52
+  orig: 101, 52
+  offset: 0, 0
+  index: -1
+nuche__6
+  rotate: true
+  xy: 139, 8
+  size: 99, 49
+  orig: 99, 49
+  offset: 0, 0
+  index: -1
+nuche__7
+  rotate: true
+  xy: 192, 56
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+nuche__8
+  rotate: true
+  xy: 184, 228
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+nuche__9
+  rotate: true
+  xy: 175, 298
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 109, 305
+  size: 134, 63
+  orig: 134, 63
+  offset: 0, 0
+  index: -1

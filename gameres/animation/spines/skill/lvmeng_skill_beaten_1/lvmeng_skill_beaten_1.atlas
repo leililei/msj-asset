@@ -1,0 +1,202 @@
+
+lvmeng_skill_beaten_1.png
+size: 2024,688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/baoci3/baoci3_24
+  rotate: false
+  xy: 1642, 33
+  size: 103, 122
+  orig: 256, 365
+  offset: 81, 125
+  index: -1
+images/chutu/baoci3/baoci3_25
+  rotate: true
+  xy: 4, 160
+  size: 210, 329
+  orig: 256, 365
+  offset: 3, 6
+  index: -1
+images/chutu/baoci3/baoci3_27
+  rotate: true
+  xy: 1459, 159
+  size: 250, 362
+  orig: 256, 365
+  offset: 2, 2
+  index: -1
+images/chutu/baoci3/baoci3_29
+  rotate: true
+  xy: 371, 140
+  size: 245, 332
+  orig: 256, 365
+  offset: 4, 3
+  index: -1
+images/chutu/baoci4/baoci4_24
+  rotate: false
+  xy: 1492, 8
+  size: 102, 75
+  orig: 227, 176
+  offset: 63, 60
+  index: -1
+images/chutu/baoci4/baoci4_25
+  rotate: false
+  xy: 4, 14
+  size: 179, 142
+  orig: 227, 176
+  offset: 24, 22
+  index: -1
+images/chutu/baoci4/baoci4_26
+  rotate: false
+  xy: 1825, 73
+  size: 195, 161
+  orig: 227, 176
+  offset: 16, 12
+  index: -1
+images/chutu/baoci4/baoci4_28
+  rotate: true
+  xy: 1836, 238
+  size: 215, 172
+  orig: 227, 176
+  offset: 6, 4
+  index: -1
+images/chutu/baoci4/baoci4_29
+  rotate: true
+  xy: 1836, 457
+  size: 224, 174
+  orig: 227, 176
+  offset: 2, 1
+  index: -1
+images/chutu/ci1/ci1_00
+  rotate: false
+  xy: 1404, 268
+  size: 43, 135
+  orig: 80, 245
+  offset: 18, 54
+  index: -1
+images/chutu/ci1/ci1_01
+  rotate: false
+  xy: 970, 131
+  size: 72, 235
+  orig: 80, 245
+  offset: 4, 1
+  index: -1
+images/chutu/ci1/ci1_02
+  rotate: true
+  xy: 1404, 87
+  size: 68, 234
+  orig: 80, 245
+  offset: 6, 10
+  index: -1
+images/chutu/ci1/ci1_03
+  rotate: true
+  xy: 329, 72
+  size: 64, 226
+  orig: 80, 245
+  offset: 8, 18
+  index: -1
+images/chutu/ci1/ci1_04
+  rotate: true
+  xy: 1046, 66
+  size: 64, 226
+  orig: 80, 245
+  offset: 8, 18
+  index: -1
+images/chutu/ci1/ci1_05
+  rotate: true
+  xy: 559, 52
+  size: 56, 220
+  orig: 80, 245
+  offset: 12, 16
+  index: -1
+images/chutu/ci1/ci1_06
+  rotate: true
+  xy: 783, 57
+  size: 51, 213
+  orig: 80, 245
+  offset: 14, 18
+  index: -1
+images/chutu/ci1/ci1_07
+  rotate: true
+  xy: 1276, 32
+  size: 51, 212
+  orig: 80, 245
+  offset: 14, 19
+  index: -1
+images/chutu/ci1/ci1_08
+  rotate: true
+  xy: 329, 41
+  size: 27, 207
+  orig: 80, 245
+  offset: 26, 19
+  index: -1
+images/chutu/ci1/ci1_09
+  rotate: false
+  xy: 2014, 477
+  size: 3, 204
+  orig: 80, 245
+  offset: 38, 19
+  index: -1
+images/chutu/glow1_00
+  rotate: false
+  xy: 1749, 4
+  size: 164, 65
+  orig: 164, 70
+  offset: 0, 2
+  index: -1
+images/chutu/glow_00
+  rotate: false
+  xy: 187, 18
+  size: 138, 138
+  orig: 144, 146
+  offset: 3, 4
+  index: -1
+images/chutu/lizi1/lizi1_24
+  rotate: true
+  xy: 707, 112
+  size: 254, 259
+  orig: 387, 317
+  offset: 80, 23
+  index: -1
+images/chutu/lizi1/lizi1_26
+  rotate: false
+  xy: 741, 370
+  size: 335, 311
+  orig: 387, 317
+  offset: 35, 4
+  index: -1
+images/chutu/lizi1/lizi1_28
+  rotate: false
+  xy: 4, 374
+  size: 363, 307
+  orig: 387, 317
+  offset: 15, 9
+  index: -1
+images/chutu/lizi1/lizi1_30
+  rotate: false
+  xy: 371, 389
+  size: 366, 292
+  orig: 387, 317
+  offset: 12, 16
+  index: -1
+images/chutu/lizi1/lizi1_32
+  rotate: false
+  xy: 1080, 407
+  size: 375, 274
+  orig: 387, 317
+  offset: 4, 23
+  index: -1
+images/chutu/lizi1/lizi1_34
+  rotate: false
+  xy: 1459, 413
+  size: 373, 268
+  orig: 387, 317
+  offset: 4, 27
+  index: -1
+images/chutu/lizi1/lizi1_36
+  rotate: false
+  xy: 1080, 134
+  size: 320, 269
+  orig: 387, 317
+  offset: 4, 28
+  index: -1

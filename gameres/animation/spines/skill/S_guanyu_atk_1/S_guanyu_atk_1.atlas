@@ -1,0 +1,48 @@
+
+S_guanyu_atk_1.png
+size: 861,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_dg_00
+  rotate: true
+  xy: 665, 39
+  size: 273, 118
+  orig: 296, 133
+  offset: 13, 4
+  index: -1
+effect/attack_dg_01
+  rotate: false
+  xy: 2, 132
+  size: 344, 180
+  orig: 376, 195
+  offset: 9, 11
+  index: -1
+effect/attack_dg_02
+  rotate: false
+  xy: 348, 146
+  size: 308, 166
+  orig: 354, 182
+  offset: 27, 10
+  index: -1
+effect/attack_dg_03
+  rotate: false
+  xy: 348, 2
+  size: 315, 142
+  orig: 350, 157
+  offset: 28, 10
+  index: -1
+effect/attack_dg_04
+  rotate: false
+  xy: 2, 12
+  size: 311, 118
+  orig: 344, 131
+  offset: 25, 4
+  index: -1
+effect/attack_dg_05
+  rotate: true
+  xy: 785, 70
+  size: 242, 74
+  orig: 278, 83
+  offset: 24, 5
+  index: -1

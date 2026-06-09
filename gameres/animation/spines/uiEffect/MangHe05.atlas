@@ -1,0 +1,146 @@
+
+MangHe05.png
+size: 2003,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_di
+  rotate: false
+  xy: 631, 5
+  size: 269, 105
+  orig: 289, 111
+  offset: 20, 6
+  index: -1
+H_hou1
+  rotate: true
+  xy: 1649, 34
+  size: 242, 54
+  orig: 242, 54
+  offset: 0, 0
+  index: -1
+H_hou2
+  rotate: false
+  xy: 1112, 13
+  size: 261, 128
+  orig: 261, 128
+  offset: 0, 0
+  index: -1
+H_shenti
+  rotate: false
+  xy: 902, 2
+  size: 208, 139
+  orig: 208, 177
+  offset: 0, 38
+  index: -1
+H_tiao1
+  rotate: true
+  xy: 1901, 16
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+H_tiao2
+  rotate: true
+  xy: 1705, 3
+  size: 72, 104
+  orig: 72, 104
+  offset: 0, 0
+  index: -1
+H_tiao3
+  rotate: true
+  xy: 1811, 10
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+H_tou
+  rotate: false
+  xy: 1705, 77
+  size: 296, 199
+  orig: 296, 199
+  offset: 0, 0
+  index: -1
+H_weiba
+  rotate: true
+  xy: 1420, 36
+  size: 141, 184
+  orig: 141, 184
+  offset: 0, 0
+  index: -1
+H_yan1
+  rotate: true
+  xy: 58, 8
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+H_yan2
+  rotate: true
+  xy: 2, 5
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+H_zhua
+  rotate: true
+  xy: 1375, 27
+  size: 150, 43
+  orig: 150, 43
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 49, 7
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+chutu/fsg1
+  rotate: false
+  xy: 1649, 278
+  size: 335, 274
+  orig: 403, 397
+  offset: 34, 33
+  index: -1
+chutu/fsg2
+  rotate: false
+  xy: 902, 143
+  size: 405, 409
+  orig: 433, 465
+  offset: 13, 10
+  index: -1
+chutu/fsg3
+  rotate: true
+  xy: 1309, 179
+  size: 373, 338
+  orig: 401, 402
+  offset: 14, 17
+  index: -1
+chutu/g1
+  rotate: false
+  xy: 2, 38
+  size: 514, 514
+  orig: 552, 552
+  offset: 19, 19
+  index: -1
+chutu/g2
+  rotate: true
+  xy: 518, 112
+  size: 440, 190
+  orig: 468, 204
+  offset: 14, 7
+  index: -1
+chutu/g3
+  rotate: true
+  xy: 710, 112
+  size: 440, 190
+  orig: 468, 204
+  offset: 14, 7
+  index: -1
+chutu/lz
+  rotate: true
+  xy: 518, 2
+  size: 108, 111
+  orig: 132, 139
+  offset: 12, 14
+  index: -1

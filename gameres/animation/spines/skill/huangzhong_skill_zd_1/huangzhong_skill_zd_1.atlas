@@ -1,0 +1,104 @@
+
+huangzhong_skill_zd_1.png
+size: 1724,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/atk/gx2/gx2_00000
+  rotate: true
+  xy: 2, 50
+  size: 316, 195
+  orig: 347, 200
+  offset: 13, 2
+  index: -1
+images/chutu/skill/lz2/lz2_00005
+  rotate: true
+  xy: 1646, 162
+  size: 204, 76
+  orig: 211, 85
+  offset: 4, 4
+  index: -1
+images/chutu/skill/zd/zd_00000
+  rotate: true
+  xy: 1413, 4
+  size: 362, 115
+  orig: 391, 156
+  offset: 13, 25
+  index: -1
+images/chutu/skill/zd/zd_00002
+  rotate: true
+  xy: 453, 3
+  size: 363, 119
+  orig: 391, 156
+  offset: 13, 22
+  index: -1
+images/chutu/skill/zd/zd_00005
+  rotate: true
+  xy: 574, 3
+  size: 363, 119
+  orig: 391, 156
+  offset: 13, 21
+  index: -1
+images/chutu/skill/zd/zd_00007
+  rotate: true
+  xy: 935, 4
+  size: 362, 118
+  orig: 391, 156
+  offset: 13, 18
+  index: -1
+images/chutu/skill/zd/zd_00010
+  rotate: true
+  xy: 199, 10
+  size: 356, 126
+  orig: 391, 156
+  offset: 13, 15
+  index: -1
+images/chutu/skill/zd/zd_00012
+  rotate: true
+  xy: 327, 11
+  size: 355, 124
+  orig: 391, 156
+  offset: 13, 15
+  index: -1
+images/chutu/skill/zd/zd_00015
+  rotate: true
+  xy: 1294, 9
+  size: 357, 117
+  orig: 391, 156
+  offset: 13, 22
+  index: -1
+images/chutu/skill/zd/zd_00017
+  rotate: true
+  xy: 1055, 8
+  size: 358, 119
+  orig: 391, 156
+  offset: 13, 18
+  index: -1
+images/chutu/skill/zd/zd_00020
+  rotate: true
+  xy: 1530, 5
+  size: 361, 114
+  orig: 391, 156
+  offset: 13, 21
+  index: -1
+images/chutu/skill/zd/zd_00022
+  rotate: true
+  xy: 695, 2
+  size: 364, 118
+  orig: 391, 156
+  offset: 13, 15
+  index: -1
+images/chutu/skill/zd/zd_00025
+  rotate: true
+  xy: 815, 2
+  size: 364, 118
+  orig: 391, 156
+  offset: 13, 15
+  index: -1
+images/chutu/skill/zd/zd_00027
+  rotate: true
+  xy: 1176, 4
+  size: 362, 116
+  orig: 391, 156
+  offset: 13, 18
+  index: -1

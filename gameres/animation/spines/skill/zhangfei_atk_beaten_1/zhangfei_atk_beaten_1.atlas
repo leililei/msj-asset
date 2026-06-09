@@ -1,0 +1,62 @@
+
+zhangfei_atk_beaten_1.png
+size: 1989,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/attack/a3/a3_00020
+  rotate: false
+  xy: 2, 2
+  size: 310, 312
+  orig: 344, 344
+  offset: 15, 15
+  index: -1
+images/chutu/attack/a3/a3_00021
+  rotate: false
+  xy: 314, 4
+  size: 307, 310
+  orig: 344, 344
+  offset: 18, 16
+  index: -1
+images/chutu/attack/a3/a3_00023
+  rotate: true
+  xy: 623, 7
+  size: 307, 306
+  orig: 344, 344
+  offset: 22, 18
+  index: -1
+images/chutu/attack/a3/a3_00025
+  rotate: true
+  xy: 931, 5
+  size: 309, 297
+  orig: 344, 344
+  offset: 24, 22
+  index: -1
+images/chutu/attack/a3/a3_00027
+  rotate: false
+  xy: 1230, 34
+  size: 273, 280
+  orig: 344, 344
+  offset: 36, 35
+  index: -1
+images/chutu/attack/a3/a3_00029
+  rotate: false
+  xy: 1505, 43
+  size: 252, 271
+  orig: 344, 344
+  offset: 49, 40
+  index: -1
+images/chutu/attack/a3/a3_00031
+  rotate: false
+  xy: 1759, 166
+  size: 228, 148
+  orig: 344, 344
+  offset: 67, 104
+  index: -1
+images/chutu/attack/a4/a4_00020
+  rotate: true
+  xy: 1759, 33
+  size: 131, 130
+  orig: 167, 166
+  offset: 18, 18
+  index: -1

@@ -1,0 +1,167 @@
+
+simayi_atk_1.png
+size: 1407,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_mz01_00
+  rotate: false
+  xy: 237, 2
+  size: 160, 162
+  orig: 168, 168
+  offset: 4, 3
+  index: -1
+attack_sf_00
+  rotate: false
+  xy: 1337, 19
+  size: 68, 72
+  orig: 83, 93
+  offset: 10, 15
+  index: -1
+attack_sf_01
+  rotate: false
+  xy: 1144, 51
+  size: 116, 124
+  orig: 124, 132
+  offset: 4, 4
+  index: -1
+attack_sf_02
+  rotate: true
+  xy: 707, 19
+  size: 131, 143
+  orig: 135, 155
+  offset: 2, 6
+  index: -1
+attack_sf_03
+  rotate: false
+  xy: 852, 7
+  size: 131, 143
+  orig: 135, 155
+  offset: 2, 6
+  index: -1
+attack_sf_05
+  rotate: true
+  xy: 399, 16
+  size: 136, 152
+  orig: 144, 160
+  offset: 4, 4
+  index: -1
+attack_sf_07
+  rotate: true
+  xy: 553, 16
+  size: 136, 152
+  orig: 142, 160
+  offset: 3, 4
+  index: -1
+attack_sf_09
+  rotate: false
+  xy: 1264, 133
+  size: 138, 134
+  orig: 144, 142
+  offset: 3, 4
+  index: -1
+attack_sf_11
+  rotate: true
+  xy: 1008, 43
+  size: 132, 134
+  orig: 140, 140
+  offset: 4, 3
+  index: -1
+attack_sf_13
+  rotate: true
+  xy: 1262, 23
+  size: 68, 73
+  orig: 74, 80
+  offset: 3, 4
+  index: -1
+attack_sf_15
+  rotate: false
+  xy: 966, 156
+  size: 14, 13
+  orig: 20, 19
+  offset: 3, 3
+  index: -1
+attack_smoke_00
+  rotate: false
+  xy: 1262, 93
+  size: 119, 38
+  orig: 189, 43
+  offset: 68, 2
+  index: -1
+attack_smoke_01
+  rotate: false
+  xy: 1008, 177
+  size: 213, 41
+  orig: 217, 45
+  offset: 2, 2
+  index: -1
+attack_smoke_02
+  rotate: false
+  xy: 2, 146
+  size: 232, 121
+  orig: 236, 126
+  offset: 2, 2
+  index: -1
+attack_smoke_03
+  rotate: false
+  xy: 2, 30
+  size: 233, 114
+  orig: 237, 119
+  offset: 2, 2
+  index: -1
+attack_smoke_05
+  rotate: false
+  xy: 236, 166
+  size: 247, 101
+  orig: 253, 105
+  offset: 4, 2
+  index: -1
+attack_smoke_07
+  rotate: false
+  xy: 485, 203
+  size: 251, 64
+  orig: 256, 69
+  offset: 3, 3
+  index: -1
+attack_smoke_09
+  rotate: false
+  xy: 485, 154
+  size: 259, 47
+  orig: 263, 51
+  offset: 2, 2
+  index: -1
+attack_smoke_11
+  rotate: false
+  xy: 738, 220
+  size: 261, 47
+  orig: 265, 51
+  offset: 2, 2
+  index: -1
+attack_smoke_13
+  rotate: false
+  xy: 1001, 220
+  size: 261, 47
+  orig: 265, 51
+  offset: 2, 2
+  index: -1
+attack_smoke_15
+  rotate: false
+  xy: 746, 171
+  size: 260, 47
+  orig: 264, 51
+  offset: 2, 2
+  index: -1
+attack_smoke_17
+  rotate: false
+  xy: 2, 8
+  size: 226, 20
+  orig: 230, 25
+  offset: 2, 2
+  index: -1
+attack_smoke_19
+  rotate: false
+  xy: 746, 152
+  size: 218, 17
+  orig: 222, 22
+  offset: 2, 3
+  index: -1

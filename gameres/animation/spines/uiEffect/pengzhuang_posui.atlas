@@ -1,0 +1,209 @@
+
+pengzhuang_posui.png
+size: 1988,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/posui1/00
+  rotate: true
+  xy: 1830, 177
+  size: 133, 145
+  orig: 300, 300
+  offset: 76, 77
+  index: -1
+effect/posui1/01
+  rotate: false
+  xy: 1661, 276
+  size: 167, 181
+  orig: 300, 300
+  offset: 58, 58
+  index: -1
+effect/posui1/02
+  rotate: false
+  xy: 964, 57
+  size: 182, 197
+  orig: 300, 300
+  offset: 49, 50
+  index: -1
+effect/posui1/03
+  rotate: false
+  xy: 773, 253
+  size: 187, 204
+  orig: 300, 300
+  offset: 46, 46
+  index: -1
+effect/posui1/04
+  rotate: false
+  xy: 2, 11
+  size: 192, 210
+  orig: 300, 300
+  offset: 43, 43
+  index: -1
+effect/posui1/05
+  rotate: true
+  xy: 1743, 13
+  size: 86, 140
+  orig: 300, 300
+  offset: 114, 85
+  index: -1
+effect/posui1/06
+  rotate: true
+  xy: 1329, 4
+  size: 72, 136
+  orig: 300, 300
+  offset: 114, 85
+  index: -1
+effect/posui1/07
+  rotate: true
+  xy: 1467, 5
+  size: 71, 136
+  orig: 300, 300
+  offset: 115, 85
+  index: -1
+effect/posui1/08
+  rotate: true
+  xy: 1605, 10
+  size: 70, 136
+  orig: 300, 300
+  offset: 115, 85
+  index: -1
+effect/posui1/09
+  rotate: true
+  xy: 1815, 107
+  size: 68, 135
+  orig: 300, 300
+  offset: 117, 86
+  index: -1
+effect/posui1/10
+  rotate: true
+  xy: 1148, 2
+  size: 66, 134
+  orig: 300, 300
+  offset: 117, 86
+  index: -1
+effect/posui1/11
+  rotate: false
+  xy: 194, 234
+  size: 12, 12
+  orig: 300, 300
+  offset: 171, 208
+  index: -1
+effect/posui2/00
+  rotate: false
+  xy: 1830, 312
+  size: 156, 145
+  orig: 420, 220
+  offset: 123, 37
+  index: -1
+effect/posui2/01
+  rotate: true
+  xy: 1664, 101
+  size: 173, 149
+  orig: 420, 220
+  offset: 117, 35
+  index: -1
+effect/posui2/02
+  rotate: true
+  xy: 1508, 82
+  size: 186, 154
+  orig: 420, 220
+  offset: 118, 32
+  index: -1
+effect/posui2/03
+  rotate: true
+  xy: 1137, 262
+  size: 195, 162
+  orig: 420, 220
+  offset: 126, 27
+  index: -1
+effect/posui2/04
+  rotate: true
+  xy: 962, 256
+  size: 201, 173
+  orig: 420, 220
+  offset: 138, 21
+  index: -1
+effect/posui2/05
+  rotate: true
+  xy: 784, 47
+  size: 204, 178
+  orig: 420, 220
+  offset: 145, 19
+  index: -1
+effect/posui2/06
+  rotate: true
+  xy: 582, 41
+  size: 206, 200
+  orig: 420, 220
+  offset: 153, 0
+  index: -1
+effect/posui2/07
+  rotate: true
+  xy: 584, 251
+  size: 206, 187
+  orig: 420, 220
+  offset: 162, 15
+  index: -1
+effect/posui2/08
+  rotate: true
+  xy: 390, 40
+  size: 207, 190
+  orig: 420, 220
+  offset: 168, 13
+  index: -1
+effect/posui2/09
+  rotate: true
+  xy: 196, 23
+  size: 209, 192
+  orig: 420, 220
+  offset: 173, 12
+  index: -1
+effect/posui2/10
+  rotate: true
+  xy: 194, 248
+  size: 209, 193
+  orig: 420, 220
+  offset: 179, 12
+  index: -1
+effect/posui2/11
+  rotate: true
+  xy: 389, 249
+  size: 208, 193
+  orig: 420, 220
+  offset: 186, 12
+  index: -1
+effect/posui2/12
+  rotate: true
+  xy: 2, 223
+  size: 234, 190
+  orig: 420, 220
+  offset: 164, 13
+  index: -1
+effect/posui2/13
+  rotate: true
+  xy: 1329, 78
+  size: 188, 177
+  orig: 420, 220
+  offset: 208, 18
+  index: -1
+effect/posui2/14
+  rotate: true
+  xy: 1301, 268
+  size: 189, 177
+  orig: 420, 220
+  offset: 213, 18
+  index: -1
+effect/posui2/15
+  rotate: true
+  xy: 1148, 70
+  size: 190, 179
+  orig: 420, 220
+  offset: 218, 17
+  index: -1
+effect/posui2/16
+  rotate: true
+  xy: 1480, 270
+  size: 187, 179
+  orig: 420, 220
+  offset: 224, 17
+  index: -1

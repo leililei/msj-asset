@@ -1,0 +1,48 @@
+
+longhun_5661_shifa_1.png
+size: 213,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/sf/00
+  rotate: false
+  xy: 2, 33
+  size: 83, 139
+  orig: 246, 197
+  offset: 83, 30
+  index: -1
+images/effect/sf/01
+  rotate: false
+  xy: 87, 7
+  size: 124, 159
+  orig: 246, 197
+  offset: 67, 20
+  index: -1
+images/effect/sf/02
+  rotate: false
+  xy: 2, 393
+  size: 202, 123
+  orig: 246, 197
+  offset: 19, 34
+  index: -1
+images/effect/sf/04
+  rotate: true
+  xy: 2, 174
+  size: 217, 108
+  orig: 246, 197
+  offset: 14, 39
+  index: -1
+images/effect/sf/06
+  rotate: true
+  xy: 112, 168
+  size: 223, 89
+  orig: 246, 197
+  offset: 11, 50
+  index: -1
+images/effect/sf/08
+  rotate: false
+  xy: 2, 2
+  size: 30, 29
+  orig: 246, 197
+  offset: 105, 82
+  index: -1

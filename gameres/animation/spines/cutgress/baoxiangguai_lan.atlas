@@ -1,0 +1,146 @@
+
+baoxiangguai_lan.png
+size: 152,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_10
+  rotate: false
+  xy: 0, 126
+  size: 125, 49
+  orig: 125, 49
+  offset: 0, 0
+  index: -1
+01_11
+  rotate: false
+  xy: 136, 296
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+01_12
+  rotate: false
+  xy: 130, 245
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+01_13
+  rotate: true
+  xy: 0, 1
+  size: 85, 39
+  orig: 85, 39
+  offset: 0, 0
+  index: -1
+01_14
+  rotate: false
+  xy: 0, 179
+  size: 118, 56
+  orig: 118, 56
+  offset: 0, 0
+  index: -1
+01_15
+  rotate: false
+  xy: 0, 299
+  size: 132, 62
+  orig: 132, 62
+  offset: 0, 0
+  index: -1
+01_16
+  rotate: false
+  xy: 43, 9
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+01_17
+  rotate: false
+  xy: 128, 217
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+01_18
+  rotate: false
+  xy: 121, 179
+  size: 27, 36
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+01_19
+  rotate: false
+  xy: 129, 126
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+01_20
+  rotate: true
+  xy: 96, 44
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1
+01_21
+  rotate: true
+  xy: 136, 321
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+01_22
+  rotate: false
+  xy: 128, 2
+  size: 22, 28
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+01_23
+  rotate: false
+  xy: 0, 352
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+01_24
+  rotate: false
+  xy: 129, 157
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+01_25
+  rotate: false
+  xy: 99, 3
+  size: 27, 39
+  orig: 27, 44
+  offset: 0, 1
+  index: -1
+01_26
+  rotate: false
+  xy: 0, 43
+  size: 93, 79
+  orig: 93, 79
+  offset: 0, 0
+  index: -1
+01_9
+  rotate: false
+  xy: 0, 365
+  size: 134, 91
+  orig: 134, 91
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 0, 238
+  size: 126, 56
+  orig: 128, 60
+  offset: 1, 2
+  index: -1
+20000
+  rotate: true
+  xy: 130, 270
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1

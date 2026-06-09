@@ -1,0 +1,90 @@
+
+Effect_RewardFrame1.png
+size: 1782,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imges/djsg/djsg_0013
+  rotate: true
+  xy: 1766, 71
+  size: 18, 14
+  orig: 188, 96
+  offset: 5, 76
+  index: -1
+imges/djsg/djsg_0015
+  rotate: false
+  xy: 1658, 31
+  size: 106, 58
+  orig: 188, 96
+  offset: 5, 33
+  index: -1
+imges/djsg/djsg_0017
+  rotate: false
+  xy: 1394, 5
+  size: 143, 84
+  orig: 188, 96
+  offset: 5, 7
+  index: -1
+imges/djsg/djsg_0019
+  rotate: false
+  xy: 1074, 4
+  size: 170, 85
+  orig: 188, 96
+  offset: 5, 6
+  index: -1
+imges/djsg/djsg_0021
+  rotate: false
+  xy: 542, 4
+  size: 176, 85
+  orig: 188, 96
+  offset: 5, 6
+  index: -1
+imges/djsg/djsg_0023
+  rotate: false
+  xy: 720, 4
+  size: 176, 85
+  orig: 188, 96
+  offset: 5, 6
+  index: -1
+imges/djsg/djsg_0025
+  rotate: false
+  xy: 3, 3
+  size: 178, 86
+  orig: 188, 96
+  offset: 5, 6
+  index: -1
+imges/djsg/djsg_0027
+  rotate: false
+  xy: 183, 3
+  size: 178, 86
+  orig: 188, 96
+  offset: 5, 6
+  index: -1
+imges/djsg/djsg_0029
+  rotate: false
+  xy: 363, 4
+  size: 177, 85
+  orig: 188, 96
+  offset: 5, 6
+  index: -1
+imges/djsg/djsg_0031
+  rotate: false
+  xy: 898, 4
+  size: 174, 85
+  orig: 188, 96
+  offset: 8, 6
+  index: -1
+imges/djsg/djsg_0033
+  rotate: false
+  xy: 1246, 4
+  size: 146, 85
+  orig: 188, 96
+  offset: 35, 6
+  index: -1
+imges/djsg/djsg_0035
+  rotate: false
+  xy: 1539, 5
+  size: 117, 84
+  orig: 188, 96
+  offset: 64, 6
+  index: -1

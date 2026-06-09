@@ -1,0 +1,62 @@
+
+simayi_atk_beaten_1.png
+size: 102,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_dd_00
+  rotate: true
+  xy: 69, 160
+  size: 90, 31
+  orig: 97, 38
+  offset: 3, 4
+  index: -1
+attack_dd_01
+  rotate: true
+  xy: 37, 159
+  size: 91, 30
+  orig: 98, 38
+  offset: 2, 4
+  index: -1
+attack_dd_02
+  rotate: false
+  xy: 2, 2
+  size: 94, 30
+  orig: 101, 38
+  offset: 2, 4
+  index: -1
+attack_dd_03
+  rotate: true
+  xy: 36, 74
+  size: 79, 32
+  orig: 87, 40
+  offset: 3, 4
+  index: -1
+attack_dd_04
+  rotate: true
+  xy: 2, 66
+  size: 87, 32
+  orig: 95, 40
+  offset: 4, 4
+  index: -1
+attack_dd_05
+  rotate: true
+  xy: 70, 68
+  size: 90, 30
+  orig: 96, 40
+  offset: 2, 6
+  index: -1
+attack_dd_06
+  rotate: false
+  xy: 2, 34
+  size: 98, 30
+  orig: 105, 38
+  offset: 3, 4
+  index: -1
+attack_dd_07
+  rotate: true
+  xy: 2, 155
+  size: 95, 33
+  orig: 101, 40
+  offset: 2, 4
+  index: -1

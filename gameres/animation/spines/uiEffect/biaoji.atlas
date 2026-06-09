@@ -1,0 +1,111 @@
+
+biaoji.png
+size: 1987,1492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fwrs_00
+  rotate: false
+  xy: 399, 994
+  size: 395, 496
+  orig: 407, 524
+  offset: 3, 18
+  index: -1
+fwrs_02
+  rotate: false
+  xy: 399, 5
+  size: 395, 489
+  orig: 407, 515
+  offset: 3, 17
+  index: -1
+fwrs_04
+  rotate: false
+  xy: 1590, 507
+  size: 395, 490
+  orig: 407, 513
+  offset: 3, 12
+  index: -1
+fwrs_06
+  rotate: false
+  xy: 796, 499
+  size: 395, 494
+  orig: 407, 520
+  offset: 3, 15
+  index: -1
+fwrs_08
+  rotate: false
+  xy: 2, 987
+  size: 395, 503
+  orig: 407, 527
+  offset: 3, 15
+  index: -1
+fwrs_10
+  rotate: false
+  xy: 2, 482
+  size: 395, 503
+  orig: 407, 527
+  offset: 3, 15
+  index: -1
+fwrs_12
+  rotate: false
+  xy: 796, 10
+  size: 395, 487
+  orig: 407, 516
+  offset: 3, 18
+  index: -1
+fwrs_14
+  rotate: false
+  xy: 1590, 29
+  size: 395, 476
+  orig: 407, 516
+  offset: 3, 29
+  index: -1
+fwrs_16
+  rotate: false
+  xy: 2, 2
+  size: 395, 478
+  orig: 407, 498
+  offset: 3, 11
+  index: -1
+fwrs_18
+  rotate: false
+  xy: 1193, 16
+  size: 395, 487
+  orig: 407, 509
+  offset: 3, 14
+  index: -1
+fwrs_20
+  rotate: false
+  xy: 399, 496
+  size: 395, 496
+  orig: 407, 519
+  offset: 3, 13
+  index: -1
+fwrs_22
+  rotate: false
+  xy: 1193, 998
+  size: 395, 492
+  orig: 407, 518
+  offset: 3, 15
+  index: -1
+fwrs_24
+  rotate: false
+  xy: 1193, 505
+  size: 395, 491
+  orig: 407, 512
+  offset: 3, 10
+  index: -1
+fwrs_26
+  rotate: false
+  xy: 1590, 999
+  size: 395, 491
+  orig: 407, 516
+  offset: 3, 14
+  index: -1
+fwrs_28
+  rotate: false
+  xy: 796, 995
+  size: 395, 495
+  orig: 407, 520
+  offset: 3, 14
+  index: -1

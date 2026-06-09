@@ -1,0 +1,20 @@
+
+fuwen.png
+size: 727,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 357, 366
+  orig: 373, 377
+  offset: 9, 5
+  index: -1
+02
+  rotate: true
+  xy: 361, 3
+  size: 365, 364
+  orig: 375, 378
+  offset: 5, 7
+  index: -1

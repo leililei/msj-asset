@@ -1,0 +1,237 @@
+
+sh_caocao_atk_1.png
+size: 2048,747
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_dg_00
+  rotate: false
+  xy: 1857, 504
+  size: 189, 150
+  orig: 189, 150
+  offset: 0, 0
+  index: -1
+effect/atk_dg_01
+  rotate: false
+  xy: 354, 244
+  size: 256, 216
+  orig: 256, 216
+  offset: 0, 0
+  index: -1
+effect/atk_dg_02
+  rotate: 180
+  xy: 562, 46
+  size: 235, 216
+  orig: 235, 216
+  offset: 0, 0
+  index: -1
+effect/atk_dg_03
+  rotate: false
+  xy: 1613, 47
+  size: 244, 212
+  orig: 244, 213
+  offset: 0, 1
+  index: -1
+effect/atk_dg_05
+  rotate: false
+  xy: 1081, 55
+  size: 246, 203
+  orig: 246, 204
+  offset: 0, 0
+  index: -1
+effect/atk_dg_07
+  rotate: true
+  xy: 351, 4
+  size: 239, 205
+  orig: 239, 205
+  offset: 0, 0
+  index: -1
+effect/atk_dg_09
+  rotate: false
+  xy: 1281, 11
+  size: 169, 204
+  orig: 169, 204
+  offset: 0, 0
+  index: -1
+effect/atk_dg_11
+  rotate: false
+  xy: 1982, 654
+  size: 26, 92
+  orig: 28, 92
+  offset: 1, 0
+  index: -1
+effect/skl3_sf_qilang1_00
+  rotate: false
+  xy: 1778, 164
+  size: 267, 145
+  orig: 267, 146
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang1_01
+  rotate: false
+  xy: 582, 279
+  size: 282, 147
+  orig: 282, 147
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_02
+  rotate: 180
+  xy: 1195, 217
+  size: 290, 149
+  orig: 291, 149
+  offset: 1, 0
+  index: -1
+effect/skl3_sf_qilang1_03
+  rotate: false
+  xy: 870, 275
+  size: 309, 150
+  orig: 311, 150
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_05
+  rotate: 180
+  xy: 406, 449
+  size: 369, 155
+  orig: 369, 155
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_07
+  rotate: 180
+  xy: 1381, 464
+  size: 376, 155
+  orig: 377, 155
+  offset: 1, 0
+  index: -1
+effect/skl3_sf_qilang1_09
+  rotate: 180
+  xy: 765, 413
+  size: 385, 151
+  orig: 385, 151
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_11
+  rotate: 180
+  xy: 1662, 377
+  size: 384, 131
+  orig: 385, 131
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_13
+  rotate: 180
+  xy: 20, 442
+  size: 391, 132
+  orig: 392, 132
+  offset: 1, 0
+  index: -1
+effect/skl3_sf_qilang1_15
+  rotate: false
+  xy: 1151, 349
+  size: 368, 143
+  orig: 368, 143
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_17
+  rotate: false
+  xy: 1477, 253
+  size: 366, 135
+  orig: 367, 135
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_19
+  rotate: false
+  xy: 140, 146
+  size: 374, 143
+  orig: 374, 143
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_21
+  rotate: false
+  xy: 743, 166
+  size: 342, 135
+  orig: 343, 135
+  offset: 1, 0
+  index: -1
+effect/skl3_sf_qilang1_23
+  rotate: false
+  xy: 81, 83
+  size: 305, 93
+  orig: 307, 95
+  offset: 1, 1
+  index: -1
+effect/skl3_sf_qilang2_00
+  rotate: false
+  xy: 1288, 498
+  size: 71, 102
+  orig: 71, 103
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_01
+  rotate: false
+  xy: 3, 134
+  size: 125, 155
+  orig: 125, 156
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_02
+  rotate: false
+  xy: 1373, 48
+  size: 254, 169
+  orig: 254, 170
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_03
+  rotate: false
+  xy: 44, 266
+  size: 309, 175
+  orig: 311, 176
+  offset: 1, 1
+  index: -1
+effect/skl3_sf_qilang2_04
+  rotate: false
+  xy: 1637, 564
+  size: 321, 181
+  orig: 321, 182
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_05
+  rotate: 180
+  xy: 987, 565
+  size: 326, 181
+  orig: 326, 182
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_06
+  rotate: false
+  xy: 655, 565
+  size: 331, 182
+  orig: 331, 183
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_08
+  rotate: false
+  xy: 3, 567
+  size: 328, 179
+  orig: 328, 180
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_10
+  rotate: false
+  xy: 327, 572
+  size: 334, 175
+  orig: 334, 176
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_12
+  rotate: false
+  xy: 1310, 583
+  size: 325, 164
+  orig: 325, 165
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_14
+  rotate: 180
+  xy: 832, 62
+  size: 308, 131
+  orig: 308, 132
+  offset: 0, 1
+  index: -1

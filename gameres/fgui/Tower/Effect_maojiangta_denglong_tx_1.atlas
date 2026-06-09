@@ -1,0 +1,125 @@
+
+Effect_maojiangta_denglong_tx_1.png
+size: 248,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/ss17/ss17_00000
+  rotate: true
+  xy: 124, 109
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+images/chutu/ss4/ss4_00000
+  rotate: false
+  xy: 3, 208
+  size: 193, 195
+  orig: 193, 195
+  offset: 0, 0
+  index: -1
+images/chutu/ss5/ss5_00000
+  rotate: false
+  xy: 3, 86
+  size: 47, 60
+  orig: 49, 60
+  offset: 1, 0
+  index: -1
+images/chutu/ss6/ss6_00000
+  rotate: true
+  xy: 3, 148
+  size: 58, 59
+  orig: 67, 69
+  offset: 4, 5
+  index: -1
+images/chutu/ss6/ss6_00003
+  rotate: true
+  xy: 124, 57
+  size: 50, 55
+  orig: 67, 69
+  offset: 7, 7
+  index: -1
+images/chutu/ss6/ss6_00006
+  rotate: false
+  xy: 198, 168
+  size: 46, 50
+  orig: 67, 69
+  offset: 10, 9
+  index: -1
+images/chutu/ss6/ss6_00009
+  rotate: false
+  xy: 61, 6
+  size: 41, 45
+  orig: 67, 69
+  offset: 13, 11
+  index: -1
+images/chutu/ss7/ss7_00000
+  rotate: true
+  xy: 215, 6
+  size: 49, 25
+  orig: 99, 84
+  offset: 37, 27
+  index: -1
+images/chutu/ss7/ss7_00004
+  rotate: false
+  xy: 197, 116
+  size: 47, 50
+  orig: 99, 84
+  offset: 39, 5
+  index: -1
+images/chutu/ss7/ss7_00008
+  rotate: true
+  xy: 3, 4
+  size: 47, 56
+  orig: 99, 84
+  offset: 37, 3
+  index: -1
+images/chutu/ss7/ss7_00012
+  rotate: true
+  xy: 64, 105
+  size: 51, 58
+  orig: 99, 84
+  offset: 36, 4
+  index: -1
+images/chutu/ss7/ss7_00016
+  rotate: true
+  xy: 52, 53
+  size: 50, 54
+  orig: 99, 84
+  offset: 35, 8
+  index: -1
+images/chutu/ss7/ss7_00020
+  rotate: true
+  xy: 108, 5
+  size: 50, 53
+  orig: 99, 84
+  offset: 37, 15
+  index: -1
+images/chutu/ss7/ss7_00024
+  rotate: true
+  xy: 163, 3
+  size: 52, 50
+  orig: 99, 84
+  offset: 34, 17
+  index: -1
+images/chutu/ss7/ss7_00028
+  rotate: true
+  xy: 132, 158
+  size: 48, 63
+  orig: 99, 84
+  offset: 36, 5
+  index: -1
+images/chutu/ss7/ss7_00032
+  rotate: true
+  xy: 64, 158
+  size: 48, 66
+  orig: 99, 84
+  offset: 37, 4
+  index: -1
+images/chutu/ss7/ss7_00036
+  rotate: false
+  xy: 186, 57
+  size: 45, 57
+  orig: 99, 84
+  offset: 36, 12
+  index: -1

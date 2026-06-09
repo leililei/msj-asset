@@ -1,0 +1,139 @@
+
+dianwei_atk_beaten_1.png
+size: 2008,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/bd/bd_00015
+  rotate: false
+  xy: 1594, 50
+  size: 149, 108
+  orig: 284, 182
+  offset: 70, 39
+  index: -1
+chutu/bd/bd_00016
+  rotate: false
+  xy: 1767, 39
+  size: 238, 120
+  orig: 284, 182
+  offset: 17, 31
+  index: -1
+chutu/bd/bd_00017
+  rotate: false
+  xy: 461, 199
+  size: 242, 135
+  orig: 284, 182
+  offset: 17, 23
+  index: -1
+chutu/bd/bd_00018
+  rotate: false
+  xy: 227, 185
+  size: 232, 149
+  orig: 284, 182
+  offset: 36, 16
+  index: -1
+chutu/bd/bd_00019
+  rotate: false
+  xy: 3, 176
+  size: 222, 158
+  orig: 284, 182
+  offset: 35, 11
+  index: -1
+chutu/bd/bd_00020
+  rotate: false
+  xy: 461, 31
+  size: 177, 166
+  orig: 284, 182
+  offset: 69, 7
+  index: -1
+chutu/bd/bd_00021
+  rotate: true
+  xy: 3, 12
+  size: 162, 170
+  orig: 284, 182
+  offset: 70, 5
+  index: -1
+chutu/bd/bd_00022
+  rotate: true
+  xy: 884, 3
+  size: 156, 174
+  orig: 284, 182
+  offset: 78, 3
+  index: -1
+chutu/bd/bd_00023
+  rotate: true
+  xy: 1060, 4
+  size: 155, 171
+  orig: 284, 182
+  offset: 77, 7
+  index: -1
+chutu/bd/bd_00025
+  rotate: true
+  xy: 1233, 7
+  size: 149, 172
+  orig: 284, 182
+  offset: 76, 6
+  index: -1
+chutu/nengl/nengl_00015
+  rotate: false
+  xy: 1244, 158
+  size: 173, 176
+  orig: 197, 202
+  offset: 10, 13
+  index: -1
+chutu/nengl/nengl_00017
+  rotate: true
+  xy: 884, 161
+  size: 173, 178
+  orig: 197, 202
+  offset: 12, 12
+  index: -1
+chutu/nengl/nengl_00019
+  rotate: true
+  xy: 1064, 161
+  size: 173, 178
+  orig: 197, 202
+  offset: 13, 12
+  index: -1
+chutu/nengl/nengl_00021
+  rotate: true
+  xy: 705, 158
+  size: 176, 177
+  orig: 197, 202
+  offset: 11, 12
+  index: -1
+chutu/nengl/nengl_00023
+  rotate: true
+  xy: 1767, 161
+  size: 173, 171
+  orig: 197, 202
+  offset: 10, 17
+  index: -1
+chutu/nengl/nengl_00025
+  rotate: true
+  xy: 1594, 160
+  size: 174, 171
+  orig: 197, 202
+  offset: 9, 17
+  index: -1
+chutu/nengl/nengl_00027
+  rotate: true
+  xy: 1419, 158
+  size: 176, 173
+  orig: 197, 202
+  offset: 9, 14
+  index: -1
+chutu/nengl/nengl_00029
+  rotate: true
+  xy: 227, 17
+  size: 166, 177
+  orig: 197, 202
+  offset: 21, 12
+  index: -1
+chutu/nengl/nengl_00031
+  rotate: true
+  xy: 1407, 31
+  size: 125, 173
+  orig: 197, 202
+  offset: 48, 14
+  index: -1

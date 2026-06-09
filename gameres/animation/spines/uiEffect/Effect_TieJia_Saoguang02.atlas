@@ -1,0 +1,90 @@
+
+Effect_TieJia_Saoguang02.png
+size: 1411,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_010
+  rotate: false
+  xy: 257, 38
+  size: 221, 307
+  orig: 226, 311
+  offset: 3, 2
+  index: -1
+g1_010
+  rotate: false
+  xy: 3, 6
+  size: 252, 339
+  orig: 258, 344
+  offset: 3, 2
+  index: -1
+sg1/sg1_012
+  rotate: false
+  xy: 480, 36
+  size: 52, 55
+  orig: 194, 255
+  offset: 2, 193
+  index: -1
+sg1/sg1_014
+  rotate: true
+  xy: 867, 3
+  size: 108, 120
+  orig: 194, 255
+  offset: 1, 133
+  index: -1
+sg1/sg1_016
+  rotate: false
+  xy: 1254, 168
+  size: 155, 177
+  orig: 194, 255
+  offset: 1, 76
+  index: -1
+sg1/sg1_018
+  rotate: false
+  xy: 1062, 111
+  size: 190, 234
+  orig: 194, 255
+  offset: 1, 19
+  index: -1
+sg1/sg1_020
+  rotate: false
+  xy: 480, 93
+  size: 191, 252
+  orig: 194, 255
+  offset: 1, 2
+  index: -1
+sg1/sg1_022
+  rotate: false
+  xy: 673, 100
+  size: 192, 245
+  orig: 194, 255
+  offset: 0, 3
+  index: -1
+sg1/sg1_024
+  rotate: false
+  xy: 867, 113
+  size: 193, 232
+  orig: 194, 255
+  offset: 0, 2
+  index: -1
+sg1/sg1_026
+  rotate: false
+  xy: 1254, 20
+  size: 133, 146
+  orig: 194, 255
+  offset: 60, 32
+  index: -1
+sg1/sg1_028
+  rotate: false
+  xy: 779, 9
+  size: 75, 89
+  orig: 194, 255
+  offset: 119, 30
+  index: -1
+xx_020
+  rotate: false
+  xy: 673, 7
+  size: 104, 91
+  orig: 114, 96
+  offset: 5, 3
+  index: -1

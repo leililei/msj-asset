@@ -1,0 +1,13 @@
+
+maozhu_nvpu_zd.png
+size: 122,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_panzi
+  rotate: false
+  xy: 2, 2
+  size: 118, 36
+  orig: 118, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,286 @@
+
+dachangjin_skill_beaten_1.png
+size: 2028,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_zhiliao00
+  rotate: false
+  xy: 228, 59
+  size: 173, 115
+  orig: 179, 120
+  offset: 3, 2
+  index: -1
+effect/skill_zhiliao01
+  rotate: false
+  xy: 1120, 88
+  size: 186, 130
+  orig: 192, 136
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao02
+  rotate: true
+  xy: 3, 432
+  size: 193, 253
+  orig: 200, 259
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao03
+  rotate: true
+  xy: 1642, 438
+  size: 190, 264
+  orig: 206, 278
+  offset: 8, 2
+  index: -1
+effect/skill_zhiliao04
+  rotate: true
+  xy: 693, 440
+  size: 195, 275
+  orig: 212, 280
+  offset: 8, 2
+  index: -1
+effect/skill_zhiliao05
+  rotate: true
+  xy: 1129, 446
+  size: 196, 275
+  orig: 212, 280
+  offset: 8, 2
+  index: -1
+effect/skill_zhiliao06
+  rotate: false
+  xy: 1789, 630
+  size: 200, 276
+  orig: 204, 281
+  offset: 2, 2
+  index: -1
+effect/skill_zhiliao07
+  rotate: false
+  xy: 1581, 630
+  size: 206, 276
+  orig: 211, 281
+  offset: 2, 2
+  index: -1
+effect/skill_zhiliao08
+  rotate: false
+  xy: 229, 628
+  size: 220, 278
+  orig: 225, 284
+  offset: 2, 3
+  index: -1
+effect/skill_zhiliao09
+  rotate: false
+  xy: 3, 627
+  size: 224, 279
+  orig: 230, 285
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao10
+  rotate: false
+  xy: 451, 637
+  size: 224, 269
+  orig: 230, 275
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao11
+  rotate: false
+  xy: 677, 637
+  size: 224, 269
+  orig: 230, 275
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao12
+  rotate: false
+  xy: 903, 637
+  size: 224, 269
+  orig: 230, 275
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao13
+  rotate: false
+  xy: 1129, 644
+  size: 224, 262
+  orig: 230, 268
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao14
+  rotate: false
+  xy: 1355, 650
+  size: 224, 256
+  orig: 230, 262
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao15
+  rotate: true
+  xy: 451, 411
+  size: 224, 240
+  orig: 230, 246
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao16
+  rotate: true
+  xy: 1406, 404
+  size: 224, 234
+  orig: 230, 240
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao17
+  rotate: false
+  xy: 970, 226
+  size: 224, 218
+  orig: 230, 224
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao18
+  rotate: false
+  xy: 693, 229
+  size: 224, 209
+  orig: 230, 214
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao19
+  rotate: false
+  xy: 3, 245
+  size: 224, 185
+  orig: 230, 192
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao20
+  rotate: true
+  xy: 258, 402
+  size: 224, 185
+  orig: 230, 192
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao21
+  rotate: false
+  xy: 445, 224
+  size: 224, 185
+  orig: 230, 192
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao22
+  rotate: true
+  xy: 1196, 220
+  size: 224, 185
+  orig: 230, 192
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao23
+  rotate: false
+  xy: 1383, 217
+  size: 224, 185
+  orig: 230, 192
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao24
+  rotate: true
+  xy: 229, 176
+  size: 224, 185
+  orig: 230, 192
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao25
+  rotate: false
+  xy: 1609, 63
+  size: 223, 184
+  orig: 229, 191
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao26
+  rotate: false
+  xy: 3, 59
+  size: 223, 184
+  orig: 229, 191
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao27
+  rotate: false
+  xy: 671, 43
+  size: 223, 184
+  orig: 229, 191
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao28
+  rotate: false
+  xy: 1642, 249
+  size: 222, 187
+  orig: 229, 193
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao29
+  rotate: false
+  xy: 896, 40
+  size: 222, 184
+  orig: 228, 191
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao30
+  rotate: false
+  xy: 416, 38
+  size: 222, 184
+  orig: 228, 191
+  offset: 3, 3
+  index: -1
+effect/skill_zhiliao31
+  rotate: true
+  xy: 1834, 45
+  size: 202, 181
+  orig: 227, 191
+  offset: 12, 6
+  index: -1
+effect/skill_zhiliao32
+  rotate: true
+  xy: 970, 472
+  size: 163, 151
+  orig: 172, 159
+  offset: 5, 4
+  index: -1
+effect/skill_zhiliao33
+  rotate: true
+  xy: 1866, 273
+  size: 163, 151
+  orig: 172, 159
+  offset: 5, 4
+  index: -1
+effect/skill_zhiliao34
+  rotate: false
+  xy: 1308, 64
+  size: 146, 151
+  orig: 155, 159
+  offset: 5, 4
+  index: -1
+effect/skill_zhiliao35
+  rotate: false
+  xy: 1456, 84
+  size: 139, 131
+  orig: 148, 139
+  offset: 5, 4
+  index: -1
+effect/skill_zhiliao36
+  rotate: true
+  xy: 1908, 493
+  size: 135, 118
+  orig: 145, 129
+  offset: 6, 4
+  index: -1
+effect/skill_zhiliao37
+  rotate: false
+  xy: 1120, 3
+  size: 122, 83
+  orig: 131, 92
+  offset: 4, 4
+  index: -1
+effect/skill_zhiliao38
+  rotate: false
+  xy: 1456, 3
+  size: 118, 79
+  orig: 129, 89
+  offset: 5, 4
+  index: -1
+effect/skill_zhiliao39
+  rotate: false
+  xy: 1991, 884
+  size: 23, 22
+  orig: 113, 36
+  offset: 6, 9
+  index: -1

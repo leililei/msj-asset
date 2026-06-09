@@ -1,0 +1,55 @@
+
+xunyu_atk_tx_2.png
+size: 252,939
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/dg/dg_00010
+  rotate: true
+  xy: 2, 9
+  size: 337, 103
+  orig: 356, 137
+  offset: 8, 6
+  index: -1
+chutu/dg/dg_00012
+  rotate: true
+  xy: 107, 2
+  size: 314, 120
+  orig: 356, 137
+  offset: 32, 8
+  index: -1
+chutu/dg/dg_00014
+  rotate: true
+  xy: 123, 318
+  size: 285, 121
+  orig: 356, 137
+  offset: 56, 8
+  index: -1
+chutu/dg/dg_00016
+  rotate: false
+  xy: 2, 605
+  size: 244, 120
+  orig: 356, 137
+  offset: 95, 9
+  index: -1
+chutu/dg/dg_00018
+  rotate: true
+  xy: 2, 348
+  size: 255, 119
+  orig: 356, 137
+  offset: 80, 10
+  index: -1
+chutu/dg/dg_00020
+  rotate: false
+  xy: 2, 727
+  size: 248, 113
+  orig: 356, 137
+  offset: 76, 15
+  index: -1
+chutu/dg/dg_00022
+  rotate: false
+  xy: 2, 842
+  size: 215, 95
+  orig: 356, 137
+  offset: 108, 21
+  index: -1

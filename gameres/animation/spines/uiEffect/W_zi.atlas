@@ -1,0 +1,125 @@
+
+W_zi.png
+size: 1201,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguangdi
+  rotate: true
+  xy: 634, 216
+  size: 305, 300
+  orig: 313, 309
+  offset: 4, 5
+  index: -1
+zidi1
+  rotate: true
+  xy: 2, 170
+  size: 351, 326
+  orig: 351, 326
+  offset: 0, 0
+  index: -1
+zidi2
+  rotate: true
+  xy: 330, 187
+  size: 334, 302
+  orig: 351, 330
+  offset: 12, 14
+  index: -1
+zidi3
+  rotate: false
+  xy: 331, 10
+  size: 343, 175
+  orig: 345, 196
+  offset: 1, 16
+  index: -1
+ziqiu_1
+  rotate: false
+  xy: 222, 17
+  size: 107, 151
+  orig: 109, 153
+  offset: 1, 1
+  index: -1
+ziqiu_11
+  rotate: false
+  xy: 936, 305
+  size: 245, 216
+  orig: 247, 219
+  offset: 1, 1
+  index: -1
+ziqiu_12
+  rotate: true
+  xy: 676, 24
+  size: 190, 185
+  orig: 190, 185
+  offset: 0, 0
+  index: -1
+ziqiu_13
+  rotate: true
+  xy: 1078, 174
+  size: 129, 121
+  orig: 131, 123
+  offset: 1, 1
+  index: -1
+ziqiu_14
+  rotate: true
+  xy: 936, 236
+  size: 67, 88
+  orig: 69, 90
+  offset: 1, 1
+  index: -1
+ziqiu_2
+  rotate: false
+  xy: 2, 37
+  size: 218, 131
+  orig: 220, 133
+  offset: 1, 1
+  index: -1
+ziqiu_3
+  rotate: false
+  xy: 1037, 58
+  size: 122, 114
+  orig: 124, 116
+  offset: 1, 1
+  index: -1
+ziqiu_4
+  rotate: false
+  xy: 2, 2
+  size: 5, 8
+  orig: 7, 10
+  offset: 1, 1
+  index: -1
+ziqiu_5
+  rotate: false
+  xy: 2, 24
+  size: 9, 11
+  orig: 11, 13
+  offset: 1, 1
+  index: -1
+ziqiu_6
+  rotate: true
+  xy: 9, 5
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+ziqiu_7
+  rotate: true
+  xy: 2, 12
+  size: 10, 8
+  orig: 12, 10
+  offset: 1, 1
+  index: -1
+ziqiu_8
+  rotate: false
+  xy: 1026, 237
+  size: 50, 66
+  orig: 52, 68
+  offset: 1, 1
+  index: -1
+ziqiu_9
+  rotate: false
+  xy: 863, 38
+  size: 172, 176
+  orig: 179, 178
+  offset: 5, 1
+  index: -1

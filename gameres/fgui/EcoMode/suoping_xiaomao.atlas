@@ -1,0 +1,13 @@
+
+suoping_xiaomao.png
+size: 257,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suop_bg
+  rotate: false
+  xy: 3, 4
+  size: 252, 154
+  orig: 252, 154
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+Dc_lishunchen_skill_2.png
+size: 265,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_pm_bjs
+  rotate: false
+  xy: 2, 2
+  size: 77, 136
+  orig: 81, 140
+  offset: 2, 2
+  index: -1
+effect/skill_pm_lan
+  rotate: false
+  xy: 134, 294
+  size: 77, 136
+  orig: 81, 140
+  offset: 2, 2
+  index: -1
+effect/skill_pm_yw_00
+  rotate: true
+  xy: 168, 28
+  size: 70, 77
+  orig: 74, 83
+  offset: 2, 3
+  index: -1
+effect/skill_pm_yw_01
+  rotate: true
+  xy: 81, 57
+  size: 81, 85
+  orig: 86, 91
+  offset: 2, 3
+  index: -1
+effect/skill_pm_yw_03
+  rotate: true
+  xy: 168, 100
+  size: 90, 92
+  orig: 96, 97
+  offset: 3, 3
+  index: -1
+effect/skill_pm_yw_05
+  rotate: true
+  xy: 168, 192
+  size: 100, 95
+  orig: 106, 100
+  offset: 3, 2
+  index: -1
+effect/skill_pm_yw_07
+  rotate: false
+  xy: 143, 432
+  size: 115, 96
+  orig: 121, 102
+  offset: 3, 3
+  index: -1
+effect/skill_pm_yw_09
+  rotate: true
+  xy: 82, 161
+  size: 129, 84
+  orig: 134, 90
+  offset: 3, 3
+  index: -1
+effect/skill_pm_yw_11
+  rotate: false
+  xy: 2, 439
+  size: 139, 89
+  orig: 145, 95
+  offset: 3, 3
+  index: -1
+effect/skill_pm_yw_13
+  rotate: true
+  xy: 2, 140
+  size: 146, 78
+  orig: 152, 84
+  offset: 3, 3
+  index: -1
+effect/skill_pm_yw_15
+  rotate: true
+  xy: 2, 288
+  size: 149, 76
+  orig: 155, 82
+  offset: 3, 3
+  index: -1
+effect/skill_pm_yw_17
+  rotate: true
+  xy: 80, 292
+  size: 145, 52
+  orig: 149, 57
+  offset: 2, 2
+  index: -1
+effect/skill_pm_yw_19
+  rotate: true
+  xy: 213, 297
+  size: 133, 41
+  orig: 139, 46
+  offset: 3, 2
+  index: -1

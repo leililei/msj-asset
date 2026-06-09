@@ -1,0 +1,62 @@
+
+zhangfei_skill_beaten_1.png
+size: 1266,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill/bing/bing_00005
+  rotate: true
+  xy: 1218, 58
+  size: 132, 46
+  orig: 307, 338
+  offset: 79, 48
+  index: -1
+images/chutu/skill/bing/bing_00007
+  rotate: true
+  xy: 1134, 8
+  size: 182, 82
+  orig: 307, 338
+  offset: 59, 48
+  index: -1
+images/chutu/skill/bing/bing_00009
+  rotate: true
+  xy: 1015, 6
+  size: 184, 117
+  orig: 307, 338
+  offset: 58, 48
+  index: -1
+images/chutu/skill/bing/bing_00011
+  rotate: true
+  xy: 861, 5
+  size: 185, 152
+  orig: 307, 338
+  offset: 57, 48
+  index: -1
+images/chutu/skill/bing/bing_00013
+  rotate: false
+  xy: 673, 3
+  size: 186, 187
+  orig: 307, 338
+  offset: 56, 48
+  index: -1
+images/chutu/skill/bing/bing_00015
+  rotate: true
+  xy: 450, 3
+  size: 187, 221
+  orig: 307, 338
+  offset: 56, 48
+  index: -1
+images/chutu/skill/bing/bing_00017
+  rotate: true
+  xy: 226, 2
+  size: 188, 222
+  orig: 307, 338
+  offset: 56, 48
+  index: -1
+images/chutu/skill/bing/bing_00019
+  rotate: true
+  xy: 2, 2
+  size: 188, 222
+  orig: 307, 338
+  offset: 56, 48
+  index: -1

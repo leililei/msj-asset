@@ -1,0 +1,104 @@
+
+pangtong_atk_tx_1.png
+size: 417,755
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/atk/glow1_15
+  rotate: true
+  xy: 342, 267
+  size: 116, 73
+  orig: 122, 77
+  offset: 3, 3
+  index: -1
+chutu/atk/xt/xt_14
+  rotate: false
+  xy: 182, 134
+  size: 144, 110
+  orig: 215, 207
+  offset: 9, 84
+  index: -1
+chutu/atk/xt/xt_15
+  rotate: false
+  xy: 203, 583
+  size: 199, 171
+  orig: 215, 207
+  offset: 5, 31
+  index: -1
+chutu/atk/xt/xt_16
+  rotate: false
+  xy: 1, 573
+  size: 199, 181
+  orig: 215, 207
+  offset: 13, 23
+  index: -1
+chutu/atk/xt/xt_18
+  rotate: true
+  xy: 203, 386
+  size: 194, 197
+  orig: 215, 207
+  offset: 19, 7
+  index: -1
+chutu/atk/xt/xt_20
+  rotate: true
+  xy: 1, 391
+  size: 179, 194
+  orig: 215, 207
+  offset: 32, 5
+  index: -1
+chutu/atk/xt/xt_22
+  rotate: true
+  xy: 1, 235
+  size: 153, 178
+  orig: 215, 207
+  offset: 50, 11
+  index: -1
+chutu/atk/xt/xt_24
+  rotate: true
+  xy: 182, 247
+  size: 136, 157
+  orig: 215, 207
+  offset: 63, 32
+  index: -1
+chutu/skill/1/1_24
+  rotate: false
+  xy: 342, 225
+  size: 49, 39
+  orig: 143, 124
+  offset: 49, 35
+  index: -1
+chutu/skill/1/1_25
+  rotate: true
+  xy: 329, 125
+  size: 97, 87
+  orig: 143, 124
+  offset: 24, 18
+  index: -1
+chutu/skill/1/1_26
+  rotate: false
+  xy: 286, 16
+  size: 124, 106
+  orig: 143, 124
+  offset: 12, 10
+  index: -1
+chutu/skill/1/1_28
+  rotate: false
+  xy: 144, 8
+  size: 139, 123
+  orig: 143, 124
+  offset: 3, 1
+  index: -1
+chutu/skill/1/1_30
+  rotate: false
+  xy: 1, 110
+  size: 140, 122
+  orig: 143, 124
+  offset: 2, 1
+  index: -1
+chutu/skill/1/1_32
+  rotate: false
+  xy: 1, 1
+  size: 138, 106
+  orig: 143, 124
+  offset: 3, 3
+  index: -1

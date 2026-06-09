@@ -1,0 +1,97 @@
+
+longhun_5661_mz.png
+size: 2002,1407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/mz/00
+  rotate: true
+  xy: 391, 26
+  size: 353, 387
+  orig: 563, 563
+  offset: 76, 87
+  index: -1
+images/effect/mz/01
+  rotate: true
+  xy: 2, 8
+  size: 371, 387
+  orig: 563, 563
+  offset: 76, 87
+  index: -1
+images/effect/mz/03
+  rotate: false
+  xy: 1533, 954
+  size: 451, 451
+  orig: 563, 563
+  offset: 56, 56
+  index: -1
+images/effect/mz/04
+  rotate: false
+  xy: 2, 894
+  size: 511, 511
+  orig: 563, 563
+  offset: 26, 26
+  index: -1
+images/effect/mz/06
+  rotate: false
+  xy: 2, 381
+  size: 511, 511
+  orig: 563, 563
+  offset: 26, 26
+  index: -1
+images/effect/mz/08
+  rotate: false
+  xy: 515, 894
+  size: 511, 511
+  orig: 563, 563
+  offset: 26, 26
+  index: -1
+images/effect/mz/10
+  rotate: false
+  xy: 515, 381
+  size: 511, 511
+  orig: 563, 563
+  offset: 26, 26
+  index: -1
+images/effect/mz/12
+  rotate: false
+  xy: 1028, 902
+  size: 503, 503
+  orig: 563, 563
+  offset: 30, 30
+  index: -1
+images/effect/mz/14
+  rotate: false
+  xy: 1028, 405
+  size: 495, 495
+  orig: 563, 563
+  offset: 34, 34
+  index: -1
+images/effect/mz/16
+  rotate: false
+  xy: 1525, 24
+  size: 475, 475
+  orig: 563, 563
+  offset: 44, 44
+  index: -1
+images/effect/mz/18
+  rotate: false
+  xy: 1533, 501
+  size: 451, 451
+  orig: 563, 563
+  offset: 56, 56
+  index: -1
+images/effect/mz/20
+  rotate: false
+  xy: 1073, 2
+  size: 401, 401
+  orig: 563, 563
+  offset: 81, 81
+  index: -1
+images/effect/mz/22
+  rotate: false
+  xy: 780, 88
+  size: 291, 291
+  orig: 563, 563
+  offset: 136, 136
+  index: -1

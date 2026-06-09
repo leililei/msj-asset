@@ -1,0 +1,20 @@
+
+item_15001_cf.png
+size: 349,187
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+csx_1
+  rotate: false
+  xy: 4, 5
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+csx_2
+  rotate: true
+  xy: 187, 25
+  size: 158, 157
+  orig: 158, 157
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+longhun_5661_hp.png
+size: 93,161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/hp
+  rotate: false
+  xy: 2, 2
+  size: 89, 157
+  orig: 89, 157
+  offset: 0, 0
+  index: -1

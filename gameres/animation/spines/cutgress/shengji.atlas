@@ -1,0 +1,153 @@
+
+shengji.png
+size: 1897,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/shengji/00
+  rotate: false
+  xy: 1632, 393
+  size: 178, 96
+  orig: 300, 338
+  offset: 61, 28
+  index: -1
+images/effect/shengji/01
+  rotate: true
+  xy: 878, 17
+  size: 204, 242
+  orig: 300, 338
+  offset: 48, 22
+  index: -1
+images/effect/shengji/02
+  rotate: true
+  xy: 147, 4
+  size: 205, 262
+  orig: 300, 338
+  offset: 47, 19
+  index: -1
+images/effect/shengji/03
+  rotate: false
+  xy: 242, 219
+  size: 226, 270
+  orig: 300, 338
+  offset: 37, 11
+  index: -1
+images/effect/shengji/04
+  rotate: false
+  xy: 470, 220
+  size: 226, 269
+  orig: 300, 338
+  offset: 37, 11
+  index: -1
+images/effect/shengji/05
+  rotate: false
+  xy: 941, 228
+  size: 231, 261
+  orig: 300, 338
+  offset: 32, 15
+  index: -1
+images/effect/shengji/07
+  rotate: false
+  xy: 698, 223
+  size: 241, 266
+  orig: 300, 338
+  offset: 30, 15
+  index: -1
+images/effect/shengji/09
+  rotate: false
+  xy: 2, 211
+  size: 238, 278
+  orig: 300, 338
+  offset: 33, 15
+  index: -1
+images/effect/shengji/11
+  rotate: true
+  xy: 1402, 247
+  size: 242, 228
+  orig: 300, 338
+  offset: 26, 15
+  index: -1
+images/effect/shengji/13
+  rotate: true
+  xy: 1174, 243
+  size: 246, 226
+  orig: 300, 338
+  offset: 25, 15
+  index: -1
+images/effect/shengji/15
+  rotate: false
+  xy: 1122, 2
+  size: 244, 224
+  orig: 300, 338
+  offset: 26, 15
+  index: -1
+images/effect/shengji/17
+  rotate: true
+  xy: 1368, 3
+  size: 238, 230
+  orig: 300, 338
+  offset: 29, 18
+  index: -1
+images/effect/shengji/19
+  rotate: false
+  xy: 1600, 21
+  size: 223, 224
+  orig: 300, 338
+  offset: 36, 18
+  index: -1
+images/effect/shengji/21
+  rotate: false
+  xy: 411, 7
+  size: 159, 210
+  orig: 300, 338
+  offset: 70, 34
+  index: -1
+images/effect/shengji/23
+  rotate: false
+  xy: 572, 8
+  size: 158, 210
+  orig: 300, 338
+  offset: 70, 35
+  index: -1
+images/effect/shengji/25
+  rotate: false
+  xy: 732, 12
+  size: 144, 209
+  orig: 300, 338
+  offset: 79, 37
+  index: -1
+images/effect/shengji/27
+  rotate: false
+  xy: 2, 2
+  size: 143, 207
+  orig: 300, 338
+  offset: 79, 39
+  index: -1
+images/effect/shengji/29
+  rotate: true
+  xy: 1632, 291
+  size: 100, 175
+  orig: 300, 338
+  offset: 101, 70
+  index: -1
+images/effect/shengji/31
+  rotate: false
+  xy: 1825, 319
+  size: 70, 170
+  orig: 300, 338
+  offset: 121, 72
+  index: -1
+images/effect/shengji/33
+  rotate: false
+  xy: 1825, 149
+  size: 46, 168
+  orig: 300, 338
+  offset: 124, 72
+  index: -1
+images/effect/shengji/35
+  rotate: true
+  xy: 1632, 249
+  size: 40, 165
+  orig: 300, 338
+  offset: 126, 72
+  index: -1

@@ -1,0 +1,48 @@
+
+bingshu_ui_201.png
+size: 480,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S1
+  rotate: true
+  xy: 2, 2
+  size: 341, 318
+  orig: 341, 318
+  offset: 0, 0
+  index: -1
+S2
+  rotate: true
+  xy: 322, 95
+  size: 248, 156
+  orig: 248, 156
+  offset: 0, 0
+  index: -1
+S3
+  rotate: true
+  xy: 405, 29
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+S4
+  rotate: false
+  xy: 442, 51
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+S5
+  rotate: true
+  xy: 405, 60
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+S6
+  rotate: true
+  xy: 322, 6
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1

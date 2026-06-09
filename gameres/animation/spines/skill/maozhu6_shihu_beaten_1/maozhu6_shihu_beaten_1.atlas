@@ -1,0 +1,153 @@
+
+maozhu6_shihu_beaten_1.png
+size: 796,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/d3/d3_00000
+  rotate: true
+  xy: 667, 65
+  size: 97, 82
+  orig: 144, 138
+  offset: 24, 27
+  index: -1
+chutu/d3/d3_00001
+  rotate: true
+  xy: 262, 127
+  size: 140, 134
+  orig: 144, 138
+  offset: 2, 2
+  index: -1
+chutu/d3/d3_00002
+  rotate: true
+  xy: 2, 3
+  size: 108, 106
+  orig: 144, 138
+  offset: 18, 16
+  index: -1
+chutu/d3/d3_00003
+  rotate: true
+  xy: 110, 3
+  size: 108, 106
+  orig: 144, 138
+  offset: 19, 16
+  index: -1
+chutu/d3/d3_00004
+  rotate: true
+  xy: 456, 19
+  size: 110, 105
+  orig: 144, 138
+  offset: 17, 16
+  index: -1
+chutu/d3/d3_00005
+  rotate: true
+  xy: 606, 164
+  size: 103, 97
+  orig: 144, 138
+  offset: 20, 21
+  index: -1
+chutu/d3/d3_00006
+  rotate: true
+  xy: 705, 174
+  size: 93, 89
+  orig: 144, 138
+  offset: 25, 26
+  index: -1
+chutu/d3/d3_00007
+  rotate: false
+  xy: 751, 135
+  size: 37, 37
+  orig: 144, 138
+  offset: 53, 50
+  index: -1
+chutu/d4/d4_00000
+  rotate: false
+  xy: 606, 133
+  size: 28, 29
+  orig: 32, 33
+  offset: 2, 2
+  index: -1
+chutu/s1/s1_00000
+  rotate: true
+  xy: 746, 17
+  size: 46, 32
+  orig: 137, 119
+  offset: 44, 41
+  index: -1
+chutu/s1/s1_00001
+  rotate: true
+  xy: 563, 24
+  size: 107, 102
+  orig: 137, 119
+  offset: 16, 4
+  index: -1
+chutu/s1/s1_00002
+  rotate: true
+  xy: 349, 2
+  size: 123, 105
+  orig: 137, 119
+  offset: 7, 7
+  index: -1
+chutu/s1/s1_00004
+  rotate: false
+  xy: 218, 4
+  size: 129, 114
+  orig: 137, 119
+  offset: 3, 3
+  index: -1
+chutu/s1/s1_00006
+  rotate: true
+  xy: 512, 133
+  size: 134, 92
+  orig: 137, 119
+  offset: 1, 2
+  index: -1
+chutu/s2/s2_00000
+  rotate: false
+  xy: 667, 3
+  size: 77, 60
+  orig: 155, 132
+  offset: 42, 36
+  index: -1
+chutu/s2/s2_00001
+  rotate: true
+  xy: 398, 131
+  size: 136, 112
+  orig: 155, 132
+  offset: 9, 9
+  index: -1
+chutu/s2/s2_00002
+  rotate: true
+  xy: 136, 120
+  size: 147, 124
+  orig: 155, 132
+  offset: 4, 3
+  index: -1
+chutu/s2/s2_00003
+  rotate: true
+  xy: 2, 113
+  size: 154, 132
+  orig: 155, 132
+  offset: 0, 0
+  index: -1
+chutu/s3/s3_00003
+  rotate: false
+  xy: 751, 96
+  size: 34, 37
+  orig: 34, 43
+  offset: 0, 5
+  index: -1
+chutu/s4/s4_00003
+  rotate: false
+  xy: 636, 137
+  size: 23, 25
+  orig: 23, 27
+  offset: 0, 2
+  index: -1
+chutu/s5/s5_00003
+  rotate: false
+  xy: 456, 2
+  size: 15, 15
+  orig: 21, 20
+  offset: 3, 2
+  index: -1

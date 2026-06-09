@@ -1,0 +1,83 @@
+
+zhangjiao_atk_beaten_2.png
+size: 1936,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/atk/bd1/bd1_15
+  rotate: true
+  xy: 1813, 60
+  size: 133, 122
+  orig: 212, 190
+  offset: 37, 31
+  index: -1
+chutu/atk/bd1/bd1_16
+  rotate: true
+  xy: 1649, 10
+  size: 183, 161
+  orig: 212, 190
+  offset: 13, 15
+  index: -1
+chutu/atk/bd1/bd1_18
+  rotate: false
+  xy: 1, 6
+  size: 212, 187
+  orig: 212, 190
+  offset: 0, 1
+  index: -1
+chutu/atk/bd1/bd1_20
+  rotate: false
+  xy: 216, 10
+  size: 204, 183
+  orig: 212, 190
+  offset: 0, 1
+  index: -1
+chutu/atk/bd1/bd1_22
+  rotate: true
+  xy: 423, 5
+  size: 188, 181
+  orig: 212, 190
+  offset: 0, 0
+  index: -1
+chutu/atk/bd1/bd1_24
+  rotate: true
+  xy: 607, 9
+  size: 184, 182
+  orig: 212, 190
+  offset: 4, 1
+  index: -1
+chutu/atk/bd1/bd1_26
+  rotate: false
+  xy: 1484, 10
+  size: 162, 183
+  orig: 212, 190
+  offset: 5, 2
+  index: -1
+chutu/atk/bd1/bd1_28
+  rotate: false
+  xy: 792, 7
+  size: 173, 186
+  orig: 212, 190
+  offset: 14, 4
+  index: -1
+chutu/atk/bd1/bd1_30
+  rotate: false
+  xy: 1307, 18
+  size: 174, 175
+  orig: 212, 190
+  offset: 13, 3
+  index: -1
+chutu/atk/bd1/bd1_32
+  rotate: true
+  xy: 1138, 3
+  size: 190, 166
+  orig: 212, 190
+  offset: 12, 3
+  index: -1
+chutu/atk/bd1/bd1_34
+  rotate: true
+  xy: 968, 1
+  size: 192, 167
+  orig: 212, 190
+  offset: 13, 1
+  index: -1

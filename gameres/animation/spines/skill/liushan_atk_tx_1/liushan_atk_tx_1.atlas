@@ -1,0 +1,125 @@
+
+liushan_atk_tx_1.png
+size: 1855,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/1xt/1xt_0001
+  rotate: false
+  xy: 1771, 280
+  size: 75, 154
+  orig: 241, 388
+  offset: 139, 13
+  index: -1
+chutu/attack/1xt/1xt_0002
+  rotate: true
+  xy: 1396, 236
+  size: 198, 373
+  orig: 241, 388
+  offset: 34, 1
+  index: -1
+chutu/attack/1xt/1xt_0004
+  rotate: true
+  xy: 338, 202
+  size: 232, 373
+  orig: 241, 388
+  offset: 3, 10
+  index: -1
+chutu/attack/1xt/1xt_0006
+  rotate: true
+  xy: 713, 206
+  size: 228, 353
+  orig: 241, 388
+  offset: 2, 22
+  index: -1
+chutu/attack/1xt/1xt_0008
+  rotate: true
+  xy: 1068, 211
+  size: 223, 326
+  orig: 241, 388
+  offset: 2, 37
+  index: -1
+chutu/attack/1xt/1xt_0010
+  rotate: true
+  xy: 1396, 12
+  size: 222, 286
+  orig: 241, 388
+  offset: 2, 46
+  index: -1
+chutu/attack/1xt/1xt_0012
+  rotate: true
+  xy: 1068, 2
+  size: 207, 249
+  orig: 241, 388
+  offset: 16, 61
+  index: -1
+chutu/attack/1xt/1xt_0014
+  rotate: true
+  xy: 713, 12
+  size: 192, 211
+  orig: 241, 388
+  offset: 30, 71
+  index: -1
+chutu/attack/1xt/1xt_0016
+  rotate: false
+  xy: 173, 46
+  size: 113, 136
+  orig: 241, 388
+  offset: 51, 81
+  index: -1
+chutu/attack/1xt/1xt_0018
+  rotate: true
+  xy: 584, 46
+  size: 22, 76
+  orig: 241, 388
+  offset: 133, 127
+  index: -1
+chutu/attack/2lz/2lz_0008
+  rotate: true
+  xy: 2, 184
+  size: 250, 334
+  orig: 273, 359
+  offset: 10, 13
+  index: -1
+chutu/attack/3xx1/3xx1_0016
+  rotate: false
+  xy: 584, 70
+  size: 126, 130
+  orig: 130, 133
+  offset: 2, 2
+  index: -1
+chutu/attack/3xx2/3xx2_0016
+  rotate: true
+  xy: 926, 57
+  size: 147, 140
+  orig: 175, 165
+  offset: 14, 13
+  index: -1
+chutu/attack/4lz/4lz_0020
+  rotate: true
+  xy: 338, 11
+  size: 189, 244
+  orig: 214, 269
+  offset: 13, 14
+  index: -1
+chutu/attack/5yq/5yq_0015
+  rotate: false
+  xy: 1684, 65
+  size: 169, 169
+  orig: 171, 171
+  offset: 1, 1
+  index: -1
+chutu/attack/5yq2/5yq2_0015
+  rotate: false
+  xy: 2, 13
+  size: 169, 169
+  orig: 171, 171
+  offset: 1, 1
+  index: -1
+chutu/attack/6glow/6glow_0003
+  rotate: false
+  xy: 1771, 243
+  size: 35, 35
+  orig: 37, 39
+  offset: 1, 2
+  index: -1

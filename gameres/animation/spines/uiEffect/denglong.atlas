@@ -1,0 +1,363 @@
+
+denglong.png
+size: 1762,655
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/denglong_jihuo/00
+  rotate: false
+  xy: 994, 2
+  size: 156, 131
+  orig: 234, 252
+  offset: 38, 58
+  index: -1
+images/effect/denglong_jihuo/01
+  rotate: true
+  xy: 1124, 143
+  size: 161, 141
+  orig: 234, 252
+  offset: 35, 53
+  index: -1
+images/effect/denglong_jihuo/02
+  rotate: false
+  xy: 657, 142
+  size: 167, 158
+  orig: 234, 252
+  offset: 32, 45
+  index: -1
+images/effect/denglong_jihuo/03
+  rotate: false
+  xy: 676, 302
+  size: 173, 141
+  orig: 234, 252
+  offset: 30, 53
+  index: -1
+images/effect/denglong_jihuo/04
+  rotate: true
+  xy: 195, 20
+  size: 177, 142
+  orig: 234, 252
+  offset: 27, 54
+  index: -1
+images/effect/denglong_jihuo/05
+  rotate: true
+  xy: 339, 29
+  size: 177, 159
+  orig: 234, 252
+  offset: 27, 46
+  index: -1
+images/effect/denglong_jihuo/06
+  rotate: false
+  xy: 889, 309
+  size: 175, 168
+  orig: 234, 252
+  offset: 28, 41
+  index: -1
+images/effect/denglong_jihuo/07
+  rotate: false
+  xy: 1420, 482
+  size: 175, 171
+  orig: 234, 252
+  offset: 28, 40
+  index: -1
+images/effect/denglong_jihuo/08
+  rotate: false
+  xy: 889, 479
+  size: 175, 174
+  orig: 234, 252
+  offset: 28, 38
+  index: -1
+images/effect/denglong_jihuo/10
+  rotate: true
+  xy: 1243, 480
+  size: 173, 175
+  orig: 234, 252
+  offset: 30, 38
+  index: -1
+images/effect/denglong_jihuo/12
+  rotate: false
+  xy: 1413, 307
+  size: 165, 171
+  orig: 234, 252
+  offset: 33, 40
+  index: -1
+images/effect/denglong_jihuo/14
+  rotate: false
+  xy: 1580, 308
+  size: 161, 172
+  orig: 234, 252
+  offset: 35, 40
+  index: -1
+images/effect/denglong_jihuo/16
+  rotate: false
+  xy: 500, 100
+  size: 155, 172
+  orig: 234, 252
+  offset: 38, 39
+  index: -1
+images/effect/denglong_jihuo/18
+  rotate: false
+  xy: 979, 135
+  size: 143, 169
+  orig: 234, 252
+  offset: 44, 41
+  index: -1
+images/effect/denglong_jihuo/20
+  rotate: true
+  xy: 826, 7
+  size: 121, 166
+  orig: 234, 252
+  offset: 55, 43
+  index: -1
+images/effect/denglong_jihuo/22
+  rotate: false
+  xy: 1400, 16
+  size: 99, 148
+  orig: 234, 252
+  offset: 61, 60
+  index: -1
+images/effect/denglong_jihuo/24
+  rotate: false
+  xy: 1604, 205
+  size: 94, 101
+  orig: 234, 252
+  offset: 65, 105
+  index: -1
+images/effect/denglong_jihuo/26
+  rotate: false
+  xy: 1501, 78
+  size: 92, 97
+  orig: 234, 252
+  offset: 65, 107
+  index: -1
+images/effect/denglong_jihuo/28
+  rotate: true
+  xy: 500, 9
+  size: 89, 94
+  orig: 234, 252
+  offset: 66, 109
+  index: -1
+images/effect/lianxian/35
+  rotate: true
+  xy: 500, 9
+  size: 89, 94
+  orig: 270, 270
+  offset: 84, 118
+  index: -1
+images/effect/denglong_jihuo/30
+  rotate: true
+  xy: 1604, 120
+  size: 83, 91
+  orig: 234, 252
+  offset: 69, 110
+  index: -1
+images/effect/lianxian/37
+  rotate: true
+  xy: 1604, 120
+  size: 83, 91
+  orig: 270, 270
+  offset: 87, 119
+  index: -1
+images/effect/denglong_jihuo/32
+  rotate: true
+  xy: 1501, 30
+  size: 46, 83
+  orig: 234, 252
+  offset: 85, 112
+  index: -1
+images/effect/lianxian/39
+  rotate: true
+  xy: 1501, 30
+  size: 46, 83
+  orig: 270, 270
+  offset: 103, 121
+  index: -1
+images/effect/denglong_jihuo/34
+  rotate: false
+  xy: 630, 351
+  size: 22, 81
+  orig: 234, 252
+  offset: 87, 113
+  index: -1
+images/effect/lianxian/41
+  rotate: false
+  xy: 630, 351
+  size: 22, 81
+  orig: 270, 270
+  offset: 105, 122
+  index: -1
+images/effect/denglong_jihuo/36
+  rotate: false
+  xy: 630, 274
+  size: 14, 75
+  orig: 234, 252
+  offset: 91, 115
+  index: -1
+images/effect/lianxian/43
+  rotate: false
+  xy: 630, 274
+  size: 14, 75
+  orig: 270, 270
+  offset: 109, 124
+  index: -1
+images/effect/denglong_jihuo/38
+  rotate: true
+  xy: 230, 199
+  size: 7, 24
+  orig: 234, 252
+  offset: 95, 119
+  index: -1
+images/effect/lianxian/01
+  rotate: false
+  xy: 851, 419
+  size: 24, 24
+  orig: 270, 270
+  offset: 89, 89
+  index: -1
+images/effect/lianxian/02
+  rotate: false
+  xy: 596, 46
+  size: 52, 52
+  orig: 270, 270
+  offset: 79, 79
+  index: -1
+images/effect/lianxian/03
+  rotate: true
+  xy: 1595, 28
+  size: 90, 91
+  orig: 270, 270
+  offset: 79, 79
+  index: -1
+images/effect/lianxian/04
+  rotate: false
+  xy: 1152, 2
+  size: 135, 139
+  orig: 270, 270
+  offset: 70, 59
+  index: -1
+images/effect/lianxian/05
+  rotate: false
+  xy: 2, 2
+  size: 191, 195
+  orig: 270, 270
+  offset: 44, 30
+  index: -1
+images/effect/lianxian/06
+  rotate: false
+  xy: 230, 429
+  size: 223, 224
+  orig: 270, 270
+  offset: 28, 15
+  index: -1
+images/effect/lianxian/07
+  rotate: false
+  xy: 2, 427
+  size: 226, 226
+  orig: 270, 270
+  offset: 25, 16
+  index: -1
+images/effect/lianxian/08
+  rotate: false
+  xy: 2, 199
+  size: 226, 226
+  orig: 270, 270
+  offset: 25, 16
+  index: -1
+images/effect/lianxian/09
+  rotate: false
+  xy: 230, 208
+  size: 219, 219
+  orig: 270, 270
+  offset: 27, 22
+  index: -1
+images/effect/lianxian/10
+  rotate: false
+  xy: 455, 434
+  size: 219, 219
+  orig: 270, 270
+  offset: 27, 22
+  index: -1
+images/effect/lianxian/11
+  rotate: false
+  xy: 676, 445
+  size: 211, 208
+  orig: 270, 270
+  offset: 31, 29
+  index: -1
+images/effect/lianxian/13
+  rotate: false
+  xy: 1066, 306
+  size: 175, 171
+  orig: 270, 270
+  offset: 46, 49
+  index: -1
+images/effect/lianxian/15
+  rotate: true
+  xy: 1066, 479
+  size: 174, 175
+  orig: 270, 270
+  offset: 47, 47
+  index: -1
+images/effect/lianxian/17
+  rotate: false
+  xy: 1243, 307
+  size: 168, 171
+  orig: 270, 270
+  offset: 50, 49
+  index: -1
+images/effect/lianxian/19
+  rotate: false
+  xy: 1597, 482
+  size: 163, 171
+  orig: 270, 270
+  offset: 52, 49
+  index: -1
+images/effect/lianxian/21
+  rotate: true
+  xy: 455, 274
+  size: 158, 173
+  orig: 270, 270
+  offset: 55, 48
+  index: -1
+images/effect/lianxian/23
+  rotate: false
+  xy: 826, 130
+  size: 151, 170
+  orig: 270, 270
+  offset: 58, 49
+  index: -1
+images/effect/lianxian/25
+  rotate: true
+  xy: 657, 7
+  size: 133, 167
+  orig: 270, 270
+  offset: 67, 51
+  index: -1
+images/effect/lianxian/27
+  rotate: false
+  xy: 1267, 149
+  size: 115, 156
+  orig: 270, 270
+  offset: 77, 62
+  index: -1
+images/effect/lianxian/29
+  rotate: false
+  xy: 1384, 166
+  size: 111, 139
+  orig: 270, 270
+  offset: 79, 77
+  index: -1
+images/effect/lianxian/31
+  rotate: false
+  xy: 1289, 13
+  size: 109, 134
+  orig: 270, 270
+  offset: 80, 81
+  index: -1
+images/effect/lianxian/33
+  rotate: false
+  xy: 1497, 177
+  size: 105, 128
+  orig: 270, 270
+  offset: 80, 85
+  index: -1

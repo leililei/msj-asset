@@ -1,0 +1,90 @@
+
+XM_zhouyu_atk_dandao_1.png
+size: 144,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_68
+  rotate: false
+  xy: 2, 385
+  size: 139, 83
+  orig: 139, 83
+  offset: 0, 0
+  index: -1
+01_69
+  rotate: true
+  xy: 2, 2
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+i_01_68_gz00
+  rotate: false
+  xy: 2, 314
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+i_01_68_gz02
+  rotate: false
+  xy: 73, 314
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+i_01_68_gz04
+  rotate: false
+  xy: 2, 243
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+i_01_68_gz06
+  rotate: false
+  xy: 73, 243
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+i_01_68_gz08
+  rotate: false
+  xy: 2, 172
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+i_01_68_gz10
+  rotate: false
+  xy: 73, 172
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+i_01_68_gz12
+  rotate: false
+  xy: 2, 101
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+i_01_68_gz14
+  rotate: false
+  xy: 73, 101
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+i_01_68_gz16
+  rotate: false
+  xy: 2, 30
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+i_01_68_gz18
+  rotate: false
+  xy: 73, 30
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1

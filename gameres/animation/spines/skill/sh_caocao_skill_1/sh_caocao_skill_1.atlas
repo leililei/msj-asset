@@ -1,0 +1,265 @@
+
+sh_caocao_skill_1.png
+size: 2048,1343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skl3_sf_qilang1_00
+  rotate: false
+  xy: 1029, 4
+  size: 243, 131
+  orig: 243, 132
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang1_01
+  rotate: 180
+  xy: 304, 67
+  size: 256, 134
+  orig: 256, 134
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_02
+  rotate: 180
+  xy: 1266, 74
+  size: 264, 135
+  orig: 265, 135
+  offset: 1, 0
+  index: -1
+effect/skl3_sf_qilang1_03
+  rotate: false
+  xy: 1765, 88
+  size: 281, 137
+  orig: 282, 137
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_05
+  rotate: true
+  xy: 1905, 701
+  size: 335, 141
+  orig: 335, 141
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_07
+  rotate: false
+  xy: 753, 237
+  size: 341, 141
+  orig: 342, 141
+  offset: 1, 0
+  index: -1
+effect/skl3_sf_qilang1_09
+  rotate: 180
+  xy: 485, 182
+  size: 350, 138
+  orig: 350, 138
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_11
+  rotate: 180
+  xy: 979, 178
+  size: 349, 119
+  orig: 350, 119
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_13
+  rotate: 270
+  xy: 3, 618
+  size: 355, 120
+  orig: 356, 120
+  offset: 1, 0
+  index: -1
+effect/skl3_sf_qilang1_15
+  rotate: 180
+  xy: 26, 168
+  size: 335, 130
+  orig: 335, 130
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_17
+  rotate: 180
+  xy: 700, 99
+  size: 333, 123
+  orig: 333, 123
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_19
+  rotate: 180
+  xy: 1505, 4
+  size: 340, 130
+  orig: 340, 130
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qilang1_21
+  rotate: false
+  xy: 3, 31
+  size: 311, 123
+  orig: 312, 123
+  offset: 1, 0
+  index: -1
+effect/skl3_sf_qilang1_23
+  rotate: false
+  xy: 758, 16
+  size: 277, 85
+  orig: 279, 87
+  offset: 1, 1
+  index: -1
+effect/skl3_sf_qilang2_00
+  rotate: false
+  xy: 367, 1249
+  size: 64, 93
+  orig: 64, 94
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_01
+  rotate: 180
+  xy: 100, 633
+  size: 113, 141
+  orig: 113, 142
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_02
+  rotate: 180
+  xy: 525, 29
+  size: 231, 153
+  orig: 231, 154
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_03
+  rotate: 180
+  xy: 1506, 165
+  size: 281, 159
+  orig: 282, 160
+  offset: 1, 1
+  index: -1
+effect/skl3_sf_qilang2_04
+  rotate: false
+  xy: 295, 239
+  size: 292, 165
+  orig: 292, 166
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_05
+  rotate: false
+  xy: 579, 330
+  size: 296, 165
+  orig: 296, 166
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_06
+  rotate: false
+  xy: 905, 367
+  size: 301, 165
+  orig: 301, 166
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_08
+  rotate: false
+  xy: 3, 434
+  size: 298, 163
+  orig: 298, 164
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_10
+  rotate: false
+  xy: 300, 415
+  size: 304, 159
+  orig: 304, 160
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_12
+  rotate: false
+  xy: 3, 284
+  size: 296, 149
+  orig: 296, 150
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qilang2_14
+  rotate: true
+  xy: 1785, 667
+  size: 280, 119
+  orig: 280, 120
+  offset: 0, 1
+  index: -1
+effect/skl3_xuanwo_00
+  rotate: false
+  xy: 3, 922
+  size: 410, 419
+  orig: 410, 419
+  offset: 0, 0
+  index: -1
+effect/skl3_xuanwo_01
+  rotate: false
+  xy: 410, 922
+  size: 397, 419
+  orig: 398, 419
+  offset: 0, 0
+  index: -1
+effect/skl3_xuanwo_02
+  rotate: false
+  xy: 807, 923
+  size: 394, 419
+  orig: 394, 419
+  offset: 0, 0
+  index: -1
+effect/skl3_xuanwo_04
+  rotate: 180
+  xy: 1202, 939
+  size: 394, 402
+  orig: 394, 402
+  offset: 0, 0
+  index: -1
+effect/skl3_xuanwo_06
+  rotate: 270
+  xy: 1395, 589
+  size: 394, 402
+  orig: 394, 402
+  offset: 0, 0
+  index: -1
+effect/skl3_xuanwo_08
+  rotate: true
+  xy: 201, 575
+  size: 394, 402
+  orig: 394, 402
+  offset: 0, 0
+  index: -1
+effect/skl3_xuanwo_10
+  rotate: false
+  xy: 1598, 939
+  size: 394, 402
+  orig: 394, 402
+  offset: 0, 0
+  index: -1
+effect/skl3_xuanwo_12
+  rotate: 270
+  xy: 992, 577
+  size: 394, 402
+  orig: 394, 402
+  offset: 0, 0
+  index: -1
+effect/skl3_xuanwo_14
+  rotate: 180
+  xy: 1652, 265
+  size: 394, 402
+  orig: 394, 402
+  offset: 0, 0
+  index: -1
+effect/skl3_xuanwo_16
+  rotate: 180
+  xy: 605, 496
+  size: 394, 402
+  orig: 394, 402
+  offset: 0, 0
+  index: -1
+effect/skl3_xuanwo_18
+  rotate: 270
+  xy: 1208, 235
+  size: 387, 394
+  orig: 387, 394
+  offset: 0, 0
+  index: -1
+effect/skl3_zhuye
+  rotate: false
+  xy: 3, 1309
+  size: 33, 32
+  orig: 36, 35
+  offset: 1, 1
+  index: -1

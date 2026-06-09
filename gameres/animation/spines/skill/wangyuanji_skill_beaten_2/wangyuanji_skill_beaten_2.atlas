@@ -1,0 +1,83 @@
+
+wangyuanji_skill_beaten_2.png
+size: 917,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/dl1_016
+  rotate: false
+  xy: 485, 2
+  size: 342, 118
+  orig: 365, 120
+  offset: 13, 2
+  index: -1
+chutu/skill/dl2_016
+  rotate: false
+  xy: 483, 122
+  size: 348, 189
+  orig: 354, 242
+  offset: 2, 11
+  index: -1
+chutu/skill/dl3_016
+  rotate: true
+  xy: 2, 36
+  size: 275, 121
+  orig: 279, 127
+  offset: 3, 3
+  index: -1
+chutu/skill/dl4_016
+  rotate: false
+  xy: 125, 3
+  size: 199, 85
+  orig: 200, 85
+  offset: 0, 0
+  index: -1
+chutu/skill/dl5_016
+  rotate: false
+  xy: 125, 90
+  size: 356, 221
+  orig: 469, 311
+  offset: 47, 1
+  index: -1
+chutu/skill/sj/sj_031
+  rotate: false
+  xy: 326, 4
+  size: 78, 84
+  orig: 81, 98
+  offset: 1, 10
+  index: -1
+chutu/skill/sj/sj_033
+  rotate: false
+  xy: 406, 5
+  size: 77, 83
+  orig: 81, 98
+  offset: 1, 11
+  index: -1
+chutu/skill/sj/sj_035
+  rotate: true
+  xy: 833, 234
+  size: 77, 82
+  orig: 81, 98
+  offset: 1, 11
+  index: -1
+chutu/skill/sj/sj_037
+  rotate: true
+  xy: 833, 156
+  size: 76, 81
+  orig: 81, 98
+  offset: 1, 12
+  index: -1
+chutu/skill/sj/sj_039
+  rotate: true
+  xy: 833, 79
+  size: 75, 78
+  orig: 81, 98
+  offset: 1, 14
+  index: -1
+chutu/skill/sj/sj_041
+  rotate: false
+  xy: 829, 3
+  size: 73, 74
+  orig: 81, 98
+  offset: 2, 16
+  index: -1

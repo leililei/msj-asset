@@ -1,0 +1,48 @@
+
+panfeng_skill_beaten_2.png
+size: 466,941
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/s1/s1_020
+  rotate: false
+  xy: 3, 99
+  size: 274, 123
+  orig: 280, 127
+  offset: 4, 1
+  index: -1
+chutu/skill/s2/s2_020
+  rotate: false
+  xy: 3, 3
+  size: 273, 94
+  orig: 465, 156
+  offset: 103, 28
+  index: -1
+chutu/skill/s2/s2_022
+  rotate: false
+  xy: 3, 224
+  size: 445, 149
+  orig: 465, 156
+  offset: 18, 2
+  index: -1
+chutu/skill/s2/s2_024
+  rotate: false
+  xy: 3, 527
+  size: 461, 152
+  orig: 465, 156
+  offset: 3, 2
+  index: -1
+chutu/skill/s2/s2_026
+  rotate: false
+  xy: 3, 375
+  size: 447, 150
+  orig: 465, 156
+  offset: 13, 3
+  index: -1
+chutu/skill/s3/s3_020
+  rotate: false
+  xy: 3, 681
+  size: 349, 258
+  orig: 356, 266
+  offset: 2, 5
+  index: -1

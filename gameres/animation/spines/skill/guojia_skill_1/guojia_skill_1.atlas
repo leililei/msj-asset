@@ -1,0 +1,279 @@
+
+guojia_skill_1.png
+size: 1659,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/mz01_00
+  rotate: true
+  xy: 686, 9
+  size: 77, 110
+  orig: 83, 120
+  offset: 4, 5
+  index: -1
+effect/mz01_01
+  rotate: false
+  xy: 417, 62
+  size: 99, 141
+  orig: 107, 150
+  offset: 6, 5
+  index: -1
+effect/mz01_02
+  rotate: false
+  xy: 152, 27
+  size: 105, 176
+  orig: 111, 186
+  offset: 4, 4
+  index: -1
+effect/mz01_03
+  rotate: false
+  xy: 259, 28
+  size: 156, 175
+  orig: 165, 187
+  offset: 7, 6
+  index: -1
+effect/mz01_04
+  rotate: false
+  xy: 2, 25
+  size: 148, 178
+  orig: 156, 191
+  offset: 6, 6
+  index: -1
+effect/mz01_05
+  rotate: true
+  xy: 518, 64
+  size: 139, 110
+  orig: 149, 134
+  offset: 5, 5
+  index: -1
+effect/mz01_06
+  rotate: false
+  xy: 1575, 106
+  size: 72, 97
+  orig: 79, 110
+  offset: 4, 7
+  index: -1
+effect/mz01_07
+  rotate: false
+  xy: 1476, 9
+  size: 58, 87
+  orig: 79, 98
+  offset: 8, 7
+  index: -1
+effect/sbcx04_00
+  rotate: true
+  xy: 1204, 4
+  size: 91, 73
+  orig: 97, 82
+  offset: 3, 6
+  index: -1
+effect/sbcx04_01
+  rotate: false
+  xy: 1330, 2
+  size: 102, 94
+  orig: 107, 102
+  offset: 3, 5
+  index: -1
+effect/sbcx04_02
+  rotate: true
+  xy: 855, 94
+  size: 109, 102
+  orig: 115, 112
+  offset: 3, 7
+  index: -1
+effect/sbcx04_03
+  rotate: true
+  xy: 748, 94
+  size: 109, 105
+  orig: 114, 113
+  offset: 3, 6
+  index: -1
+effect/sbcx04_04
+  rotate: false
+  xy: 1121, 97
+  size: 101, 106
+  orig: 106, 114
+  offset: 3, 6
+  index: -1
+effect/sbcx04_05
+  rotate: false
+  xy: 1224, 97
+  size: 99, 106
+  orig: 103, 114
+  offset: 2, 6
+  index: -1
+effect/sbcx04_06
+  rotate: false
+  xy: 959, 96
+  size: 101, 107
+  orig: 106, 115
+  offset: 3, 6
+  index: -1
+effect/sbcx04_07
+  rotate: false
+  xy: 1325, 98
+  size: 105, 105
+  orig: 109, 113
+  offset: 2, 6
+  index: -1
+effect/sbcx04_08
+  rotate: true
+  xy: 1432, 98
+  size: 105, 95
+  orig: 110, 103
+  offset: 3, 6
+  index: -1
+effect/sbcx04_09
+  rotate: false
+  xy: 976, 2
+  size: 85, 92
+  orig: 90, 101
+  offset: 3, 6
+  index: -1
+effect/sbcx04_10
+  rotate: false
+  xy: 1063, 3
+  size: 86, 91
+  orig: 91, 100
+  offset: 3, 6
+  index: -1
+effect/sbcx04_11
+  rotate: false
+  xy: 798, 2
+  size: 76, 90
+  orig: 82, 99
+  offset: 3, 6
+  index: -1
+effect/sbcx04_12
+  rotate: false
+  xy: 1536, 20
+  size: 41, 77
+  orig: 46, 84
+  offset: 2, 4
+  index: -1
+effect/sbcx04_13
+  rotate: false
+  xy: 1579, 29
+  size: 37, 75
+  orig: 42, 81
+  offset: 3, 4
+  index: -1
+effect/sf01_00
+  rotate: false
+  xy: 1434, 2
+  size: 40, 94
+  orig: 48, 103
+  offset: 4, 4
+  index: -1
+effect/sf01_01
+  rotate: false
+  xy: 1529, 99
+  size: 44, 104
+  orig: 51, 112
+  offset: 3, 4
+  index: -1
+effect/sf01_02
+  rotate: false
+  xy: 1151, 2
+  size: 51, 93
+  orig: 58, 104
+  offset: 3, 8
+  index: -1
+effect/sf01_03
+  rotate: false
+  xy: 876, 4
+  size: 52, 88
+  orig: 60, 99
+  offset: 3, 8
+  index: -1
+effect/sf01_04
+  rotate: false
+  xy: 1279, 4
+  size: 49, 91
+  orig: 59, 102
+  offset: 4, 5
+  index: -1
+effect/sf01_05
+  rotate: false
+  xy: 930, 4
+  size: 44, 88
+  orig: 52, 98
+  offset: 4, 5
+  index: -1
+effect/sf01_06
+  rotate: false
+  xy: 643, 6
+  size: 41, 80
+  orig: 49, 94
+  offset: 4, 6
+  index: -1
+effect/sf01_07
+  rotate: false
+  xy: 1618, 54
+  size: 39, 50
+  orig: 48, 62
+  offset: 4, 8
+  index: -1
+effect/sf01_08
+  rotate: false
+  xy: 62, 20
+  size: 3, 3
+  orig: 19, 19
+  offset: 8, 8
+  index: -1
+effect/sf02_00
+  rotate: false
+  xy: 2, 5
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+effect/sf02_01
+  rotate: false
+  xy: 22, 5
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+effect/sf02_02
+  rotate: false
+  xy: 42, 5
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+effect/sf03_00
+  rotate: true
+  xy: 1062, 96
+  size: 107, 57
+  orig: 120, 66
+  offset: 7, 4
+  index: -1
+effect/sf03_01
+  rotate: false
+  xy: 532, 3
+  size: 109, 59
+  orig: 122, 67
+  offset: 7, 4
+  index: -1
+effect/sf03_02
+  rotate: true
+  xy: 689, 92
+  size: 111, 57
+  orig: 124, 66
+  offset: 7, 4
+  index: -1
+effect/sf03_03
+  rotate: false
+  xy: 417, 2
+  size: 113, 58
+  orig: 124, 67
+  offset: 6, 4
+  index: -1
+effect/sf03_04
+  rotate: true
+  xy: 630, 88
+  size: 115, 57
+  orig: 124, 66
+  offset: 5, 4
+  index: -1

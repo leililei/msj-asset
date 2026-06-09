@@ -1,0 +1,90 @@
+
+sh_luxun_atk_beaten_1.png
+size: 395,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_mz_00
+  rotate: false
+  xy: 262, 700
+  size: 127, 168
+  orig: 135, 180
+  offset: 5, 8
+  index: -1
+effect/attack_mz_01
+  rotate: true
+  xy: 2, 8
+  size: 171, 194
+  orig: 180, 202
+  offset: 4, 4
+  index: -1
+effect/attack_mz_03
+  rotate: true
+  xy: 2, 623
+  size: 245, 258
+  orig: 255, 266
+  offset: 4, 4
+  index: -1
+effect/attack_mz_05
+  rotate: true
+  xy: 2, 390
+  size: 231, 239
+  orig: 238, 249
+  offset: 3, 5
+  index: -1
+effect/attack_mz_07
+  rotate: false
+  xy: 2, 181
+  size: 227, 207
+  orig: 233, 213
+  offset: 3, 2
+  index: -1
+effect/attack_mz_10
+  rotate: true
+  xy: 231, 170
+  size: 218, 162
+  orig: 231, 171
+  offset: 7, 4
+  index: -1
+effect/attack_mz_13
+  rotate: false
+  xy: 198, 2
+  size: 191, 166
+  orig: 209, 182
+  offset: 7, 9
+  index: -1
+effect/attack_mz_16
+  rotate: false
+  xy: 243, 450
+  size: 144, 165
+  orig: 162, 188
+  offset: 9, 14
+  index: -1
+effect/attack_mz_19
+  rotate: false
+  xy: 262, 617
+  size: 95, 81
+  orig: 111, 107
+  offset: 3, 13
+  index: -1
+effect/attack_mz_22
+  rotate: false
+  xy: 243, 390
+  size: 59, 58
+  orig: 67, 64
+  offset: 7, 0
+  index: -1
+effect/attack_mz_25
+  rotate: false
+  xy: 304, 393
+  size: 59, 55
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+effect/attack_mz_28
+  rotate: true
+  xy: 359, 681
+  size: 17, 31
+  orig: 19, 33
+  offset: 1, 1
+  index: -1

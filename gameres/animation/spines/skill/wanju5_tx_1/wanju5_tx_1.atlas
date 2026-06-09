@@ -1,0 +1,132 @@
+
+wanju5_tx_1.png
+size: 1551,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: true
+  xy: 2, 268
+  size: 252, 758
+  orig: 264, 770
+  offset: 9, 4
+  index: -1
+fz 3
+  rotate: false
+  xy: 1107, 153
+  size: 317, 93
+  orig: 317, 93
+  offset: 0, 0
+  index: -1
+fzg1
+  rotate: true
+  xy: 762, 193
+  size: 327, 326
+  orig: 353, 352
+  offset: 13, 13
+  index: -1
+glow4
+  rotate: false
+  xy: 220, 2
+  size: 33, 15
+  orig: 35, 16
+  offset: 1, 0
+  index: -1
+glow5
+  rotate: false
+  xy: 658, 46
+  size: 33, 33
+  orig: 35, 36
+  offset: 1, 2
+  index: -1
+ljfz2/ljfz2_22
+  rotate: false
+  xy: 658, 81
+  size: 81, 66
+  orig: 299, 304
+  offset: 198, 155
+  index: -1
+ljfz2/ljfz2_23
+  rotate: false
+  xy: 1294, 52
+  size: 106, 99
+  orig: 299, 304
+  offset: 163, 158
+  index: -1
+ljfz2/ljfz2_24
+  rotate: true
+  xy: 1426, 26
+  size: 144, 123
+  orig: 299, 304
+  offset: 124, 160
+  index: -1
+ljfz2/ljfz2_25
+  rotate: false
+  xy: 1107, 12
+  size: 185, 139
+  orig: 299, 304
+  offset: 82, 161
+  index: -1
+ljfz2/ljfz2_26
+  rotate: false
+  xy: 419, 20
+  size: 237, 127
+  orig: 299, 304
+  offset: 27, 162
+  index: -1
+ljfz2/ljfz2_27
+  rotate: false
+  xy: 1090, 248
+  size: 257, 149
+  orig: 299, 304
+  offset: 5, 137
+  index: -1
+ljfz2/ljfz2_28
+  rotate: true
+  xy: 220, 19
+  size: 247, 197
+  orig: 299, 304
+  offset: 14, 82
+  index: -1
+ljfz2/ljfz2_29
+  rotate: false
+  xy: 2, 17
+  size: 216, 249
+  orig: 299, 304
+  offset: 30, 23
+  index: -1
+td1/td1_41
+  rotate: true
+  xy: 419, 149
+  size: 117, 335
+  orig: 132, 378
+  offset: 2, 3
+  index: -1
+td1/td1_43
+  rotate: false
+  xy: 1435, 172
+  size: 111, 348
+  orig: 132, 378
+  offset: 5, 5
+  index: -1
+td1/td1_45
+  rotate: true
+  xy: 1090, 399
+  size: 121, 343
+  orig: 132, 378
+  offset: 10, 2
+  index: -1
+td1/td1_47
+  rotate: true
+  xy: 756, 68
+  size: 123, 349
+  orig: 132, 378
+  offset: 0, 4
+  index: -1
+td1/td1_49
+  rotate: true
+  xy: 693, 11
+  size: 55, 296
+  orig: 132, 378
+  offset: 42, 41
+  index: -1

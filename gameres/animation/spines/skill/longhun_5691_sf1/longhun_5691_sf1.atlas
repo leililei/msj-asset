@@ -1,0 +1,265 @@
+
+longhun_5691_sf1.png
+size: 967,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/hai/00
+  rotate: true
+  xy: 614, 376
+  size: 610, 119
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/18
+  rotate: true
+  xy: 614, 376
+  size: 610, 119
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/02
+  rotate: true
+  xy: 735, 376
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/20
+  rotate: true
+  xy: 735, 376
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/04
+  rotate: false
+  xy: 2, 256
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/22
+  rotate: false
+  xy: 2, 256
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/06
+  rotate: false
+  xy: 2, 866
+  size: 610, 120
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/24
+  rotate: false
+  xy: 2, 866
+  size: 610, 120
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/08
+  rotate: false
+  xy: 2, 136
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/26
+  rotate: false
+  xy: 2, 136
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/10
+  rotate: false
+  xy: 2, 16
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/28
+  rotate: false
+  xy: 2, 16
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/12
+  rotate: false
+  xy: 2, 746
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/30
+  rotate: false
+  xy: 2, 746
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/14
+  rotate: false
+  xy: 2, 626
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/32
+  rotate: false
+  xy: 2, 626
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/16
+  rotate: false
+  xy: 2, 506
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/34
+  rotate: false
+  xy: 2, 506
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/hai/19
+  rotate: false
+  xy: 2, 386
+  size: 610, 118
+  orig: 610, 176
+  offset: 0, 27
+  index: -1
+effect/sf1/00
+  rotate: false
+  xy: 829, 71
+  size: 84, 79
+  orig: 176, 176
+  offset: 33, 49
+  index: -1
+effect/sf1/02
+  rotate: false
+  xy: 716, 82
+  size: 111, 96
+  orig: 176, 176
+  offset: 31, 40
+  index: -1
+effect/sf1/04
+  rotate: false
+  xy: 845, 152
+  size: 120, 106
+  orig: 176, 176
+  offset: 28, 35
+  index: -1
+effect/sf1/06
+  rotate: true
+  xy: 845, 260
+  size: 113, 118
+  orig: 176, 176
+  offset: 29, 29
+  index: -1
+effect/sf1/08
+  rotate: false
+  xy: 855, 375
+  size: 105, 122
+  orig: 176, 176
+  offset: 38, 27
+  index: -1
+effect/sf1/10
+  rotate: false
+  xy: 614, 54
+  size: 100, 124
+  orig: 176, 176
+  offset: 41, 26
+  index: -1
+effect/sf1/12
+  rotate: false
+  xy: 828, 18
+  size: 55, 51
+  orig: 176, 176
+  offset: 85, 52
+  index: -1
+effect/sf1/14
+  rotate: true
+  xy: 915, 45
+  size: 105, 48
+  orig: 176, 176
+  offset: 33, 53
+  index: -1
+effect/sf1/16
+  rotate: false
+  xy: 716, 35
+  size: 92, 45
+  orig: 176, 176
+  offset: 34, 53
+  index: -1
+effect/sf1/18
+  rotate: false
+  xy: 885, 2
+  size: 56, 41
+  orig: 176, 176
+  offset: 35, 57
+  index: -1
+effect/xingxing/00
+  rotate: false
+  xy: 810, 62
+  size: 16, 18
+  orig: 44, 44
+  offset: 14, 13
+  index: -1
+effect/xingxing/03
+  rotate: false
+  xy: 885, 45
+  size: 24, 24
+  orig: 44, 44
+  offset: 10, 9
+  index: -1
+effect/xingxing/06
+  rotate: true
+  xy: 614, 18
+  size: 34, 32
+  orig: 44, 44
+  offset: 5, 4
+  index: -1
+effect/xingxing/09
+  rotate: true
+  xy: 943, 23
+  size: 20, 21
+  orig: 44, 44
+  offset: 12, 11
+  index: -1
+effect/xingxing/12
+  rotate: false
+  xy: 829, 164
+  size: 14, 14
+  orig: 44, 44
+  offset: 15, 15
+  index: -1
+effect/yueliang
+  rotate: false
+  xy: 614, 180
+  size: 229, 194
+  orig: 264, 264
+  offset: 17, 50
+  index: -1
+effect/yun1
+  rotate: true
+  xy: 855, 718
+  size: 268, 108
+  orig: 286, 132
+  offset: 7, 11
+  index: -1
+effect/yun2
+  rotate: true
+  xy: 855, 499
+  size: 217, 100
+  orig: 286, 132
+  offset: 39, 8
+  index: -1

@@ -1,0 +1,244 @@
+
+xiaoyanhua.png
+size: 2047,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/xyh_cheng/00
+  rotate: false
+  xy: 268, 29
+  size: 80, 88
+  orig: 200, 200
+  offset: 52, 57
+  index: -1
+images/effect/xyh_cheng/01
+  rotate: true
+  xy: 745, 40
+  size: 82, 104
+  orig: 200, 200
+  offset: 47, 48
+  index: -1
+images/effect/xyh_cheng/02
+  rotate: true
+  xy: 1148, 37
+  size: 88, 118
+  orig: 200, 200
+  offset: 41, 41
+  index: -1
+images/effect/xyh_cheng/03
+  rotate: true
+  xy: 1014, 30
+  size: 95, 130
+  orig: 200, 200
+  offset: 35, 35
+  index: -1
+images/effect/xyh_cheng/04
+  rotate: true
+  xy: 1318, 30
+  size: 97, 135
+  orig: 200, 200
+  offset: 33, 32
+  index: -1
+images/effect/xyh_cheng/05
+  rotate: true
+  xy: 1870, 41
+  size: 100, 142
+  orig: 200, 200
+  offset: 30, 29
+  index: -1
+images/effect/xyh_cheng/06
+  rotate: false
+  xy: 1870, 145
+  size: 102, 148
+  orig: 200, 200
+  offset: 28, 26
+  index: -1
+images/effect/xyh_cheng/07
+  rotate: false
+  xy: 1660, 140
+  size: 104, 153
+  orig: 200, 200
+  offset: 25, 24
+  index: -1
+images/effect/xyh_cheng/09
+  rotate: false
+  xy: 983, 129
+  size: 108, 164
+  orig: 200, 200
+  offset: 21, 18
+  index: -1
+images/effect/xyh_cheng/11
+  rotate: false
+  xy: 748, 126
+  size: 110, 167
+  orig: 200, 200
+  offset: 19, 16
+  index: -1
+images/effect/xyh_cheng/13
+  rotate: false
+  xy: 1207, 129
+  size: 107, 164
+  orig: 200, 200
+  offset: 21, 15
+  index: -1
+images/effect/xyh_cheng/15
+  rotate: false
+  xy: 1436, 131
+  size: 103, 162
+  orig: 200, 200
+  offset: 24, 15
+  index: -1
+images/effect/xyh_cheng/17
+  rotate: false
+  xy: 1768, 134
+  size: 98, 159
+  orig: 200, 200
+  offset: 27, 16
+  index: -1
+images/effect/xyh_cheng/19
+  rotate: true
+  xy: 862, 37
+  size: 88, 148
+  orig: 200, 200
+  offset: 32, 21
+  index: -1
+images/effect/xyh_cheng/22
+  rotate: true
+  xy: 129, 39
+  size: 74, 135
+  orig: 200, 200
+  offset: 40, 23
+  index: -1
+images/effect/xyh_cheng/25
+  rotate: true
+  xy: 490, 57
+  size: 62, 128
+  orig: 200, 200
+  offset: 48, 26
+  index: -1
+images/effect/xyh_cheng/28
+  rotate: true
+  xy: 0, 1
+  size: 53, 121
+  orig: 200, 200
+  offset: 53, 31
+  index: -1
+images/effect/xyh_zi/00
+  rotate: true
+  xy: 383, 24
+  size: 99, 103
+  orig: 200, 200
+  offset: 43, 50
+  index: -1
+images/effect/xyh_zi/01
+  rotate: true
+  xy: 626, 29
+  size: 100, 115
+  orig: 200, 200
+  offset: 39, 42
+  index: -1
+images/effect/xyh_zi/02
+  rotate: true
+  xy: 1543, 29
+  size: 107, 130
+  orig: 200, 200
+  offset: 32, 35
+  index: -1
+images/effect/xyh_zi/03
+  rotate: false
+  xy: 1543, 150
+  size: 113, 143
+  orig: 200, 200
+  offset: 26, 28
+  index: -1
+images/effect/xyh_zi/04
+  rotate: false
+  xy: 1318, 144
+  size: 114, 149
+  orig: 200, 200
+  offset: 24, 25
+  index: -1
+images/effect/xyh_zi/05
+  rotate: false
+  xy: 862, 138
+  size: 117, 155
+  orig: 200, 200
+  offset: 21, 22
+  index: -1
+images/effect/xyh_zi/06
+  rotate: false
+  xy: 626, 133
+  size: 118, 160
+  orig: 200, 200
+  offset: 19, 19
+  index: -1
+images/effect/xyh_zi/07
+  rotate: false
+  xy: 383, 127
+  size: 120, 166
+  orig: 200, 200
+  offset: 17, 16
+  index: -1
+images/effect/xyh_zi/09
+  rotate: false
+  xy: 129, 117
+  size: 124, 176
+  orig: 200, 200
+  offset: 13, 11
+  index: -1
+images/effect/xyh_zi/11
+  rotate: false
+  xy: 0, 116
+  size: 125, 177
+  orig: 200, 200
+  offset: 11, 9
+  index: -1
+images/effect/xyh_zi/13
+  rotate: false
+  xy: 257, 121
+  size: 122, 172
+  orig: 200, 200
+  offset: 13, 9
+  index: -1
+images/effect/xyh_zi/15
+  rotate: false
+  xy: 507, 123
+  size: 115, 170
+  orig: 200, 200
+  offset: 17, 9
+  index: -1
+images/effect/xyh_zi/17
+  rotate: false
+  xy: 1095, 129
+  size: 108, 164
+  orig: 200, 200
+  offset: 22, 12
+  index: -1
+images/effect/xyh_zi/19
+  rotate: true
+  xy: 1677, 41
+  size: 89, 149
+  orig: 200, 200
+  offset: 31, 20
+  index: -1
+images/effect/xyh_zi/22
+  rotate: false
+  xy: 1976, 159
+  size: 71, 134
+  orig: 200, 200
+  offset: 41, 23
+  index: -1
+images/effect/xyh_zi/25
+  rotate: false
+  xy: 1457, 0
+  size: 61, 127
+  orig: 200, 200
+  offset: 48, 26
+  index: -1
+images/effect/xyh_zi/28
+  rotate: true
+  xy: 0, 58
+  size: 54, 121
+  orig: 200, 200
+  offset: 53, 31
+  index: -1

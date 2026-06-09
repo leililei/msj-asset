@@ -1,0 +1,90 @@
+
+lishunchen_skill_beaten_1.png
+size: 763,1350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_hs_00
+  rotate: false
+  xy: 0, 1065
+  size: 763, 140
+  orig: 763, 160
+  offset: 0, 6
+  index: -1
+effect/skill_hs_02
+  rotate: false
+  xy: 0, 921
+  size: 763, 140
+  orig: 763, 160
+  offset: 0, 6
+  index: -1
+effect/skill_hs_04
+  rotate: false
+  xy: 0, 490
+  size: 763, 139
+  orig: 763, 160
+  offset: 0, 6
+  index: -1
+effect/skill_hs_06
+  rotate: false
+  xy: 0, 348
+  size: 763, 138
+  orig: 763, 160
+  offset: 0, 6
+  index: -1
+effect/skill_hs_08
+  rotate: false
+  xy: 0, 777
+  size: 763, 140
+  orig: 763, 160
+  offset: 0, 6
+  index: -1
+effect/skill_hs_10
+  rotate: false
+  xy: 0, 65
+  size: 763, 137
+  orig: 763, 160
+  offset: 0, 7
+  index: -1
+effect/skill_hs_12
+  rotate: false
+  xy: 0, 206
+  size: 763, 138
+  orig: 763, 160
+  offset: 0, 7
+  index: -1
+effect/skill_hs_14
+  rotate: false
+  xy: 0, 633
+  size: 763, 140
+  orig: 763, 160
+  offset: 0, 6
+  index: -1
+effect/skill_hs_16
+  rotate: false
+  xy: 0, 1209
+  size: 763, 141
+  orig: 763, 160
+  offset: 0, 6
+  index: -1
+effect/skill_pm_bai
+  rotate: true
+  xy: 0, 0
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+effect/skill_pm_hei
+  rotate: true
+  xy: 111, 0
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+effect/skill_pm_lan
+  rotate: true
+  xy: 222, 0
+  size: 61, 94
+  orig: 61, 106
+  offset: 0, 7
+  index: -1

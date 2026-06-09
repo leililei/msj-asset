@@ -1,0 +1,48 @@
+
+weiyan_skill1_beaten_1.png
+size: 874,346
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill/msg_weiy_jn_mz/msg_weiy_jn_mz_00
+  rotate: false
+  xy: 594, 2
+  size: 174, 150
+  orig: 343, 218
+  offset: 83, 26
+  index: -1
+effect/skill/msg_weiy_jn_mz/msg_weiy_jn_mz_01
+  rotate: false
+  xy: 2, 139
+  size: 305, 205
+  orig: 343, 218
+  offset: 19, 5
+  index: -1
+effect/skill/msg_weiy_jn_mz/msg_weiy_jn_mz_02
+  rotate: false
+  xy: 309, 144
+  size: 281, 200
+  orig: 343, 218
+  offset: 31, 8
+  index: -1
+effect/skill/msg_weiy_jn_mz/msg_weiy_jn_mz_04
+  rotate: false
+  xy: 592, 154
+  size: 280, 190
+  orig: 343, 218
+  offset: 37, 11
+  index: -1
+effect/skill/msg_weiy_jn_mz/msg_weiy_jn_mz_06
+  rotate: false
+  xy: 2, 4
+  size: 280, 133
+  orig: 343, 218
+  offset: 33, 35
+  index: -1
+effect/skill/msg_weiy_jn_mz/msg_weiy_jn_mz_08
+  rotate: false
+  xy: 309, 17
+  size: 283, 125
+  orig: 343, 218
+  offset: 39, 39
+  index: -1

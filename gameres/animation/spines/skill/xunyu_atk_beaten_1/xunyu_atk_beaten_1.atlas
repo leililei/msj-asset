@@ -1,0 +1,90 @@
+
+xunyu_atk_beaten_1.png
+size: 564,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/bd/bd_00010
+  rotate: false
+  xy: 369, 2
+  size: 117, 99
+  orig: 255, 225
+  offset: 64, 64
+  index: -1
+chutu/bd/bd_00011
+  rotate: false
+  xy: 234, 404
+  size: 210, 152
+  orig: 255, 225
+  offset: 24, 49
+  index: -1
+chutu/bd/bd_00012
+  rotate: false
+  xy: 2, 192
+  size: 230, 175
+  orig: 255, 225
+  offset: 11, 40
+  index: -1
+chutu/bd/bd_00014
+  rotate: false
+  xy: 2, 369
+  size: 230, 187
+  orig: 255, 225
+  offset: 12, 26
+  index: -1
+chutu/bd/bd_00016
+  rotate: true
+  xy: 2, 45
+  size: 145, 198
+  orig: 255, 225
+  offset: 52, 14
+  index: -1
+chutu/bd/bd_00018
+  rotate: false
+  xy: 234, 104
+  size: 154, 144
+  orig: 255, 225
+  offset: 49, 60
+  index: -1
+chutu/bd/bd_00020
+  rotate: false
+  xy: 399, 241
+  size: 160, 149
+  orig: 255, 225
+  offset: 47, 59
+  index: -1
+chutu/bd/bd_00022
+  rotate: false
+  xy: 234, 250
+  size: 163, 152
+  orig: 255, 225
+  offset: 46, 58
+  index: -1
+chutu/bd/bd_00024
+  rotate: true
+  xy: 446, 392
+  size: 164, 116
+  orig: 255, 225
+  offset: 46, 58
+  index: -1
+chutu/bd/bd_00026
+  rotate: false
+  xy: 202, 3
+  size: 165, 99
+  orig: 255, 225
+  offset: 46, 58
+  index: -1
+chutu/bd/bd_00028
+  rotate: false
+  xy: 488, 31
+  size: 64, 70
+  orig: 255, 225
+  offset: 81, 87
+  index: -1
+chutu/glow/glow_00038
+  rotate: true
+  xy: 390, 103
+  size: 136, 141
+  orig: 183, 187
+  offset: 22, 23
+  index: -1

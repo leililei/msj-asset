@@ -1,0 +1,90 @@
+
+maoshe_zhong.png
+size: 164,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Z_di
+  rotate: true
+  xy: 2, 351
+  size: 151, 106
+  orig: 151, 106
+  offset: 0, 0
+  index: -1
+Z_qian
+  rotate: true
+  xy: 2, 232
+  size: 117, 86
+  orig: 117, 86
+  offset: 0, 0
+  index: -1
+Z_ye1
+  rotate: false
+  xy: 94, 20
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+Z_ye2
+  rotate: true
+  xy: 2, 167
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Z_ye3
+  rotate: true
+  xy: 110, 386
+  size: 116, 52
+  orig: 116, 52
+  offset: 0, 0
+  index: -1
+aaaa
+  rotate: false
+  xy: 90, 88
+  size: 68, 261
+  orig: 68, 261
+  offset: 0, 0
+  index: -1
+dan
+  rotate: false
+  xy: 94, 3
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+piyan
+  rotate: false
+  xy: 140, 351
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 110, 359
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 140, 361
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 2, 118
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1

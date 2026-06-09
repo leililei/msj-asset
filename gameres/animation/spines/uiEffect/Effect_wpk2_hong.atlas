@@ -1,0 +1,174 @@
+
+Effect_wpk2_hong.png
+size: 1208,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hs/hs_00000
+  rotate: false
+  xy: 2, 2
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+hs/hs_00002
+  rotate: false
+  xy: 95, 2
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+hs/hs_00004
+  rotate: false
+  xy: 188, 2
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+hs/hs_00006
+  rotate: false
+  xy: 281, 2
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+hs/hs_00008
+  rotate: false
+  xy: 374, 3
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+hs/hs_00010
+  rotate: false
+  xy: 467, 3
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+hs/hs_00012
+  rotate: false
+  xy: 560, 3
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+hs/hs_00014
+  rotate: false
+  xy: 653, 3
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+hs/hs_00016
+  rotate: false
+  xy: 746, 3
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+hs/hs_00018
+  rotate: false
+  xy: 977, 126
+  size: 90, 91
+  orig: 93, 95
+  offset: 2, 2
+  index: -1
+hs/hs_00020
+  rotate: false
+  xy: 1117, 33
+  size: 89, 91
+  orig: 93, 95
+  offset: 3, 2
+  index: -1
+hs/hs_00022
+  rotate: false
+  xy: 1025, 33
+  size: 90, 91
+  orig: 93, 95
+  offset: 2, 2
+  index: -1
+hs/hs_00024
+  rotate: false
+  xy: 1069, 126
+  size: 90, 91
+  orig: 93, 95
+  offset: 2, 2
+  index: -1
+hs/hs_00026
+  rotate: false
+  xy: 839, 3
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+hs/hs_00028
+  rotate: false
+  xy: 932, 4
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+hsk/hsk_00000
+  rotate: false
+  xy: 248, 95
+  size: 119, 122
+  orig: 128, 131
+  offset: 5, 4
+  index: -1
+hsk/hsk_00004
+  rotate: false
+  xy: 2, 95
+  size: 121, 122
+  orig: 128, 131
+  offset: 4, 4
+  index: -1
+hsk/hsk_00008
+  rotate: false
+  xy: 125, 95
+  size: 121, 122
+  orig: 128, 131
+  offset: 4, 4
+  index: -1
+hsk/hsk_00012
+  rotate: true
+  xy: 369, 96
+  size: 121, 120
+  orig: 128, 131
+  offset: 4, 5
+  index: -1
+hsk/hsk_00016
+  rotate: true
+  xy: 735, 96
+  size: 121, 119
+  orig: 128, 131
+  offset: 4, 6
+  index: -1
+hsk/hsk_00020
+  rotate: true
+  xy: 491, 96
+  size: 121, 120
+  orig: 128, 131
+  offset: 4, 5
+  index: -1
+hsk/hsk_00024
+  rotate: true
+  xy: 613, 96
+  size: 121, 120
+  orig: 128, 131
+  offset: 4, 5
+  index: -1
+hsk/hsk_00028
+  rotate: false
+  xy: 856, 97
+  size: 119, 120
+  orig: 128, 131
+  offset: 5, 5
+  index: -1
+lz_00000
+  rotate: false
+  xy: 1161, 177
+  size: 40, 40
+  orig: 50, 50
+  offset: 5, 5
+  index: -1

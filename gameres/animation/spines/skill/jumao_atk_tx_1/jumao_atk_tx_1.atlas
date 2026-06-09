@@ -1,0 +1,55 @@
+
+jumao_atk_tx_1.png
+size: 1022,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/1/1_015
+  rotate: true
+  xy: 2, 2
+  size: 245, 180
+  orig: 252, 193
+  offset: 2, 9
+  index: -1
+chutu/1/1_016
+  rotate: true
+  xy: 184, 24
+  size: 223, 188
+  orig: 252, 193
+  offset: 25, 3
+  index: -1
+chutu/1/1_017
+  rotate: true
+  xy: 374, 7
+  size: 240, 162
+  orig: 252, 193
+  offset: 10, 2
+  index: -1
+chutu/1/1_019
+  rotate: true
+  xy: 686, 17
+  size: 230, 138
+  orig: 252, 193
+  offset: 4, 0
+  index: -1
+chutu/1/1_021
+  rotate: true
+  xy: 538, 24
+  size: 223, 146
+  orig: 252, 193
+  offset: 3, 1
+  index: -1
+chutu/1/1_023
+  rotate: false
+  xy: 826, 102
+  size: 194, 145
+  orig: 252, 193
+  offset: 5, 3
+  index: -1
+chutu/1/1_025
+  rotate: true
+  xy: 826, 13
+  size: 87, 133
+  orig: 252, 193
+  offset: 5, 19
+  index: -1

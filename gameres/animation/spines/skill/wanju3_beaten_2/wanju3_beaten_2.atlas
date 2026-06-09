@@ -1,0 +1,97 @@
+
+wanju3_beaten_2.png
+size: 1624,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/dl_000
+  rotate: true
+  xy: 1034, 108
+  size: 230, 106
+  orig: 271, 121
+  offset: 26, 11
+  index: -1
+1/ks3_003
+  rotate: true
+  xy: 929, 48
+  size: 290, 103
+  orig: 290, 103
+  offset: 0, 0
+  index: -1
+1/ks_031
+  rotate: true
+  xy: 1142, 204
+  size: 134, 139
+  orig: 143, 143
+  offset: 6, 4
+  index: -1
+1/q_000
+  rotate: false
+  xy: 1052, 26
+  size: 230, 80
+  orig: 239, 89
+  offset: 4, 5
+  index: -1
+1/yun/yun_000
+  rotate: false
+  xy: 929, 20
+  size: 121, 26
+  orig: 344, 164
+  offset: 117, 47
+  index: -1
+1/yun/yun_001
+  rotate: true
+  xy: 776, 20
+  size: 318, 151
+  orig: 344, 164
+  offset: 17, 8
+  index: -1
+1/yun/yun_002
+  rotate: true
+  xy: 621, 15
+  size: 323, 153
+  orig: 344, 164
+  offset: 15, 7
+  index: -1
+1/yun/yun_003
+  rotate: true
+  xy: 465, 10
+  size: 328, 154
+  orig: 344, 164
+  offset: 12, 6
+  index: -1
+1/yun/yun_004
+  rotate: true
+  xy: 165, 4
+  size: 334, 158
+  orig: 344, 164
+  offset: 8, 4
+  index: -1
+1/yun/yun_005
+  rotate: true
+  xy: 2, 2
+  size: 336, 161
+  orig: 344, 164
+  offset: 6, 3
+  index: -1
+1/yun/yun_006
+  rotate: false
+  xy: 1284, 176
+  size: 338, 162
+  orig: 344, 164
+  offset: 3, 2
+  index: -1
+1/yun/yun_007
+  rotate: false
+  xy: 1284, 34
+  size: 338, 140
+  orig: 344, 164
+  offset: 0, 1
+  index: -1
+1/yun/yun_008
+  rotate: true
+  xy: 325, 7
+  size: 331, 138
+  orig: 344, 164
+  offset: 0, 1
+  index: -1

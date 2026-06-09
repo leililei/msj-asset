@@ -1,0 +1,251 @@
+
+Effect_Sanzu_Attack.png
+size: 203,2029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bullet_blue/0001
+  rotate: false
+  xy: 124, 1135
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/bullet_blue/0002
+  rotate: false
+  xy: 124, 1056
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/bullet_blue/0003
+  rotate: false
+  xy: 124, 977
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/bullet_blue/0004
+  rotate: false
+  xy: 125, 9
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/bullet_blue/0005
+  rotate: false
+  xy: 126, 1401
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/bullet_blue/0006
+  rotate: false
+  xy: 126, 1322
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/bullet_orange/0001
+  rotate: false
+  xy: 126, 1243
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/bullet_orange/0002
+  rotate: false
+  xy: 127, 1678
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/bullet_orange/0003
+  rotate: false
+  xy: 127, 1599
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/bullet_orange/0004
+  rotate: false
+  xy: 127, 1520
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/bullet_orange/0005
+  rotate: false
+  xy: 128, 898
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/bullet_orange/0006
+  rotate: false
+  xy: 128, 819
+  size: 75, 75
+  orig: 144, 144
+  offset: 35, 35
+  index: -1
+images/flash.0001
+  rotate: false
+  xy: 113, 171
+  size: 85, 85
+  orig: 144, 144
+  offset: 30, 30
+  index: -1
+images/hit_blue/0001
+  rotate: false
+  xy: 113, 88
+  size: 77, 79
+  orig: 144, 144
+  offset: 34, 32
+  index: -1
+images/hit_blue/0002
+  rotate: true
+  xy: 0, 612
+  size: 112, 126
+  orig: 144, 144
+  offset: 11, 11
+  index: -1
+images/hit_blue/0003
+  rotate: false
+  xy: 0, 1090
+  size: 120, 120
+  orig: 144, 144
+  offset: 12, 12
+  index: -1
+images/hit_blue/0004
+  rotate: false
+  xy: 0, 1347
+  size: 122, 129
+  orig: 144, 144
+  offset: 11, 11
+  index: -1
+images/hit_blue/0005
+  rotate: false
+  xy: 0, 1480
+  size: 123, 134
+  orig: 144, 144
+  offset: 9, 10
+  index: -1
+images/hit_blue/0006
+  rotate: true
+  xy: 0, 385
+  size: 107, 115
+  orig: 144, 144
+  offset: 6, 9
+  index: -1
+images/hit_blue/0007
+  rotate: true
+  xy: 128, 733
+  size: 82, 64
+  orig: 144, 144
+  offset: 33, 17
+  index: -1
+images/hit_orange/0001
+  rotate: false
+  xy: 119, 413
+  size: 77, 79
+  orig: 144, 144
+  offset: 34, 32
+  index: -1
+images/hit_orange/0002
+  rotate: true
+  xy: 0, 496
+  size: 112, 126
+  orig: 144, 144
+  offset: 11, 11
+  index: -1
+images/hit_orange/0003
+  rotate: false
+  xy: 0, 966
+  size: 120, 120
+  orig: 144, 144
+  offset: 12, 12
+  index: -1
+images/hit_orange/0004
+  rotate: false
+  xy: 0, 1214
+  size: 122, 129
+  orig: 144, 144
+  offset: 11, 11
+  index: -1
+images/hit_orange/0005
+  rotate: false
+  xy: 0, 1618
+  size: 123, 135
+  orig: 144, 144
+  offset: 9, 9
+  index: -1
+images/hit_orange/0006
+  rotate: false
+  xy: 0, 278
+  size: 109, 103
+  orig: 144, 144
+  offset: 5, 18
+  index: -1
+images/hit_orange/0007
+  rotate: false
+  xy: 125, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/pre_blue/0001
+  rotate: false
+  xy: 0, 1895
+  size: 125, 134
+  orig: 144, 144
+  offset: 10, 10
+  index: -1
+images/pre_blue/0002
+  rotate: true
+  xy: 0, 847
+  size: 115, 124
+  orig: 144, 144
+  offset: 15, 15
+  index: -1
+images/pre_blue/0003
+  rotate: false
+  xy: 0, 180
+  size: 109, 94
+  orig: 144, 144
+  offset: 26, 25
+  index: -1
+images/pre_blue/0004
+  rotate: false
+  xy: 0, 0
+  size: 121, 78
+  orig: 144, 144
+  offset: 21, 33
+  index: -1
+images/pre_orange/0001
+  rotate: false
+  xy: 0, 1757
+  size: 125, 134
+  orig: 144, 144
+  offset: 10, 10
+  index: -1
+images/pre_orange/0002
+  rotate: true
+  xy: 0, 728
+  size: 115, 124
+  orig: 144, 144
+  offset: 15, 15
+  index: -1
+images/pre_orange/0003
+  rotate: false
+  xy: 0, 82
+  size: 109, 94
+  orig: 144, 144
+  offset: 26, 25
+  index: -1
+images/pre_orange/0004
+  rotate: true
+  xy: 113, 260
+  size: 121, 78
+  orig: 144, 144
+  offset: 21, 33
+  index: -1

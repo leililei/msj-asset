@@ -1,0 +1,111 @@
+
+UI_dazuo_zhaozi.png
+size: 889,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/UI_dazuo_zhaozi/00
+  rotate: false
+  xy: 358, 356
+  size: 175, 175
+  orig: 216, 216
+  offset: 21, 21
+  index: -1
+image/UI_dazuo_zhaozi/02
+  rotate: false
+  xy: 180, 2
+  size: 175, 175
+  orig: 216, 216
+  offset: 21, 21
+  index: -1
+image/UI_dazuo_zhaozi/04
+  rotate: false
+  xy: 357, 179
+  size: 175, 175
+  orig: 216, 216
+  offset: 21, 21
+  index: -1
+image/UI_dazuo_zhaozi/06
+  rotate: false
+  xy: 535, 356
+  size: 175, 175
+  orig: 216, 216
+  offset: 21, 21
+  index: -1
+image/UI_dazuo_zhaozi/08
+  rotate: false
+  xy: 357, 2
+  size: 175, 175
+  orig: 216, 216
+  offset: 21, 21
+  index: -1
+image/UI_dazuo_zhaozi/10
+  rotate: false
+  xy: 534, 179
+  size: 175, 175
+  orig: 216, 216
+  offset: 21, 21
+  index: -1
+image/UI_dazuo_zhaozi/12
+  rotate: false
+  xy: 712, 356
+  size: 175, 175
+  orig: 216, 216
+  offset: 21, 21
+  index: -1
+image/UI_dazuo_zhaozi/14
+  rotate: false
+  xy: 711, 180
+  size: 176, 174
+  orig: 216, 216
+  offset: 20, 21
+  index: -1
+image/UI_dazuo_zhaozi/16
+  rotate: false
+  xy: 711, 4
+  size: 176, 174
+  orig: 216, 216
+  offset: 20, 21
+  index: -1
+image/UI_dazuo_zhaozi/18
+  rotate: false
+  xy: 2, 356
+  size: 176, 175
+  orig: 216, 216
+  offset: 20, 21
+  index: -1
+image/UI_dazuo_zhaozi/20
+  rotate: false
+  xy: 2, 179
+  size: 176, 175
+  orig: 216, 216
+  offset: 20, 21
+  index: -1
+image/UI_dazuo_zhaozi/22
+  rotate: false
+  xy: 180, 356
+  size: 176, 175
+  orig: 216, 216
+  offset: 20, 21
+  index: -1
+image/UI_dazuo_zhaozi/24
+  rotate: false
+  xy: 2, 2
+  size: 176, 175
+  orig: 216, 216
+  offset: 20, 21
+  index: -1
+image/UI_dazuo_zhaozi/26
+  rotate: false
+  xy: 534, 2
+  size: 175, 175
+  orig: 216, 216
+  offset: 21, 21
+  index: -1
+image/UI_dazuo_zhaozi/28
+  rotate: false
+  xy: 180, 179
+  size: 175, 175
+  orig: 216, 216
+  offset: 21, 21
+  index: -1

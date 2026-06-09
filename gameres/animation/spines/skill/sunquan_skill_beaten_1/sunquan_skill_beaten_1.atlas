@@ -1,0 +1,615 @@
+
+sunquan_skill_beaten_1.png
+size: 2036,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/ci/ci_000
+  rotate: true
+  xy: 1, 56
+  size: 189, 261
+  orig: 189, 284
+  offset: 0, 0
+  index: -1
+chutu/skill/ci/ci_002
+  rotate: true
+  xy: 288, 539
+  size: 189, 243
+  orig: 189, 284
+  offset: 0, 5
+  index: -1
+chutu/skill/ci/ci_004
+  rotate: false
+  xy: 407, 300
+  size: 189, 236
+  orig: 189, 284
+  offset: 0, 9
+  index: -1
+chutu/skill/ci/ci_006
+  rotate: true
+  xy: 534, 539
+  size: 189, 227
+  orig: 189, 284
+  offset: 0, 15
+  index: -1
+chutu/skill/ci/ci_008
+  rotate: false
+  xy: 640, 87
+  size: 189, 218
+  orig: 189, 284
+  offset: 0, 20
+  index: -1
+chutu/skill/ci/ci_010
+  rotate: false
+  xy: 778, 337
+  size: 180, 208
+  orig: 189, 284
+  offset: 9, 26
+  index: -1
+chutu/skill/ci/ci_012
+  rotate: false
+  xy: 265, 60
+  size: 164, 195
+  orig: 189, 284
+  offset: 20, 32
+  index: -1
+chutu/skill/ci/ci_014
+  rotate: true
+  xy: 969, 462
+  size: 144, 177
+  orig: 189, 284
+  offset: 30, 40
+  index: -1
+chutu/skill/ci1_000
+  rotate: false
+  xy: 249, 258
+  size: 155, 274
+  orig: 157, 281
+  offset: 0, 5
+  index: -1
+chutu/skill/ci2/ci2_000
+  rotate: true
+  xy: 1664, 501
+  size: 65, 124
+  orig: 98, 184
+  offset: 17, 9
+  index: -1
+chutu/skill/ci2/ci2_001
+  rotate: false
+  xy: 1954, 895
+  size: 80, 131
+  orig: 98, 184
+  offset: 10, 17
+  index: -1
+chutu/skill/ci2/ci2_002
+  rotate: true
+  xy: 1406, 4
+  size: 87, 137
+  orig: 98, 184
+  offset: 6, 21
+  index: -1
+chutu/skill/ci2/ci2_003
+  rotate: true
+  xy: 1795, 568
+  size: 93, 135
+  orig: 98, 184
+  offset: 2, 31
+  index: -1
+chutu/skill/ci2/ci2_004
+  rotate: false
+  xy: 1703, 277
+  size: 96, 108
+  orig: 98, 184
+  offset: 0, 63
+  index: -1
+chutu/skill/ci2/ci2_005
+  rotate: true
+  xy: 1310, 1
+  size: 90, 93
+  orig: 98, 184
+  offset: 0, 82
+  index: -1
+chutu/skill/ci3/ci3_000
+  rotate: true
+  xy: 599, 308
+  size: 228, 176
+  orig: 353, 295
+  offset: 8, 4
+  index: -1
+chutu/skill/ci3/ci3_001
+  rotate: false
+  xy: 1433, 808
+  size: 261, 218
+  orig: 353, 295
+  offset: 9, 10
+  index: -1
+chutu/skill/ci3/ci3_002
+  rotate: false
+  xy: 592, 785
+  size: 283, 241
+  orig: 353, 295
+  offset: 14, 16
+  index: -1
+chutu/skill/ci3/ci3_003
+  rotate: false
+  xy: 1, 535
+  size: 284, 245
+  orig: 353, 295
+  offset: 33, 24
+  index: -1
+chutu/skill/ci3/ci3_004
+  rotate: false
+  xy: 1, 783
+  size: 300, 243
+  orig: 353, 295
+  offset: 41, 40
+  index: -1
+chutu/skill/glow6_000
+  rotate: true
+  xy: 1933, 536
+  size: 140, 99
+  orig: 144, 104
+  offset: 3, 3
+  index: -1
+chutu/skill/huo/huo_001
+  rotate: false
+  xy: 1760, 68
+  size: 96, 99
+  orig: 140, 140
+  offset: 16, 9
+  index: -1
+chutu/skill/huo/huo_002
+  rotate: false
+  xy: 1792, 392
+  size: 105, 108
+  orig: 140, 140
+  offset: 12, 9
+  index: -1
+chutu/skill/huo/huo_003
+  rotate: true
+  xy: 1588, 252
+  size: 114, 112
+  orig: 140, 140
+  offset: 9, 10
+  index: -1
+chutu/skill/huo/huo_004
+  rotate: false
+  xy: 958, 1
+  size: 119, 115
+  orig: 140, 140
+  offset: 8, 10
+  index: -1
+chutu/skill/huo/huo_005
+  rotate: false
+  xy: 1912, 679
+  size: 122, 119
+  orig: 140, 140
+  offset: 9, 10
+  index: -1
+chutu/skill/huo/huo_006
+  rotate: false
+  xy: 832, 1
+  size: 123, 115
+  orig: 140, 140
+  offset: 9, 16
+  index: -1
+chutu/skill/huo/huo_007
+  rotate: true
+  xy: 1524, 98
+  size: 125, 108
+  orig: 140, 140
+  offset: 7, 23
+  index: -1
+chutu/skill/huo/huo_008
+  rotate: true
+  xy: 1567, 369
+  size: 125, 111
+  orig: 140, 140
+  offset: 6, 21
+  index: -1
+chutu/skill/huo/huo_009
+  rotate: true
+  xy: 1083, 1
+  size: 121, 111
+  orig: 140, 140
+  offset: 7, 20
+  index: -1
+chutu/skill/huo/huo_010
+  rotate: true
+  xy: 1681, 388
+  size: 110, 108
+  orig: 140, 140
+  offset: 11, 18
+  index: -1
+chutu/skill/huo/huo_011
+  rotate: true
+  xy: 1657, 2
+  size: 97, 99
+  orig: 140, 140
+  offset: 18, 18
+  index: -1
+chutu/skill/huo/huo_012
+  rotate: false
+  xy: 1900, 411
+  size: 88, 89
+  orig: 140, 140
+  offset: 27, 20
+  index: -1
+chutu/skill/huo2/huo2_002
+  rotate: false
+  xy: 969, 609
+  size: 179, 181
+  orig: 254, 298
+  offset: 32, 0
+  index: -1
+chutu/skill/huo2/huo2_003
+  rotate: false
+  xy: 969, 609
+  size: 179, 181
+  orig: 254, 298
+  offset: 32, 0
+  index: -1
+chutu/skill/huo2/huo2_004
+  rotate: true
+  xy: 878, 793
+  size: 233, 281
+  orig: 254, 298
+  offset: 15, 0
+  index: -1
+chutu/skill/huo2/huo2_005
+  rotate: true
+  xy: 304, 785
+  size: 241, 285
+  orig: 254, 298
+  offset: 9, 4
+  index: -1
+chutu/skill/huo2/huo2_006
+  rotate: false
+  xy: 1, 248
+  size: 245, 284
+  orig: 254, 298
+  offset: 3, 4
+  index: -1
+chutu/skill/huo2/huo2_007
+  rotate: true
+  xy: 1162, 787
+  size: 239, 268
+  orig: 254, 298
+  offset: 4, 14
+  index: -1
+chutu/skill/huo2/huo2_008
+  rotate: true
+  xy: 1697, 801
+  size: 225, 254
+  orig: 254, 298
+  offset: 7, 20
+  index: -1
+chutu/skill/huo2/huo2_009
+  rotate: false
+  xy: 432, 76
+  size: 205, 221
+  orig: 254, 298
+  offset: 24, 46
+  index: -1
+chutu/skill/huo2/huo2_010
+  rotate: true
+  xy: 764, 548
+  size: 191, 202
+  orig: 254, 298
+  offset: 31, 57
+  index: -1
+chutu/skill/huo2/huo2_011
+  rotate: true
+  xy: 1149, 446
+  size: 149, 181
+  orig: 254, 298
+  offset: 55, 69
+  index: -1
+chutu/skill/ks3_000
+  rotate: false
+  xy: 1151, 598
+  size: 227, 71
+  orig: 231, 78
+  offset: 2, 4
+  index: -1
+chutu/skill/ks4_000
+  rotate: false
+  xy: 274, 1
+  size: 183, 56
+  orig: 185, 56
+  offset: 1, 0
+  index: -1
+chutu/skill/ks5_000
+  rotate: true
+  xy: 1354, 356
+  size: 126, 152
+  orig: 144, 163
+  offset: 9, 5
+  index: -1
+chutu/skill/ks6_000
+  rotate: false
+  xy: 1373, 94
+  size: 148, 99
+  orig: 155, 107
+  offset: 3, 3
+  index: -1
+chutu/skill/lz3_000
+  rotate: false
+  xy: 961, 338
+  size: 175, 121
+  orig: 202, 149
+  offset: 8, 12
+  index: -1
+chutu/skill/lz4_000
+  rotate: true
+  xy: 832, 119
+  size: 215, 146
+  orig: 221, 157
+  offset: 3, 5
+  index: -1
+chutu/skill/st/st_000
+  rotate: true
+  xy: 1197, 5
+  size: 126, 110
+  orig: 164, 149
+  offset: 32, 15
+  index: -1
+chutu/skill/st/st_001
+  rotate: false
+  xy: 1954, 813
+  size: 70, 79
+  orig: 164, 149
+  offset: 68, 40
+  index: -1
+chutu/skill/st/st_002
+  rotate: false
+  xy: 1546, 2
+  size: 108, 93
+  orig: 164, 149
+  offset: 41, 26
+  index: -1
+chutu/skill/st/st_003
+  rotate: true
+  xy: 1373, 196
+  size: 157, 141
+  orig: 164, 149
+  offset: 6, 4
+  index: -1
+chutu/skill/sx1/sx1_000
+  rotate: true
+  xy: 1452, 672
+  size: 32, 235
+  orig: 59, 340
+  offset: 14, 34
+  index: -1
+chutu/skill/sx1/sx1_001
+  rotate: true
+  xy: 1, 3
+  size: 50, 270
+  orig: 59, 340
+  offset: 6, 21
+  index: -1
+chutu/skill/sx1/sx1_002
+  rotate: true
+  xy: 304, 731
+  size: 51, 331
+  orig: 59, 340
+  offset: 2, 6
+  index: -1
+chutu/skill/sx1/sx1_003
+  rotate: true
+  xy: 1151, 672
+  size: 38, 298
+  orig: 59, 340
+  offset: 12, 16
+  index: -1
+chutu/skill/sx1/sx1_004
+  rotate: true
+  xy: 638, 742
+  size: 40, 254
+  orig: 59, 340
+  offset: 12, 28
+  index: -1
+chutu/skill/sx1/sx1_005
+  rotate: true
+  xy: 1690, 664
+  size: 37, 203
+  orig: 59, 340
+  offset: 12, 49
+  index: -1
+chutu/skill/sx2_000
+  rotate: true
+  xy: 1151, 713
+  size: 71, 329
+  orig: 89, 351
+  offset: 13, 12
+  index: -1
+chutu/skill/td2/td2_000
+  rotate: false
+  xy: 1381, 581
+  size: 212, 88
+  orig: 218, 106
+  offset: 3, 10
+  index: -1
+chutu/skill/td2/td2_001
+  rotate: false
+  xy: 1697, 704
+  size: 212, 94
+  orig: 218, 106
+  offset: 3, 3
+  index: -1
+chutu/skill/td2/td2_002
+  rotate: false
+  xy: 1139, 346
+  size: 212, 97
+  orig: 218, 106
+  offset: 3, 2
+  index: -1
+chutu/skill/td2/td2_003
+  rotate: true
+  xy: 981, 123
+  size: 212, 99
+  orig: 218, 106
+  offset: 3, 2
+  index: -1
+chutu/skill/td2/td2_004
+  rotate: false
+  xy: 1483, 707
+  size: 211, 98
+  orig: 218, 106
+  offset: 4, 4
+  index: -1
+chutu/skill/td2/td2_005
+  rotate: true
+  xy: 1083, 125
+  size: 210, 94
+  orig: 218, 106
+  offset: 5, 8
+  index: -1
+chutu/skill/td2/td2_006
+  rotate: true
+  xy: 1180, 134
+  size: 209, 93
+  orig: 218, 106
+  offset: 6, 9
+  index: -1
+chutu/skill/td2/td2_007
+  rotate: true
+  xy: 1276, 136
+  size: 207, 94
+  orig: 218, 106
+  offset: 8, 9
+  index: -1
+chutu/skill/td2/td2_008
+  rotate: false
+  xy: 1333, 485
+  size: 202, 93
+  orig: 218, 106
+  offset: 13, 9
+  index: -1
+chutu/skill/td2/td2_009
+  rotate: false
+  xy: 1596, 569
+  size: 196, 92
+  orig: 218, 106
+  offset: 19, 10
+  index: -1
+chutu/skill/wu/wu_001
+  rotate: true
+  xy: 589, 21
+  size: 52, 41
+  orig: 127, 70
+  offset: 45, 1
+  index: -1
+chutu/skill/wu/wu_002
+  rotate: false
+  xy: 1791, 503
+  size: 109, 62
+  orig: 127, 70
+  offset: 16, 1
+  index: -1
+chutu/skill/wu/wu_004
+  rotate: false
+  xy: 1538, 497
+  size: 123, 69
+  orig: 127, 70
+  offset: 4, 1
+  index: -1
+chutu/skill/wu/wu_006
+  rotate: false
+  xy: 460, 4
+  size: 126, 69
+  orig: 127, 70
+  offset: 1, 1
+  index: -1
+chutu/skill/wu/wu_008
+  rotate: true
+  xy: 1517, 226
+  size: 127, 68
+  orig: 127, 70
+  offset: 0, 1
+  index: -1
+chutu/skill/wu/wu_010
+  rotate: true
+  xy: 1509, 356
+  size: 126, 55
+  orig: 127, 70
+  offset: 0, 1
+  index: -1
+chutu/skill/wu/wu_012
+  rotate: false
+  xy: 1635, 102
+  size: 122, 40
+  orig: 127, 70
+  offset: 1, 4
+  index: -1
+chutu/skill/yan/yan_000
+  rotate: false
+  xy: 1903, 302
+  size: 35, 37
+  orig: 104, 104
+  offset: 52, 28
+  index: -1
+chutu/skill/yan/yan_002
+  rotate: false
+  xy: 1903, 342
+  size: 54, 66
+  orig: 104, 104
+  offset: 36, 17
+  index: -1
+chutu/skill/yan/yan_004
+  rotate: true
+  xy: 640, 1
+  size: 83, 86
+  orig: 104, 104
+  offset: 13, 11
+  index: -1
+chutu/skill/yan/yan_006
+  rotate: true
+  xy: 1802, 285
+  size: 104, 98
+  orig: 104, 104
+  offset: 0, 6
+  index: -1
+chutu/skill/yan/yan_008
+  rotate: true
+  xy: 1635, 145
+  size: 104, 99
+  orig: 104, 104
+  offset: 0, 5
+  index: -1
+chutu/skill/yan/yan_010
+  rotate: true
+  xy: 1737, 170
+  size: 104, 103
+  orig: 104, 104
+  offset: 0, 1
+  index: -1
+chutu/skill/yan/yan_012
+  rotate: true
+  xy: 1843, 178
+  size: 104, 103
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+chutu/skill/yan/yan_014
+  rotate: true
+  xy: 1859, 71
+  size: 104, 100
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+chutu/skill/yan/yan_016
+  rotate: true
+  xy: 729, 29
+  size: 55, 100
+  orig: 104, 104
+  offset: 39, 0
+  index: -1
+chutu/skill/yan/yan_018
+  rotate: true
+  xy: 1759, 16
+  size: 49, 74
+  orig: 104, 104
+  offset: 39, 22
+  index: -1

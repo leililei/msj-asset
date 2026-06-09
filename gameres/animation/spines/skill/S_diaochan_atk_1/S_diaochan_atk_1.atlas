@@ -1,0 +1,188 @@
+
+S_diaochan_atk_1.png
+size: 976,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_bz_guang_00
+  rotate: false
+  xy: 467, 58
+  size: 95, 97
+  orig: 108, 108
+  offset: 6, 7
+  index: -1
+effect/skill_bz_guang_01
+  rotate: false
+  xy: 564, 59
+  size: 95, 96
+  orig: 109, 108
+  offset: 7, 7
+  index: -1
+effect/skill_glow
+  rotate: false
+  xy: 913, 58
+  size: 58, 58
+  orig: 66, 66
+  offset: 4, 4
+  index: -1
+effect/skill_huaban_00
+  rotate: false
+  xy: 913, 118
+  size: 61, 37
+  orig: 64, 40
+  offset: 1, 1
+  index: -1
+effect/skill_huaban_01
+  rotate: false
+  xy: 206, 6
+  size: 69, 41
+  orig: 72, 45
+  offset: 1, 2
+  index: -1
+effect/skill_huaban_02
+  rotate: false
+  xy: 376, 2
+  size: 76, 48
+  orig: 79, 51
+  offset: 1, 2
+  index: -1
+effect/skill_huaban_03
+  rotate: true
+  xy: 777, 75
+  size: 80, 51
+  orig: 83, 55
+  offset: 1, 2
+  index: -1
+effect/skill_huaban_04
+  rotate: false
+  xy: 603, 2
+  size: 86, 55
+  orig: 89, 59
+  offset: 1, 2
+  index: -1
+effect/skill_huaban_05
+  rotate: false
+  xy: 762, 2
+  size: 85, 59
+  orig: 89, 63
+  offset: 2, 2
+  index: -1
+effect/skill_huaban_06
+  rotate: true
+  xy: 710, 63
+  size: 92, 65
+  orig: 95, 69
+  offset: 1, 2
+  index: -1
+effect/skill_huaban_07
+  rotate: true
+  xy: 395, 57
+  size: 98, 70
+  orig: 101, 72
+  offset: 1, 0
+  index: -1
+effect/skill_huaban_08
+  rotate: true
+  xy: 280, 51
+  size: 104, 59
+  orig: 107, 62
+  offset: 1, 1
+  index: -1
+effect/skill_huaban_09
+  rotate: true
+  xy: 217, 50
+  size: 105, 61
+  orig: 109, 65
+  offset: 2, 1
+  index: -1
+effect/skill_huaban_10
+  rotate: true
+  xy: 150, 49
+  size: 106, 65
+  orig: 110, 65
+  offset: 2, 0
+  index: -1
+effect/skill_huaban_11
+  rotate: true
+  xy: 341, 52
+  size: 103, 52
+  orig: 110, 57
+  offset: 3, 3
+  index: -1
+effect/skill_huaban_12
+  rotate: false
+  xy: 913, 18
+  size: 38, 38
+  orig: 44, 43
+  offset: 3, 2
+  index: -1
+effect/skill_mz_mangci_00
+  rotate: true
+  xy: 150, 5
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+effect/skill_mz_mangci_01
+  rotate: true
+  xy: 454, 3
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+effect/skill_mz_mangci_02
+  rotate: false
+  xy: 849, 9
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+effect/skill_mz_mangci_03
+  rotate: false
+  xy: 830, 79
+  size: 70, 76
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+effect/skill_sf04_00
+  rotate: true
+  xy: 691, 4
+  size: 54, 69
+  orig: 55, 71
+  offset: 0, 1
+  index: -1
+effect/skill_sf04_01
+  rotate: false
+  xy: 512, 2
+  size: 89, 54
+  orig: 90, 55
+  offset: 1, 0
+  index: -1
+effect/skill_sf04_02
+  rotate: true
+  xy: 661, 60
+  size: 95, 47
+  orig: 97, 48
+  offset: 1, 1
+  index: -1
+effect/skill_sf04_03
+  rotate: false
+  xy: 277, 10
+  size: 97, 38
+  orig: 99, 42
+  offset: 1, 1
+  index: -1
+effect/skill_sf04_04
+  rotate: true
+  xy: 198, 5
+  size: 42, 6
+  orig: 67, 13
+  offset: 12, 5
+  index: -1
+effect/skill_sf_huan
+  rotate: false
+  xy: 2, 9
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1

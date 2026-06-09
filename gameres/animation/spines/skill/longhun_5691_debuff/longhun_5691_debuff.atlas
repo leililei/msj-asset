@@ -1,0 +1,20 @@
+
+longhun_5691_debuff.png
+size: 81,43
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/debuff/debuff_z_1
+  rotate: true
+  xy: 44, 2
+  size: 39, 35
+  orig: 72, 72
+  offset: 16, 18
+  index: -1
+effect/debuff/debuff_z_2
+  rotate: false
+  xy: 2, 2
+  size: 40, 39
+  orig: 72, 72
+  offset: 16, 16
+  index: -1

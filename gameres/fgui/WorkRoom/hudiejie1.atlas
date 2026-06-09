@@ -1,0 +1,13 @@
+
+hudiejie1.png
+size: 32,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hudiejie1
+  rotate: false
+  xy: 3, 3
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1

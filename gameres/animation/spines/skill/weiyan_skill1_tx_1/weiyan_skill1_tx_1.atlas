@@ -1,0 +1,167 @@
+
+weiyan_skill1_tx_1.png
+size: 1744,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill/msg_weiy_jn_dg/msg_weiy_jn_dg_00
+  rotate: true
+  xy: 1626, 99
+  size: 95, 112
+  orig: 177, 177
+  offset: 6, 16
+  index: -1
+effect/skill/msg_weiy_jn_dg/msg_weiy_jn_dg_02
+  rotate: false
+  xy: 801, 10
+  size: 146, 126
+  orig: 177, 177
+  offset: 24, 44
+  index: -1
+effect/skill/msg_weiy_jn_dg/msg_weiy_jn_dg_04
+  rotate: false
+  xy: 949, 14
+  size: 141, 122
+  orig: 177, 177
+  offset: 29, 33
+  index: -1
+effect/skill/msg_weiy_jn_dg/msg_weiy_jn_dg_06
+  rotate: true
+  xy: 1092, 20
+  size: 119, 112
+  orig: 177, 177
+  offset: 30, 36
+  index: -1
+effect/skill/msg_weiy_jn_dg/msg_weiy_jn_dg_08
+  rotate: true
+  xy: 1621, 196
+  size: 50, 97
+  orig: 177, 177
+  offset: 96, 47
+  index: -1
+effect/skill/msg_weiy_jn_yw/msg_weiy_jn_yw_00
+  rotate: false
+  xy: 1206, 22
+  size: 140, 117
+  orig: 200, 138
+  offset: 59, 9
+  index: -1
+effect/skill/msg_weiy_jn_yw/msg_weiy_jn_yw_02
+  rotate: false
+  xy: 521, 2
+  size: 140, 132
+  orig: 200, 138
+  offset: 46, 2
+  index: -1
+effect/skill/msg_weiy_jn_yw/msg_weiy_jn_yw_04
+  rotate: false
+  xy: 663, 6
+  size: 136, 128
+  orig: 200, 138
+  offset: 42, 5
+  index: -1
+effect/skill/msg_weiy_jn_yw/msg_weiy_jn_yw_06
+  rotate: false
+  xy: 371, 4
+  size: 148, 128
+  orig: 200, 138
+  offset: 19, 4
+  index: -1
+effect/skill/msg_weiy_jn_yw/msg_weiy_jn_yw_08
+  rotate: false
+  xy: 2, 4
+  size: 140, 123
+  orig: 200, 138
+  offset: 18, 4
+  index: -1
+effect/skill/msg_weiy_jn_yw/msg_weiy_jn_yw_10
+  rotate: true
+  xy: 1348, 6
+  size: 142, 98
+  orig: 200, 138
+  offset: 9, 4
+  index: -1
+effect/skill/msg_weiy_jn_yw/msg_weiy_jn_yw_12
+  rotate: true
+  xy: 144, 4
+  size: 123, 93
+  orig: 200, 138
+  offset: 10, 8
+  index: -1
+effect/skill/msg_weiy_pg_xl/msg_weiy_pg_xl_00
+  rotate: false
+  xy: 883, 138
+  size: 175, 226
+  orig: 250, 250
+  offset: 53, 12
+  index: -1
+effect/skill/msg_weiy_pg_xl/msg_weiy_pg_xl_02
+  rotate: true
+  xy: 451, 136
+  size: 228, 227
+  orig: 250, 250
+  offset: 8, 7
+  index: -1
+effect/skill/msg_weiy_pg_xl/msg_weiy_pg_xl_04
+  rotate: true
+  xy: 680, 138
+  size: 226, 201
+  orig: 250, 250
+  offset: 14, 20
+  index: -1
+effect/skill/msg_weiy_pg_xl/msg_weiy_pg_xl_06
+  rotate: true
+  xy: 224, 134
+  size: 230, 225
+  orig: 250, 250
+  offset: 8, 17
+  index: -1
+effect/skill/msg_weiy_pg_xl/msg_weiy_pg_xl_08
+  rotate: false
+  xy: 2, 129
+  size: 220, 235
+  orig: 250, 250
+  offset: 18, 8
+  index: -1
+effect/skill/msg_weiy_pg_xl/msg_weiy_pg_xl_10
+  rotate: false
+  xy: 1444, 157
+  size: 175, 207
+  orig: 250, 250
+  offset: 42, 21
+  index: -1
+effect/skill/msg_weiy_pg_xl/msg_weiy_pg_xl_12
+  rotate: false
+  xy: 1060, 141
+  size: 206, 223
+  orig: 250, 250
+  offset: 19, 6
+  index: -1
+effect/skill/msg_weiy_pg_xl/msg_weiy_pg_xl_14
+  rotate: false
+  xy: 1268, 150
+  size: 174, 214
+  orig: 250, 250
+  offset: 37, 12
+  index: -1
+effect/skill/msg_weiy_pg_xl/msg_weiy_pg_xl_16
+  rotate: true
+  xy: 1448, 17
+  size: 138, 176
+  orig: 250, 250
+  offset: 56, 36
+  index: -1
+effect/skill/msg_weiy_pg_xl/msg_weiy_pg_xl_18
+  rotate: false
+  xy: 239, 2
+  size: 130, 130
+  orig: 250, 250
+  offset: 60, 60
+  index: -1
+effect/skill/msg_weiy_pg_xl/msg_weiy_pg_xl_20
+  rotate: false
+  xy: 1626, 248
+  size: 116, 116
+  orig: 250, 250
+  offset: 67, 67
+  index: -1

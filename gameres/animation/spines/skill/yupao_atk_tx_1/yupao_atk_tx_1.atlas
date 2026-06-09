@@ -1,0 +1,69 @@
+
+yupao_atk_tx_1.png
+size: 370,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/2/2_00001
+  rotate: false
+  xy: 181, 421
+  size: 144, 116
+  orig: 249, 198
+  offset: 33, 34
+  index: -1
+images/chutu/2/2_00002
+  rotate: false
+  xy: 153, 286
+  size: 179, 133
+  orig: 249, 198
+  offset: 26, 29
+  index: -1
+images/chutu/2/2_00003
+  rotate: false
+  xy: 2, 147
+  size: 182, 137
+  orig: 249, 198
+  offset: 31, 28
+  index: -1
+images/chutu/2/2_00005
+  rotate: false
+  xy: 186, 2
+  size: 182, 142
+  orig: 249, 198
+  offset: 33, 25
+  index: -1
+images/chutu/2/2_00007
+  rotate: false
+  xy: 2, 6
+  size: 182, 139
+  orig: 249, 198
+  offset: 36, 28
+  index: -1
+images/chutu/2/2_00009
+  rotate: false
+  xy: 186, 146
+  size: 177, 138
+  orig: 249, 198
+  offset: 40, 28
+  index: -1
+images/chutu/2/2_00011
+  rotate: false
+  xy: 2, 287
+  size: 149, 136
+  orig: 249, 198
+  offset: 66, 29
+  index: -1
+images/chutu/3/3_00003
+  rotate: false
+  xy: 2, 476
+  size: 62, 61
+  orig: 87, 87
+  offset: 13, 13
+  index: -1
+images/chutu/4/4_00007
+  rotate: true
+  xy: 66, 425
+  size: 112, 113
+  orig: 173, 175
+  offset: 32, 30
+  index: -1

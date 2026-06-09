@@ -1,0 +1,55 @@
+
+baoxiangguai_lan_tx_1.png
+size: 230,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/td1/td1_00011
+  rotate: false
+  xy: 2, 35
+  size: 84, 29
+  orig: 94, 38
+  offset: 1, 4
+  index: -1
+chutu/td1/td1_00012
+  rotate: false
+  xy: 82, 3
+  size: 79, 30
+  orig: 94, 38
+  offset: 9, 4
+  index: -1
+chutu/td1/td1_00013
+  rotate: false
+  xy: 2, 2
+  size: 78, 31
+  orig: 94, 38
+  offset: 12, 3
+  index: -1
+chutu/td1/td1_00014
+  rotate: false
+  xy: 88, 36
+  size: 71, 28
+  orig: 94, 38
+  offset: 20, 5
+  index: -1
+chutu/td1/td1_00015
+  rotate: false
+  xy: 161, 39
+  size: 67, 25
+  orig: 94, 38
+  offset: 23, 7
+  index: -1
+chutu/td1/td1_00016
+  rotate: false
+  xy: 163, 20
+  size: 58, 17
+  orig: 94, 38
+  offset: 27, 8
+  index: -1
+chutu/td1/td1_00017
+  rotate: false
+  xy: 163, 4
+  size: 34, 14
+  orig: 94, 38
+  offset: 49, 11
+  index: -1

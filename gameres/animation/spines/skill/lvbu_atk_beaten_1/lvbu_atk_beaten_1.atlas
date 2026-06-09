@@ -1,0 +1,202 @@
+
+lvbu_atk_beaten_1.png
+size: 619,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/atk/baodian2/baodian2_00019
+  rotate: false
+  xy: 230, 206
+  size: 186, 62
+  orig: 237, 78
+  offset: 25, 7
+  index: -1
+images/chutu/atk/baodian2/baodian2_00021
+  rotate: false
+  xy: 2, 120
+  size: 213, 72
+  orig: 237, 78
+  offset: 12, 4
+  index: -1
+images/chutu/atk/baodian2/baodian2_00024
+  rotate: false
+  xy: 2, 194
+  size: 226, 74
+  orig: 237, 78
+  offset: 2, 3
+  index: -1
+images/chutu/atk/baodian2/baodian2_00026
+  rotate: false
+  xy: 418, 195
+  size: 163, 73
+  orig: 237, 78
+  offset: 70, 4
+  index: -1
+images/chutu/atk/baodian2/baodian2_00029
+  rotate: false
+  xy: 230, 132
+  size: 133, 72
+  orig: 237, 78
+  offset: 101, 6
+  index: -1
+images/chutu/atk/baodian2/baodian2_00031
+  rotate: false
+  xy: 365, 121
+  size: 132, 72
+  orig: 237, 78
+  offset: 101, 6
+  index: -1
+images/chutu/atk/baodian2/baodian2_00034
+  rotate: false
+  xy: 499, 121
+  size: 91, 72
+  orig: 237, 78
+  offset: 133, 6
+  index: -1
+images/chutu/atk/gx1/gx1_00019
+  rotate: true
+  xy: 264, 3
+  size: 40, 45
+  orig: 57, 48
+  offset: 9, 0
+  index: -1
+images/chutu/atk/gx1/gx1_00020
+  rotate: true
+  xy: 578, 20
+  size: 50, 37
+  orig: 57, 48
+  offset: 5, 4
+  index: -1
+images/chutu/atk/gx1/gx1_00021
+  rotate: false
+  xy: 422, 10
+  size: 56, 27
+  orig: 57, 48
+  offset: 1, 6
+  index: -1
+images/chutu/atk/gx1/gx1_00022
+  rotate: false
+  xy: 480, 19
+  size: 20, 18
+  orig: 57, 48
+  offset: 16, 13
+  index: -1
+images/chutu/atk/gx2/gx2_00019
+  rotate: true
+  xy: 523, 30
+  size: 40, 53
+  orig: 96, 74
+  offset: 28, 2
+  index: -1
+images/chutu/atk/gx2/gx2_00020
+  rotate: false
+  xy: 343, 5
+  size: 77, 59
+  orig: 96, 74
+  offset: 9, 8
+  index: -1
+images/chutu/atk/gx2/gx2_00021
+  rotate: false
+  xy: 519, 72
+  size: 64, 47
+  orig: 96, 74
+  offset: 16, 15
+  index: -1
+images/chutu/atk/gx2/gx2_00022
+  rotate: true
+  xy: 592, 105
+  size: 55, 17
+  orig: 96, 74
+  offset: 25, 29
+  index: -1
+images/chutu/atk/gx3/gx3_00019
+  rotate: false
+  xy: 502, 20
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+images/chutu/atk/lz1/lz1_00020
+  rotate: false
+  xy: 211, 2
+  size: 51, 41
+  orig: 107, 59
+  offset: 24, 9
+  index: -1
+images/chutu/atk/lz1/lz1_00022
+  rotate: false
+  xy: 440, 71
+  size: 77, 48
+  orig: 107, 59
+  offset: 14, 8
+  index: -1
+images/chutu/atk/lz1/lz1_00024
+  rotate: true
+  xy: 158, 33
+  size: 85, 51
+  orig: 107, 59
+  offset: 12, 4
+  index: -1
+images/chutu/atk/lz1/lz1_00026
+  rotate: false
+  xy: 343, 66
+  size: 95, 53
+  orig: 107, 59
+  offset: 7, 3
+  index: -1
+images/chutu/atk/lz1/lz1_00028
+  rotate: false
+  xy: 211, 45
+  size: 101, 56
+  orig: 107, 59
+  offset: 4, 2
+  index: -1
+images/chutu/atk/pd1/pd1_00019
+  rotate: false
+  xy: 104, 2
+  size: 99, 28
+  orig: 115, 28
+  offset: 15, 0
+  index: -1
+images/chutu/atk/pd1/pd1_00021
+  rotate: false
+  xy: 2, 2
+  size: 100, 28
+  orig: 115, 28
+  offset: 11, 0
+  index: -1
+images/chutu/atk/pd1/pd1_00023
+  rotate: false
+  xy: 217, 103
+  size: 106, 27
+  orig: 115, 28
+  offset: 5, 1
+  index: -1
+images/chutu/atk/pd1/pd1_00025
+  rotate: true
+  xy: 592, 162
+  size: 106, 25
+  orig: 115, 28
+  offset: 3, 3
+  index: -1
+images/chutu/atk/pd1/pd1_00027
+  rotate: true
+  xy: 314, 2
+  size: 99, 27
+  orig: 115, 28
+  offset: 3, 1
+  index: -1
+images/chutu/atk/yw1/yw1_00022
+  rotate: true
+  xy: 440, 39
+  size: 30, 81
+  orig: 35, 86
+  offset: 3, 2
+  index: -1
+images/chutu/atk/yw2/yw2_00021
+  rotate: true
+  xy: 2, 32
+  size: 86, 154
+  orig: 105, 161
+  offset: 13, 4
+  index: -1

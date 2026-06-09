@@ -1,0 +1,20 @@
+
+zhangliao_skill_bj_1.png
+size: 149,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/s1/s1_046
+  rotate: false
+  xy: 3, 133
+  size: 144, 128
+  orig: 148, 133
+  offset: 2, 2
+  index: -1
+chutu/skill/s1/s1_047
+  rotate: false
+  xy: 3, 3
+  size: 144, 128
+  orig: 148, 133
+  offset: 2, 2
+  index: -1

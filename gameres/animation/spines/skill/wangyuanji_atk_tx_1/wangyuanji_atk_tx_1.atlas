@@ -1,0 +1,62 @@
+
+wangyuanji_atk_tx_1.png
+size: 1336,319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/lz1_011
+  rotate: false
+  xy: 1147, 154
+  size: 187, 163
+  orig: 209, 182
+  offset: 9, 12
+  index: -1
+chutu/skill/t2/t2_003
+  rotate: false
+  xy: 1069, 9
+  size: 224, 143
+  orig: 538, 190
+  offset: 25, 20
+  index: -1
+chutu/skill/t2/t2_004
+  rotate: false
+  xy: 2, 2
+  size: 395, 151
+  orig: 538, 190
+  offset: 27, 30
+  index: -1
+chutu/skill/t2/t2_006
+  rotate: false
+  xy: 2, 155
+  size: 419, 162
+  orig: 538, 190
+  offset: 73, 20
+  index: -1
+chutu/skill/t2/t2_008
+  rotate: false
+  xy: 423, 150
+  size: 369, 167
+  orig: 538, 190
+  offset: 151, 8
+  index: -1
+chutu/skill/t2/t2_010
+  rotate: false
+  xy: 794, 163
+  size: 351, 154
+  orig: 538, 190
+  offset: 167, 12
+  index: -1
+chutu/skill/t2/t2_012
+  rotate: false
+  xy: 399, 14
+  size: 313, 134
+  orig: 538, 190
+  offset: 200, 18
+  index: -1
+chutu/skill/t2/t2_014
+  rotate: false
+  xy: 794, 49
+  size: 273, 112
+  orig: 538, 190
+  offset: 223, 31
+  index: -1

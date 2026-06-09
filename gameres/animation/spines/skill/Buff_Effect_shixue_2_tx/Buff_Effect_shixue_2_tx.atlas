@@ -1,0 +1,48 @@
+
+Buff_Effect_shixue_2_tx.png
+size: 296,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/sxzt/s1/s1_00000
+  rotate: false
+  xy: 3, 54
+  size: 218, 65
+  orig: 336, 103
+  offset: 56, 20
+  index: -1
+chutu/sxzt/s2/s2_00000
+  rotate: false
+  xy: 3, 561
+  size: 291, 146
+  orig: 328, 190
+  offset: 21, 19
+  index: -1
+chutu/sxzt/s2/s2_00001
+  rotate: false
+  xy: 3, 260
+  size: 276, 151
+  orig: 328, 190
+  offset: 21, 14
+  index: -1
+chutu/sxzt/s2/s2_00002
+  rotate: false
+  xy: 3, 121
+  size: 272, 137
+  orig: 328, 190
+  offset: 40, 19
+  index: -1
+chutu/sxzt/s2/s2_00003
+  rotate: false
+  xy: 3, 413
+  size: 291, 146
+  orig: 328, 190
+  offset: 21, 15
+  index: -1
+chutu/sxzt/s3/s3_00000
+  rotate: false
+  xy: 3, 3
+  size: 163, 49
+  orig: 197, 83
+  offset: 18, 18
+  index: -1

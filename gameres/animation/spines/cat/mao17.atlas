@@ -1,0 +1,160 @@
+
+mao17.png
+size: 280,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbeard1
+  rotate: 270
+  xy: 252, 76
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+Lear1
+  rotate: 180
+  xy: 213, 7
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: false
+  xy: 225, 77
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Leye2
+  rotate: false
+  xy: 261, 10
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Leyec1
+  rotate: false
+  xy: 29, 9
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Lfoot1
+  rotate: false
+  xy: 256, 27
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Lfoot2
+  rotate: true
+  xy: 240, 5
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Rbeard1
+  rotate: false
+  xy: 111, 6
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+Rear1
+  rotate: 270
+  xy: 3, 6
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 140, 6
+  size: 25, 23
+  orig: 25, 26
+  offset: 0, 3
+  index: -1
+Reye2
+  rotate: true
+  xy: 193, 4
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Reyec1
+  rotate: false
+  xy: 47, 9
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Rfoot1
+  rotate: false
+  xy: 248, 104
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Rfoot2
+  rotate: false
+  xy: 251, 45
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 3, 15
+  size: 156, 107
+  orig: 156, 107
+  offset: 0, 0
+  index: -1
+bodyd1
+  rotate: 180
+  xy: 186, 82
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+bodyt1
+  rotate: false
+  xy: 216, 28
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+head1
+  rotate: true
+  xy: 167, 6
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 225, 103
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: 180
+  xy: 3, 102
+  size: 12, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+shy1
+  rotate: true
+  xy: 195, 22
+  size: 59, 19
+  orig: 59, 19
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: false
+  xy: 158, 31
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1

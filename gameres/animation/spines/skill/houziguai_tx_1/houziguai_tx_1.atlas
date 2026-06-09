@@ -1,0 +1,62 @@
+
+houziguai_tx_1.png
+size: 616,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/sf1/sf1_00000
+  rotate: false
+  xy: 553, 48
+  size: 60, 81
+  orig: 156, 156
+  offset: 17, 48
+  index: -1
+chutu/sf1/sf1_00001
+  rotate: false
+  xy: 3, 19
+  size: 103, 110
+  orig: 156, 156
+  offset: 14, 13
+  index: -1
+chutu/sf1/sf1_00003
+  rotate: true
+  xy: 201, 3
+  size: 126, 85
+  orig: 156, 156
+  offset: 18, 6
+  index: -1
+chutu/sf1/sf1_00005
+  rotate: true
+  xy: 108, 9
+  size: 120, 91
+  orig: 156, 156
+  offset: 25, 8
+  index: -1
+chutu/sf1/sf1_00007
+  rotate: true
+  xy: 288, 20
+  size: 109, 89
+  orig: 156, 156
+  offset: 36, 15
+  index: -1
+chutu/sf1/sf1_00009
+  rotate: true
+  xy: 379, 33
+  size: 96, 91
+  orig: 156, 156
+  offset: 49, 15
+  index: -1
+chutu/sf1/sf1_00011
+  rotate: false
+  xy: 472, 40
+  size: 79, 89
+  orig: 156, 156
+  offset: 61, 15
+  index: -1
+chutu/sf1/sf1_00013
+  rotate: true
+  xy: 472, 8
+  size: 30, 80
+  orig: 156, 156
+  offset: 105, 25
+  index: -1

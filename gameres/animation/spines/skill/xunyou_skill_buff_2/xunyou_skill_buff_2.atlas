@@ -1,0 +1,97 @@
+
+xunyou_skill_buff_2.png
+size: 1464,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill1/bfd1/bfd1_00073
+  rotate: false
+  xy: 1253, 40
+  size: 184, 100
+  orig: 257, 120
+  offset: 42, 2
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00075
+  rotate: false
+  xy: 1253, 143
+  size: 207, 103
+  orig: 257, 120
+  offset: 31, 2
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00077
+  rotate: true
+  xy: 1040, 19
+  size: 227, 109
+  orig: 257, 120
+  offset: 19, 0
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00079
+  rotate: true
+  xy: 702, 2
+  size: 244, 112
+  orig: 257, 120
+  offset: 9, 0
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00081
+  rotate: true
+  xy: 470, 1
+  size: 245, 113
+  orig: 257, 120
+  offset: 9, 0
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00083
+  rotate: true
+  xy: 119, 1
+  size: 245, 114
+  orig: 257, 120
+  offset: 7, 0
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00085
+  rotate: true
+  xy: 1, 1
+  size: 245, 115
+  orig: 257, 120
+  offset: 6, 0
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00087
+  rotate: true
+  xy: 236, 3
+  size: 243, 114
+  orig: 257, 120
+  offset: 9, 0
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00089
+  rotate: true
+  xy: 353, 3
+  size: 243, 114
+  orig: 257, 120
+  offset: 9, 1
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00091
+  rotate: true
+  xy: 586, 2
+  size: 244, 113
+  orig: 257, 120
+  offset: 9, 1
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00093
+  rotate: true
+  xy: 817, 2
+  size: 244, 112
+  orig: 257, 120
+  offset: 9, 2
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00095
+  rotate: true
+  xy: 932, 4
+  size: 242, 105
+  orig: 257, 120
+  offset: 9, 5
+  index: -1
+images/chutu/skill1/bfd1/bfd1_00097
+  rotate: true
+  xy: 1152, 14
+  size: 232, 98
+  orig: 257, 120
+  offset: 16, 7
+  index: -1

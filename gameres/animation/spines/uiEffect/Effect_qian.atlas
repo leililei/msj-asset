@@ -1,0 +1,258 @@
+
+Effect_qian.png
+size: 943,1072
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/chouqian/00
+  rotate: true
+  xy: 436, 436
+  size: 100, 295
+  orig: 130, 345
+  offset: 16, 22
+  index: -1
+effect/chouqian/01
+  rotate: false
+  xy: 334, 764
+  size: 107, 306
+  orig: 130, 345
+  offset: 12, 18
+  index: -1
+effect/chouqian/02
+  rotate: false
+  xy: 2, 751
+  size: 113, 319
+  orig: 130, 345
+  offset: 10, 12
+  index: -1
+effect/chouqian/03
+  rotate: false
+  xy: 2, 438
+  size: 110, 311
+  orig: 130, 345
+  offset: 11, 16
+  index: -1
+effect/chouqian/04
+  rotate: false
+  xy: 110, 134
+  size: 105, 302
+  orig: 130, 345
+  offset: 14, 19
+  index: -1
+effect/chouqian/05
+  rotate: false
+  xy: 330, 463
+  size: 104, 296
+  orig: 130, 345
+  offset: 14, 22
+  index: -1
+effect/chouqian/06
+  rotate: true
+  xy: 436, 538
+  size: 104, 295
+  orig: 130, 345
+  offset: 13, 23
+  index: -1
+effect/chouqian/07
+  rotate: true
+  xy: 436, 644
+  size: 106, 296
+  orig: 130, 345
+  offset: 12, 24
+  index: -1
+effect/chouqian/08
+  rotate: false
+  xy: 222, 461
+  size: 106, 298
+  orig: 130, 345
+  offset: 12, 24
+  index: -1
+effect/chouqian/09
+  rotate: false
+  xy: 114, 448
+  size: 106, 301
+  orig: 130, 345
+  offset: 12, 23
+  index: -1
+effect/chouqian/10
+  rotate: true
+  xy: 443, 752
+  size: 104, 304
+  orig: 130, 345
+  offset: 13, 22
+  index: -1
+effect/chouqian/11
+  rotate: true
+  xy: 443, 964
+  size: 106, 307
+  orig: 130, 345
+  offset: 13, 21
+  index: -1
+effect/chouqian/12
+  rotate: false
+  xy: 2, 127
+  size: 106, 309
+  orig: 130, 345
+  offset: 13, 21
+  index: -1
+effect/chouqian/13
+  rotate: false
+  xy: 117, 761
+  size: 107, 309
+  orig: 130, 345
+  offset: 13, 22
+  index: -1
+effect/chouqian/14
+  rotate: false
+  xy: 226, 761
+  size: 106, 309
+  orig: 130, 345
+  offset: 13, 22
+  index: -1
+effect/chouqian/16
+  rotate: true
+  xy: 443, 858
+  size: 104, 308
+  orig: 130, 345
+  offset: 13, 23
+  index: -1
+effect/chouqian/18
+  rotate: false
+  xy: 312, 155
+  size: 100, 279
+  orig: 130, 345
+  offset: 15, 31
+  index: -1
+effect/chouqian/20
+  rotate: false
+  xy: 414, 156
+  size: 96, 278
+  orig: 130, 345
+  offset: 17, 31
+  index: -1
+effect/chouqian/22
+  rotate: false
+  xy: 512, 160
+  size: 92, 274
+  orig: 130, 345
+  offset: 19, 34
+  index: -1
+effect/chouqian/24
+  rotate: false
+  xy: 606, 176
+  size: 92, 258
+  orig: 130, 345
+  offset: 19, 50
+  index: -1
+effect/chouqian/26
+  rotate: false
+  xy: 700, 221
+  size: 90, 213
+  orig: 130, 345
+  offset: 20, 94
+  index: -1
+effect/lizi/00
+  rotate: true
+  xy: 749, 662
+  size: 155, 181
+  orig: 240, 240
+  offset: 49, 23
+  index: -1
+effect/lizi/03
+  rotate: true
+  xy: 753, 819
+  size: 163, 184
+  orig: 240, 240
+  offset: 39, 21
+  index: -1
+effect/lizi/06
+  rotate: true
+  xy: 752, 984
+  size: 86, 183
+  orig: 240, 240
+  offset: 30, 22
+  index: -1
+effect/lizi/09
+  rotate: false
+  xy: 263, 7
+  size: 96, 134
+  orig: 240, 240
+  offset: 25, 67
+  index: -1
+effect/lizi/12
+  rotate: false
+  xy: 788, 33
+  size: 131, 96
+  orig: 240, 240
+  offset: 24, 64
+  index: -1
+effect/lizi/15
+  rotate: false
+  xy: 792, 131
+  size: 141, 97
+  orig: 240, 240
+  offset: 24, 59
+  index: -1
+effect/lizi/18
+  rotate: true
+  xy: 164, 7
+  size: 125, 97
+  orig: 240, 240
+  offset: 48, 60
+  index: -1
+effect/lizi/20
+  rotate: true
+  xy: 687, 39
+  size: 135, 99
+  orig: 240, 240
+  offset: 42, 61
+  index: -1
+effect/lizi/23
+  rotate: true
+  xy: 583, 15
+  size: 143, 102
+  orig: 240, 240
+  offset: 35, 60
+  index: -1
+effect/lizi/26
+  rotate: false
+  xy: 792, 230
+  size: 149, 112
+  orig: 240, 240
+  offset: 33, 47
+  index: -1
+effect/lizi/29
+  rotate: false
+  xy: 2, 10
+  size: 160, 115
+  orig: 240, 240
+  offset: 31, 40
+  index: -1
+effect/lizi/32
+  rotate: false
+  xy: 414, 2
+  size: 167, 152
+  orig: 240, 240
+  offset: 32, 32
+  index: -1
+effect/lizi/35
+  rotate: false
+  xy: 792, 344
+  size: 149, 164
+  orig: 240, 240
+  offset: 55, 29
+  index: -1
+effect/lizi/38
+  rotate: true
+  xy: 734, 510
+  size: 150, 178
+  orig: 240, 240
+  offset: 54, 23
+  index: -1
+effect/qian_glow
+  rotate: false
+  xy: 217, 143
+  size: 93, 291
+  orig: 110, 310
+  offset: 8, 10
+  index: -1

@@ -1,0 +1,20 @@
+
+zhangxingcai_skill_bj_1.png
+size: 644,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/s25/s25_00018
+  rotate: false
+  xy: 394, 2
+  size: 248, 237
+  orig: 256, 252
+  offset: 5, 7
+  index: -1
+chutu/skill/s26/s26_00019
+  rotate: false
+  xy: 2, 21
+  size: 390, 218
+  orig: 400, 233
+  offset: 6, 6
+  index: -1

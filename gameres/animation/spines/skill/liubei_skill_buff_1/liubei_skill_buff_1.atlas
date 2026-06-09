@@ -1,0 +1,111 @@
+
+liubei_skill_buff_1.png
+size: 611,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill/gx10/gx10_00000
+  rotate: true
+  xy: 284, 3
+  size: 93, 60
+  orig: 134, 90
+  offset: 10, 13
+  index: -1
+images/chutu/skill/gx10/gx10_00002
+  rotate: false
+  xy: 110, 7
+  size: 103, 78
+  orig: 134, 90
+  offset: 10, 6
+  index: -1
+images/chutu/skill/gx10/gx10_00004
+  rotate: false
+  xy: 2, 7
+  size: 106, 78
+  orig: 134, 90
+  offset: 15, 8
+  index: -1
+images/chutu/skill/gx10/gx10_00006
+  rotate: false
+  xy: 461, 114
+  size: 98, 73
+  orig: 134, 90
+  offset: 25, 12
+  index: -1
+images/chutu/skill/gx10/gx10_00008
+  rotate: true
+  xy: 514, 191
+  size: 105, 65
+  orig: 134, 90
+  offset: 19, 18
+  index: -1
+images/chutu/skill/gx10/gx10_00010
+  rotate: true
+  xy: 461, 189
+  size: 107, 51
+  orig: 134, 90
+  offset: 16, 29
+  index: -1
+images/chutu/skill/gx10/gx10_00012
+  rotate: true
+  xy: 536, 15
+  size: 97, 51
+  orig: 134, 90
+  offset: 16, 23
+  index: -1
+images/chutu/skill/gx10/gx10_00014
+  rotate: true
+  xy: 346, 6
+  size: 90, 56
+  orig: 134, 90
+  offset: 12, 20
+  index: -1
+images/chutu/skill/gx10/gx10_00016
+  rotate: true
+  xy: 472, 15
+  size: 97, 62
+  orig: 134, 90
+  offset: 11, 16
+  index: -1
+images/chutu/skill/gx10/gx10_00018
+  rotate: true
+  xy: 215, 2
+  size: 94, 67
+  orig: 134, 90
+  offset: 16, 11
+  index: -1
+images/chutu/skill/gx10/gx10_00020
+  rotate: true
+  xy: 404, 19
+  size: 77, 66
+  orig: 134, 90
+  offset: 30, 13
+  index: -1
+images/chutu/skill/gx10/gx10_00022
+  rotate: false
+  xy: 561, 131
+  size: 48, 58
+  orig: 134, 90
+  offset: 51, 19
+  index: -1
+images/chutu/skill/gx6/gx6_00004
+  rotate: false
+  xy: 2, 87
+  size: 178, 209
+  orig: 218, 258
+  offset: 18, 26
+  index: -1
+images/chutu/skill/gx7/gx7_00004
+  rotate: false
+  xy: 182, 98
+  size: 148, 198
+  orig: 161, 213
+  offset: 7, 11
+  index: -1
+images/chutu/skill/lz4/lz4_00004
+  rotate: false
+  xy: 332, 98
+  size: 127, 198
+  orig: 161, 219
+  offset: 24, 8
+  index: -1

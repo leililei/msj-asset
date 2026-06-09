@@ -1,0 +1,27 @@
+
+Effect_jixiantiaozhan.png
+size: 1183,722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aaa
+  rotate: true
+  xy: 2, 2
+  size: 718, 852
+  orig: 800, 1000
+  offset: 32, 109
+  index: -1
+jiantou9
+  rotate: false
+  xy: 856, 255
+  size: 21, 32
+  orig: 23, 34
+  offset: 1, 1
+  index: -1
+kuang
+  rotate: false
+  xy: 856, 289
+  size: 325, 431
+  orig: 327, 433
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+machao_skill_bj_1.png
+size: 194,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/s1/s1_036
+  rotate: false
+  xy: 98, 2
+  size: 94, 79
+  orig: 96, 82
+  offset: 1, 1
+  index: -1
+chutu/skill/s1/s1_037
+  rotate: false
+  xy: 2, 2
+  size: 94, 79
+  orig: 96, 82
+  offset: 1, 1
+  index: -1

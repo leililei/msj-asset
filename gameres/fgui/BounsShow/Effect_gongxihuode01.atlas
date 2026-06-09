@@ -1,0 +1,27 @@
+
+Effect_gongxihuode01.png
+size: 372,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5gl1/5gl1_0001
+  rotate: false
+  xy: 3, 23
+  size: 257, 158
+  orig: 259, 171
+  offset: 1, 6
+  index: -1
+6gl2/6gl2_0000
+  rotate: false
+  xy: 262, 73
+  size: 105, 108
+  orig: 107, 112
+  offset: 1, 2
+  index: -1
+7gl3/7gl3_0001
+  rotate: false
+  xy: 262, 3
+  size: 105, 68
+  orig: 107, 71
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+bingshu_ui_301.png
+size: 325,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z1
+  rotate: false
+  xy: 2, 2
+  size: 321, 300
+  orig: 321, 300
+  offset: 0, 0
+  index: -1

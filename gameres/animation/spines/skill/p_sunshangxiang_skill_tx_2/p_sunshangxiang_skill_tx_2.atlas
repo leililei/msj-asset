@@ -1,0 +1,118 @@
+
+p_sunshangxiang_skill_tx_2.png
+size: 516,565
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/3tqy/3tqy_0004
+  rotate: false
+  xy: 425, 354
+  size: 89, 88
+  orig: 136, 140
+  offset: 30, 8
+  index: -1
+chutu/skill/3tqy/3tqy_0006
+  rotate: false
+  xy: 389, 234
+  size: 121, 118
+  orig: 136, 140
+  offset: 5, 4
+  index: -1
+chutu/skill/3tqy/3tqy_0008
+  rotate: true
+  xy: 376, 106
+  size: 126, 128
+  orig: 136, 140
+  offset: 3, 4
+  index: -1
+chutu/skill/3tqy/3tqy_0010
+  rotate: true
+  xy: 427, 444
+  size: 119, 84
+  orig: 136, 140
+  offset: 2, 5
+  index: -1
+chutu/skill/3tqy/3tqy_0012
+  rotate: false
+  xy: 188, 2
+  size: 122, 83
+  orig: 136, 140
+  offset: 2, 5
+  index: -1
+chutu/skill/3tqy/3tqy_0014
+  rotate: false
+  xy: 312, 3
+  size: 120, 82
+  orig: 136, 140
+  offset: 3, 6
+  index: -1
+chutu/skill/4xzy/4xzy_0004
+  rotate: false
+  xy: 208, 87
+  size: 154, 76
+  orig: 239, 139
+  offset: 36, 20
+  index: -1
+chutu/skill/4xzy/4xzy_0006
+  rotate: false
+  xy: 219, 165
+  size: 155, 98
+  orig: 239, 139
+  offset: 36, 20
+  index: -1
+chutu/skill/4xzy/4xzy_0008
+  rotate: false
+  xy: 2, 32
+  size: 184, 104
+  orig: 239, 139
+  offset: 27, 12
+  index: -1
+chutu/skill/4xzy/4xzy_0010
+  rotate: false
+  xy: 2, 352
+  size: 221, 98
+  orig: 239, 139
+  offset: 9, 7
+  index: -1
+chutu/skill/4xzy/4xzy_0012
+  rotate: false
+  xy: 225, 265
+  size: 162, 95
+  orig: 239, 139
+  offset: 38, 16
+  index: -1
+chutu/skill/4xzy/4xzy_0014
+  rotate: false
+  xy: 2, 138
+  size: 204, 108
+  orig: 239, 139
+  offset: 17, 9
+  index: -1
+chutu/skill/4xzy/4xzy_0016
+  rotate: false
+  xy: 2, 452
+  size: 221, 111
+  orig: 239, 139
+  offset: 9, 7
+  index: -1
+chutu/skill/4xzy/4xzy_0018
+  rotate: false
+  xy: 2, 248
+  size: 215, 102
+  orig: 239, 139
+  offset: 6, 9
+  index: -1
+chutu/skill/4xzy/4xzy_0020
+  rotate: false
+  xy: 225, 362
+  size: 198, 82
+  orig: 239, 139
+  offset: 8, 19
+  index: -1
+chutu/skill/4xzy/4xzy_0022
+  rotate: false
+  xy: 225, 446
+  size: 200, 117
+  orig: 239, 139
+  offset: 27, 12
+  index: -1

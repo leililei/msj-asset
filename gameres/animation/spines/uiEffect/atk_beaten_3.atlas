@@ -1,0 +1,76 @@
+
+atk_beaten_3.png
+size: 926,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/9atk_mz_00
+  rotate: true
+  xy: 825, 3
+  size: 36, 31
+  orig: 38, 33
+  offset: 1, 1
+  index: -1
+effect/9atk_mz_01
+  rotate: true
+  xy: 825, 41
+  size: 90, 99
+  orig: 117, 134
+  offset: 2, 33
+  index: -1
+effect/9atk_mz_02
+  rotate: false
+  xy: 611, 13
+  size: 108, 118
+  orig: 112, 121
+  offset: 2, 2
+  index: -1
+effect/9atk_mz_03
+  rotate: false
+  xy: 2, 2
+  size: 119, 129
+  orig: 122, 132
+  offset: 1, 1
+  index: -1
+effect/9atk_mz_04
+  rotate: true
+  xy: 123, 4
+  size: 127, 137
+  orig: 130, 141
+  offset: 1, 2
+  index: -1
+effect/9atk_mz_05
+  rotate: true
+  xy: 262, 9
+  size: 122, 106
+  orig: 125, 106
+  offset: 1, 0
+  index: -1
+effect/9atk_mz_07
+  rotate: true
+  xy: 721, 13
+  size: 118, 102
+  orig: 120, 105
+  offset: 1, 1
+  index: -1
+effect/9atk_mz_09
+  rotate: true
+  xy: 370, 9
+  size: 122, 96
+  orig: 122, 99
+  offset: 0, 1
+  index: -1
+effect/9atk_mz_11
+  rotate: true
+  xy: 468, 10
+  size: 121, 73
+  orig: 123, 73
+  offset: 1, 0
+  index: -1
+effect/9atk_mz_13
+  rotate: true
+  xy: 543, 11
+  size: 120, 66
+  orig: 122, 67
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+shaizi.png
+size: 1072,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 586, 165
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 586, 3
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 748, 165
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 748, 3
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 910, 165
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 910, 3
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 3, 52
+  size: 581, 273
+  orig: 581, 273
+  offset: 0, 0
+  index: -1

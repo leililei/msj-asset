@@ -1,0 +1,34 @@
+
+xuchu_atk_beaten_2.png
+size: 347,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/atk/1dl1glow/1dl1glow_0000
+  rotate: true
+  xy: 167, 19
+  size: 39, 40
+  orig: 39, 41
+  offset: 0, 1
+  index: -1
+chutu/atk/1dl2dl/1dl2dl_0000
+  rotate: false
+  xy: 167, 61
+  size: 152, 64
+  orig: 152, 64
+  offset: 0, 0
+  index: -1
+chutu/atk/1dl3sk/1dl3sk_0000
+  rotate: false
+  xy: 1, 1
+  size: 163, 124
+  orig: 163, 124
+  offset: 0, 0
+  index: -1
+chutu/atk/1dl4sk/1dl4sk_0000
+  rotate: false
+  xy: 1, 128
+  size: 345, 103
+  orig: 345, 105
+  offset: 0, 1
+  index: -1

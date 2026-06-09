@@ -1,0 +1,181 @@
+
+Effect_wpk2_fs.png
+size: 314,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs/fs_0001
+  rotate: true
+  xy: 208, 306
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+fs/fs_0002
+  rotate: true
+  xy: 2, 305
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+fs/fs_0003
+  rotate: true
+  xy: 104, 305
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+fs/fs_0004
+  rotate: true
+  xy: 206, 205
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+fs/fs_0005
+  rotate: true
+  xy: 2, 204
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+fs/fs_0006
+  rotate: true
+  xy: 104, 204
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+fs/fs_0007
+  rotate: true
+  xy: 206, 104
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+fs/fs_0008
+  rotate: false
+  xy: 2, 2
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+fs/fs_0009
+  rotate: false
+  xy: 103, 2
+  size: 99, 99
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+fs/fs_0010
+  rotate: false
+  xy: 204, 2
+  size: 98, 99
+  orig: 103, 105
+  offset: 3, 2
+  index: -1
+fs/fs_0011
+  rotate: true
+  xy: 2, 104
+  size: 98, 100
+  orig: 103, 105
+  offset: 3, 2
+  index: -1
+fs/fs_0012
+  rotate: true
+  xy: 208, 407
+  size: 98, 101
+  orig: 103, 105
+  offset: 3, 1
+  index: -1
+fs/fs_0013
+  rotate: true
+  xy: 2, 406
+  size: 99, 101
+  orig: 103, 105
+  offset: 2, 1
+  index: -1
+fs/fs_0014
+  rotate: true
+  xy: 105, 406
+  size: 99, 101
+  orig: 103, 105
+  offset: 2, 1
+  index: -1
+fs/fs_0015
+  rotate: true
+  xy: 104, 103
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+fsk/fsk_0001
+  rotate: true
+  xy: 2, 903
+  size: 130, 131
+  orig: 144, 146
+  offset: 7, 7
+  index: -1
+fsk/fsk_0003
+  rotate: true
+  xy: 135, 903
+  size: 130, 131
+  orig: 144, 146
+  offset: 7, 7
+  index: -1
+fsk/fsk_0005
+  rotate: true
+  xy: 2, 771
+  size: 130, 131
+  orig: 144, 146
+  offset: 7, 7
+  index: -1
+fsk/fsk_0007
+  rotate: false
+  xy: 135, 771
+  size: 130, 130
+  orig: 144, 146
+  offset: 7, 8
+  index: -1
+fsk/fsk_0009
+  rotate: false
+  xy: 2, 639
+  size: 130, 130
+  orig: 144, 146
+  offset: 7, 8
+  index: -1
+fsk/fsk_0011
+  rotate: false
+  xy: 134, 639
+  size: 130, 130
+  orig: 144, 146
+  offset: 7, 8
+  index: -1
+fsk/fsk_0013
+  rotate: false
+  xy: 2, 507
+  size: 130, 130
+  orig: 144, 146
+  offset: 7, 8
+  index: -1
+fsk/fsk_0015
+  rotate: false
+  xy: 134, 507
+  size: 130, 130
+  orig: 144, 146
+  offset: 7, 8
+  index: -1
+lz1_00000
+  rotate: false
+  xy: 268, 945
+  size: 44, 43
+  orig: 55, 55
+  offset: 6, 6
+  index: -1
+lz3_00000
+  rotate: false
+  xy: 268, 990
+  size: 44, 43
+  orig: 55, 55
+  offset: 6, 6
+  index: -1

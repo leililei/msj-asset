@@ -1,0 +1,76 @@
+
+shuijing_atk_zd_1.png
+size: 1045,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/a6/a6_000
+  rotate: false
+  xy: 2, 72
+  size: 235, 69
+  orig: 262, 88
+  offset: 16, 10
+  index: -1
+chutu/attack/a6/a6_002
+  rotate: false
+  xy: 447, 73
+  size: 203, 68
+  orig: 262, 88
+  offset: 48, 11
+  index: -1
+chutu/attack/a6/a6_004
+  rotate: false
+  xy: 228, 2
+  size: 216, 68
+  orig: 262, 88
+  offset: 35, 11
+  index: -1
+chutu/attack/a6/a6_006
+  rotate: false
+  xy: 854, 73
+  size: 182, 68
+  orig: 262, 88
+  offset: 68, 11
+  index: -1
+chutu/attack/a6/a6_008
+  rotate: false
+  xy: 852, 3
+  size: 191, 68
+  orig: 262, 88
+  offset: 58, 11
+  index: -1
+chutu/attack/a6/a6_010
+  rotate: false
+  xy: 652, 73
+  size: 200, 68
+  orig: 262, 88
+  offset: 48, 11
+  index: -1
+chutu/attack/a6/a6_012
+  rotate: false
+  xy: 446, 3
+  size: 205, 68
+  orig: 262, 88
+  offset: 44, 11
+  index: -1
+chutu/attack/a6/a6_014
+  rotate: false
+  xy: 653, 4
+  size: 197, 67
+  orig: 262, 88
+  offset: 52, 11
+  index: -1
+chutu/attack/a6/a6_016
+  rotate: false
+  xy: 239, 73
+  size: 206, 68
+  orig: 262, 88
+  offset: 43, 11
+  index: -1
+chutu/attack/a6/a6_018
+  rotate: false
+  xy: 2, 2
+  size: 224, 68
+  orig: 262, 88
+  offset: 25, 11
+  index: -1

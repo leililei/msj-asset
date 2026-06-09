@@ -1,0 +1,104 @@
+
+Effect_Jifen_Boom.png
+size: 544,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 278, 60
+  size: 74, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+glow2
+  rotate: false
+  xy: 3, 65
+  size: 212, 212
+  orig: 228, 229
+  offset: 8, 9
+  index: -1
+glow3
+  rotate: false
+  xy: 217, 137
+  size: 139, 140
+  orig: 139, 140
+  offset: 0, 0
+  index: -1
+glow4
+  rotate: false
+  xy: 420, 9
+  size: 65, 67
+  orig: 67, 70
+  offset: 1, 2
+  index: -1
+lg/lg_001
+  rotate: false
+  xy: 278, 29
+  size: 39, 29
+  orig: 520, 29
+  offset: 0, 0
+  index: -1
+lg/lg_003
+  rotate: true
+  xy: 482, 78
+  size: 119, 29
+  orig: 520, 29
+  offset: 0, 0
+  index: -1
+lg/lg_005
+  rotate: true
+  xy: 420, 78
+  size: 199, 29
+  orig: 520, 29
+  offset: 0, 0
+  index: -1
+lg/lg_007
+  rotate: false
+  xy: 3, 34
+  size: 273, 29
+  orig: 520, 29
+  offset: 6, 0
+  index: -1
+lg/lg_009
+  rotate: false
+  xy: 3, 3
+  size: 273, 29
+  orig: 520, 29
+  offset: 86, 0
+  index: -1
+lg/lg_011
+  rotate: true
+  xy: 358, 4
+  size: 273, 29
+  orig: 520, 29
+  offset: 166, 0
+  index: -1
+lg/lg_013
+  rotate: true
+  xy: 389, 4
+  size: 273, 29
+  orig: 520, 29
+  offset: 246, 0
+  index: -1
+lg/lg_015
+  rotate: true
+  xy: 451, 84
+  size: 193, 29
+  orig: 520, 29
+  offset: 326, 0
+  index: -1
+lg/lg_017
+  rotate: true
+  xy: 513, 164
+  size: 113, 29
+  orig: 520, 29
+  offset: 406, 0
+  index: -1
+xx
+  rotate: false
+  xy: 217, 75
+  size: 50, 60
+  orig: 52, 62
+  offset: 1, 1
+  index: -1

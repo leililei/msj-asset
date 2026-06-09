@@ -1,0 +1,195 @@
+
+bingshu_ui_07.png
+size: 1780,471
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J7_fengmian
+  rotate: false
+  xy: 2, 114
+  size: 290, 355
+  orig: 290, 355
+  offset: 0, 0
+  index: -1
+J7_fengmian_ld_00000
+  rotate: false
+  xy: 727, 312
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00001
+  rotate: true
+  xy: 727, 157
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00002
+  rotate: false
+  xy: 882, 312
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00003
+  rotate: true
+  xy: 886, 157
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00004
+  rotate: false
+  xy: 1037, 312
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00005
+  rotate: true
+  xy: 1022, 2
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00006
+  rotate: true
+  xy: 1045, 157
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00007
+  rotate: true
+  xy: 1181, 2
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00008
+  rotate: false
+  xy: 1192, 312
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00009
+  rotate: true
+  xy: 1204, 157
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00010
+  rotate: true
+  xy: 1340, 2
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00011
+  rotate: false
+  xy: 1347, 312
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00012
+  rotate: true
+  xy: 1363, 157
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00013
+  rotate: true
+  xy: 1499, 2
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fengmian_ld_00014
+  rotate: false
+  xy: 1502, 312
+  size: 153, 157
+  orig: 290, 355
+  offset: 63, 75
+  index: -1
+J7_fenmian2
+  rotate: true
+  xy: 294, 122
+  size: 95, 201
+  orig: 95, 201
+  offset: 0, 0
+  index: -1
+J7_neiye1
+  rotate: true
+  xy: 1522, 169
+  size: 141, 166
+  orig: 141, 166
+  offset: 0, 0
+  index: -1
+J7_neiye2
+  rotate: false
+  xy: 1658, 5
+  size: 120, 162
+  orig: 120, 162
+  offset: 0, 0
+  index: -1
+J7_shuji
+  rotate: true
+  xy: 294, 219
+  size: 250, 209
+  orig: 250, 372
+  offset: 0, 0
+  index: -1
+J7_shuqian
+  rotate: false
+  xy: 669, 186
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+J7_waiguang1
+  rotate: true
+  xy: 2, 25
+  size: 87, 312
+  orig: 87, 312
+  offset: 0, 0
+  index: -1
+J7_waiguang2
+  rotate: false
+  xy: 316, 2
+  size: 310, 118
+  orig: 310, 118
+  offset: 0, 0
+  index: -1
+J7_waiguang3
+  rotate: true
+  xy: 497, 154
+  size: 63, 170
+  orig: 63, 170
+  offset: 0, 0
+  index: -1
+J7_waiguang4
+  rotate: true
+  xy: 628, 20
+  size: 132, 392
+  orig: 132, 392
+  offset: 0, 0
+  index: -1
+Tex_Ramp05
+  rotate: true
+  xy: 505, 241
+  size: 228, 220
+  orig: 256, 256
+  offset: 10, 10
+  index: -1
+shuipao01
+  rotate: true
+  xy: 1657, 349
+  size: 120, 121
+  orig: 123, 124
+  offset: 1, 2
+  index: -1

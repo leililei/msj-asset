@@ -1,0 +1,90 @@
+
+XM_zhouyu_atk_1.png
+size: 1571,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_sf_00
+  rotate: false
+  xy: 1117, 31
+  size: 151, 105
+  orig: 151, 105
+  offset: 0, 0
+  index: -1
+effect/atk_sf_01
+  rotate: false
+  xy: 583, 12
+  size: 149, 124
+  orig: 149, 124
+  offset: 0, 0
+  index: -1
+effect/atk_sf_02
+  rotate: false
+  xy: 2, 3
+  size: 146, 133
+  orig: 146, 133
+  offset: 0, 0
+  index: -1
+effect/atk_sf_03
+  rotate: false
+  xy: 150, 2
+  size: 144, 134
+  orig: 144, 134
+  offset: 0, 0
+  index: -1
+effect/atk_sf_04
+  rotate: false
+  xy: 296, 4
+  size: 142, 132
+  orig: 142, 132
+  offset: 0, 0
+  index: -1
+effect/atk_sf_05
+  rotate: false
+  xy: 440, 4
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+effect/atk_sf_06
+  rotate: true
+  xy: 734, 6
+  size: 130, 127
+  orig: 130, 127
+  offset: 0, 0
+  index: -1
+effect/atk_sf_07
+  rotate: true
+  xy: 863, 8
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1
+effect/atk_sf_08
+  rotate: true
+  xy: 990, 8
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1
+effect/atk_sf_09
+  rotate: true
+  xy: 1270, 10
+  size: 126, 125
+  orig: 126, 125
+  offset: 0, 0
+  index: -1
+effect/atk_sf_11
+  rotate: false
+  xy: 1397, 37
+  size: 90, 99
+  orig: 90, 99
+  offset: 0, 0
+  index: -1
+effect/atk_sf_13
+  rotate: true
+  xy: 1489, 48
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+lishunchen_atk_1.png
+size: 1981,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_dg_00
+  rotate: false
+  xy: 1100, 154
+  size: 311, 145
+  orig: 346, 157
+  offset: 25, 7
+  index: -1
+effect/attack_dg_01
+  rotate: false
+  xy: 0, 103
+  size: 275, 196
+  orig: 295, 207
+  offset: 12, 5
+  index: -1
+effect/attack_dg_02
+  rotate: false
+  xy: 836, 102
+  size: 260, 197
+  orig: 278, 208
+  offset: 9, 6
+  index: -1
+effect/attack_dg_04
+  rotate: false
+  xy: 279, 103
+  size: 273, 196
+  orig: 295, 207
+  offset: 9, 5
+  index: -1
+effect/attack_dg_06
+  rotate: false
+  xy: 556, 109
+  size: 276, 190
+  orig: 295, 202
+  offset: 9, 5
+  index: -1
+effect/attack_dg_08
+  rotate: false
+  xy: 1415, 149
+  size: 277, 150
+  orig: 296, 163
+  offset: 9, 6
+  index: -1
+effect/attack_dg_10
+  rotate: false
+  xy: 1696, 173
+  size: 268, 126
+  orig: 292, 140
+  offset: 13, 7
+  index: -1
+effect/attack_dg_12
+  rotate: false
+  xy: 1759, 30
+  size: 152, 51
+  orig: 170, 57
+  offset: 11, 5
+  index: -1
+effect/attack_yc_00
+  rotate: false
+  xy: 658, 6
+  size: 265, 38
+  orig: 267, 40
+  offset: 1, 1
+  index: -1
+effect/attack_yc_01
+  rotate: false
+  xy: 1696, 85
+  size: 285, 84
+  orig: 287, 86
+  offset: 1, 1
+  index: -1
+effect/attack_yc_02
+  rotate: false
+  xy: 1100, 72
+  size: 297, 78
+  orig: 299, 80
+  offset: 1, 1
+  index: -1
+effect/attack_yc_04
+  rotate: false
+  xy: 0, 29
+  size: 317, 70
+  orig: 319, 72
+  offset: 1, 1
+  index: -1
+effect/attack_yc_06
+  rotate: false
+  xy: 321, 0
+  size: 333, 45
+  orig: 334, 47
+  offset: 0, 1
+  index: -1
+effect/attack_yc_08
+  rotate: false
+  xy: 1031, 19
+  size: 344, 49
+  orig: 345, 50
+  offset: 1, 1
+  index: -1
+effect/attack_yc_10
+  rotate: false
+  xy: 678, 48
+  size: 349, 50
+  orig: 351, 51
+  offset: 1, 0
+  index: -1
+effect/attack_yc_12
+  rotate: false
+  xy: 321, 49
+  size: 353, 50
+  orig: 354, 51
+  offset: 0, 1
+  index: -1
+effect/attack_yc_14
+  rotate: false
+  xy: 1401, 32
+  size: 354, 49
+  orig: 355, 51
+  offset: 1, 1
+  index: -1
+effect/attack_yc_16
+  rotate: false
+  xy: 0, 14
+  size: 293, 11
+  orig: 295, 13
+  offset: 1, 1
+  index: -1
+effect/attack_yc_18
+  rotate: false
+  xy: 0, 3
+  size: 278, 7
+  orig: 280, 9
+  offset: 1, 1
+  index: -1

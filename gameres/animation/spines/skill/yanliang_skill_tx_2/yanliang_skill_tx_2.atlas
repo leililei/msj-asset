@@ -1,0 +1,69 @@
+
+yanliang_skill_tx_2.png
+size: 530,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/y2/y2_29
+  rotate: true
+  xy: 430, 9
+  size: 143, 49
+  orig: 152, 64
+  offset: 4, 5
+  index: -1
+chutu/skill/y2/y2_31
+  rotate: true
+  xy: 312, 9
+  size: 143, 59
+  orig: 152, 64
+  offset: 4, 3
+  index: -1
+chutu/skill/y2/y2_33
+  rotate: true
+  xy: 190, 4
+  size: 148, 60
+  orig: 152, 64
+  offset: 2, 1
+  index: -1
+chutu/skill/y2/y2_35
+  rotate: true
+  xy: 65, 3
+  size: 149, 61
+  orig: 152, 64
+  offset: 1, 1
+  index: -1
+chutu/skill/y2/y2_37
+  rotate: true
+  xy: 2, 2
+  size: 150, 61
+  orig: 152, 64
+  offset: 1, 1
+  index: -1
+chutu/skill/y2/y2_39
+  rotate: true
+  xy: 128, 2
+  size: 150, 60
+  orig: 152, 64
+  offset: 1, 1
+  index: -1
+chutu/skill/y2/y2_41
+  rotate: true
+  xy: 252, 2
+  size: 150, 58
+  orig: 152, 64
+  offset: 1, 1
+  index: -1
+chutu/skill/y2/y2_43
+  rotate: true
+  xy: 373, 5
+  size: 147, 55
+  orig: 152, 64
+  offset: 1, 4
+  index: -1
+chutu/skill/y2/y2_45
+  rotate: true
+  xy: 481, 15
+  size: 137, 47
+  orig: 152, 64
+  offset: 11, 5
+  index: -1

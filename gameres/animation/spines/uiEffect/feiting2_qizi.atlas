@@ -1,0 +1,76 @@
+
+feiting2_qizi.png
+size: 117,1274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qizi_1
+  rotate: false
+  xy: 4, 1147
+  size: 109, 123
+  orig: 111, 125
+  offset: 1, 1
+  index: -1
+qizi_10
+  rotate: false
+  xy: 4, 1020
+  size: 109, 123
+  orig: 111, 125
+  offset: 1, 1
+  index: -1
+qizi_2
+  rotate: false
+  xy: 4, 893
+  size: 109, 123
+  orig: 111, 125
+  offset: 1, 1
+  index: -1
+qizi_3
+  rotate: false
+  xy: 4, 766
+  size: 109, 123
+  orig: 111, 125
+  offset: 1, 1
+  index: -1
+qizi_4
+  rotate: false
+  xy: 4, 639
+  size: 109, 123
+  orig: 111, 125
+  offset: 1, 1
+  index: -1
+qizi_5
+  rotate: false
+  xy: 4, 512
+  size: 109, 123
+  orig: 111, 125
+  offset: 1, 1
+  index: -1
+qizi_6
+  rotate: false
+  xy: 4, 385
+  size: 109, 123
+  orig: 111, 125
+  offset: 1, 1
+  index: -1
+qizi_7
+  rotate: false
+  xy: 4, 258
+  size: 109, 123
+  orig: 111, 125
+  offset: 1, 1
+  index: -1
+qizi_8
+  rotate: false
+  xy: 4, 131
+  size: 109, 123
+  orig: 111, 125
+  offset: 1, 1
+  index: -1
+qizi_9
+  rotate: false
+  xy: 4, 4
+  size: 109, 123
+  orig: 111, 125
+  offset: 1, 1
+  index: -1

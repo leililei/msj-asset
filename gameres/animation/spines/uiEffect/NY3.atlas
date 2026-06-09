@@ -1,0 +1,286 @@
+
+NY3.png
+size: 1989,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+57NY3_chuanxian
+  rotate: false
+  xy: 466, 150
+  size: 373, 129
+  orig: 373, 129
+  offset: 0, 0
+  index: -1
+58NY3_lanshen1
+  rotate: true
+  xy: 471, 25
+  size: 35, 197
+  orig: 35, 197
+  offset: 0, 0
+  index: -1
+59NY3_lanshen2
+  rotate: true
+  xy: 772, 55
+  size: 84, 280
+  orig: 84, 280
+  offset: 0, 0
+  index: -1
+60NY3_lanshen3
+  rotate: 180
+  xy: 1491, 7
+  size: 131, 124
+  orig: 131, 124
+  offset: 0, 0
+  index: -1
+61NY3_fan_1_1
+  rotate: false
+  xy: 682, 31
+  size: 86, 103
+  orig: 86, 103
+  offset: 0, 0
+  index: -1
+62NY3_lanshen4
+  rotate: 180
+  xy: 1357, 6
+  size: 150, 83
+  orig: 150, 83
+  offset: 0, 0
+  index: -1
+63NY3_fan_1_2
+  rotate: false
+  xy: 819, 5
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+64NY3_fan_1_3
+  rotate: false
+  xy: 596, 6
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+65NY3_fan_1_4
+  rotate: false
+  xy: 364, 23
+  size: 84, 15
+  orig: 84, 15
+  offset: 0, 0
+  index: -1
+66NY3_lanshen5
+  rotate: true
+  xy: 880, 22
+  size: 135, 196
+  orig: 135, 196
+  offset: 0, 0
+  index: -1
+67NY3_fan_1_5
+  rotate: false
+  xy: 4, 9
+  size: 78, 9
+  orig: 78, 9
+  offset: 0, 0
+  index: -1
+68NY3_ganzi1
+  rotate: false
+  xy: 1171, 23
+  size: 48, 152
+  orig: 48, 152
+  offset: 0, 0
+  index: -1
+69NY3_fan2_1
+  rotate: true
+  xy: 1714, 21
+  size: 165, 183
+  orig: 165, 183
+  offset: 0, 0
+  index: -1
+70NY3_fan2_2
+  rotate: false
+  xy: 1000, 37
+  size: 136, 89
+  orig: 136, 89
+  offset: 0, 0
+  index: -1
+71NY3_fan2_3
+  rotate: false
+  xy: 1019, 24
+  size: 147, 77
+  orig: 147, 77
+  offset: 0, 0
+  index: -1
+72NY3_fan2_4
+  rotate: false
+  xy: 1223, 22
+  size: 151, 49
+  orig: 151, 49
+  offset: 0, 0
+  index: -1
+73NY3_fan2_5
+  rotate: false
+  xy: 278, 42
+  size: 143, 27
+  orig: 143, 27
+  offset: 0, 0
+  index: -1
+74NY3_fan2_6
+  rotate: false
+  xy: 229, 14
+  size: 131, 9
+  orig: 131, 9
+  offset: 0, 0
+  index: -1
+75NY3_fan2_7
+  rotate: false
+  xy: 89, 12
+  size: 136, 12
+  orig: 136, 12
+  offset: 0, 0
+  index: -1
+76NY3_fan3_1
+  rotate: false
+  xy: 572, 38
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+77NY3_lanshen6
+  rotate: true
+  xy: 1528, 15
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+78NY3_fan3_2
+  rotate: false
+  xy: 1039, 11
+  size: 96, 49
+  orig: 96, 49
+  offset: 0, 0
+  index: -1
+79NY3_fan3_3
+  rotate: false
+  xy: 680, 9
+  size: 101, 42
+  orig: 101, 42
+  offset: 0, 0
+  index: -1
+80NY3_fan3_4
+  rotate: false
+  xy: 461, 13
+  size: 99, 7
+  orig: 99, 7
+  offset: 0, 0
+  index: -1
+81NY3_fan3_5
+  rotate: false
+  xy: 364, 9
+  size: 93, 10
+  orig: 93, 10
+  offset: 0, 0
+  index: -1
+82NY3_ganzi2
+  rotate: false
+  xy: 1901, 24
+  size: 58, 162
+  orig: 58, 162
+  offset: 0, 0
+  index: -1
+83NY3_ganzi3
+  rotate: true
+  xy: 303, 73
+  size: 74, 265
+  orig: 74, 265
+  offset: 0, 0
+  index: -1
+84NY3_chuantou2
+  rotate: false
+  xy: 425, 45
+  size: 131, 25
+  orig: 131, 25
+  offset: 0, 0
+  index: -1
+85NY3_chuantou1
+  rotate: false
+  xy: 4, 22
+  size: 82, 57
+  orig: 82, 57
+  offset: 0, 0
+  index: -1
+86NY3_xiangzi1
+  rotate: false
+  xy: 1378, 75
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+87NY3_chuancang
+  rotate: false
+  xy: 1509, 121
+  size: 201, 158
+  orig: 201, 158
+  offset: 0, 0
+  index: -1
+88NY3_xiangzi2
+  rotate: false
+  xy: 1378, 26
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+89NY3_xiangzi3
+  rotate: false
+  xy: 190, 27
+  size: 85, 53
+  orig: 85, 53
+  offset: 0, 0
+  index: -1
+90NY3_xiangzi4
+  rotate: false
+  xy: 1435, 125
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+91NY3_jiaban
+  rotate: false
+  xy: 1171, 178
+  size: 334, 102
+  orig: 334, 102
+  offset: 0, 0
+  index: -1
+92NY3_chuantou4
+  rotate: false
+  xy: 89, 32
+  size: 96, 47
+  orig: 96, 47
+  offset: 0, 0
+  index: -1
+93NY3_chuanxian2
+  rotate: false
+  xy: 1714, 189
+  size: 269, 90
+  orig: 269, 90
+  offset: 0, 0
+  index: -1
+94NY3_chuanshen
+  rotate: false
+  xy: 843, 172
+  size: 324, 107
+  orig: 324, 107
+  offset: 0, 0
+  index: -1
+95NY3_chuandi
+  rotate: false
+  xy: 4, 84
+  size: 296, 68
+  orig: 296, 68
+  offset: 0, 0
+  index: -1
+96NY3_yingzi
+  rotate: false
+  xy: 4, 156
+  size: 459, 124
+  orig: 459, 124
+  offset: 0, 0
+  index: -1

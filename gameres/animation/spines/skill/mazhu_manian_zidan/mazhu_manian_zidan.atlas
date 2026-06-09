@@ -1,0 +1,27 @@
+
+mazhu_manian_zidan.png
+size: 49,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huohua
+  rotate: false
+  xy: 4, 7
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+yinxian
+  rotate: false
+  xy: 33, 6
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+youpao
+  rotate: false
+  xy: 4, 35
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1

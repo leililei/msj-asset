@@ -1,0 +1,111 @@
+
+hehua.png
+size: 404,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 3, 12
+  size: 43, 6
+  orig: 43, 6
+  offset: 0, 0
+  index: -1
+erduo1
+  rotate: true
+  xy: 375, 95
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: false
+  xy: 272, 44
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+heye1
+  rotate: true
+  xy: 349, 50
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+heye2
+  rotate: false
+  xy: 162, 9
+  size: 108, 56
+  orig: 108, 56
+  offset: 0, 0
+  index: -1
+heye3
+  rotate: true
+  xy: 300, 78
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: false
+  xy: 184, 67
+  size: 114, 89
+  orig: 114, 89
+  offset: 0, 0
+  index: -1
+shuiwen
+  rotate: false
+  xy: 3, 84
+  size: 179, 72
+  orig: 179, 72
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 320, 10
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 349, 95
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+yanjing_up
+  rotate: false
+  xy: 272, 27
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+ying1
+  rotate: true
+  xy: 355, 4
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+ying2
+  rotate: false
+  xy: 3, 20
+  size: 157, 62
+  orig: 157, 62
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 293, 18
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 48, 5
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1

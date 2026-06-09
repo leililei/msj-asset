@@ -1,0 +1,76 @@
+
+SS_caocao_skill_2.png
+size: 932,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_bj_00
+  rotate: false
+  xy: 2, 2
+  size: 91, 478
+  orig: 95, 482
+  offset: 2, 2
+  index: -1
+effect/skill_bj_01
+  rotate: false
+  xy: 95, 2
+  size: 91, 478
+  orig: 95, 482
+  offset: 2, 2
+  index: -1
+effect/skill_bj_02
+  rotate: false
+  xy: 188, 2
+  size: 91, 478
+  orig: 95, 482
+  offset: 2, 2
+  index: -1
+effect/skill_bj_03
+  rotate: false
+  xy: 281, 2
+  size: 91, 478
+  orig: 95, 482
+  offset: 2, 2
+  index: -1
+effect/skill_bj_04
+  rotate: false
+  xy: 374, 2
+  size: 91, 478
+  orig: 95, 482
+  offset: 2, 2
+  index: -1
+effect/skill_bj_05
+  rotate: false
+  xy: 467, 2
+  size: 91, 478
+  orig: 95, 482
+  offset: 2, 2
+  index: -1
+effect/skill_bj_06
+  rotate: false
+  xy: 560, 2
+  size: 91, 478
+  orig: 95, 482
+  offset: 2, 2
+  index: -1
+effect/skill_bj_07
+  rotate: false
+  xy: 653, 2
+  size: 91, 478
+  orig: 95, 482
+  offset: 2, 2
+  index: -1
+effect/skill_bj_08
+  rotate: false
+  xy: 746, 2
+  size: 91, 478
+  orig: 95, 482
+  offset: 2, 2
+  index: -1
+effect/skill_bj_09
+  rotate: false
+  xy: 839, 2
+  size: 91, 478
+  orig: 95, 482
+  offset: 2, 2
+  index: -1

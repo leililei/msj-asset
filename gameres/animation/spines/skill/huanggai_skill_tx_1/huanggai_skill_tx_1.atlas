@@ -1,0 +1,195 @@
+
+huanggai_skill_tx_1.png
+size: 1898,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill/msg_huanggai_jn_dmyw/msg_huanggai_jn_dmyw_00
+  rotate: false
+  xy: 1484, 330
+  size: 64, 29
+  orig: 146, 112
+  offset: 82, 6
+  index: -1
+effect/skill/msg_huanggai_jn_dmyw/msg_huanggai_jn_dmyw_02
+  rotate: true
+  xy: 1523, 40
+  size: 124, 90
+  orig: 146, 112
+  offset: 11, 3
+  index: -1
+effect/skill/msg_huanggai_jn_dmyw/msg_huanggai_jn_dmyw_04
+  rotate: true
+  xy: 1690, 222
+  size: 105, 103
+  orig: 146, 112
+  offset: 6, 3
+  index: -1
+effect/skill/msg_huanggai_jn_dmyw/msg_huanggai_jn_dmyw_06
+  rotate: false
+  xy: 1615, 58
+  size: 104, 106
+  orig: 146, 112
+  offset: 4, 4
+  index: -1
+effect/skill/msg_huanggai_jn_js_an/msg_huanggai_jn_js_an_00
+  rotate: false
+  xy: 1691, 407
+  size: 188, 187
+  orig: 280, 280
+  offset: 45, 46
+  index: -1
+effect/skill/msg_huanggai_jn_js_an/msg_huanggai_jn_js_an_02
+  rotate: false
+  xy: 759, 3
+  size: 256, 256
+  orig: 280, 280
+  offset: 12, 16
+  index: -1
+effect/skill/msg_huanggai_jn_js_an/msg_huanggai_jn_js_an_04
+  rotate: false
+  xy: 1017, 11
+  size: 252, 255
+  orig: 280, 280
+  offset: 16, 16
+  index: -1
+effect/skill/msg_huanggai_jn_js_l/msg_huanggai_jn_js_l_00
+  rotate: false
+  xy: 1795, 224
+  size: 101, 103
+  orig: 185, 190
+  offset: 40, 44
+  index: -1
+effect/skill/msg_huanggai_jn_js_l/msg_huanggai_jn_js_l_02
+  rotate: false
+  xy: 1523, 166
+  size: 165, 162
+  orig: 185, 190
+  offset: 15, 11
+  index: -1
+effect/skill/msg_huanggai_jn_js_l/msg_huanggai_jn_js_l_04
+  rotate: true
+  xy: 1721, 44
+  size: 176, 164
+  orig: 185, 190
+  offset: 6, 3
+  index: -1
+effect/skill/msg_huanggai_jn_sg/msg_huanggai_jn_sg_00
+  rotate: false
+  xy: 268, 15
+  size: 256, 235
+  orig: 280, 258
+  offset: 12, 5
+  index: -1
+effect/skill/msg_huanggai_jn_sg/msg_huanggai_jn_sg_02
+  rotate: false
+  xy: 2, 3
+  size: 264, 244
+  orig: 280, 258
+  offset: 8, 9
+  index: -1
+effect/skill/msg_huanggai_jn_sg/msg_huanggai_jn_sg_04
+  rotate: true
+  xy: 526, 2
+  size: 253, 231
+  orig: 280, 258
+  offset: 8, 21
+  index: -1
+effect/skill/msg_huanggai_jn_sg/msg_huanggai_jn_sg_06
+  rotate: true
+  xy: 1484, 361
+  size: 233, 205
+  orig: 280, 258
+  offset: 11, 35
+  index: -1
+effect/skill/msg_huanggai_jn_sg/msg_huanggai_jn_sg_08
+  rotate: false
+  xy: 1691, 329
+  size: 182, 76
+  orig: 280, 258
+  offset: 25, 57
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_00
+  rotate: true
+  xy: 749, 261
+  size: 333, 134
+  orig: 364, 168
+  offset: 21, 30
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_02
+  rotate: true
+  xy: 1197, 286
+  size: 308, 149
+  orig: 364, 168
+  offset: 16, 15
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_04
+  rotate: true
+  xy: 885, 268
+  size: 326, 158
+  orig: 364, 168
+  offset: 16, 6
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_06
+  rotate: true
+  xy: 301, 255
+  size: 339, 153
+  orig: 364, 168
+  offset: 16, 3
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_08
+  rotate: true
+  xy: 151, 252
+  size: 342, 148
+  orig: 364, 168
+  offset: 16, 5
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_10
+  rotate: true
+  xy: 2, 249
+  size: 345, 147
+  orig: 364, 168
+  offset: 16, 9
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_12
+  rotate: true
+  xy: 605, 261
+  size: 333, 142
+  orig: 364, 168
+  offset: 14, 12
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_14
+  rotate: true
+  xy: 456, 257
+  size: 337, 147
+  orig: 364, 168
+  offset: 4, 10
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_16
+  rotate: true
+  xy: 1045, 272
+  size: 322, 150
+  orig: 364, 168
+  offset: 11, 5
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_32
+  rotate: true
+  xy: 1348, 300
+  size: 294, 134
+  orig: 364, 168
+  offset: 32, 24
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_34
+  rotate: true
+  xy: 1271, 3
+  size: 281, 132
+  orig: 364, 168
+  offset: 32, 24
+  index: -1
+effect/skill/msg_huanggai_jn_xz/msg_huanggai_jn_xz_36
+  rotate: true
+  xy: 1405, 26
+  size: 272, 116
+  orig: 364, 168
+  offset: 32, 24
+  index: -1

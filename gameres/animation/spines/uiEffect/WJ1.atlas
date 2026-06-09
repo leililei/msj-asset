@@ -1,0 +1,76 @@
+
+WJ1.png
+size: 663,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WJ1_chuancang1
+  rotate: true
+  xy: 312, 22
+  size: 149, 93
+  orig: 151, 95
+  offset: 1, 1
+  index: -1
+WJ1_chuancang2
+  rotate: true
+  xy: 409, 26
+  size: 134, 59
+  orig: 136, 61
+  offset: 1, 1
+  index: -1
+WJ1_chuance
+  rotate: false
+  xy: 4, 80
+  size: 293, 91
+  orig: 295, 93
+  offset: 1, 1
+  index: -1
+WJ1_chuangan
+  rotate: false
+  xy: 496, 101
+  size: 34, 188
+  orig: 36, 190
+  offset: 1, 1
+  index: -1
+WJ1_chuanshen
+  rotate: false
+  xy: 4, 175
+  size: 344, 114
+  orig: 346, 116
+  offset: 1, 1
+  index: -1
+WJ1_danzi
+  rotate: true
+  xy: 472, 33
+  size: 64, 49
+  orig: 66, 51
+  offset: 1, 1
+  index: -1
+WJ1_fan
+  rotate: true
+  xy: 352, 164
+  size: 122, 140
+  orig: 122, 140
+  offset: 0, 0
+  index: -1
+WJ1_lansheng1
+  rotate: false
+  xy: 586, 104
+  size: 72, 185
+  orig: 72, 185
+  offset: 0, 0
+  index: -1
+WJ1_lansheng2
+  rotate: true
+  xy: 495, 5
+  size: 141, 148
+  orig: 141, 148
+  offset: 0, 0
+  index: -1
+WJ1_yingzi
+  rotate: false
+  xy: 4, 4
+  size: 304, 72
+  orig: 306, 74
+  offset: 1, 1
+  index: -1

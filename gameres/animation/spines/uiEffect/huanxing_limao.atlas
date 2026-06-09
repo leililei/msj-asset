@@ -1,0 +1,111 @@
+
+huanxing_limao.png
+size: 220,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+er1
+  rotate: true
+  xy: 177, 39
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+er2
+  rotate: true
+  xy: 60, 5
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+gaoguang1
+  rotate: false
+  xy: 3, 62
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+gaoguang2
+  rotate: false
+  xy: 3, 19
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: 180
+  xy: 138, 7
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: 180
+  xy: 150, 39
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 68, 16
+  size: 50, 48
+  orig: 50, 51
+  offset: 0, 3
+  index: -1
+shou1
+  rotate: true
+  xy: 192, 13
+  size: 24, 19
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 167, 13
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 3, 7
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+wei
+  rotate: false
+  xy: 115, 9
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 54, 5
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 81, 7
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: true
+  xy: 201, 39
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 3, 5
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1

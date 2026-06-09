@@ -1,0 +1,83 @@
+
+nujianmao_atk_beaten_1.png
+size: 1108,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/mz-glow
+  rotate: true
+  xy: 471, 15
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+effect/mz_00
+  rotate: true
+  xy: 1016, 4
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+effect/mz_01
+  rotate: true
+  xy: 1016, 41
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+effect/mz_02
+  rotate: true
+  xy: 807, 22
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+effect/mz_03
+  rotate: false
+  xy: 356, 11
+  size: 113, 120
+  orig: 113, 120
+  offset: 0, 0
+  index: -1
+effect/mz_04
+  rotate: false
+  xy: 238, 9
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+effect/mz_05
+  rotate: false
+  xy: 121, 8
+  size: 116, 123
+  orig: 116, 123
+  offset: 0, 0
+  index: -1
+effect/mz_06
+  rotate: false
+  xy: 3, 7
+  size: 116, 123
+  orig: 116, 123
+  offset: 0, 0
+  index: -1
+effect/mz_08
+  rotate: false
+  xy: 588, 12
+  size: 108, 118
+  orig: 108, 118
+  offset: 0, 0
+  index: -1
+effect/mz_10
+  rotate: false
+  xy: 698, 15
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+effect/mz_12
+  rotate: false
+  xy: 911, 22
+  size: 103, 109
+  orig: 103, 109
+  offset: 0, 0
+  index: -1

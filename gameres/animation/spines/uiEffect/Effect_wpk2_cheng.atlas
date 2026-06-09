@@ -1,0 +1,174 @@
+
+Effect_wpk2_cheng.png
+size: 1206,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cs/cs_00000
+  rotate: false
+  xy: 560, 2
+  size: 90, 91
+  orig: 93, 95
+  offset: 2, 2
+  index: -1
+cs/cs_00002
+  rotate: false
+  xy: 652, 2
+  size: 90, 91
+  orig: 93, 95
+  offset: 2, 2
+  index: -1
+cs/cs_00004
+  rotate: false
+  xy: 95, 2
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+cs/cs_00006
+  rotate: false
+  xy: 188, 2
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+cs/cs_00008
+  rotate: false
+  xy: 281, 2
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+cs/cs_00010
+  rotate: false
+  xy: 374, 2
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+cs/cs_00012
+  rotate: false
+  xy: 467, 2
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+cs/cs_00014
+  rotate: false
+  xy: 744, 2
+  size: 90, 91
+  orig: 93, 95
+  offset: 2, 2
+  index: -1
+cs/cs_00016
+  rotate: false
+  xy: 836, 2
+  size: 90, 91
+  orig: 93, 95
+  offset: 2, 2
+  index: -1
+cs/cs_00018
+  rotate: false
+  xy: 928, 4
+  size: 90, 91
+  orig: 93, 95
+  offset: 2, 2
+  index: -1
+cs/cs_00020
+  rotate: false
+  xy: 1112, 33
+  size: 89, 91
+  orig: 93, 95
+  offset: 3, 2
+  index: -1
+cs/cs_00022
+  rotate: false
+  xy: 981, 126
+  size: 90, 91
+  orig: 93, 95
+  offset: 2, 2
+  index: -1
+cs/cs_00024
+  rotate: false
+  xy: 1020, 33
+  size: 90, 91
+  orig: 93, 95
+  offset: 2, 2
+  index: -1
+cs/cs_00026
+  rotate: false
+  xy: 1073, 126
+  size: 90, 91
+  orig: 93, 95
+  offset: 2, 2
+  index: -1
+cs/cs_00028
+  rotate: false
+  xy: 2, 2
+  size: 91, 91
+  orig: 93, 95
+  offset: 1, 2
+  index: -1
+csk/csk_00000
+  rotate: false
+  xy: 250, 95
+  size: 120, 122
+  orig: 130, 131
+  offset: 5, 4
+  index: -1
+csk/csk_00004
+  rotate: false
+  xy: 2, 95
+  size: 122, 122
+  orig: 130, 131
+  offset: 4, 4
+  index: -1
+csk/csk_00008
+  rotate: false
+  xy: 126, 95
+  size: 122, 122
+  orig: 130, 131
+  offset: 4, 4
+  index: -1
+csk/csk_00012
+  rotate: true
+  xy: 372, 95
+  size: 122, 120
+  orig: 130, 131
+  offset: 4, 5
+  index: -1
+csk/csk_00016
+  rotate: true
+  xy: 738, 95
+  size: 122, 119
+  orig: 130, 131
+  offset: 4, 6
+  index: -1
+csk/csk_00020
+  rotate: true
+  xy: 494, 95
+  size: 122, 120
+  orig: 130, 131
+  offset: 4, 5
+  index: -1
+csk/csk_00024
+  rotate: true
+  xy: 616, 95
+  size: 122, 120
+  orig: 130, 131
+  offset: 4, 5
+  index: -1
+csk/csk_00028
+  rotate: false
+  xy: 859, 97
+  size: 120, 120
+  orig: 130, 131
+  offset: 5, 5
+  index: -1
+lz2_00000
+  rotate: false
+  xy: 1165, 177
+  size: 39, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1

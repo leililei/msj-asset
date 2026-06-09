@@ -1,0 +1,69 @@
+
+waguai_atk_tx_1.png
+size: 872,587
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/4dg1/4dg1_0012
+  rotate: false
+  xy: 489, 52
+  size: 179, 229
+  orig: 419, 321
+  offset: 3, 85
+  index: -1
+chutu/4dg1/4dg1_0013
+  rotate: false
+  xy: 2, 297
+  size: 385, 288
+  orig: 419, 321
+  offset: 33, 32
+  index: -1
+chutu/4dg1/4dg1_0015
+  rotate: true
+  xy: 389, 283
+  size: 302, 305
+  orig: 419, 321
+  offset: 115, 9
+  index: -1
+chutu/4dg1/4dg1_0017
+  rotate: false
+  xy: 2, 2
+  size: 264, 293
+  orig: 419, 321
+  offset: 150, 9
+  index: -1
+chutu/4dg1/4dg1_0019
+  rotate: false
+  xy: 696, 299
+  size: 174, 286
+  orig: 419, 321
+  offset: 237, 9
+  index: -1
+chutu/5dg2/5dg2_0012
+  rotate: false
+  xy: 670, 18
+  size: 126, 112
+  orig: 399, 278
+  offset: 21, 141
+  index: -1
+chutu/5dg2/5dg2_0013
+  rotate: false
+  xy: 268, 38
+  size: 219, 243
+  orig: 399, 278
+  offset: 167, 18
+  index: -1
+chutu/5dg2/5dg2_0014
+  rotate: false
+  xy: 670, 132
+  size: 93, 149
+  orig: 399, 278
+  offset: 288, 40
+  index: -1
+chutu/5dg2/5dg2_0015
+  rotate: false
+  xy: 765, 153
+  size: 93, 144
+  orig: 399, 278
+  offset: 288, 40
+  index: -1

@@ -1,0 +1,118 @@
+
+Buff_Effect_lsf_1.png
+size: 1079,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/b2/b2_00003
+  rotate: true
+  xy: 1035, 60
+  size: 83, 42
+  orig: 110, 63
+  offset: 13, 10
+  index: -1
+chutu/b3/b3_00000
+  rotate: true
+  xy: 146, 3
+  size: 125, 146
+  orig: 217, 227
+  offset: 54, 46
+  index: -1
+chutu/b3/b3_00002
+  rotate: false
+  xy: 268, 132
+  size: 128, 158
+  orig: 217, 227
+  offset: 48, 36
+  index: -1
+chutu/b3/b3_00004
+  rotate: false
+  xy: 398, 133
+  size: 127, 157
+  orig: 217, 227
+  offset: 45, 36
+  index: -1
+chutu/b3/b3_00006
+  rotate: true
+  xy: 294, 2
+  size: 128, 146
+  orig: 217, 227
+  offset: 44, 45
+  index: -1
+chutu/b3/b3_00008
+  rotate: true
+  xy: 888, 15
+  size: 127, 145
+  orig: 217, 227
+  offset: 45, 46
+  index: -1
+chutu/b3/b3_00010
+  rotate: false
+  xy: 925, 145
+  size: 125, 145
+  orig: 217, 227
+  offset: 46, 46
+  index: -1
+chutu/b3/b3_00012
+  rotate: false
+  xy: 2, 128
+  size: 129, 162
+  orig: 217, 227
+  offset: 46, 28
+  index: -1
+chutu/b3/b3_00014
+  rotate: false
+  xy: 133, 130
+  size: 133, 160
+  orig: 217, 227
+  offset: 48, 28
+  index: -1
+chutu/b3/b3_00016
+  rotate: false
+  xy: 527, 139
+  size: 131, 151
+  orig: 217, 227
+  offset: 50, 32
+  index: -1
+chutu/b3/b3_00018
+  rotate: true
+  xy: 442, 4
+  size: 127, 149
+  orig: 217, 227
+  offset: 55, 37
+  index: -1
+chutu/b3/b3_00020
+  rotate: true
+  xy: 2, 2
+  size: 124, 142
+  orig: 217, 227
+  offset: 58, 46
+  index: -1
+chutu/b3/b3_00022
+  rotate: false
+  xy: 660, 139
+  size: 130, 151
+  orig: 217, 227
+  offset: 52, 40
+  index: -1
+chutu/b3/b3_00024
+  rotate: true
+  xy: 593, 5
+  size: 132, 145
+  orig: 217, 227
+  offset: 50, 46
+  index: -1
+chutu/b3/b3_00026
+  rotate: false
+  xy: 792, 144
+  size: 131, 146
+  orig: 217, 227
+  offset: 50, 46
+  index: -1
+chutu/b3/b3_00028
+  rotate: true
+  xy: 740, 6
+  size: 131, 146
+  orig: 217, 227
+  offset: 50, 46
+  index: -1

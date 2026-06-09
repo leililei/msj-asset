@@ -1,0 +1,349 @@
+
+baoxiang.png
+size: 1380,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/box1
+  rotate: false
+  xy: 2, 2
+  size: 101, 92
+  orig: 101, 92
+  offset: 0, 0
+  index: -1
+images/box2
+  rotate: false
+  xy: 300, 3
+  size: 100, 137
+  orig: 100, 138
+  offset: 0, 1
+  index: -1
+images/effect/baoxiang1/01
+  rotate: false
+  xy: 1188, 344
+  size: 120, 85
+  orig: 260, 400
+  offset: 67, 186
+  index: -1
+images/effect/baoxiang1/02
+  rotate: false
+  xy: 1188, 431
+  size: 132, 90
+  orig: 260, 400
+  offset: 61, 188
+  index: -1
+images/effect/baoxiang1/03
+  rotate: true
+  xy: 1026, 210
+  size: 145, 98
+  orig: 260, 400
+  offset: 55, 189
+  index: -1
+images/effect/baoxiang1/04
+  rotate: true
+  xy: 897, 25
+  size: 158, 105
+  orig: 260, 400
+  offset: 49, 190
+  index: -1
+images/effect/baoxiang1/05
+  rotate: true
+  xy: 849, 351
+  size: 170, 109
+  orig: 260, 400
+  offset: 43, 190
+  index: -1
+images/effect/baoxiang1/06
+  rotate: true
+  xy: 252, 142
+  size: 183, 114
+  orig: 260, 400
+  offset: 37, 190
+  index: -1
+images/effect/baoxiang1/07
+  rotate: true
+  xy: 226, 327
+  size: 194, 118
+  orig: 260, 400
+  offset: 32, 190
+  index: -1
+images/effect/baoxiang1/08
+  rotate: true
+  xy: 128, 108
+  size: 203, 122
+  orig: 260, 400
+  offset: 28, 190
+  index: -1
+images/effect/baoxiang1/09
+  rotate: true
+  xy: 2, 96
+  size: 211, 124
+  orig: 260, 400
+  offset: 24, 191
+  index: -1
+images/effect/baoxiang1/10
+  rotate: true
+  xy: 2, 309
+  size: 212, 124
+  orig: 260, 400
+  offset: 24, 193
+  index: -1
+images/effect/baoxiang1/11
+  rotate: true
+  xy: 128, 313
+  size: 208, 96
+  orig: 260, 400
+  offset: 26, 197
+  index: -1
+images/effect/baoxiang1/12
+  rotate: true
+  xy: 1212, 9
+  size: 82, 81
+  orig: 260, 400
+  offset: 90, 216
+  index: -1
+images/effect/baoxiang1/13
+  rotate: false
+  xy: 1295, 12
+  size: 80, 79
+  orig: 260, 400
+  offset: 91, 223
+  index: -1
+images/effect/baoxiang1/14
+  rotate: true
+  xy: 1167, 141
+  size: 83, 99
+  orig: 260, 400
+  offset: 91, 206
+  index: -1
+images/effect/baoxiang1/15
+  rotate: false
+  xy: 212, 5
+  size: 86, 101
+  orig: 260, 400
+  offset: 89, 207
+  index: -1
+images/effect/baoxiang1/16
+  rotate: false
+  xy: 1123, 7
+  size: 87, 97
+  orig: 260, 400
+  offset: 87, 215
+  index: -1
+images/effect/baoxiang1/17
+  rotate: false
+  xy: 1293, 179
+  size: 85, 93
+  orig: 260, 400
+  offset: 88, 222
+  index: -1
+images/effect/baoxiang1/18
+  rotate: true
+  xy: 1268, 93
+  size: 84, 87
+  orig: 260, 400
+  offset: 89, 230
+  index: -1
+images/effect/baoxiang1/19
+  rotate: true
+  xy: 1322, 437
+  size: 84, 54
+  orig: 260, 400
+  offset: 89, 238
+  index: -1
+images/effect/baoxiang1/20
+  rotate: true
+  xy: 1322, 353
+  size: 82, 50
+  orig: 260, 400
+  offset: 90, 247
+  index: -1
+images/effect/baoxiang1/21
+  rotate: true
+  xy: 1126, 303
+  size: 80, 46
+  orig: 260, 400
+  offset: 91, 256
+  index: -1
+images/effect/baoxiang1/22
+  rotate: true
+  xy: 1310, 274
+  size: 77, 41
+  orig: 260, 400
+  offset: 92, 264
+  index: -1
+images/effect/baoxiang1/23
+  rotate: true
+  xy: 1123, 106
+  size: 71, 36
+  orig: 260, 400
+  offset: 93, 271
+  index: -1
+images/effect/baoxiang2/01
+  rotate: true
+  xy: 1174, 226
+  size: 116, 117
+  orig: 260, 400
+  offset: 72, 187
+  index: -1
+images/effect/baoxiang2/02
+  rotate: true
+  xy: 1004, 36
+  size: 147, 117
+  orig: 260, 400
+  offset: 56, 187
+  index: -1
+images/effect/baoxiang2/03
+  rotate: false
+  xy: 705, 179
+  size: 155, 170
+  orig: 260, 400
+  offset: 52, 187
+  index: -1
+images/effect/baoxiang2/04
+  rotate: true
+  xy: 559, 3
+  size: 162, 170
+  orig: 260, 400
+  offset: 48, 187
+  index: -1
+images/effect/baoxiang2/05
+  rotate: false
+  xy: 681, 351
+  size: 166, 170
+  orig: 260, 400
+  offset: 46, 187
+  index: -1
+images/effect/baoxiang2/07
+  rotate: false
+  xy: 537, 167
+  size: 166, 174
+  orig: 260, 400
+  offset: 46, 183
+  index: -1
+images/effect/baoxiang2/09
+  rotate: false
+  xy: 513, 343
+  size: 166, 178
+  orig: 260, 400
+  offset: 46, 179
+  index: -1
+images/effect/baoxiang2/11
+  rotate: false
+  xy: 368, 160
+  size: 167, 178
+  orig: 260, 400
+  offset: 45, 179
+  index: -1
+images/effect/baoxiang2/13
+  rotate: false
+  xy: 346, 340
+  size: 165, 181
+  orig: 260, 400
+  offset: 47, 176
+  index: -1
+images/effect/baoxiang2/15
+  rotate: true
+  xy: 731, 11
+  size: 166, 164
+  orig: 260, 400
+  offset: 46, 182
+  index: -1
+images/effect/baoxiang2/17
+  rotate: false
+  xy: 862, 185
+  size: 162, 164
+  orig: 260, 400
+  offset: 48, 182
+  index: -1
+images/effect/baoxiang2/19
+  rotate: true
+  xy: 402, 2
+  size: 156, 155
+  orig: 260, 400
+  offset: 50, 184
+  index: -1
+images/effect/baoxiang2/21
+  rotate: true
+  xy: 1051, 385
+  size: 136, 135
+  orig: 260, 400
+  offset: 59, 192
+  index: -1
+images/effect/baoxiang2/23
+  rotate: false
+  xy: 105, 3
+  size: 105, 91
+  orig: 260, 400
+  offset: 65, 201
+  index: -1
+images/effect/baoxiang2/25
+  rotate: true
+  xy: 1126, 179
+  size: 85, 39
+  orig: 260, 400
+  offset: 68, 205
+  index: -1
+images/effect/baoxiang2/27
+  rotate: true
+  xy: 897, 3
+  size: 20, 19
+  orig: 260, 400
+  offset: 126, 221
+  index: -1
+images/effect/baoxiang2/29
+  rotate: true
+  xy: 897, 3
+  size: 20, 19
+  orig: 260, 400
+  offset: 126, 221
+  index: -1
+images/effect/baoxiang2/31
+  rotate: false
+  xy: 282, 108
+  size: 14, 14
+  orig: 260, 400
+  offset: 129, 224
+  index: -1
+images/effect/guang_00
+  rotate: true
+  xy: 960, 357
+  size: 164, 89
+  orig: 220, 220
+  offset: 27, 97
+  index: -1
+images/effect/star/00
+  rotate: false
+  xy: 918, 3
+  size: 18, 20
+  orig: 80, 80
+  offset: 31, 30
+  index: -1
+images/effect/star/03
+  rotate: false
+  xy: 252, 112
+  size: 28, 28
+  orig: 80, 80
+  offset: 26, 25
+  index: -1
+images/effect/star/06
+  rotate: false
+  xy: 1126, 266
+  size: 40, 35
+  orig: 80, 80
+  offset: 20, 20
+  index: -1
+images/effect/star/09
+  rotate: false
+  xy: 1004, 11
+  size: 23, 23
+  orig: 80, 80
+  offset: 29, 28
+  index: -1
+images/effect/star/12
+  rotate: false
+  xy: 282, 124
+  size: 16, 16
+  orig: 80, 80
+  offset: 32, 32
+  index: -1

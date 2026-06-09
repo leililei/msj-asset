@@ -1,0 +1,307 @@
+
+guanyu_skill1_beaten_1.png
+size: 2007,1620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_00
+  rotate: false
+  xy: 1382, 514
+  size: 300, 197
+  orig: 520, 390
+  offset: 49, 15
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_02
+  rotate: false
+  xy: 468, 673
+  size: 493, 340
+  orig: 520, 390
+  offset: 20, 7
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_04
+  rotate: true
+  xy: 97, 582
+  size: 505, 369
+  orig: 520, 390
+  offset: 10, 3
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_06
+  rotate: false
+  xy: 533, 1251
+  size: 509, 367
+  orig: 520, 390
+  offset: 6, 3
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_08
+  rotate: false
+  xy: 1044, 1253
+  size: 502, 365
+  orig: 520, 390
+  offset: 13, 3
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_10
+  rotate: false
+  xy: 1055, 954
+  size: 502, 297
+  orig: 520, 390
+  offset: 13, 2
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_12
+  rotate: false
+  xy: 97, 277
+  size: 458, 303
+  orig: 520, 390
+  offset: 57, 3
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_14
+  rotate: false
+  xy: 1548, 1287
+  size: 453, 331
+  orig: 520, 390
+  offset: 62, 2
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_16
+  rotate: false
+  xy: 1559, 949
+  size: 434, 336
+  orig: 520, 390
+  offset: 81, 2
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_18
+  rotate: false
+  xy: 557, 430
+  size: 415, 241
+  orig: 520, 390
+  offset: 100, 13
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_20
+  rotate: false
+  xy: 974, 540
+  size: 406, 176
+  orig: 520, 390
+  offset: 109, 29
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_22
+  rotate: false
+  xy: 2, 15
+  size: 305, 147
+  orig: 520, 390
+  offset: 116, 30
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_24
+  rotate: false
+  xy: 309, 24
+  size: 297, 138
+  orig: 520, 390
+  offset: 123, 30
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_26
+  rotate: false
+  xy: 961, 221
+  size: 274, 129
+  orig: 520, 390
+  offset: 131, 42
+  index: -1
+effect/skill/msg_guanyu_jn_cj/msg_guanyu_jn_cj_28
+  rotate: false
+  xy: 1593, 296
+  size: 259, 102
+  orig: 520, 390
+  offset: 139, 71
+  index: -1
+effect/skill/msg_guanyu_jn_dg_wy/msg_guanyu_jn_dg_wy_00
+  rotate: false
+  xy: 1516, 84
+  size: 213, 150
+  orig: 299, 227
+  offset: 62, 12
+  index: -1
+effect/skill/msg_guanyu_jn_dg_wy/msg_guanyu_jn_dg_wy_02
+  rotate: true
+  xy: 750, 144
+  size: 284, 209
+  orig: 299, 227
+  offset: 7, 8
+  index: -1
+effect/skill/msg_guanyu_jn_dg_wy/msg_guanyu_jn_dg_wy_04
+  rotate: false
+  xy: 1684, 502
+  size: 277, 209
+  orig: 299, 227
+  offset: 14, 8
+  index: -1
+effect/skill/msg_guanyu_jn_dg_wy/msg_guanyu_jn_dg_wy_06
+  rotate: true
+  xy: 1731, 64
+  size: 170, 208
+  orig: 299, 227
+  offset: 121, 8
+  index: -1
+effect/skill/msg_guanyu_jn_dg_wy/msg_guanyu_jn_dg_wy_08
+  rotate: true
+  xy: 557, 277
+  size: 151, 191
+  orig: 299, 227
+  offset: 140, 8
+  index: -1
+effect/skill/msg_guanyu_jn_dg_wy/msg_guanyu_jn_dg_wy_10
+  rotate: false
+  xy: 1854, 236
+  size: 150, 162
+  orig: 299, 227
+  offset: 141, 8
+  index: -1
+effect/skill/msg_guanyu_jn_dl
+  rotate: false
+  xy: 2, 164
+  size: 746, 111
+  orig: 760, 118
+  offset: 8, 3
+  index: -1
+effect/skill/msg_guanyu_jn_gy
+  rotate: false
+  xy: 2, 1089
+  size: 529, 529
+  orig: 567, 567
+  offset: 19, 19
+  index: -1
+effect/skill/msg_guanyu_jn_qpql/msg_guanyu_jn_qpql_00
+  rotate: false
+  xy: 1963, 609
+  size: 26, 102
+  orig: 78, 244
+  offset: 38, 74
+  index: -1
+effect/skill/msg_guanyu_jn_qpql/msg_guanyu_jn_qpql_02
+  rotate: false
+  xy: 1941, 37
+  size: 58, 197
+  orig: 78, 244
+  offset: 13, 28
+  index: -1
+effect/skill/msg_guanyu_jn_qpql/msg_guanyu_jn_qpql_04
+  rotate: true
+  xy: 819, 69
+  size: 58, 216
+  orig: 78, 244
+  offset: 13, 19
+  index: -1
+effect/skill/msg_guanyu_jn_qpql/msg_guanyu_jn_qpql_06
+  rotate: true
+  xy: 1537, 236
+  size: 58, 218
+  orig: 78, 244
+  offset: 14, 18
+  index: -1
+effect/skill/msg_guanyu_jn_qpql/msg_guanyu_jn_qpql_08
+  rotate: true
+  xy: 608, 2
+  size: 54, 221
+  orig: 78, 244
+  offset: 13, 17
+  index: -1
+effect/skill/msg_guanyu_jn_qpql/msg_guanyu_jn_qpql_10
+  rotate: true
+  xy: 1243, 84
+  size: 53, 222
+  orig: 78, 244
+  offset: 14, 16
+  index: -1
+effect/skill/msg_guanyu_jn_qpxg/msg_guanyu_jn_qpxg_00
+  rotate: true
+  xy: 533, 1015
+  size: 234, 520
+  orig: 234, 520
+  offset: 0, 0
+  index: -1
+effect/skill/msg_guanyu_jn_qpxg/msg_guanyu_jn_qpxg_01
+  rotate: true
+  xy: 963, 718
+  size: 234, 520
+  orig: 234, 520
+  offset: 0, 0
+  index: -1
+effect/skill/msg_guanyu_jn_qpxg/msg_guanyu_jn_qpxg_02
+  rotate: true
+  xy: 1485, 713
+  size: 234, 520
+  orig: 234, 520
+  offset: 0, 0
+  index: -1
+effect/skill/msg_guanyu_jn_sd/msg_guanyu_jn_sd_00
+  rotate: true
+  xy: 974, 436
+  size: 102, 346
+  orig: 117, 358
+  offset: 7, 3
+  index: -1
+effect/skill/msg_guanyu_jn_sd/msg_guanyu_jn_sd_02
+  rotate: true
+  xy: 1322, 413
+  size: 99, 323
+  orig: 117, 358
+  offset: 6, 4
+  index: -1
+effect/skill/msg_guanyu_jn_sd/msg_guanyu_jn_sd_04
+  rotate: true
+  xy: 1647, 400
+  size: 100, 316
+  orig: 117, 358
+  offset: 7, 3
+  index: -1
+effect/skill/msg_guanyu_jn_sd/msg_guanyu_jn_sd_06
+  rotate: true
+  xy: 1243, 139
+  size: 95, 271
+  orig: 117, 358
+  offset: 12, 3
+  index: -1
+effect/skill/msg_guanyu_jn_sd/msg_guanyu_jn_sd_08
+  rotate: true
+  xy: 961, 129
+  size: 90, 280
+  orig: 117, 358
+  offset: 13, 6
+  index: -1
+effect/skill/msg_guanyu_jn_sd/msg_guanyu_jn_sd_10
+  rotate: true
+  xy: 1290, 324
+  size: 87, 301
+  orig: 117, 358
+  offset: 14, 6
+  index: -1
+effect/skill/msg_guanyu_jn_sd/msg_guanyu_jn_sd_12
+  rotate: true
+  xy: 974, 352
+  size: 82, 314
+  orig: 117, 358
+  offset: 23, 4
+  index: -1
+effect/skill/msg_guanyu_jn_sd/msg_guanyu_jn_sd_14
+  rotate: true
+  xy: 1237, 236
+  size: 86, 298
+  orig: 117, 358
+  offset: 18, 12
+  index: -1
+effect/skill/msg_guanyu_jn_sd/msg_guanyu_jn_sd_16
+  rotate: true
+  xy: 608, 58
+  size: 84, 209
+  orig: 117, 358
+  offset: 18, 27
+  index: -1
+effect/skill/msg_guanyu_jn_sd/msg_guanyu_jn_sd_18
+  rotate: true
+  xy: 1037, 52
+  size: 75, 188
+  orig: 117, 358
+  offset: 22, 42
+  index: -1
+effect/skill/msg_guanyu_jn_st
+  rotate: true
+  xy: 2, 296
+  size: 791, 93
+  orig: 792, 94
+  offset: 0, 1
+  index: -1

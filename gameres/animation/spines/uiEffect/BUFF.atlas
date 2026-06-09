@@ -1,0 +1,167 @@
+
+BUFF.png
+size: 759,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/12skl_buff_00
+  rotate: false
+  xy: 590, 89
+  size: 96, 47
+  orig: 150, 210
+  offset: 25, 23
+  index: -1
+effect/12skl_buff_01
+  rotate: false
+  xy: 492, 69
+  size: 96, 61
+  orig: 150, 210
+  offset: 25, 23
+  index: -1
+effect/12skl_buff_02
+  rotate: false
+  xy: 394, 50
+  size: 96, 76
+  orig: 150, 210
+  offset: 25, 23
+  index: -1
+effect/12skl_buff_03
+  rotate: false
+  xy: 296, 4
+  size: 96, 118
+  orig: 150, 210
+  offset: 25, 23
+  index: -1
+effect/12skl_buff_04
+  rotate: true
+  xy: 100, 19
+  size: 96, 126
+  orig: 150, 210
+  offset: 25, 23
+  index: -1
+effect/12skl_buff_05
+  rotate: false
+  xy: 590, 138
+  size: 96, 131
+  orig: 150, 210
+  offset: 25, 23
+  index: -1
+effect/12skl_buff_06
+  rotate: false
+  xy: 492, 132
+  size: 96, 137
+  orig: 150, 210
+  offset: 25, 23
+  index: -1
+effect/12skl_buff_07
+  rotate: false
+  xy: 394, 128
+  size: 96, 141
+  orig: 150, 210
+  offset: 25, 23
+  index: -1
+effect/12skl_buff_08
+  rotate: false
+  xy: 296, 124
+  size: 96, 145
+  orig: 150, 210
+  offset: 25, 23
+  index: -1
+effect/12skl_buff_09
+  rotate: false
+  xy: 198, 120
+  size: 96, 149
+  orig: 150, 210
+  offset: 25, 23
+  index: -1
+effect/12skl_buff_10
+  rotate: false
+  xy: 100, 117
+  size: 96, 152
+  orig: 150, 210
+  offset: 25, 23
+  index: -1
+effect/12skl_buff_11
+  rotate: false
+  xy: 2, 116
+  size: 96, 153
+  orig: 150, 210
+  offset: 25, 24
+  index: -1
+effect/12skl_buff_12
+  rotate: false
+  xy: 2, 2
+  size: 95, 112
+  orig: 150, 210
+  offset: 26, 24
+  index: -1
+effect/12skl_buff_13
+  rotate: false
+  xy: 688, 171
+  size: 69, 98
+  orig: 150, 210
+  offset: 48, 26
+  index: -1
+effect/12skl_buff_14
+  rotate: false
+  xy: 688, 70
+  size: 66, 99
+  orig: 150, 210
+  offset: 51, 29
+  index: -1
+effect/12skl_buff_15
+  rotate: true
+  xy: 492, 2
+  size: 65, 98
+  orig: 150, 210
+  offset: 51, 34
+  index: -1
+effect/12skl_buff_16
+  rotate: true
+  xy: 657, 4
+  size: 64, 97
+  orig: 150, 210
+  offset: 51, 38
+  index: -1
+effect/12skl_buff_17
+  rotate: false
+  xy: 592, 20
+  size: 63, 67
+  orig: 150, 210
+  offset: 51, 44
+  index: -1
+effect/12skl_buff_18
+  rotate: false
+  xy: 228, 51
+  size: 61, 67
+  orig: 150, 210
+  offset: 52, 49
+  index: -1
+effect/12skl_buff_19
+  rotate: true
+  xy: 394, 30
+  size: 18, 67
+  orig: 150, 210
+  offset: 53, 54
+  index: -1
+effect/12skl_buff_20
+  rotate: true
+  xy: 394, 11
+  size: 17, 64
+  orig: 150, 210
+  offset: 54, 60
+  index: -1
+effect/12skl_buff_21
+  rotate: true
+  xy: 592, 14
+  size: 4, 26
+  orig: 150, 210
+  offset: 55, 65
+  index: -1
+effect/12skl_buff_22
+  rotate: true
+  xy: 657, 83
+  size: 4, 23
+  orig: 150, 210
+  offset: 55, 72
+  index: -1

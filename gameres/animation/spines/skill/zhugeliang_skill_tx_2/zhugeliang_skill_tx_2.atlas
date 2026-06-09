@@ -1,0 +1,90 @@
+
+zhugeliang_skill_tx_2.png
+size: 1147,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/fz1_00
+  rotate: false
+  xy: 249, 83
+  size: 175, 175
+  orig: 185, 185
+  offset: 5, 5
+  index: -1
+images/chutu/fz2_00
+  rotate: false
+  xy: 4, 18
+  size: 241, 240
+  orig: 259, 259
+  offset: 9, 10
+  index: -1
+images/chutu/sdian1/sdian1_18
+  rotate: false
+  xy: 249, 4
+  size: 170, 75
+  orig: 239, 107
+  offset: 34, 18
+  index: -1
+images/chutu/sdian1/sdian1_20
+  rotate: true
+  xy: 626, 39
+  size: 219, 98
+  orig: 239, 107
+  offset: 13, 7
+  index: -1
+images/chutu/sdian1/sdian1_22
+  rotate: true
+  xy: 529, 24
+  size: 234, 93
+  orig: 239, 107
+  offset: 3, 2
+  index: -1
+images/chutu/sdian1/sdian1_24
+  rotate: true
+  xy: 428, 24
+  size: 234, 97
+  orig: 239, 107
+  offset: 3, 6
+  index: -1
+images/chutu/sdiyan/sdiyan_26
+  rotate: false
+  xy: 728, 24
+  size: 136, 94
+  orig: 140, 99
+  offset: 2, 2
+  index: -1
+images/chutu/sdiyan/sdiyan_28
+  rotate: true
+  xy: 1007, 122
+  size: 136, 88
+  orig: 140, 99
+  offset: 2, 2
+  index: -1
+images/chutu/sdiyan/sdiyan_30
+  rotate: false
+  xy: 1007, 34
+  size: 136, 84
+  orig: 140, 99
+  offset: 2, 2
+  index: -1
+images/chutu/sdiyan/sdiyan_32
+  rotate: false
+  xy: 868, 25
+  size: 135, 93
+  orig: 140, 99
+  offset: 3, 1
+  index: -1
+images/chutu/sdiyan/sdiyan_34
+  rotate: true
+  xy: 728, 122
+  size: 136, 96
+  orig: 140, 99
+  offset: 2, 1
+  index: -1
+images/chutu/sdiyan/sdiyan_36
+  rotate: true
+  xy: 868, 122
+  size: 136, 94
+  orig: 140, 99
+  offset: 2, 2
+  index: -1

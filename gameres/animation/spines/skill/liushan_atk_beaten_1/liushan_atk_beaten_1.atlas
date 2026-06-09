@@ -1,0 +1,146 @@
+
+liushan_atk_beaten_1.png
+size: 1832,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/8bd1/8bd1_0023
+  rotate: false
+  xy: 1160, 4
+  size: 32, 33
+  orig: 33, 36
+  offset: 0, 2
+  index: -1
+chutu/attack/8bd2/8bd2_0022
+  rotate: false
+  xy: 1585, 382
+  size: 151, 152
+  orig: 300, 311
+  offset: 76, 83
+  index: -1
+chutu/attack/8bd2/8bd2_0023
+  rotate: false
+  xy: 831, 277
+  size: 237, 257
+  orig: 300, 311
+  offset: 32, 28
+  index: -1
+chutu/attack/8bd2/8bd2_0025
+  rotate: true
+  xy: 842, 12
+  size: 263, 278
+  orig: 300, 311
+  offset: 20, 14
+  index: -1
+chutu/attack/8bd2/8bd2_0027
+  rotate: false
+  xy: 2, 247
+  size: 270, 287
+  orig: 300, 311
+  offset: 16, 9
+  index: -1
+chutu/attack/8bd2/8bd2_0029
+  rotate: false
+  xy: 274, 247
+  size: 265, 287
+  orig: 300, 311
+  offset: 16, 7
+  index: -1
+chutu/attack/8bd2/8bd2_0031
+  rotate: true
+  xy: 541, 273
+  size: 261, 288
+  orig: 300, 311
+  offset: 20, 7
+  index: -1
+chutu/attack/8bd2/8bd2_0033
+  rotate: true
+  xy: 558, 9
+  size: 262, 282
+  orig: 300, 311
+  offset: 17, 11
+  index: -1
+chutu/attack/8bd2/8bd2_0035
+  rotate: true
+  xy: 2, 18
+  size: 227, 278
+  orig: 300, 311
+  offset: 16, 15
+  index: -1
+chutu/attack/8bd2/8bd2_0037
+  rotate: true
+  xy: 282, 15
+  size: 230, 274
+  orig: 300, 311
+  offset: 15, 20
+  index: -1
+chutu/attack/8bd2/8bd2_0039
+  rotate: true
+  xy: 1070, 308
+  size: 226, 269
+  orig: 300, 311
+  offset: 15, 25
+  index: -1
+chutu/attack/8bd2/8bd2_0041
+  rotate: false
+  xy: 1122, 39
+  size: 221, 267
+  orig: 300, 311
+  offset: 16, 27
+  index: -1
+chutu/attack/8bd2/8bd2_0043
+  rotate: true
+  xy: 1341, 313
+  size: 221, 242
+  orig: 300, 311
+  offset: 16, 32
+  index: -1
+chutu/attack/8bd2/8bd2_0045
+  rotate: true
+  xy: 1345, 91
+  size: 220, 196
+  orig: 300, 311
+  offset: 17, 33
+  index: -1
+chutu/attack/8bd2/8bd2_0047
+  rotate: true
+  xy: 1543, 91
+  size: 220, 196
+  orig: 300, 311
+  offset: 17, 33
+  index: -1
+chutu/attack/8bd2/8bd2_0049
+  rotate: true
+  xy: 1738, 318
+  size: 216, 92
+  orig: 300, 311
+  offset: 17, 33
+  index: -1
+chutu/attack/8bd2/8bd2_0051
+  rotate: true
+  xy: 1741, 104
+  size: 212, 88
+  orig: 300, 311
+  offset: 19, 35
+  index: -1
+chutu/attack/8bd2/8bd2_0053
+  rotate: false
+  xy: 1345, 6
+  size: 209, 83
+  orig: 300, 311
+  offset: 19, 37
+  index: -1
+chutu/attack/8bd2/8bd2_0055
+  rotate: false
+  xy: 1556, 6
+  size: 208, 83
+  orig: 300, 311
+  offset: 20, 37
+  index: -1
+chutu/attack/8bd3/8bd3_0022
+  rotate: false
+  xy: 1122, 2
+  size: 36, 35
+  orig: 38, 39
+  offset: 1, 2
+  index: -1

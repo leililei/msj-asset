@@ -1,0 +1,132 @@
+
+maozhu2_atk_beaten_1.png
+size: 172,1124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/atk/bd1/bd1_00000
+  rotate: true
+  xy: 97, 150
+  size: 58, 73
+  orig: 60, 76
+  offset: 1, 1
+  index: -1
+images/chutu/atk/bd2/bd2_00001
+  rotate: true
+  xy: 89, 89
+  size: 57, 70
+  orig: 172, 143
+  offset: 57, 43
+  index: -1
+images/chutu/atk/bd2/bd2_00002
+  rotate: false
+  xy: 0, 296
+  size: 154, 122
+  orig: 172, 143
+  offset: 4, 18
+  index: -1
+images/chutu/atk/bd2/bd2_00003
+  rotate: false
+  xy: 0, 838
+  size: 168, 139
+  orig: 172, 143
+  offset: 1, 2
+  index: -1
+images/chutu/atk/bd2/bd2_00004
+  rotate: false
+  xy: 0, 551
+  size: 155, 138
+  orig: 172, 143
+  offset: 2, 3
+  index: -1
+images/chutu/atk/bd3/bd3_00001
+  rotate: false
+  xy: 0, 422
+  size: 158, 125
+  orig: 175, 146
+  offset: 4, 18
+  index: -1
+images/chutu/atk/bd3/bd3_00002
+  rotate: false
+  xy: 0, 981
+  size: 172, 143
+  orig: 175, 146
+  offset: 1, 1
+  index: -1
+images/chutu/atk/bd3/bd3_00003
+  rotate: false
+  xy: 0, 693
+  size: 158, 141
+  orig: 175, 146
+  offset: 2, 3
+  index: -1
+images/chutu/atk/bd4/bd4_00000
+  rotate: false
+  xy: 0, 93
+  size: 54, 50
+  orig: 100, 90
+  offset: 20, 19
+  index: -1
+images/chutu/atk/bd4/bd4_00002
+  rotate: true
+  xy: 97, 212
+  size: 80, 75
+  orig: 100, 90
+  offset: 8, 7
+  index: -1
+images/chutu/atk/bd4/bd4_00004
+  rotate: false
+  xy: 0, 204
+  size: 93, 88
+  orig: 100, 90
+  offset: 4, 1
+  index: -1
+images/chutu/atk/bd4/bd4_00006
+  rotate: false
+  xy: 0, 147
+  size: 85, 53
+  orig: 100, 90
+  offset: 14, 12
+  index: -1
+images/chutu/atk/bd4/bd4_00008
+  rotate: true
+  xy: 118, 40
+  size: 45, 54
+  orig: 100, 90
+  offset: 12, 11
+  index: -1
+images/chutu/atk/bd4/bd4_00010
+  rotate: true
+  xy: 59, 39
+  size: 46, 55
+  orig: 100, 90
+  offset: 11, 10
+  index: -1
+images/chutu/atk/bd4/bd4_00012
+  rotate: true
+  xy: 0, 41
+  size: 48, 55
+  orig: 100, 90
+  offset: 10, 10
+  index: -1
+images/chutu/atk/bd4/bd4_00014
+  rotate: false
+  xy: 77, 21
+  size: 17, 14
+  orig: 100, 90
+  offset: 41, 10
+  index: -1
+images/chutu/atk/bd5/bd5_00000
+  rotate: true
+  xy: 0, 0
+  size: 37, 41
+  orig: 38, 42
+  offset: 1, 1
+  index: -1
+images/chutu/atk/bd6/bd6_00004
+  rotate: false
+  xy: 45, 14
+  size: 28, 21
+  orig: 30, 21
+  offset: 1, 0
+  index: -1

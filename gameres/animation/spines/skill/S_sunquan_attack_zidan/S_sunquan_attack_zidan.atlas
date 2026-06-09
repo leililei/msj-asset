@@ -1,0 +1,76 @@
+
+S_sunquan_attack_zidan.png
+size: 729,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/atk/dd/dd_00
+  rotate: false
+  xy: 2, 98
+  size: 132, 90
+  orig: 163, 111
+  offset: 20, 10
+  index: -1
+chutu/atk/dd/dd_02
+  rotate: false
+  xy: 290, 97
+  size: 141, 91
+  orig: 163, 111
+  offset: 12, 11
+  index: -1
+chutu/atk/dd/dd_04
+  rotate: false
+  xy: 433, 97
+  size: 142, 91
+  orig: 163, 111
+  offset: 12, 11
+  index: -1
+chutu/atk/dd/dd_06
+  rotate: false
+  xy: 2, 4
+  size: 148, 92
+  orig: 163, 111
+  offset: 6, 10
+  index: -1
+chutu/atk/dd/dd_08
+  rotate: false
+  xy: 289, 2
+  size: 155, 93
+  orig: 163, 111
+  offset: 0, 9
+  index: -1
+chutu/atk/dd/dd_10
+  rotate: false
+  xy: 446, 2
+  size: 138, 93
+  orig: 163, 111
+  offset: 17, 9
+  index: -1
+chutu/atk/dd/dd_12
+  rotate: false
+  xy: 152, 3
+  size: 135, 93
+  orig: 163, 111
+  offset: 19, 10
+  index: -1
+chutu/atk/dd/dd_14
+  rotate: false
+  xy: 586, 2
+  size: 141, 93
+  orig: 163, 111
+  offset: 14, 9
+  index: -1
+chutu/atk/dd/dd_16
+  rotate: false
+  xy: 577, 97
+  size: 146, 91
+  orig: 163, 111
+  offset: 7, 10
+  index: -1
+chutu/atk/dd/dd_18
+  rotate: false
+  xy: 136, 98
+  size: 152, 90
+  orig: 163, 111
+  offset: 1, 10
+  index: -1

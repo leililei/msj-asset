@@ -1,0 +1,34 @@
+
+Buff_Effect_chenmo_1_tx.png
+size: 40,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/cm/cm_00000
+  rotate: false
+  xy: 3, 81
+  size: 32, 24
+  orig: 71, 57
+  offset: 20, 15
+  index: -1
+chutu/cm/cm_00008
+  rotate: false
+  xy: 3, 55
+  size: 32, 24
+  orig: 71, 57
+  offset: 20, 15
+  index: -1
+chutu/cm/cm_00014
+  rotate: false
+  xy: 3, 29
+  size: 32, 24
+  orig: 71, 57
+  offset: 20, 15
+  index: -1
+chutu/cm/cm_00020
+  rotate: false
+  xy: 3, 3
+  size: 32, 24
+  orig: 71, 57
+  offset: 20, 15
+  index: -1

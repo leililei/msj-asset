@@ -1,0 +1,76 @@
+
+spcaocao_atk_1.png
+size: 1078,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_daoguang_00
+  rotate: false
+  xy: 626, 213
+  size: 357, 122
+  orig: 382, 136
+  offset: 11, 7
+  index: -1
+effect/attack_daoguang_01
+  rotate: false
+  xy: 2, 267
+  size: 622, 148
+  orig: 637, 161
+  offset: 0, 5
+  index: -1
+effect/attack_daoguang_03
+  rotate: false
+  xy: 2, 417
+  size: 649, 147
+  orig: 661, 164
+  offset: 0, 6
+  index: -1
+effect/attack_daoguang_05
+  rotate: false
+  xy: 2, 130
+  size: 602, 135
+  orig: 631, 156
+  offset: 16, 8
+  index: -1
+effect/attack_daoguang_07
+  rotate: false
+  xy: 2, 2
+  size: 464, 126
+  orig: 486, 150
+  offset: 8, 11
+  index: -1
+effect/attack_daoguang_09
+  rotate: false
+  xy: 653, 448
+  size: 413, 116
+  orig: 433, 144
+  offset: 6, 12
+  index: -1
+effect/attack_daoguang_11
+  rotate: false
+  xy: 653, 337
+  size: 412, 109
+  orig: 424, 137
+  offset: 0, 15
+  index: -1
+effect/attack_daoguang_13
+  rotate: false
+  xy: 606, 112
+  size: 329, 99
+  orig: 356, 133
+  offset: 14, 21
+  index: -1
+effect/attack_daoguang_15
+  rotate: false
+  xy: 468, 16
+  size: 329, 94
+  orig: 362, 115
+  offset: 17, 9
+  index: -1
+effect/attack_daoguang_17
+  rotate: true
+  xy: 985, 9
+  size: 326, 91
+  orig: 360, 108
+  offset: 16, 1
+  index: -1

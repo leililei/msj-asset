@@ -1,0 +1,62 @@
+
+longhun1_gj_2.png
+size: 584,1228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/bz_dm/00
+  rotate: false
+  xy: 3, 3
+  size: 312, 136
+  orig: 530, 220
+  offset: 109, 25
+  index: -1
+images/effect/bz_dm/01
+  rotate: false
+  xy: 3, 141
+  size: 336, 148
+  orig: 530, 220
+  offset: 97, 25
+  index: -1
+images/effect/bz_dm/02
+  rotate: false
+  xy: 3, 291
+  size: 426, 163
+  orig: 530, 220
+  offset: 52, 25
+  index: -1
+images/effect/bz_dm/04
+  rotate: false
+  xy: 3, 456
+  size: 510, 188
+  orig: 530, 220
+  offset: 10, 16
+  index: -1
+images/effect/bz_dm/06
+  rotate: false
+  xy: 3, 646
+  size: 518, 192
+  orig: 530, 220
+  offset: 6, 14
+  index: -1
+images/effect/bz_dm/08
+  rotate: false
+  xy: 3, 1034
+  size: 520, 192
+  orig: 530, 220
+  offset: 5, 14
+  index: -1
+images/effect/bz_dm/10
+  rotate: false
+  xy: 3, 840
+  size: 520, 192
+  orig: 530, 220
+  offset: 5, 14
+  index: -1
+images/effect/bz_dm/12
+  rotate: true
+  xy: 431, 128
+  size: 326, 151
+  orig: 530, 220
+  offset: 102, 24
+  index: -1

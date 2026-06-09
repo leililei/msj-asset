@@ -1,0 +1,90 @@
+
+atk_beaten_4.png
+size: 217,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/6skl_mz_00
+  rotate: false
+  xy: 2, 185
+  size: 154, 139
+  orig: 250, 180
+  offset: 54, 18
+  index: -1
+effect/6skl_mz_01
+  rotate: false
+  xy: 2, 769
+  size: 186, 131
+  orig: 250, 180
+  offset: 35, 21
+  index: -1
+effect/6skl_mz_02
+  rotate: false
+  xy: 2, 326
+  size: 192, 114
+  orig: 250, 180
+  offset: 31, 25
+  index: -1
+effect/6skl_mz_03
+  rotate: false
+  xy: 2, 902
+  size: 213, 116
+  orig: 250, 180
+  offset: 21, 22
+  index: -1
+effect/6skl_mz_04
+  rotate: false
+  xy: 2, 442
+  size: 208, 108
+  orig: 250, 180
+  offset: 23, 27
+  index: -1
+effect/6skl_mz_05
+  rotate: false
+  xy: 2, 660
+  size: 212, 107
+  orig: 250, 180
+  offset: 21, 28
+  index: -1
+effect/6skl_mz_06
+  rotate: false
+  xy: 2, 552
+  size: 213, 106
+  orig: 250, 180
+  offset: 20, 27
+  index: -1
+effect/6skl_mz_07
+  rotate: false
+  xy: 2, 80
+  size: 109, 103
+  orig: 250, 180
+  offset: 71, 30
+  index: -1
+effect/6skl_mz_08
+  rotate: true
+  xy: 113, 105
+  size: 78, 91
+  orig: 250, 180
+  offset: 84, 36
+  index: -1
+effect/6skl_mz_09
+  rotate: true
+  xy: 113, 24
+  size: 79, 87
+  orig: 250, 180
+  offset: 83, 38
+  index: -1
+effect/6skl_mz_10
+  rotate: true
+  xy: 2, 2
+  size: 76, 87
+  orig: 250, 180
+  offset: 84, 38
+  index: -1
+effect/6skl_mz_11
+  rotate: false
+  xy: 158, 237
+  size: 48, 87
+  orig: 250, 180
+  offset: 104, 38
+  index: -1

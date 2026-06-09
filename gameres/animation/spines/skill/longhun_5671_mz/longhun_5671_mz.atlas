@@ -1,0 +1,202 @@
+
+longhun_5671_mz.png
+size: 1810,657
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/glow
+  rotate: false
+  xy: 1446, 316
+  size: 161, 161
+  orig: 179, 179
+  offset: 9, 9
+  index: -1
+images/effect/mz/00
+  rotate: true
+  xy: 2, 3
+  size: 236, 258
+  orig: 493, 442
+  offset: 109, 92
+  index: -1
+images/effect/mz/03
+  rotate: false
+  xy: 852, 7
+  size: 263, 242
+  orig: 493, 442
+  offset: 125, 100
+  index: -1
+images/effect/mz/04
+  rotate: false
+  xy: 1081, 291
+  size: 363, 364
+  orig: 493, 442
+  offset: 65, 39
+  index: -1
+images/effect/mz/06
+  rotate: true
+  xy: 2, 241
+  size: 414, 386
+  orig: 493, 442
+  offset: 50, 28
+  index: -1
+images/effect/mz/08
+  rotate: false
+  xy: 390, 243
+  size: 392, 412
+  orig: 493, 442
+  offset: 22, 15
+  index: -1
+images/effect/mz/10
+  rotate: false
+  xy: 784, 251
+  size: 295, 404
+  orig: 493, 442
+  offset: 99, 19
+  index: -1
+images/effect/mz/12
+  rotate: true
+  xy: 1117, 2
+  size: 287, 322
+  orig: 493, 442
+  offset: 103, 60
+  index: -1
+images/effect/mz/14
+  rotate: false
+  xy: 530, 4
+  size: 91, 40
+  orig: 493, 442
+  offset: 201, 198
+  index: -1
+images/effect/mz/16
+  rotate: false
+  xy: 623, 10
+  size: 92, 34
+  orig: 493, 442
+  offset: 201, 203
+  index: -1
+images/effect/yc/00
+  rotate: true
+  xy: 1667, 4
+  size: 132, 118
+  orig: 451, 217
+  offset: 104, 17
+  index: -1
+images/effect/yc/01
+  rotate: false
+  xy: 1605, 154
+  size: 141, 118
+  orig: 451, 217
+  offset: 92, 17
+  index: -1
+images/effect/yc/02
+  rotate: false
+  xy: 1441, 104
+  size: 162, 185
+  orig: 451, 217
+  offset: 69, 16
+  index: -1
+images/effect/yc/03
+  rotate: true
+  xy: 1605, 496
+  size: 159, 185
+  orig: 451, 217
+  offset: 69, 16
+  index: -1
+images/effect/yc/04
+  rotate: true
+  xy: 510, 46
+  size: 195, 169
+  orig: 451, 217
+  offset: 31, 15
+  index: -1
+images/effect/yc/05
+  rotate: true
+  xy: 681, 48
+  size: 193, 169
+  orig: 451, 217
+  offset: 31, 15
+  index: -1
+images/effect/yc/06
+  rotate: true
+  xy: 262, 35
+  size: 204, 122
+  orig: 451, 217
+  offset: 19, 15
+  index: -1
+images/effect/yc/07
+  rotate: true
+  xy: 386, 36
+  size: 203, 122
+  orig: 451, 217
+  offset: 19, 15
+  index: -1
+images/effect/yc/08
+  rotate: false
+  xy: 1441, 6
+  size: 162, 96
+  orig: 451, 217
+  offset: 24, 16
+  index: -1
+images/effect/yc/09
+  rotate: false
+  xy: 1609, 398
+  size: 161, 96
+  orig: 451, 217
+  offset: 24, 16
+  index: -1
+images/effect/yc/10
+  rotate: false
+  xy: 1446, 568
+  size: 157, 87
+  orig: 451, 217
+  offset: 26, 20
+  index: -1
+images/effect/yc/11
+  rotate: false
+  xy: 1446, 479
+  size: 156, 87
+  orig: 451, 217
+  offset: 26, 20
+  index: -1
+images/effect/yc/12
+  rotate: false
+  xy: 1609, 336
+  size: 158, 60
+  orig: 451, 217
+  offset: 23, 47
+  index: -1
+images/effect/yc/13
+  rotate: false
+  xy: 1609, 274
+  size: 156, 60
+  orig: 451, 217
+  offset: 23, 47
+  index: -1
+images/effect/yc/14
+  rotate: true
+  xy: 1748, 138
+  size: 134, 60
+  orig: 451, 217
+  offset: 44, 47
+  index: -1
+images/effect/yc/15
+  rotate: true
+  xy: 1605, 2
+  size: 134, 60
+  orig: 451, 217
+  offset: 43, 47
+  index: -1
+images/effect/yc/16
+  rotate: false
+  xy: 262, 3
+  size: 134, 30
+  orig: 451, 217
+  offset: 42, 47
+  index: -1
+images/effect/yc/17
+  rotate: false
+  xy: 398, 7
+  size: 130, 27
+  orig: 451, 217
+  offset: 44, 47
+  index: -1

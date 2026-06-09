@@ -1,0 +1,55 @@
+
+shitou.png
+size: 87,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suibing1
+  rotate: true
+  xy: 46, 32
+  size: 50, 39
+  orig: 52, 43
+  offset: 1, 2
+  index: -1
+suibing2
+  rotate: false
+  xy: 2, 2
+  size: 35, 18
+  orig: 37, 20
+  offset: 1, 1
+  index: -1
+suibing3
+  rotate: true
+  xy: 2, 22
+  size: 60, 42
+  orig: 62, 44
+  offset: 1, 1
+  index: -1
+suibing4
+  rotate: false
+  xy: 2, 84
+  size: 44, 45
+  orig: 46, 49
+  offset: 1, 2
+  index: -1
+suibing5
+  rotate: false
+  xy: 70, 112
+  size: 14, 17
+  orig: 16, 19
+  offset: 1, 1
+  index: -1
+suibing6
+  rotate: true
+  xy: 46, 8
+  size: 22, 36
+  orig: 25, 39
+  offset: 2, 2
+  index: -1
+suibing7
+  rotate: false
+  xy: 48, 98
+  size: 20, 31
+  orig: 23, 34
+  offset: 1, 1
+  index: -1

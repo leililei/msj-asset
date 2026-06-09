@@ -1,0 +1,104 @@
+
+simayi_skill_beaten_2.png
+size: 1561,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_gongji02_00
+  rotate: true
+  xy: 1401, 7
+  size: 200, 84
+  orig: 204, 88
+  offset: 2, 2
+  index: -1
+skill_gongji02_04
+  rotate: false
+  xy: 1175, 116
+  size: 224, 91
+  orig: 228, 98
+  offset: 2, 5
+  index: -1
+skill_gongji02_08
+  rotate: false
+  xy: 943, 111
+  size: 230, 96
+  orig: 232, 98
+  offset: 1, 1
+  index: -1
+skill_gongji02_12
+  rotate: false
+  xy: 2, 107
+  size: 235, 100
+  orig: 237, 102
+  offset: 1, 1
+  index: -1
+skill_gongji02_16
+  rotate: false
+  xy: 235, 2
+  size: 230, 103
+  orig: 232, 105
+  offset: 1, 1
+  index: -1
+skill_gongji02_20
+  rotate: false
+  xy: 694, 2
+  size: 225, 102
+  orig: 227, 104
+  offset: 1, 1
+  index: -1
+skill_gongji02_24
+  rotate: false
+  xy: 239, 107
+  size: 232, 100
+  orig: 234, 103
+  offset: 1, 2
+  index: -1
+skill_gongji02_28
+  rotate: false
+  xy: 2, 2
+  size: 231, 103
+  orig: 233, 105
+  offset: 1, 1
+  index: -1
+skill_gongji02_32
+  rotate: false
+  xy: 467, 2
+  size: 225, 103
+  orig: 227, 105
+  offset: 1, 1
+  index: -1
+skill_gongji02_36
+  rotate: false
+  xy: 473, 108
+  size: 233, 99
+  orig: 235, 101
+  offset: 1, 1
+  index: -1
+skill_gongji02_40
+  rotate: false
+  xy: 708, 106
+  size: 233, 101
+  orig: 235, 103
+  offset: 1, 1
+  index: -1
+skill_gongji02_44
+  rotate: false
+  xy: 943, 6
+  size: 219, 103
+  orig: 222, 105
+  offset: 2, 1
+  index: -1
+skill_gongji02_48
+  rotate: false
+  xy: 1175, 13
+  size: 206, 101
+  orig: 208, 103
+  offset: 1, 1
+  index: -1
+skill_gongji02_52
+  rotate: true
+  xy: 1487, 35
+  size: 172, 72
+  orig: 184, 83
+  offset: 6, 7
+  index: -1

@@ -1,0 +1,48 @@
+
+mazhu13_atk_zd.png
+size: 196,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y_ybu1
+  rotate: true
+  xy: 116, 13
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Y_ybu2
+  rotate: true
+  xy: 144, 16
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Y_ybu4
+  rotate: false
+  xy: 46, 6
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Y_ybu5
+  rotate: false
+  xy: 3, 6
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Y_ybu6
+  rotate: false
+  xy: 171, 14
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Y_ybu7
+  rotate: false
+  xy: 85, 3
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1

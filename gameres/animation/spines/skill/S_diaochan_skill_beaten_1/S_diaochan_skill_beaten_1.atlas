@@ -1,0 +1,13 @@
+
+S_diaochan_skill_beaten_1.png
+size: 26,43
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_pm_glow
+  rotate: false
+  xy: 2, 2
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1

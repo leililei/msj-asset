@@ -1,0 +1,195 @@
+
+taishici_atk_1.png
+size: 524,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_glow
+  rotate: false
+  xy: 197, 3
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+effect/atk_sf_00
+  rotate: true
+  xy: 371, 129
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+effect/atk_sf_01
+  rotate: false
+  xy: 399, 178
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+effect/atk_sf_02
+  rotate: false
+  xy: 67, 7
+  size: 62, 97
+  orig: 62, 97
+  offset: 0, 0
+  index: -1
+effect/atk_sf_03
+  rotate: false
+  xy: 2, 6
+  size: 63, 97
+  orig: 63, 97
+  offset: 0, 0
+  index: -1
+effect/atk_sf_04
+  rotate: false
+  xy: 131, 10
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+effect/atk_sf_05
+  rotate: false
+  xy: 456, 151
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+effect/atk_sf_06
+  rotate: true
+  xy: 432, 66
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+effect/atk_sf_08
+  rotate: true
+  xy: 378, 30
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+effect/atk_sf_10
+  rotate: false
+  xy: 456, 223
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+effect/atk_sf_12
+  rotate: false
+  xy: 432, 156
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_00
+  rotate: true
+  xy: 409, 99
+  size: 77, 21
+  orig: 77, 21
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_01
+  rotate: true
+  xy: 371, 169
+  size: 96, 26
+  orig: 96, 26
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_02
+  rotate: true
+  xy: 306, 2
+  size: 123, 30
+  orig: 123, 30
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_03
+  rotate: true
+  xy: 339, 132
+  size: 133, 30
+  orig: 133, 30
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_04
+  rotate: true
+  xy: 305, 127
+  size: 138, 32
+  orig: 138, 32
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_05
+  rotate: true
+  xy: 270, 120
+  size: 145, 33
+  orig: 145, 33
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_06
+  rotate: true
+  xy: 233, 116
+  size: 149, 35
+  orig: 149, 35
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_07
+  rotate: true
+  xy: 196, 112
+  size: 153, 35
+  orig: 153, 35
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_08
+  rotate: true
+  xy: 158, 109
+  size: 156, 36
+  orig: 156, 36
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_09
+  rotate: true
+  xy: 80, 107
+  size: 158, 37
+  orig: 158, 37
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_10
+  rotate: true
+  xy: 41, 106
+  size: 159, 37
+  orig: 159, 37
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_11
+  rotate: true
+  xy: 2, 105
+  size: 160, 37
+  orig: 160, 37
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_13
+  rotate: true
+  xy: 119, 108
+  size: 157, 37
+  orig: 157, 37
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_15
+  rotate: true
+  xy: 338, 11
+  size: 114, 38
+  orig: 114, 38
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_17
+  rotate: false
+  xy: 432, 132
+  size: 86, 17
+  orig: 86, 17
+  offset: 0, 0
+  index: -1
+effect/atk_smoke_19
+  rotate: false
+  xy: 131, 2
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1

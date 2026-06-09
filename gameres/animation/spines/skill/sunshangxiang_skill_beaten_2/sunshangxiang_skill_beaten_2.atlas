@@ -1,0 +1,62 @@
+
+sunshangxiang_skill_beaten_2.png
+size: 379,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/15bd2/15bd2_0000
+  rotate: false
+  xy: 2, 16
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+chutu/skill/15bd3/15bd3_0002
+  rotate: false
+  xy: 239, 2
+  size: 136, 38
+  orig: 147, 44
+  offset: 8, 3
+  index: -1
+chutu/skill/15bd3/15bd3_0004
+  rotate: false
+  xy: 239, 42
+  size: 138, 39
+  orig: 147, 44
+  offset: 7, 2
+  index: -1
+chutu/skill/15bd3/15bd3_0006
+  rotate: false
+  xy: 230, 83
+  size: 141, 39
+  orig: 147, 44
+  offset: 5, 2
+  index: -1
+chutu/skill/15bd3/15bd3_0008
+  rotate: true
+  xy: 187, 55
+  size: 144, 41
+  orig: 147, 44
+  offset: 3, 1
+  index: -1
+chutu/skill/15bd3/15bd3_0010
+  rotate: false
+  xy: 230, 161
+  size: 144, 38
+  orig: 147, 44
+  offset: 2, 1
+  index: -1
+chutu/skill/15bd3/15bd3_0012
+  rotate: false
+  xy: 230, 124
+  size: 143, 35
+  orig: 147, 44
+  offset: 1, 1
+  index: -1
+chutu/skill/glow2/glow2_0000
+  rotate: true
+  xy: 187, 4
+  size: 49, 50
+  orig: 53, 54
+  offset: 2, 2
+  index: -1

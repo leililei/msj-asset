@@ -1,0 +1,167 @@
+
+yaofamao_atk_tx_1.png
+size: 1361,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/as1/as1_00012
+  rotate: false
+  xy: 1307, 26
+  size: 45, 64
+  orig: 161, 181
+  offset: 97, 100
+  index: -1
+images/chutu/as1/as1_00013
+  rotate: true
+  xy: 154, 58
+  size: 144, 142
+  orig: 161, 181
+  offset: 3, 30
+  index: -1
+images/chutu/as1/as1_00014
+  rotate: false
+  xy: 2, 44
+  size: 150, 158
+  orig: 161, 181
+  offset: 2, 18
+  index: -1
+images/chutu/as1/as1_00016
+  rotate: true
+  xy: 456, 92
+  size: 110, 169
+  orig: 161, 181
+  offset: 49, 7
+  index: -1
+images/chutu/as1/as1_00018
+  rotate: true
+  xy: 509, 8
+  size: 82, 171
+  orig: 161, 181
+  offset: 76, 5
+  index: -1
+images/chutu/as1/as1_00020
+  rotate: true
+  xy: 340, 9
+  size: 63, 167
+  orig: 161, 181
+  offset: 92, 8
+  index: -1
+images/chutu/as1/as1_00022
+  rotate: true
+  xy: 173, 6
+  size: 50, 165
+  orig: 161, 181
+  offset: 103, 10
+  index: -1
+images/chutu/as2/as2_00012
+  rotate: false
+  xy: 1254, 23
+  size: 51, 67
+  orig: 147, 174
+  offset: 72, 78
+  index: -1
+images/chutu/as2/as2_00013
+  rotate: false
+  xy: 971, 7
+  size: 116, 124
+  orig: 147, 174
+  offset: 13, 39
+  index: -1
+images/chutu/as2/as2_00014
+  rotate: true
+  xy: 829, 8
+  size: 110, 140
+  orig: 147, 174
+  offset: 24, 25
+  index: -1
+images/chutu/as2/as2_00016
+  rotate: true
+  xy: 682, 12
+  size: 90, 145
+  orig: 147, 174
+  offset: 49, 16
+  index: -1
+images/chutu/as2/as2_00018
+  rotate: true
+  xy: 961, 133
+  size: 69, 131
+  orig: 147, 174
+  offset: 65, 15
+  index: -1
+images/chutu/as2/as2_00020
+  rotate: true
+  xy: 1236, 138
+  size: 64, 119
+  orig: 147, 174
+  offset: 67, 17
+  index: -1
+images/chutu/as2/as2_00022
+  rotate: true
+  xy: 2, 8
+  size: 34, 106
+  orig: 147, 174
+  offset: 77, 29
+  index: -1
+images/chutu/as3/as3_00012
+  rotate: true
+  xy: 110, 2
+  size: 40, 61
+  orig: 159, 172
+  offset: 101, 97
+  index: -1
+images/chutu/as3/as3_00013
+  rotate: true
+  xy: 1094, 60
+  size: 142, 140
+  orig: 159, 172
+  offset: 4, 27
+  index: -1
+images/chutu/as3/as3_00014
+  rotate: true
+  xy: 298, 74
+  size: 128, 156
+  orig: 159, 172
+  offset: 22, 15
+  index: -1
+images/chutu/as3/as3_00016
+  rotate: true
+  xy: 627, 104
+  size: 98, 165
+  orig: 159, 172
+  offset: 59, 5
+  index: -1
+images/chutu/as3/as3_00018
+  rotate: true
+  xy: 794, 139
+  size: 63, 165
+  orig: 159, 172
+  offset: 90, 5
+  index: -1
+images/chutu/as3/as3_00020
+  rotate: true
+  xy: 1089, 8
+  size: 50, 163
+  orig: 159, 172
+  offset: 103, 6
+  index: -1
+images/chutu/as3/as3_00022
+  rotate: true
+  xy: 1236, 92
+  size: 44, 123
+  orig: 159, 172
+  offset: 106, 11
+  index: -1
+images/chutu/as4/as4_00013
+  rotate: false
+  xy: 813, 120
+  size: 17, 17
+  orig: 21, 21
+  offset: 2, 2
+  index: -1
+images/chutu/as5/as5_00013
+  rotate: false
+  xy: 794, 120
+  size: 17, 17
+  orig: 21, 21
+  offset: 2, 2
+  index: -1

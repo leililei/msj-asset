@@ -1,0 +1,97 @@
+
+xiangzi_1.png
+size: 309,747
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/huohua_hong/00
+  rotate: false
+  xy: 199, 181
+  size: 69, 84
+  orig: 120, 120
+  offset: 31, 27
+  index: -1
+images/effect/huohua_hong/02
+  rotate: false
+  xy: 199, 93
+  size: 73, 84
+  orig: 120, 120
+  offset: 32, 21
+  index: -1
+images/effect/huohua_hong/04
+  rotate: false
+  xy: 225, 358
+  size: 55, 103
+  orig: 120, 120
+  offset: 32, 8
+  index: -1
+images/effect/huohua_hong/06
+  rotate: true
+  xy: 0, 3
+  size: 86, 92
+  orig: 120, 120
+  offset: 22, 24
+  index: -1
+images/effect/huohua_hong/08
+  rotate: false
+  xy: 96, 13
+  size: 85, 76
+  orig: 120, 120
+  offset: 25, 24
+  index: -1
+images/effect/huohua_hong/10
+  rotate: false
+  xy: 243, 625
+  size: 62, 55
+  orig: 120, 120
+  offset: 22, 33
+  index: -1
+images/effect/huohua_hong/12
+  rotate: false
+  xy: 243, 465
+  size: 66, 83
+  orig: 120, 120
+  offset: 20, 8
+  index: -1
+images/effect/huohua_hong/14
+  rotate: true
+  xy: 243, 552
+  size: 69, 65
+  orig: 120, 120
+  offset: 11, 30
+  index: -1
+images/effect/huohua_hong/16
+  rotate: true
+  xy: 225, 269
+  size: 85, 67
+  orig: 120, 120
+  offset: 8, 21
+  index: -1
+images/effect/huohua_hong/18
+  rotate: false
+  xy: 185, 0
+  size: 69, 89
+  orig: 120, 120
+  offset: 31, 15
+  index: -1
+images/putong
+  rotate: true
+  xy: 0, 287
+  size: 204, 221
+  orig: 208, 227
+  offset: 1, 5
+  index: -1
+images/putong2
+  rotate: false
+  xy: 0, 495
+  size: 239, 252
+  orig: 249, 262
+  offset: 5, 5
+  index: -1
+images/yingxzi3
+  rotate: true
+  xy: 0, 93
+  size: 190, 195
+  orig: 215, 222
+  offset: 19, 25
+  index: -1

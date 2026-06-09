@@ -1,0 +1,111 @@
+
+S_caocao_atk_tx_1.png
+size: 1061,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/dg/dg_00011
+  rotate: false
+  xy: 392, 20
+  size: 341, 246
+  orig: 420, 325
+  offset: 39, 47
+  index: -1
+chutu/dg/dg_00012
+  rotate: false
+  xy: 2, 252
+  size: 388, 278
+  orig: 420, 325
+  offset: 15, 26
+  index: -1
+chutu/dg/dg_00014
+  rotate: false
+  xy: 392, 268
+  size: 351, 262
+  orig: 420, 325
+  offset: 52, 26
+  index: -1
+chutu/dg/dg_00016
+  rotate: true
+  xy: 745, 226
+  size: 304, 257
+  orig: 420, 325
+  offset: 79, 26
+  index: -1
+chutu/dg/dg_00018
+  rotate: false
+  xy: 735, 2
+  size: 264, 222
+  orig: 420, 325
+  offset: 114, 26
+  index: -1
+chutu/dg/dg_00020
+  rotate: true
+  xy: 2, 173
+  size: 77, 197
+  orig: 420, 325
+  offset: 266, 28
+  index: -1
+chutu/yan/yan_00012
+  rotate: false
+  xy: 263, 61
+  size: 92, 37
+  orig: 168, 87
+  offset: 27, 19
+  index: -1
+chutu/yan/yan_00013
+  rotate: true
+  xy: 1004, 248
+  size: 128, 50
+  orig: 168, 87
+  offset: 22, 15
+  index: -1
+chutu/yan/yan_00015
+  rotate: false
+  xy: 143, 2
+  size: 134, 57
+  orig: 168, 87
+  offset: 18, 11
+  index: -1
+chutu/yan/yan_00017
+  rotate: false
+  xy: 2, 45
+  size: 139, 60
+  orig: 168, 87
+  offset: 16, 9
+  index: -1
+chutu/yan/yan_00019
+  rotate: false
+  xy: 2, 107
+  size: 144, 64
+  orig: 168, 87
+  offset: 13, 8
+  index: -1
+chutu/yan/yan_00021
+  rotate: true
+  xy: 263, 100
+  size: 150, 69
+  orig: 168, 87
+  offset: 9, 6
+  index: -1
+chutu/yan/yan_00023
+  rotate: true
+  xy: 201, 97
+  size: 153, 60
+  orig: 168, 87
+  offset: 6, 6
+  index: -1
+chutu/yan/yan_00025
+  rotate: true
+  xy: 1001, 72
+  size: 152, 58
+  orig: 168, 87
+  offset: 4, 7
+  index: -1
+chutu/yan/yan_00027
+  rotate: true
+  xy: 1004, 378
+  size: 152, 53
+  orig: 168, 87
+  offset: 4, 7
+  index: -1

@@ -1,0 +1,83 @@
+
+mazhu8_lingxiu_zidan.png
+size: 310,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/idle_shandian2_00
+  rotate: true
+  xy: 278, 41
+  size: 39, 28
+  orig: 140, 100
+  offset: 66, 41
+  index: -1
+effect/idle_shandian2_01
+  rotate: false
+  xy: 243, 2
+  size: 34, 23
+  orig: 140, 100
+  offset: 69, 43
+  index: -1
+effect/idle_shandian2_02
+  rotate: false
+  xy: 198, 9
+  size: 43, 45
+  orig: 140, 100
+  offset: 63, 40
+  index: -1
+effect/idle_shandian2_03
+  rotate: false
+  xy: 198, 111
+  size: 48, 49
+  orig: 140, 100
+  offset: 66, 39
+  index: -1
+effect/idle_shandian2_04
+  rotate: false
+  xy: 238, 67
+  size: 36, 42
+  orig: 140, 100
+  offset: 75, 43
+  index: -1
+effect/idle_shandian2_05
+  rotate: false
+  xy: 198, 56
+  size: 38, 53
+  orig: 140, 100
+  offset: 84, 34
+  index: -1
+effect/idle_shandian2_06
+  rotate: true
+  xy: 248, 119
+  size: 41, 50
+  orig: 140, 100
+  offset: 82, 33
+  index: -1
+effect/idle_shandian2_07
+  rotate: false
+  xy: 276, 82
+  size: 32, 35
+  orig: 140, 100
+  offset: 87, 36
+  index: -1
+effect/idle_shandian2_08
+  rotate: false
+  xy: 243, 27
+  size: 33, 38
+  orig: 140, 100
+  offset: 89, 34
+  index: -1
+effect/idle_shandian2_09
+  rotate: false
+  xy: 279, 6
+  size: 28, 33
+  orig: 140, 100
+  offset: 92, 36
+  index: -1
+wuqi
+  rotate: true
+  xy: 2, 3
+  size: 157, 194
+  orig: 157, 194
+  offset: 0, 0
+  index: -1

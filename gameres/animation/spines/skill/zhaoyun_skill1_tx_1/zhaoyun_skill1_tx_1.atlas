@@ -1,0 +1,265 @@
+
+zhaoyun_skill1_tx_1.png
+size: 1466,1539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skl_cj02_00
+  rotate: false
+  xy: 257, 10
+  size: 166, 245
+  orig: 166, 245
+  offset: 0, 0
+  index: -1
+effect/skl_cj02_01
+  rotate: false
+  xy: 2, 1093
+  size: 395, 444
+  orig: 395, 444
+  offset: 0, 0
+  index: -1
+effect/skl_cj02_02
+  rotate: false
+  xy: 2, 663
+  size: 393, 428
+  orig: 393, 428
+  offset: 0, 0
+  index: -1
+effect/skl_cj02_04
+  rotate: true
+  xy: 805, 1141
+  size: 396, 438
+  orig: 396, 438
+  offset: 0, 0
+  index: -1
+effect/skl_cj02_06
+  rotate: false
+  xy: 399, 1106
+  size: 404, 431
+  orig: 404, 431
+  offset: 0, 0
+  index: -1
+effect/skl_cj02_09
+  rotate: false
+  xy: 805, 760
+  size: 400, 379
+  orig: 400, 379
+  offset: 0, 0
+  index: -1
+effect/skl_cj02_12
+  rotate: false
+  xy: 2, 257
+  size: 377, 404
+  orig: 377, 404
+  offset: 0, 0
+  index: -1
+effect/skl_cj02_15
+  rotate: false
+  xy: 642, 1024
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+effect/skl_sf01_01
+  rotate: false
+  xy: 682, 482
+  size: 267, 276
+  orig: 267, 276
+  offset: 0, 0
+  index: -1
+effect/skl_sf01_02
+  rotate: true
+  xy: 425, 7
+  size: 322, 305
+  orig: 322, 305
+  offset: 0, 0
+  index: -1
+effect/skl_sf01_04
+  rotate: false
+  xy: 381, 331
+  size: 299, 330
+  orig: 299, 330
+  offset: 0, 0
+  index: -1
+effect/skl_sf02_00
+  rotate: false
+  xy: 1245, 1296
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1
+effect/skl_sf02_01
+  rotate: false
+  xy: 995, 289
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/skl_sf02_02
+  rotate: true
+  xy: 1245, 1082
+  size: 212, 215
+  orig: 212, 215
+  offset: 0, 0
+  index: -1
+effect/skl_sf02_03
+  rotate: true
+  xy: 1220, 375
+  size: 222, 234
+  orig: 222, 234
+  offset: 0, 0
+  index: -1
+effect/skl_sf02_04
+  rotate: false
+  xy: 1220, 599
+  size: 233, 235
+  orig: 233, 235
+  offset: 0, 0
+  index: -1
+effect/skl_sf02_05
+  rotate: false
+  xy: 1207, 836
+  size: 244, 244
+  orig: 244, 244
+  offset: 0, 0
+  index: -1
+effect/skl_sf02_06
+  rotate: false
+  xy: 2, 2
+  size: 253, 253
+  orig: 253, 253
+  offset: 0, 0
+  index: -1
+effect/skl_sf02_07
+  rotate: false
+  xy: 732, 111
+  size: 261, 262
+  orig: 261, 262
+  offset: 0, 0
+  index: -1
+effect/skl_sf02_08
+  rotate: false
+  xy: 951, 491
+  size: 267, 267
+  orig: 267, 267
+  offset: 0, 0
+  index: -1
+effect/skl_sf02_10
+  rotate: false
+  xy: 995, 55
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+effect/skl_sf02_12
+  rotate: false
+  xy: 1229, 134
+  size: 179, 178
+  orig: 179, 178
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_00
+  rotate: true
+  xy: 1410, 142
+  size: 170, 36
+  orig: 170, 36
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_01
+  rotate: false
+  xy: 397, 665
+  size: 197, 38
+  orig: 197, 38
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_02
+  rotate: false
+  xy: 1229, 20
+  size: 214, 112
+  orig: 214, 112
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_03
+  rotate: false
+  xy: 397, 858
+  size: 215, 105
+  orig: 215, 105
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_04
+  rotate: false
+  xy: 682, 375
+  size: 224, 105
+  orig: 224, 105
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_05
+  rotate: false
+  xy: 732, 16
+  size: 229, 93
+  orig: 229, 93
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_06
+  rotate: false
+  xy: 397, 965
+  size: 229, 93
+  orig: 229, 93
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_07
+  rotate: false
+  xy: 397, 797
+  size: 233, 59
+  orig: 233, 59
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_08
+  rotate: false
+  xy: 1197, 314
+  size: 236, 59
+  orig: 236, 59
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_09
+  rotate: false
+  xy: 963, 10
+  size: 239, 43
+  orig: 239, 43
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_11
+  rotate: false
+  xy: 397, 751
+  size: 240, 44
+  orig: 240, 44
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_13
+  rotate: false
+  xy: 399, 1060
+  size: 241, 44
+  orig: 241, 44
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_15
+  rotate: false
+  xy: 397, 705
+  size: 240, 44
+  orig: 240, 44
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_17
+  rotate: true
+  xy: 736, 895
+  size: 209, 20
+  orig: 209, 20
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_19
+  rotate: true
+  xy: 1448, 172
+  size: 201, 16
+  orig: 201, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+wanju8_zidan.png
+size: 830,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/gj_guiji_00
+  rotate: false
+  xy: 590, 136
+  size: 123, 212
+  orig: 142, 335
+  offset: 9, 116
+  index: -1
+effect/gj_guiji_01
+  rotate: false
+  xy: 199, 50
+  size: 130, 298
+  orig: 142, 335
+  offset: 7, 29
+  index: -1
+effect/gj_guiji_02
+  rotate: false
+  xy: 331, 81
+  size: 129, 267
+  orig: 142, 335
+  offset: 7, 11
+  index: -1
+effect/gj_guiji_03
+  rotate: false
+  xy: 462, 110
+  size: 126, 238
+  orig: 142, 335
+  offset: 9, 6
+  index: -1
+effect/gj_guiji_04
+  rotate: false
+  xy: 715, 146
+  size: 114, 202
+  orig: 142, 335
+  offset: 16, 22
+  index: -1
+effect/gongjian1_glow
+  rotate: false
+  xy: 1, 1
+  size: 126, 125
+  orig: 135, 135
+  offset: 4, 5
+  index: -1
+effect/gongjian2_glow
+  rotate: false
+  xy: 1, 128
+  size: 196, 220
+  orig: 205, 228
+  offset: 4, 5
+  index: -1
+gongjian1
+  rotate: false
+  xy: 129, 69
+  size: 58, 57
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+gongjian2
+  rotate: true
+  xy: 590, 3
+  size: 131, 154
+  orig: 131, 154
+  offset: 0, 0
+  index: -1

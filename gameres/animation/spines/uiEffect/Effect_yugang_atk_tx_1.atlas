@@ -1,0 +1,55 @@
+
+Effect_yugang_atk_tx_1.png
+size: 988,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/attack/a10/a10_00077
+  rotate: false
+  xy: 634, 95
+  size: 209, 249
+  orig: 272, 320
+  offset: 31, 38
+  index: -1
+images/chutu/attack/a11/a11_00076
+  rotate: false
+  xy: 337, 51
+  size: 293, 293
+  orig: 304, 310
+  offset: 7, 8
+  index: -1
+images/chutu/attack/a4/a4_00078
+  rotate: false
+  xy: 847, 201
+  size: 141, 143
+  orig: 155, 159
+  offset: 7, 8
+  index: -1
+images/chutu/attack/a6/a6_00078
+  rotate: false
+  xy: 847, 87
+  size: 110, 110
+  orig: 128, 128
+  offset: 9, 9
+  index: -1
+images/chutu/attack/a7/a7_00078
+  rotate: true
+  xy: 634, 0
+  size: 91, 93
+  orig: 105, 108
+  offset: 7, 8
+  index: -1
+images/chutu/attack/a8/a8_00057
+  rotate: false
+  xy: 731, 34
+  size: 55, 57
+  orig: 63, 67
+  offset: 4, 5
+  index: -1
+images/chutu/attack/a9/a9_00079
+  rotate: false
+  xy: 0, 12
+  size: 333, 332
+  orig: 381, 351
+  offset: 26, 7
+  index: -1

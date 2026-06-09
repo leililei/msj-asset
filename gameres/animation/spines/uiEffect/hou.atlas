@@ -1,0 +1,41 @@
+
+hou.png
+size: 908,1411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haishui3
+  rotate: false
+  xy: 4, 436
+  size: 849, 277
+  orig: 849, 277
+  offset: 0, 0
+  index: -1
+haishui4
+  rotate: false
+  xy: 4, 5
+  size: 847, 214
+  orig: 847, 214
+  offset: 0, 0
+  index: -1
+haishui5
+  rotate: false
+  xy: 4, 223
+  size: 848, 209
+  orig: 850, 211
+  offset: 1, 1
+  index: -1
+tiankong
+  rotate: false
+  xy: 4, 998
+  size: 875, 409
+  orig: 877, 411
+  offset: 1, 1
+  index: -1
+wu
+  rotate: false
+  xy: 4, 717
+  size: 900, 277
+  orig: 902, 279
+  offset: 1, 1
+  index: -1

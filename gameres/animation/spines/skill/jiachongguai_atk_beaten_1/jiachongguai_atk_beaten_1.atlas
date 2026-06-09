@@ -1,0 +1,118 @@
+
+jiachongguai_atk_beaten_1.png
+size: 467,1056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/a5/a5_016
+  rotate: false
+  xy: 2, 778
+  size: 275, 276
+  orig: 339, 344
+  offset: 32, 35
+  index: -1
+chutu/a5/a5_017
+  rotate: false
+  xy: 2, 547
+  size: 255, 229
+  orig: 339, 344
+  offset: 38, 66
+  index: -1
+chutu/a5/a5_018
+  rotate: true
+  xy: 279, 880
+  size: 174, 186
+  orig: 339, 344
+  offset: 101, 99
+  index: -1
+chutu/a5/a5_019
+  rotate: false
+  xy: 259, 564
+  size: 166, 166
+  orig: 339, 344
+  offset: 119, 106
+  index: -1
+chutu/a5/a5_021
+  rotate: true
+  xy: 2, 2
+  size: 180, 170
+  orig: 339, 344
+  offset: 114, 113
+  index: -1
+chutu/a5/a5_023
+  rotate: false
+  xy: 2, 370
+  size: 189, 175
+  orig: 339, 344
+  offset: 110, 114
+  index: -1
+chutu/a5/a5_025
+  rotate: false
+  xy: 2, 184
+  size: 177, 184
+  orig: 339, 344
+  offset: 125, 110
+  index: -1
+chutu/a5/a5_027
+  rotate: false
+  xy: 279, 732
+  size: 179, 146
+  orig: 339, 344
+  offset: 123, 109
+  index: -1
+chutu/a5/a5_029
+  rotate: true
+  xy: 193, 391
+  size: 154, 148
+  orig: 339, 344
+  offset: 122, 107
+  index: -1
+chutu/a5/a5_031
+  rotate: false
+  xy: 193, 242
+  size: 153, 147
+  orig: 339, 344
+  offset: 123, 108
+  index: -1
+chutu/a5/a5_033
+  rotate: false
+  xy: 181, 112
+  size: 154, 128
+  orig: 339, 344
+  offset: 123, 127
+  index: -1
+chutu/a5/a5_035
+  rotate: true
+  xy: 343, 409
+  size: 153, 117
+  orig: 339, 344
+  offset: 124, 136
+  index: -1
+chutu/a5/a5_037
+  rotate: false
+  xy: 348, 308
+  size: 107, 99
+  orig: 339, 344
+  offset: 144, 152
+  index: -1
+chutu/a5/a5_039
+  rotate: false
+  xy: 174, 7
+  size: 106, 103
+  orig: 339, 344
+  offset: 144, 150
+  index: -1
+chutu/a5/a5_041
+  rotate: true
+  xy: 348, 204
+  size: 102, 104
+  orig: 339, 344
+  offset: 145, 147
+  index: -1
+chutu/a5/a5_043
+  rotate: false
+  xy: 337, 134
+  size: 65, 68
+  orig: 339, 344
+  offset: 169, 181
+  index: -1

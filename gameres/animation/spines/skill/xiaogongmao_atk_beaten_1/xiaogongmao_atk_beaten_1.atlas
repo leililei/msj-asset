@@ -1,0 +1,76 @@
+
+xiaogongmao_atk_beaten_1.png
+size: 299,678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/mz/mz_00
+  rotate: true
+  xy: 148, 33
+  size: 51, 66
+  orig: 200, 200
+  offset: 72, 73
+  index: -1
+effect/mz/mz_01
+  rotate: false
+  xy: 2, 2
+  size: 144, 110
+  orig: 200, 200
+  offset: 32, 55
+  index: -1
+effect/mz/mz_02
+  rotate: false
+  xy: 2, 550
+  size: 160, 126
+  orig: 200, 200
+  offset: 7, 37
+  index: -1
+effect/mz/mz_03
+  rotate: false
+  xy: 2, 246
+  size: 152, 150
+  orig: 200, 200
+  offset: 24, 25
+  index: -1
+effect/mz/mz_04
+  rotate: false
+  xy: 2, 398
+  size: 154, 150
+  orig: 200, 200
+  offset: 23, 25
+  index: -1
+effect/mz/mz_05
+  rotate: false
+  xy: 158, 390
+  size: 136, 152
+  orig: 200, 200
+  offset: 32, 24
+  index: -1
+effect/mz/mz_06
+  rotate: false
+  xy: 156, 236
+  size: 134, 152
+  orig: 200, 200
+  offset: 33, 24
+  index: -1
+effect/mz/mz_07
+  rotate: true
+  xy: 2, 114
+  size: 130, 150
+  orig: 200, 200
+  offset: 35, 25
+  index: -1
+effect/mz/mz_08
+  rotate: false
+  xy: 154, 86
+  size: 128, 148
+  orig: 200, 200
+  offset: 36, 26
+  index: -1
+effect/sf-glow
+  rotate: true
+  xy: 164, 544
+  size: 132, 133
+  orig: 150, 150
+  offset: 9, 8
+  index: -1

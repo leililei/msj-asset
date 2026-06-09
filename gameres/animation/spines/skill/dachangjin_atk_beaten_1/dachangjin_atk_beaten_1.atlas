@@ -1,0 +1,13 @@
+
+dachangjin_atk_beaten_1.png
+size: 46,36
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_dd
+  rotate: false
+  xy: 3, 3
+  size: 41, 31
+  orig: 47, 37
+  offset: 3, 3
+  index: -1

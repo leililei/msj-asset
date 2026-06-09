@@ -1,0 +1,398 @@
+
+longhun1_gj_1.png
+size: 2048,1880
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/bz/00
+  rotate: false
+  xy: 1884, 364
+  size: 156, 158
+  orig: 500, 450
+  offset: 164, 158
+  index: -1
+images/effect/bz/01
+  rotate: false
+  xy: 1666, 1610
+  size: 347, 266
+  orig: 500, 450
+  offset: 92, 128
+  index: -1
+images/effect/bz/03
+  rotate: false
+  xy: 3, 1566
+  size: 420, 310
+  orig: 500, 450
+  offset: 60, 116
+  index: -1
+images/effect/bz/05
+  rotate: false
+  xy: 425, 1603
+  size: 426, 273
+  orig: 500, 450
+  offset: 57, 155
+  index: -1
+images/effect/bz/06
+  rotate: false
+  xy: 853, 1603
+  size: 424, 273
+  orig: 500, 450
+  offset: 58, 155
+  index: -1
+images/effect/bz/07
+  rotate: false
+  xy: 1279, 1629
+  size: 385, 247
+  orig: 500, 450
+  offset: 75, 162
+  index: -1
+images/effect/bz/08
+  rotate: false
+  xy: 1596, 1103
+  size: 385, 231
+  orig: 500, 450
+  offset: 75, 178
+  index: -1
+images/effect/bz/10
+  rotate: false
+  xy: 3, 858
+  size: 376, 223
+  orig: 500, 450
+  offset: 76, 182
+  index: -1
+images/effect/bz/12
+  rotate: false
+  xy: 3, 468
+  size: 277, 187
+  orig: 500, 450
+  offset: 106, 185
+  index: -1
+images/effect/bz/14
+  rotate: true
+  xy: 1853, 524
+  size: 279, 187
+  orig: 500, 450
+  offset: 104, 186
+  index: -1
+images/effect/bz/16
+  rotate: false
+  xy: 1371, 418
+  size: 256, 185
+  orig: 500, 450
+  offset: 107, 190
+  index: -1
+images/effect/bz/18
+  rotate: false
+  xy: 282, 373
+  size: 254, 185
+  orig: 500, 450
+  offset: 110, 192
+  index: -1
+images/effect/bz/20
+  rotate: false
+  xy: 1629, 355
+  size: 253, 167
+  orig: 500, 450
+  offset: 110, 211
+  index: -1
+images/effect/bz/22
+  rotate: false
+  xy: 775, 136
+  size: 219, 146
+  orig: 500, 450
+  offset: 113, 232
+  index: -1
+images/effect/bz/24
+  rotate: false
+  xy: 996, 138
+  size: 220, 144
+  orig: 500, 450
+  offset: 112, 242
+  index: -1
+images/effect/bz_glow
+  rotate: false
+  xy: 381, 814
+  size: 266, 267
+  orig: 300, 300
+  offset: 17, 15
+  index: -1
+images/effect/jg/00
+  rotate: true
+  xy: 805, 1206
+  size: 128, 789
+  orig: 160, 839
+  offset: 21, 26
+  index: -1
+images/effect/jg/01
+  rotate: true
+  xy: 799, 1086
+  size: 118, 794
+  orig: 160, 839
+  offset: 21, 23
+  index: -1
+images/effect/jg/02
+  rotate: true
+  xy: 1227, 1336
+  size: 129, 791
+  orig: 160, 839
+  offset: 16, 26
+  index: -1
+images/effect/jg/03
+  rotate: true
+  xy: 1227, 1467
+  size: 134, 794
+  orig: 160, 839
+  offset: 16, 23
+  index: -1
+images/effect/jg/04
+  rotate: true
+  xy: 3, 1206
+  size: 128, 791
+  orig: 160, 839
+  offset: 11, 26
+  index: -1
+images/effect/jg/05
+  rotate: true
+  xy: 799, 966
+  size: 118, 794
+  orig: 160, 839
+  offset: 21, 23
+  index: -1
+images/effect/jg/06
+  rotate: true
+  xy: 3, 1337
+  size: 129, 800
+  orig: 160, 839
+  offset: 15, 24
+  index: -1
+images/effect/jg/08
+  rotate: true
+  xy: 425, 1467
+  size: 134, 800
+  orig: 160, 839
+  offset: 10, 26
+  index: -1
+images/effect/jg/10
+  rotate: true
+  xy: 3, 1083
+  size: 121, 794
+  orig: 160, 839
+  offset: 18, 27
+  index: -1
+images/effect/jg/12
+  rotate: true
+  xy: 599, 560
+  size: 76, 770
+  orig: 160, 839
+  offset: 42, 31
+  index: -1
+images/effect/jg/14
+  rotate: true
+  xy: 599, 484
+  size: 74, 749
+  orig: 160, 839
+  offset: 43, 33
+  index: -1
+images/effect/jg/16
+  rotate: true
+  xy: 599, 689
+  size: 74, 716
+  orig: 160, 839
+  offset: 43, 33
+  index: -1
+images/effect/jg_qiu/00
+  rotate: false
+  xy: 805, 1351
+  size: 114, 114
+  orig: 380, 350
+  offset: 133, 118
+  index: -1
+images/effect/jg_qiu/01
+  rotate: false
+  xy: 176, 15
+  size: 157, 156
+  orig: 380, 350
+  offset: 111, 97
+  index: -1
+images/effect/jg_qiu/02
+  rotate: false
+  xy: 403, 98
+  size: 184, 184
+  orig: 380, 350
+  offset: 98, 83
+  index: -1
+images/effect/jg_qiu/04
+  rotate: false
+  xy: 538, 284
+  size: 198, 198
+  orig: 380, 350
+  offset: 91, 76
+  index: -1
+images/effect/jg_qiu/05
+  rotate: false
+  xy: 1595, 805
+  size: 297, 296
+  orig: 380, 350
+  offset: 40, 27
+  index: -1
+images/effect/jg_qiu/06
+  rotate: false
+  xy: 345, 560
+  size: 252, 252
+  orig: 380, 350
+  offset: 63, 49
+  index: -1
+images/effect/jg_qiu/07
+  rotate: false
+  xy: 1545, 605
+  size: 306, 198
+  orig: 380, 350
+  offset: 38, 76
+  index: -1
+images/effect/jg_qiu/08
+  rotate: true
+  xy: 1345, 638
+  size: 326, 198
+  orig: 380, 350
+  offset: 28, 76
+  index: -1
+images/effect/jg_qiu/09
+  rotate: false
+  xy: 1001, 765
+  size: 342, 199
+  orig: 380, 350
+  offset: 20, 75
+  index: -1
+images/effect/jg_qiu/10
+  rotate: false
+  xy: 649, 765
+  size: 350, 199
+  orig: 380, 350
+  offset: 16, 75
+  index: -1
+images/effect/jg_qiu/11
+  rotate: false
+  xy: 3, 657
+  size: 340, 199
+  orig: 380, 350
+  offset: 21, 75
+  index: -1
+images/effect/jg_qiu/12
+  rotate: false
+  xy: 738, 284
+  size: 198, 198
+  orig: 380, 350
+  offset: 91, 76
+  index: -1
+images/effect/jg_qiu/14
+  rotate: false
+  xy: 938, 284
+  size: 198, 198
+  orig: 380, 350
+  offset: 91, 76
+  index: -1
+images/effect/jg_qiu/16
+  rotate: false
+  xy: 1138, 284
+  size: 198, 198
+  orig: 380, 350
+  offset: 91, 76
+  index: -1
+images/effect/jg_qiu/18
+  rotate: false
+  xy: 3, 268
+  size: 198, 198
+  orig: 380, 350
+  offset: 91, 76
+  index: -1
+images/effect/jg_qiu/20
+  rotate: false
+  xy: 1338, 218
+  size: 198, 198
+  orig: 380, 350
+  offset: 91, 76
+  index: -1
+images/effect/jg_qiu/22
+  rotate: false
+  xy: 203, 173
+  size: 198, 198
+  orig: 380, 350
+  offset: 91, 76
+  index: -1
+images/effect/jg_qiu/24
+  rotate: false
+  xy: 1538, 155
+  size: 198, 198
+  orig: 380, 350
+  offset: 91, 76
+  index: -1
+images/effect/jg_qiu/26
+  rotate: false
+  xy: 1738, 155
+  size: 198, 198
+  orig: 380, 350
+  offset: 91, 76
+  index: -1
+images/effect/jg_qiu/28
+  rotate: false
+  xy: 589, 98
+  size: 184, 184
+  orig: 380, 350
+  offset: 98, 83
+  index: -1
+images/effect/jg_qiu/29
+  rotate: true
+  xy: 1218, 48
+  size: 168, 170
+  orig: 380, 350
+  offset: 106, 90
+  index: -1
+images/effect/jg_qiu/30
+  rotate: false
+  xy: 1894, 947
+  size: 152, 154
+  orig: 380, 350
+  offset: 114, 98
+  index: -1
+images/effect/jg_qiu/31
+  rotate: false
+  xy: 1894, 808
+  size: 136, 137
+  orig: 380, 350
+  offset: 122, 106
+  index: -1
+images/effect/jg_qiu/32
+  rotate: false
+  xy: 3, 96
+  size: 171, 170
+  orig: 380, 350
+  offset: 104, 90
+  index: -1
+images/effect/jg_qiu/33
+  rotate: false
+  xy: 1390, 3
+  size: 151, 150
+  orig: 380, 350
+  offset: 114, 100
+  index: -1
+images/effect/jg_qiu/34
+  rotate: false
+  xy: 3, 1468
+  size: 97, 96
+  orig: 380, 350
+  offset: 141, 127
+  index: -1
+images/effect/jg_qiu/35
+  rotate: false
+  xy: 102, 1486
+  size: 78, 78
+  orig: 380, 350
+  offset: 151, 136
+  index: -1
+images/effect/jg_qiu/36
+  rotate: false
+  xy: 182, 1514
+  size: 50, 50
+  orig: 380, 350
+  offset: 165, 150
+  index: -1

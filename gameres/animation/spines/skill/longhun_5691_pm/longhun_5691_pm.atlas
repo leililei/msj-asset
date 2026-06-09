@@ -1,0 +1,20 @@
+
+longhun_5691_pm.png
+size: 136,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/pm_bai
+  rotate: false
+  xy: 2, 2
+  size: 65, 115
+  orig: 65, 115
+  offset: 0, 0
+  index: -1
+effect/pm_hei
+  rotate: false
+  xy: 69, 2
+  size: 65, 115
+  orig: 65, 115
+  offset: 0, 0
+  index: -1

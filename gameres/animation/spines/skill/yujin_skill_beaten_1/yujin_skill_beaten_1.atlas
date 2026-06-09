@@ -1,0 +1,118 @@
+
+yujin_skill_beaten_1.png
+size: 620,919
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_mz_00
+  rotate: true
+  xy: 188, 2
+  size: 192, 190
+  orig: 192, 190
+  offset: 0, 0
+  index: -1
+effect/skill_mz_01
+  rotate: false
+  xy: 2, 261
+  size: 235, 218
+  orig: 235, 218
+  offset: 0, 0
+  index: -1
+effect/skill_mz_02
+  rotate: true
+  xy: 239, 196
+  size: 239, 203
+  orig: 239, 203
+  offset: 0, 0
+  index: -1
+effect/skill_mz_03
+  rotate: false
+  xy: 2, 481
+  size: 254, 217
+  orig: 254, 217
+  offset: 0, 0
+  index: -1
+effect/skill_mz_04
+  rotate: false
+  xy: 2, 700
+  size: 257, 217
+  orig: 257, 217
+  offset: 0, 0
+  index: -1
+effect/skill_mz_05
+  rotate: false
+  xy: 261, 696
+  size: 251, 221
+  orig: 251, 221
+  offset: 0, 0
+  index: -1
+effect/skill_mz_07
+  rotate: true
+  xy: 258, 437
+  size: 257, 214
+  orig: 257, 214
+  offset: 0, 0
+  index: -1
+effect/skill_mz_09
+  rotate: true
+  xy: 2, 2
+  size: 257, 184
+  orig: 257, 184
+  offset: 0, 0
+  index: -1
+effect/skill_mz_11
+  rotate: false
+  xy: 380, 8
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+effect/skill_mz_13
+  rotate: false
+  xy: 474, 552
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+effect/skill_sf02_00
+  rotate: true
+  xy: 551, 272
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+effect/skill_sf02_01
+  rotate: false
+  xy: 514, 801
+  size: 100, 116
+  orig: 100, 116
+  offset: 0, 0
+  index: -1
+effect/skill_sf02_03
+  rotate: true
+  xy: 474, 443
+  size: 107, 119
+  orig: 107, 119
+  offset: 0, 0
+  index: -1
+effect/skill_sf02_05
+  rotate: true
+  xy: 474, 336
+  size: 105, 119
+  orig: 105, 119
+  offset: 0, 0
+  index: -1
+effect/skill_sf02_07
+  rotate: false
+  xy: 444, 229
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+effect/skill_sf02_09
+  rotate: true
+  xy: 514, 694
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+mazhu_tiewangzuo_zidan.png
+size: 193,962
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/dandao/dandao_00000
+  rotate: false
+  xy: 2, 525
+  size: 183, 63
+  orig: 212, 79
+  offset: 22, 7
+  index: -1
+atk/dandao/dandao_00002
+  rotate: false
+  xy: 2, 901
+  size: 182, 59
+  orig: 212, 79
+  offset: 22, 13
+  index: -1
+atk/dandao/dandao_00004
+  rotate: false
+  xy: 2, 840
+  size: 182, 59
+  orig: 212, 79
+  offset: 22, 13
+  index: -1
+atk/dandao/dandao_00006
+  rotate: false
+  xy: 2, 68
+  size: 185, 64
+  orig: 212, 79
+  offset: 20, 8
+  index: -1
+atk/dandao/dandao_00008
+  rotate: false
+  xy: 2, 460
+  size: 183, 63
+  orig: 212, 79
+  offset: 22, 8
+  index: -1
+atk/dandao/dandao_00010
+  rotate: false
+  xy: 2, 395
+  size: 183, 63
+  orig: 212, 79
+  offset: 22, 7
+  index: -1
+atk/dandao/dandao_00012
+  rotate: false
+  xy: 2, 779
+  size: 189, 59
+  orig: 212, 79
+  offset: 16, 13
+  index: -1
+atk/dandao/dandao_00014
+  rotate: false
+  xy: 2, 590
+  size: 183, 62
+  orig: 212, 79
+  offset: 22, 11
+  index: -1
+atk/dandao/dandao_00016
+  rotate: false
+  xy: 2, 330
+  size: 183, 63
+  orig: 212, 79
+  offset: 22, 8
+  index: -1
+atk/dandao/dandao_00018
+  rotate: false
+  xy: 2, 265
+  size: 183, 63
+  orig: 212, 79
+  offset: 22, 8
+  index: -1
+atk/dandao/dandao_00020
+  rotate: false
+  xy: 2, 2
+  size: 181, 64
+  orig: 212, 79
+  offset: 24, 7
+  index: -1
+atk/dandao/dandao_00022
+  rotate: false
+  xy: 2, 717
+  size: 183, 60
+  orig: 212, 79
+  offset: 22, 12
+  index: -1
+atk/dandao/dandao_00024
+  rotate: false
+  xy: 2, 654
+  size: 182, 61
+  orig: 212, 79
+  offset: 22, 11
+  index: -1
+atk/dandao/dandao_00026
+  rotate: false
+  xy: 2, 200
+  size: 183, 63
+  orig: 212, 79
+  offset: 22, 8
+  index: -1
+atk/dandao/dandao_00028
+  rotate: false
+  xy: 2, 134
+  size: 183, 64
+  orig: 212, 79
+  offset: 22, 8
+  index: -1

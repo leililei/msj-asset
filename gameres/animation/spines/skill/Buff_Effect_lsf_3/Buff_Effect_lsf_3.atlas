@@ -1,0 +1,34 @@
+
+Buff_Effect_lsf_3.png
+size: 645,418
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/fz1/fz1_00030
+  rotate: false
+  xy: 416, 323
+  size: 227, 93
+  orig: 319, 315
+  offset: 32, 104
+  index: -1
+chutu/fz2/fz2_00000
+  rotate: false
+  xy: 416, 131
+  size: 192, 190
+  orig: 270, 267
+  offset: 39, 39
+  index: -1
+chutu/fz3/fz3_00000
+  rotate: true
+  xy: 2, 2
+  size: 414, 412
+  orig: 438, 438
+  offset: 12, 7
+  index: -1
+chutu/fz4/fz4_00014
+  rotate: false
+  xy: 416, 4
+  size: 154, 125
+  orig: 158, 145
+  offset: 4, 3
+  index: -1

@@ -1,0 +1,146 @@
+
+sh_lishunchen_atk_beaten_1.png
+size: 268,2004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_mz_00
+  rotate: true
+  xy: 0, 399
+  size: 168, 169
+  orig: 201, 205
+  offset: 17, 20
+  index: -1
+effect/attack_mz_01
+  rotate: false
+  xy: 0, 571
+  size: 197, 147
+  orig: 222, 170
+  offset: 13, 14
+  index: -1
+effect/attack_mz_02
+  rotate: false
+  xy: 0, 722
+  size: 206, 147
+  orig: 230, 168
+  offset: 13, 10
+  index: -1
+effect/attack_mz_04
+  rotate: false
+  xy: 0, 1488
+  size: 230, 173
+  orig: 250, 193
+  offset: 10, 10
+  index: -1
+effect/attack_mz_06
+  rotate: false
+  xy: 0, 1828
+  size: 239, 176
+  orig: 258, 195
+  offset: 10, 9
+  index: -1
+effect/attack_mz_08
+  rotate: false
+  xy: 0, 1323
+  size: 247, 161
+  orig: 267, 176
+  offset: 11, 12
+  index: -1
+effect/attack_mz_10
+  rotate: false
+  xy: 0, 1161
+  size: 251, 158
+  orig: 272, 181
+  offset: 11, 13
+  index: -1
+effect/attack_mz_12
+  rotate: false
+  xy: 0, 1665
+  size: 256, 159
+  orig: 275, 181
+  offset: 10, 11
+  index: -1
+effect/attack_mz_14
+  rotate: false
+  xy: 0, 1016
+  size: 257, 141
+  orig: 279, 163
+  offset: 11, 10
+  index: -1
+effect/attack_mz_16
+  rotate: false
+  xy: 0, 873
+  size: 255, 139
+  orig: 280, 153
+  offset: 12, 2
+  index: -1
+effect/attack_mz_18
+  rotate: false
+  xy: 0, 300
+  size: 254, 95
+  orig: 279, 119
+  offset: 12, 12
+  index: -1
+effect/attack_mz_20
+  rotate: true
+  xy: 210, 659
+  size: 210, 46
+  orig: 236, 69
+  offset: 13, 11
+  index: -1
+effect/skill_mz_zs_00
+  rotate: false
+  xy: 201, 573
+  size: 65, 82
+  orig: 70, 86
+  offset: 2, 2
+  index: -1
+effect/skill_mz_zs_01
+  rotate: true
+  xy: 0, 193
+  size: 103, 126
+  orig: 109, 130
+  offset: 3, 2
+  index: -1
+effect/skill_mz_zs_03
+  rotate: false
+  xy: 130, 151
+  size: 88, 145
+  orig: 108, 149
+  offset: 2, 2
+  index: -1
+effect/skill_mz_zs_05
+  rotate: false
+  xy: 173, 399
+  size: 87, 148
+  orig: 108, 152
+  offset: 2, 2
+  index: -1
+effect/skill_mz_zs_07
+  rotate: true
+  xy: 0, 90
+  size: 57, 148
+  orig: 61, 152
+  offset: 2, 2
+  index: -1
+effect/skill_mz_zs_09
+  rotate: true
+  xy: 0, 29
+  size: 57, 148
+  orig: 61, 152
+  offset: 2, 2
+  index: -1
+effect/skill_mz_zs_11
+  rotate: false
+  xy: 152, 0
+  size: 57, 147
+  orig: 61, 151
+  offset: 2, 2
+  index: -1
+effect/skill_mz_zs_13
+  rotate: false
+  xy: 213, 1
+  size: 55, 146
+  orig: 59, 150
+  offset: 2, 2
+  index: -1

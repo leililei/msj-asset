@@ -1,0 +1,76 @@
+
+Effect_tiaozhanchenggong2.png
+size: 1372,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lg/lg_03
+  rotate: false
+  xy: 1295, 39
+  size: 69, 76
+  orig: 486, 232
+  offset: 27, 122
+  index: -1
+lg/lg_05
+  rotate: false
+  xy: 1043, 64
+  size: 131, 132
+  orig: 486, 232
+  offset: 10, 65
+  index: -1
+lg/lg_07
+  rotate: false
+  xy: 905, 55
+  size: 136, 141
+  orig: 486, 232
+  offset: 25, 49
+  index: -1
+lg/lg_09
+  rotate: true
+  xy: 1176, 57
+  size: 139, 117
+  orig: 486, 232
+  offset: 76, 49
+  index: -1
+lg/lg_11
+  rotate: false
+  xy: 760, 48
+  size: 143, 148
+  orig: 486, 232
+  offset: 117, 20
+  index: -1
+lg/lg_13
+  rotate: true
+  xy: 415, 3
+  size: 184, 169
+  orig: 486, 232
+  offset: 151, 20
+  index: -1
+lg/lg_15
+  rotate: false
+  xy: 3, 4
+  size: 213, 192
+  orig: 486, 232
+  offset: 195, 14
+  index: -1
+lg/lg_17
+  rotate: true
+  xy: 218, 3
+  size: 193, 195
+  orig: 486, 232
+  offset: 266, 29
+  index: -1
+lg/lg_19
+  rotate: false
+  xy: 586, 14
+  size: 172, 173
+  orig: 486, 232
+  offset: 307, 34
+  index: -1
+lg/lg_21
+  rotate: false
+  xy: 1295, 117
+  size: 73, 79
+  orig: 486, 232
+  offset: 390, 77
+  index: -1

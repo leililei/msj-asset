@@ -1,0 +1,139 @@
+
+ganning_atk_1.png
+size: 644,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skl_dg_00
+  rotate: false
+  xy: 272, 152
+  size: 278, 176
+  orig: 278, 212
+  offset: 0, 36
+  index: -1
+effect/skl_dg_01
+  rotate: false
+  xy: 272, 330
+  size: 267, 190
+  orig: 267, 223
+  offset: 0, 33
+  index: -1
+effect/skl_dg_02
+  rotate: false
+  xy: 2, 324
+  size: 268, 196
+  orig: 268, 222
+  offset: 0, 26
+  index: -1
+effect/skl_dg_03
+  rotate: false
+  xy: 2, 131
+  size: 267, 191
+  orig: 267, 213
+  offset: 0, 22
+  index: -1
+effect/skl_dg_05
+  rotate: true
+  xy: 271, 2
+  size: 148, 171
+  orig: 219, 201
+  offset: 71, 30
+  index: -1
+effect/skl_dg_07
+  rotate: true
+  xy: 2, 32
+  size: 97, 159
+  orig: 97, 198
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_00
+  rotate: false
+  xy: 444, 2
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_01
+  rotate: true
+  xy: 541, 386
+  size: 134, 54
+  orig: 134, 54
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_02
+  rotate: true
+  xy: 444, 16
+  size: 134, 54
+  orig: 134, 54
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_03
+  rotate: true
+  xy: 552, 254
+  size: 130, 54
+  orig: 130, 54
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_04
+  rotate: true
+  xy: 500, 18
+  size: 132, 54
+  orig: 132, 54
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_06
+  rotate: true
+  xy: 163, 8
+  size: 121, 54
+  orig: 121, 54
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_08
+  rotate: true
+  xy: 556, 58
+  size: 117, 54
+  orig: 117, 54
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_10
+  rotate: true
+  xy: 219, 9
+  size: 120, 44
+  orig: 120, 44
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_12
+  rotate: true
+  xy: 597, 399
+  size: 121, 45
+  orig: 121, 45
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_14
+  rotate: true
+  xy: 552, 177
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_16
+  rotate: false
+  xy: 556, 12
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_18
+  rotate: false
+  xy: 2, 20
+  size: 49, 10
+  orig: 49, 10
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_20
+  rotate: false
+  xy: 541, 379
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1

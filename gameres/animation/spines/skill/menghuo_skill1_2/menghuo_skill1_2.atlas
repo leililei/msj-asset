@@ -1,0 +1,41 @@
+
+menghuo_skill1_2.png
+size: 1016,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill1/sd1/sd1_00013
+  rotate: true
+  xy: 1, 1
+  size: 107, 202
+  orig: 108, 206
+  offset: 0, 0
+  index: -1
+images/chutu/skill1/sd1/sd1_00015
+  rotate: true
+  xy: 206, 1
+  size: 107, 200
+  orig: 108, 206
+  offset: 0, 2
+  index: -1
+images/chutu/skill1/sd1/sd1_00017
+  rotate: true
+  xy: 409, 1
+  size: 107, 200
+  orig: 108, 206
+  offset: 0, 2
+  index: -1
+images/chutu/skill1/sd1/sd1_00019
+  rotate: true
+  xy: 612, 1
+  size: 107, 200
+  orig: 108, 206
+  offset: 0, 3
+  index: -1
+images/chutu/skill1/sd1/sd1_00021
+  rotate: true
+  xy: 815, 1
+  size: 107, 200
+  orig: 108, 206
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,97 @@
+
+sunshangxiang_atk_tx_1.png
+size: 292,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/4xl1/4xl1_0007
+  rotate: false
+  xy: 1, 1
+  size: 74, 78
+  orig: 192, 107
+  offset: 4, 4
+  index: -1
+chutu/attack/4xl1/4xl1_0009
+  rotate: true
+  xy: 197, 18
+  size: 154, 88
+  orig: 192, 107
+  offset: 4, 3
+  index: -1
+chutu/attack/4xl1/4xl1_0011
+  rotate: true
+  xy: 119, 175
+  size: 174, 99
+  orig: 192, 107
+  offset: 11, 3
+  index: -1
+chutu/attack/4xl1/4xl1_0013
+  rotate: true
+  xy: 103, 9
+  size: 163, 91
+  orig: 192, 107
+  offset: 25, 12
+  index: -1
+chutu/attack/4xl1/4xl1_0014
+  rotate: true
+  xy: 221, 263
+  size: 86, 60
+  orig: 192, 107
+  offset: 102, 32
+  index: -1
+chutu/attack/4xl2/4xl2_0008
+  rotate: false
+  xy: 1, 746
+  size: 152, 295
+  orig: 159, 306
+  offset: 2, 10
+  index: -1
+chutu/attack/4xl2/4xl2_0010
+  rotate: false
+  xy: 1, 471
+  size: 144, 272
+  orig: 159, 306
+  offset: 7, 13
+  index: -1
+chutu/attack/4xl2/4xl2_0012
+  rotate: false
+  xy: 156, 787
+  size: 133, 254
+  orig: 159, 306
+  offset: 14, 15
+  index: -1
+chutu/attack/4xl2/4xl2_0014
+  rotate: false
+  xy: 156, 544
+  size: 126, 240
+  orig: 159, 306
+  offset: 17, 16
+  index: -1
+chutu/attack/4xl2/4xl2_0016
+  rotate: false
+  xy: 1, 258
+  size: 115, 210
+  orig: 159, 306
+  offset: 29, 27
+  index: -1
+chutu/attack/4xl2/4xl2_0018
+  rotate: false
+  xy: 1, 82
+  size: 99, 173
+  orig: 159, 306
+  offset: 39, 40
+  index: -1
+chutu/attack/4xl3/4xl3_0007
+  rotate: true
+  xy: 148, 352
+  size: 189, 138
+  orig: 189, 138
+  offset: 0, 0
+  index: -1
+chutu/attack/4xl4/4xl4_0007
+  rotate: true
+  xy: 221, 221
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1

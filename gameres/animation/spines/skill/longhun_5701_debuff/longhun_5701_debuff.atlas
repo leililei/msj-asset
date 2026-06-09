@@ -1,0 +1,286 @@
+
+longhun_5701_debuff.png
+size: 1230,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/debuff/00
+  rotate: false
+  xy: 306, 3
+  size: 60, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/01
+  rotate: false
+  xy: 368, 3
+  size: 61, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/02
+  rotate: false
+  xy: 1166, 58
+  size: 62, 53
+  orig: 75, 75
+  offset: 6, 10
+  index: -1
+effect/debuff/03
+  rotate: false
+  xy: 2, 4
+  size: 62, 53
+  orig: 75, 75
+  offset: 6, 10
+  index: -1
+effect/debuff/04
+  rotate: false
+  xy: 2, 59
+  size: 61, 52
+  orig: 75, 75
+  offset: 6, 11
+  index: -1
+effect/debuff/05
+  rotate: false
+  xy: 65, 59
+  size: 61, 52
+  orig: 75, 75
+  offset: 6, 11
+  index: -1
+effect/debuff/06
+  rotate: false
+  xy: 128, 59
+  size: 61, 52
+  orig: 75, 75
+  offset: 6, 11
+  index: -1
+effect/debuff/07
+  rotate: false
+  xy: 191, 59
+  size: 61, 52
+  orig: 75, 75
+  offset: 6, 11
+  index: -1
+effect/debuff/08
+  rotate: false
+  xy: 254, 59
+  size: 60, 52
+  orig: 75, 75
+  offset: 6, 11
+  index: -1
+effect/debuff/09
+  rotate: false
+  xy: 316, 59
+  size: 60, 52
+  orig: 75, 75
+  offset: 6, 11
+  index: -1
+effect/debuff/10
+  rotate: false
+  xy: 378, 59
+  size: 59, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/11
+  rotate: false
+  xy: 439, 59
+  size: 59, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/12
+  rotate: false
+  xy: 500, 59
+  size: 58, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/13
+  rotate: false
+  xy: 560, 59
+  size: 58, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/14
+  rotate: false
+  xy: 620, 59
+  size: 58, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/15
+  rotate: false
+  xy: 680, 59
+  size: 59, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/16
+  rotate: false
+  xy: 741, 59
+  size: 59, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/17
+  rotate: false
+  xy: 802, 59
+  size: 59, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/18
+  rotate: false
+  xy: 863, 59
+  size: 59, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/19
+  rotate: false
+  xy: 924, 59
+  size: 59, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/20
+  rotate: false
+  xy: 985, 59
+  size: 59, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/21
+  rotate: false
+  xy: 1046, 59
+  size: 58, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/22
+  rotate: false
+  xy: 1106, 59
+  size: 58, 52
+  orig: 75, 75
+  offset: 7, 11
+  index: -1
+effect/debuff/23
+  rotate: false
+  xy: 66, 4
+  size: 58, 53
+  orig: 75, 75
+  offset: 7, 10
+  index: -1
+effect/debuff/24
+  rotate: false
+  xy: 126, 4
+  size: 58, 53
+  orig: 75, 75
+  offset: 7, 10
+  index: -1
+effect/debuff/25
+  rotate: false
+  xy: 186, 4
+  size: 58, 53
+  orig: 75, 75
+  offset: 7, 10
+  index: -1
+effect/debuff/26
+  rotate: false
+  xy: 246, 4
+  size: 58, 53
+  orig: 75, 75
+  offset: 7, 10
+  index: -1
+effect/debuff/27
+  rotate: false
+  xy: 431, 3
+  size: 58, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/28
+  rotate: false
+  xy: 491, 3
+  size: 58, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/29
+  rotate: false
+  xy: 551, 3
+  size: 58, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/30
+  rotate: false
+  xy: 611, 3
+  size: 59, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/31
+  rotate: false
+  xy: 672, 3
+  size: 59, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/32
+  rotate: false
+  xy: 733, 3
+  size: 59, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/33
+  rotate: false
+  xy: 794, 3
+  size: 60, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/34
+  rotate: false
+  xy: 856, 3
+  size: 60, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/35
+  rotate: false
+  xy: 918, 3
+  size: 60, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/36
+  rotate: false
+  xy: 980, 3
+  size: 60, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/37
+  rotate: false
+  xy: 1042, 3
+  size: 60, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/38
+  rotate: false
+  xy: 1104, 3
+  size: 60, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+effect/debuff/39
+  rotate: false
+  xy: 1166, 2
+  size: 60, 54
+  orig: 75, 75
+  offset: 7, 9
+  index: -1

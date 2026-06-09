@@ -1,0 +1,55 @@
+
+Falg_Effect_002.png
+size: 396,884
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guntoua3
+  rotate: false
+  xy: 343, 108
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+guntoub3
+  rotate: false
+  xy: 343, 175
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+gunzi3
+  rotate: false
+  xy: 3, 58
+  size: 291, 48
+  orig: 291, 48
+  offset: 0, 0
+  index: -1
+jiana2
+  rotate: false
+  xy: 3, 623
+  size: 376, 257
+  orig: 376, 257
+  offset: 0, 0
+  index: -1
+jianb2
+  rotate: false
+  xy: 3, 364
+  size: 376, 257
+  orig: 376, 257
+  offset: 0, 0
+  index: -1
+qizi2
+  rotate: true
+  xy: 3, 108
+  size: 254, 338
+  orig: 254, 338
+  offset: 0, 0
+  index: -1
+zhang2
+  rotate: true
+  xy: 296, 3
+  size: 103, 98
+  orig: 103, 98
+  offset: 0, 0
+  index: -1

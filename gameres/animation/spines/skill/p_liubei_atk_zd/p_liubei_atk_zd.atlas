@@ -1,0 +1,76 @@
+
+p_liubei_atk_zd.png
+size: 1027,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/atk/dandao/dandao_00
+  rotate: false
+  xy: 829, 2
+  size: 193, 90
+  orig: 229, 111
+  offset: 21, 11
+  index: -1
+chutu/atk/dandao/dandao_02
+  rotate: false
+  xy: 629, 2
+  size: 198, 90
+  orig: 229, 111
+  offset: 16, 11
+  index: -1
+chutu/atk/dandao/dandao_04
+  rotate: false
+  xy: 423, 94
+  size: 202, 90
+  orig: 229, 111
+  offset: 12, 11
+  index: -1
+chutu/atk/dandao/dandao_06
+  rotate: false
+  xy: 422, 2
+  size: 205, 90
+  orig: 229, 111
+  offset: 9, 11
+  index: -1
+chutu/atk/dandao/dandao_08
+  rotate: false
+  xy: 213, 2
+  size: 207, 90
+  orig: 229, 111
+  offset: 7, 11
+  index: -1
+chutu/atk/dandao/dandao_10
+  rotate: false
+  xy: 2, 94
+  size: 209, 90
+  orig: 229, 111
+  offset: 5, 11
+  index: -1
+chutu/atk/dandao/dandao_12
+  rotate: false
+  xy: 213, 94
+  size: 208, 90
+  orig: 229, 111
+  offset: 6, 11
+  index: -1
+chutu/atk/dandao/dandao_14
+  rotate: false
+  xy: 627, 94
+  size: 200, 90
+  orig: 229, 111
+  offset: 14, 11
+  index: -1
+chutu/atk/dandao/dandao_16
+  rotate: false
+  xy: 2, 2
+  size: 209, 90
+  orig: 229, 111
+  offset: 5, 11
+  index: -1
+chutu/atk/dandao/dandao_18
+  rotate: false
+  xy: 829, 94
+  size: 196, 90
+  orig: 229, 111
+  offset: 18, 11
+  index: -1

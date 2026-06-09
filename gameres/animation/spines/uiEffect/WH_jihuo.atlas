@@ -1,0 +1,125 @@
+
+WH_jihuo.png
+size: 1432,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/dj_1/00
+  rotate: true
+  xy: 1311, 85
+  size: 117, 119
+  orig: 315, 315
+  offset: 99, 98
+  index: -1
+images/effect/dj_1/02
+  rotate: false
+  xy: 1134, 23
+  size: 175, 175
+  orig: 315, 315
+  offset: 70, 70
+  index: -1
+images/effect/dj_1/04
+  rotate: false
+  xy: 1186, 204
+  size: 202, 202
+  orig: 315, 315
+  offset: 57, 56
+  index: -1
+images/effect/dj_1/06
+  rotate: false
+  xy: 982, 200
+  size: 202, 206
+  orig: 315, 315
+  offset: 57, 53
+  index: -1
+images/effect/dj_1/08
+  rotate: false
+  xy: 777, 197
+  size: 203, 209
+  orig: 315, 315
+  offset: 55, 51
+  index: -1
+images/effect/dj_1/10
+  rotate: true
+  xy: 931, 2
+  size: 193, 201
+  orig: 315, 315
+  offset: 57, 57
+  index: -1
+images/effect/dj_1/12
+  rotate: false
+  xy: 545, 8
+  size: 149, 139
+  orig: 315, 315
+  offset: 83, 88
+  index: -1
+images/effect/dj_2/00
+  rotate: true
+  xy: 2, 6
+  size: 129, 233
+  orig: 315, 315
+  offset: 93, 42
+  index: -1
+images/effect/dj_3/00
+  rotate: true
+  xy: 2, 6
+  size: 129, 233
+  orig: 315, 315
+  offset: 93, 42
+  index: -1
+images/effect/dj_2/01
+  rotate: false
+  xy: 2, 137
+  size: 185, 269
+  orig: 315, 315
+  offset: 65, 25
+  index: -1
+images/effect/dj_2/02
+  rotate: true
+  xy: 374, 149
+  size: 257, 184
+  orig: 315, 315
+  offset: 29, 56
+  index: -1
+images/effect/dj_2/03
+  rotate: true
+  xy: 389, 6
+  size: 141, 154
+  orig: 315, 315
+  offset: 87, 74
+  index: -1
+images/effect/dj_2/05
+  rotate: true
+  xy: 743, 167
+  size: 239, 32
+  orig: 315, 315
+  offset: 38, 142
+  index: -1
+images/effect/dj_3/01
+  rotate: true
+  xy: 696, 18
+  size: 129, 233
+  orig: 315, 315
+  offset: 93, 42
+  index: -1
+images/effect/dj_3/02
+  rotate: false
+  xy: 189, 139
+  size: 183, 267
+  orig: 315, 315
+  offset: 66, 26
+  index: -1
+images/effect/dj_3/03
+  rotate: true
+  xy: 560, 149
+  size: 257, 181
+  orig: 315, 315
+  offset: 29, 58
+  index: -1
+images/effect/dj_3/05
+  rotate: true
+  xy: 237, 2
+  size: 135, 150
+  orig: 315, 315
+  offset: 90, 76
+  index: -1

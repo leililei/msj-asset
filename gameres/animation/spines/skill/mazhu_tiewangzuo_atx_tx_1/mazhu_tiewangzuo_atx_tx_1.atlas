@@ -1,0 +1,160 @@
+
+mazhu_tiewangzuo_atx_tx_1.png
+size: 1159,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/xf/xf_00012
+  rotate: true
+  xy: 2, 87
+  size: 194, 94
+  orig: 228, 129
+  offset: 9, 13
+  index: -1
+skill/xf/xf_00014
+  rotate: true
+  xy: 200, 113
+  size: 168, 99
+  orig: 228, 129
+  offset: 36, 12
+  index: -1
+skill/xf/xf_00016
+  rotate: true
+  xy: 98, 97
+  size: 184, 100
+  orig: 228, 129
+  offset: 21, 12
+  index: -1
+skill/xf/xf_00018
+  rotate: true
+  xy: 301, 117
+  size: 164, 90
+  orig: 228, 129
+  offset: 16, 21
+  index: -1
+skill/xf/xf_00020
+  rotate: true
+  xy: 1024, 138
+  size: 143, 94
+  orig: 228, 129
+  offset: 37, 17
+  index: -1
+skill/xf/xf_00022
+  rotate: true
+  xy: 825, 135
+  size: 146, 98
+  orig: 228, 129
+  offset: 36, 13
+  index: -1
+skill/xf/xf_00024
+  rotate: true
+  xy: 725, 133
+  size: 148, 98
+  orig: 228, 129
+  offset: 36, 12
+  index: -1
+skill/xf/xf_00026
+  rotate: true
+  xy: 393, 120
+  size: 161, 97
+  orig: 228, 129
+  offset: 21, 14
+  index: -1
+skill/xf/xf_00028
+  rotate: false
+  xy: 131, 2
+  size: 163, 93
+  orig: 228, 129
+  offset: 16, 19
+  index: -1
+skill/xf/xf_00030
+  rotate: true
+  xy: 925, 136
+  size: 145, 97
+  orig: 228, 129
+  offset: 37, 17
+  index: -1
+skill/xf/xf_00032
+  rotate: false
+  xy: 1015, 33
+  size: 142, 101
+  orig: 228, 129
+  offset: 41, 13
+  index: -1
+skill/xuli/xuli_00034
+  rotate: false
+  xy: 953, 32
+  size: 60, 102
+  orig: 223, 165
+  offset: 8, 56
+  index: -1
+skill/xuli/xuli_00035
+  rotate: true
+  xy: 594, 127
+  size: 154, 129
+  orig: 223, 165
+  offset: 32, 30
+  index: -1
+skill/xuli/xuli_00036
+  rotate: true
+  xy: 492, 122
+  size: 159, 100
+  orig: 223, 165
+  offset: 31, 32
+  index: -1
+skill/xuli/xuli_00038
+  rotate: true
+  xy: 727, 4
+  size: 127, 84
+  orig: 223, 165
+  offset: 61, 18
+  index: -1
+skill/xuli/xuli_00039
+  rotate: true
+  xy: 639, 2
+  size: 123, 86
+  orig: 223, 165
+  offset: 70, 21
+  index: -1
+skill/xuli/xuli_00040
+  rotate: false
+  xy: 813, 12
+  size: 138, 119
+  orig: 223, 165
+  offset: 81, 4
+  index: -1
+skill/xuli/xuli_00042
+  rotate: true
+  xy: 445, 7
+  size: 111, 95
+  orig: 223, 165
+  offset: 78, 6
+  index: -1
+skill/xuli/xuli_00043
+  rotate: false
+  xy: 296, 6
+  size: 147, 105
+  orig: 223, 165
+  offset: 50, 36
+  index: -1
+skill/xuli/xuli_00046
+  rotate: false
+  xy: 542, 15
+  size: 95, 105
+  orig: 223, 165
+  offset: 54, 28
+  index: -1
+skill/xuli/xuli_00048
+  rotate: false
+  xy: 2, 9
+  size: 93, 76
+  orig: 223, 165
+  offset: 74, 20
+  index: -1
+skill/xuli/xuli_00050
+  rotate: true
+  xy: 97, 19
+  size: 66, 32
+  orig: 223, 165
+  offset: 67, 7
+  index: -1

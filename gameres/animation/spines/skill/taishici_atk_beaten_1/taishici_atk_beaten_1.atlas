@@ -1,0 +1,146 @@
+
+taishici_atk_beaten_1.png
+size: 1250,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_glow
+  rotate: false
+  xy: 1141, 96
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_00
+  rotate: true
+  xy: 945, 102
+  size: 101, 194
+  orig: 101, 194
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_01
+  rotate: true
+  xy: 724, 93
+  size: 110, 219
+  orig: 110, 219
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_02
+  rotate: true
+  xy: 488, 90
+  size: 113, 234
+  orig: 113, 234
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_03
+  rotate: true
+  xy: 2, 88
+  size: 115, 241
+  orig: 115, 241
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_04
+  rotate: true
+  xy: 245, 93
+  size: 110, 241
+  orig: 110, 241
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_06
+  rotate: true
+  xy: 945, 12
+  size: 88, 180
+  orig: 88, 180
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_08
+  rotate: true
+  xy: 90, 32
+  size: 54, 154
+  orig: 54, 154
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_00
+  rotate: false
+  xy: 842, 17
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_01
+  rotate: true
+  xy: 428, 2
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_02
+  rotate: false
+  xy: 2, 2
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_03
+  rotate: false
+  xy: 526, 2
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_04
+  rotate: true
+  xy: 338, 2
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_05
+  rotate: true
+  xy: 246, 2
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_06
+  rotate: false
+  xy: 615, 3
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_07
+  rotate: true
+  xy: 1127, 19
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_09
+  rotate: false
+  xy: 697, 6
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_11
+  rotate: false
+  xy: 773, 14
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_13
+  rotate: false
+  xy: 1212, 32
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_15
+  rotate: false
+  xy: 90, 16
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

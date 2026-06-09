@@ -1,0 +1,20 @@
+
+M_dongzhuo_bj.png
+size: 568,664
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/bai_00
+  rotate: false
+  xy: 4, 4
+  size: 61, 60
+  orig: 63, 62
+  offset: 1, 1
+  index: -1
+images/chutu/bj1_59
+  rotate: false
+  xy: 4, 68
+  size: 557, 589
+  orig: 587, 619
+  offset: 12, 11
+  index: -1

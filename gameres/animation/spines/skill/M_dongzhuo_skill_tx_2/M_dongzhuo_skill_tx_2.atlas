@@ -1,0 +1,41 @@
+
+M_dongzhuo_skill_tx_2.png
+size: 396,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/jn/yan1/yan1_15
+  rotate: false
+  xy: 214, 13
+  size: 101, 71
+  orig: 116, 84
+  offset: 13, 7
+  index: -1
+images/chutu/jn/yan1/yan1_17
+  rotate: false
+  xy: 4, 7
+  size: 109, 77
+  orig: 116, 84
+  offset: 6, 3
+  index: -1
+images/chutu/jn/yan1/yan1_19
+  rotate: false
+  xy: 117, 4
+  size: 93, 80
+  orig: 116, 84
+  offset: 1, 2
+  index: -1
+images/chutu/jn/yan1/yan1_21
+  rotate: true
+  xy: 319, 11
+  size: 73, 72
+  orig: 116, 84
+  offset: 9, 10
+  index: -1
+images/chutu/jn/yan1/yan1_23
+  rotate: false
+  xy: 214, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

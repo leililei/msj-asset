@@ -1,0 +1,174 @@
+
+UI_bingshu_tuiyan.png
+size: 1547,2042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bagua0
+  rotate: false
+  xy: 804, 1662
+  size: 373, 378
+  orig: 373, 378
+  offset: 0, 0
+  index: -1
+bagua1
+  rotate: false
+  xy: 1377, 927
+  size: 152, 157
+  orig: 152, 157
+  offset: 0, 0
+  index: -1
+bagua2
+  rotate: false
+  xy: 1028, 5
+  size: 258, 257
+  orig: 258, 257
+  offset: 0, 0
+  index: -1
+baguadi
+  rotate: false
+  xy: 658, 29
+  size: 369, 232
+  orig: 369, 232
+  offset: 0, 0
+  index: -1
+daqiu
+  rotate: true
+  xy: 1399, 1151
+  size: 147, 145
+  orig: 147, 145
+  offset: 0, 0
+  index: -1
+daqiuguang
+  rotate: true
+  xy: 1081, 777
+  size: 306, 294
+  orig: 306, 294
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 804, 1251
+  size: 332, 409
+  orig: 332, 409
+  offset: 0, 0
+  index: -1
+juan1
+  rotate: false
+  xy: 1335, 450
+  size: 105, 336
+  orig: 105, 336
+  offset: 0, 0
+  index: -1
+juan2
+  rotate: 180
+  xy: 1314, 8
+  size: 86, 416
+  orig: 86, 416
+  offset: 0, 0
+  index: -1
+juan3
+  rotate: 180
+  xy: 1280, 1086
+  size: 117, 571
+  orig: 117, 571
+  offset: 0, 0
+  index: -1
+juan4
+  rotate: 180
+  xy: 1081, 1086
+  size: 197, 897
+  orig: 197, 897
+  offset: 0, 0
+  index: -1
+juan5
+  rotate: false
+  xy: 1171, 202
+  size: 163, 574
+  orig: 163, 574
+  offset: 0, 0
+  index: -1
+qian1
+  rotate: false
+  xy: 3, 10
+  size: 653, 252
+  orig: 653, 252
+  offset: 0, 0
+  index: -1
+qian2
+  rotate: true
+  xy: 804, 263
+  size: 512, 318
+  orig: 512, 318
+  offset: 0, 0
+  index: -1
+qian3
+  rotate: true
+  xy: 804, 790
+  size: 460, 275
+  orig: 460, 275
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: true
+  xy: 1280, 1761
+  size: 280, 117
+  orig: 280, 117
+  offset: 0, 0
+  index: -1
+xinbg
+  rotate: false
+  xy: 3, 263
+  size: 799, 1777
+  orig: 799, 1777
+  offset: 0, 0
+  index: -1
+xinjia
+  rotate: true
+  xy: 1124, 264
+  size: 400, 115
+  orig: 400, 115
+  offset: 0, 0
+  index: -1
+xq1_1
+  rotate: false
+  xy: 1138, 1629
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+xq1_2
+  rotate: false
+  xy: 1179, 1734
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+xq2_1
+  rotate: false
+  xy: 1179, 1829
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+xq2_2
+  rotate: false
+  xy: 1179, 1778
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+xq3_1
+  rotate: false
+  xy: 1179, 1953
+  size: 57, 87
+  orig: 57, 87
+  offset: 0, 0
+  index: -1
+xq3_2
+  rotate: false
+  xy: 1179, 1887
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

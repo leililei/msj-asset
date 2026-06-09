@@ -1,0 +1,132 @@
+
+xiaopangmao_atk_beaten_1.png
+size: 220,1704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/as2/as2_00015
+  rotate: false
+  xy: 134, 14
+  size: 46, 32
+  orig: 48, 34
+  offset: 1, 1
+  index: -1
+images/chutu/as3/as3_00015
+  rotate: false
+  xy: 4, 169
+  size: 124, 90
+  orig: 213, 155
+  offset: 46, 3
+  index: -1
+images/chutu/as3/as3_00016
+  rotate: false
+  xy: 4, 360
+  size: 144, 99
+  orig: 213, 155
+  offset: 33, 2
+  index: -1
+images/chutu/as3/as3_00017
+  rotate: false
+  xy: 4, 549
+  size: 191, 99
+  orig: 213, 155
+  offset: 8, 5
+  index: -1
+images/chutu/as3/as3_00018
+  rotate: false
+  xy: 4, 652
+  size: 191, 109
+  orig: 213, 155
+  offset: 8, 5
+  index: -1
+images/chutu/as3/as3_00019
+  rotate: false
+  xy: 4, 765
+  size: 195, 121
+  orig: 213, 155
+  offset: 8, 2
+  index: -1
+images/chutu/as3/as3_00020
+  rotate: false
+  xy: 4, 890
+  size: 198, 121
+  orig: 213, 155
+  offset: 6, 11
+  index: -1
+images/chutu/as3/as3_00021
+  rotate: false
+  xy: 4, 1159
+  size: 198, 126
+  orig: 213, 155
+  offset: 6, 11
+  index: -1
+images/chutu/as3/as3_00022
+  rotate: false
+  xy: 4, 1289
+  size: 205, 131
+  orig: 213, 155
+  offset: 4, 11
+  index: -1
+images/chutu/as3/as3_00023
+  rotate: false
+  xy: 4, 1424
+  size: 209, 134
+  orig: 213, 155
+  offset: 2, 12
+  index: -1
+images/chutu/as3/as3_00024
+  rotate: false
+  xy: 4, 1562
+  size: 209, 138
+  orig: 213, 155
+  offset: 2, 12
+  index: -1
+images/chutu/as3/as3_00025
+  rotate: false
+  xy: 4, 1015
+  size: 177, 140
+  orig: 213, 155
+  offset: 10, 13
+  index: -1
+images/chutu/as3/as3_00026
+  rotate: false
+  xy: 4, 463
+  size: 177, 82
+  orig: 213, 155
+  offset: 11, 14
+  index: -1
+images/chutu/as3/as3_00027
+  rotate: true
+  xy: 144, 180
+  size: 176, 62
+  orig: 213, 155
+  offset: 12, 32
+  index: -1
+images/chutu/as3/as3_00028
+  rotate: false
+  xy: 4, 103
+  size: 175, 62
+  orig: 213, 155
+  offset: 13, 30
+  index: -1
+images/chutu/as3/as3_00029
+  rotate: false
+  xy: 4, 50
+  size: 174, 49
+  orig: 213, 155
+  offset: 14, 27
+  index: -1
+images/chutu/as3/as3_00030
+  rotate: false
+  xy: 4, 4
+  size: 126, 42
+  orig: 213, 155
+  offset: 61, 32
+  index: -1
+images/chutu/as4/as4_00015
+  rotate: false
+  xy: 4, 263
+  size: 136, 93
+  orig: 142, 99
+  offset: 2, 3
+  index: -1

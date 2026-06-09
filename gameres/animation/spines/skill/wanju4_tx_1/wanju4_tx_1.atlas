@@ -1,0 +1,55 @@
+
+wanju4_tx_1.png
+size: 681,563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg1_05
+  rotate: false
+  xy: 490, 382
+  size: 189, 179
+  orig: 203, 195
+  offset: 7, 8
+  index: -1
+dg2/dg2_04
+  rotate: true
+  xy: 509, 52
+  size: 151, 152
+  orig: 280, 281
+  offset: 68, 60
+  index: -1
+dg2/dg2_05
+  rotate: true
+  xy: 282, 352
+  size: 209, 206
+  orig: 280, 281
+  offset: 42, 33
+  index: -1
+dg2/dg2_06
+  rotate: false
+  xy: 2, 2
+  size: 275, 277
+  orig: 280, 281
+  offset: 4, 2
+  index: -1
+dg2/dg2_07
+  rotate: false
+  xy: 2, 281
+  size: 278, 280
+  orig: 280, 281
+  offset: 1, 0
+  index: -1
+dg2/dg2_08
+  rotate: false
+  xy: 509, 205
+  size: 165, 175
+  orig: 280, 281
+  offset: 97, 79
+  index: -1
+lz_09
+  rotate: true
+  xy: 279, 23
+  size: 256, 228
+  orig: 287, 258
+  offset: 16, 16
+  index: -1

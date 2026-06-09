@@ -1,0 +1,139 @@
+
+MangHe03.png
+size: 1980,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hou2
+  rotate: false
+  xy: 934, 17
+  size: 260, 124
+  orig: 260, 124
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 98, 7
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+chutu/fsg1
+  rotate: true
+  xy: 1649, 217
+  size: 335, 274
+  orig: 403, 397
+  offset: 34, 33
+  index: -1
+chutu/fsg2
+  rotate: false
+  xy: 902, 143
+  size: 405, 409
+  orig: 433, 465
+  offset: 13, 10
+  index: -1
+chutu/fsg3
+  rotate: true
+  xy: 1309, 179
+  size: 373, 338
+  orig: 401, 402
+  offset: 14, 17
+  index: -1
+chutu/g1
+  rotate: false
+  xy: 2, 38
+  size: 514, 514
+  orig: 552, 552
+  offset: 19, 19
+  index: -1
+chutu/g2
+  rotate: true
+  xy: 518, 112
+  size: 440, 190
+  orig: 468, 204
+  offset: 14, 7
+  index: -1
+chutu/g3
+  rotate: true
+  xy: 710, 112
+  size: 440, 190
+  orig: 468, 204
+  offset: 14, 7
+  index: -1
+chutu/lz
+  rotate: true
+  xy: 518, 2
+  size: 108, 111
+  orig: 132, 139
+  offset: 12, 14
+  index: -1
+fen_di
+  rotate: false
+  xy: 631, 12
+  size: 249, 98
+  orig: 249, 98
+  offset: 0, 0
+  index: -1
+fen_hou1
+  rotate: true
+  xy: 1925, 314
+  size: 238, 53
+  orig: 250, 53
+  offset: 6, 0
+  index: -1
+fen_shenti
+  rotate: false
+  xy: 1196, 23
+  size: 168, 118
+  orig: 170, 120
+  offset: 1, 1
+  index: -1
+fen_tiao1
+  rotate: true
+  xy: 2, 2
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+fen_tiao2
+  rotate: false
+  xy: 882, 23
+  size: 50, 87
+  orig: 50, 87
+  offset: 0, 0
+  index: -1
+fen_tou
+  rotate: false
+  xy: 1649, 36
+  size: 264, 179
+  orig: 264, 179
+  offset: 0, 0
+  index: -1
+fen_weiba
+  rotate: false
+  xy: 1366, 2
+  size: 140, 175
+  orig: 140, 175
+  offset: 0, 0
+  index: -1
+fen_yan1
+  rotate: true
+  xy: 107, 8
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+fen_yan2
+  rotate: true
+  xy: 51, 5
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+fen_zhua
+  rotate: true
+  xy: 1508, 34
+  size: 143, 40
+  orig: 143, 40
+  offset: 0, 0
+  index: -1

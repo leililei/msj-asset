@@ -1,0 +1,125 @@
+
+XM_zhouyu_skill_beaten_2.png
+size: 1890,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skl_dm_hd_00
+  rotate: true
+  xy: 307, 2
+  size: 234, 184
+  orig: 234, 184
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_02
+  rotate: true
+  xy: 1092, 13
+  size: 246, 190
+  orig: 246, 190
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_04
+  rotate: true
+  xy: 1284, 3
+  size: 261, 195
+  orig: 261, 195
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_06
+  rotate: true
+  xy: 1689, 7
+  size: 267, 199
+  orig: 267, 199
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_08
+  rotate: true
+  xy: 1481, 2
+  size: 272, 206
+  orig: 272, 206
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_10
+  rotate: true
+  xy: 1461, 276
+  size: 277, 210
+  orig: 277, 210
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_12
+  rotate: true
+  xy: 803, 260
+  size: 293, 214
+  orig: 293, 214
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_14
+  rotate: true
+  xy: 1241, 266
+  size: 287, 218
+  orig: 287, 218
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_16
+  rotate: true
+  xy: 1019, 261
+  size: 292, 220
+  orig: 292, 220
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_18
+  rotate: false
+  xy: 794, 23
+  size: 296, 224
+  orig: 296, 224
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_20
+  rotate: false
+  xy: 493, 16
+  size: 299, 227
+  orig: 299, 227
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_22
+  rotate: false
+  xy: 2, 3
+  size: 303, 228
+  orig: 303, 228
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_24
+  rotate: true
+  xy: 227, 238
+  size: 315, 225
+  orig: 315, 225
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_26
+  rotate: true
+  xy: 2, 233
+  size: 320, 223
+  orig: 320, 223
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_28
+  rotate: true
+  xy: 454, 245
+  size: 308, 196
+  orig: 308, 196
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_30
+  rotate: true
+  xy: 652, 249
+  size: 304, 149
+  orig: 304, 149
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_32
+  rotate: true
+  xy: 1673, 276
+  size: 277, 138
+  orig: 277, 138
+  offset: 0, 0
+  index: -1

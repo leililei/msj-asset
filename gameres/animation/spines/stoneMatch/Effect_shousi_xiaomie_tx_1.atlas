@@ -1,0 +1,97 @@
+
+Effect_shousi_xiaomie_tx_1.png
+size: 1256,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoju5/j4/j4_00044
+  rotate: false
+  xy: 1062, 6
+  size: 47, 47
+  orig: 63, 62
+  offset: 9, 8
+  index: -1
+daoju5/j5/j5_00044
+  rotate: false
+  xy: 1210, 39
+  size: 41, 41
+  orig: 63, 62
+  offset: 12, 11
+  index: -1
+daoju5/j6/j6_00037
+  rotate: false
+  xy: 1143, 23
+  size: 65, 57
+  orig: 67, 59
+  offset: 1, 1
+  index: -1
+daoju5/u15/u15_027
+  rotate: false
+  xy: 868, 3
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+daoju5/u16/u16_027
+  rotate: false
+  xy: 1012, 5
+  size: 48, 48
+  orig: 182, 189
+  offset: 66, 71
+  index: -1
+daoju5/u16/u16_028
+  rotate: false
+  xy: 1143, 82
+  size: 105, 105
+  orig: 182, 189
+  offset: 36, 41
+  index: -1
+daoju5/u16/u16_029
+  rotate: true
+  xy: 1012, 55
+  size: 132, 129
+  orig: 182, 189
+  offset: 25, 29
+  index: -1
+daoju5/u16/u16_030
+  rotate: true
+  xy: 718, 37
+  size: 150, 148
+  orig: 182, 189
+  offset: 17, 22
+  index: -1
+daoju5/u16/u16_032
+  rotate: false
+  xy: 362, 8
+  size: 176, 179
+  orig: 182, 189
+  offset: 5, 7
+  index: -1
+daoju5/u16/u16_034
+  rotate: false
+  xy: 3, 6
+  size: 178, 181
+  orig: 182, 189
+  offset: 3, 5
+  index: -1
+daoju5/u16/u16_036
+  rotate: false
+  xy: 183, 5
+  size: 177, 182
+  orig: 182, 189
+  offset: 4, 4
+  index: -1
+daoju5/u16/u16_038
+  rotate: false
+  xy: 540, 8
+  size: 176, 179
+  orig: 182, 189
+  offset: 5, 6
+  index: -1
+daoju5/u16/u16_040
+  rotate: true
+  xy: 868, 43
+  size: 144, 142
+  orig: 182, 189
+  offset: 18, 23
+  index: -1

@@ -1,0 +1,167 @@
+
+S_sunquan_attack_1.png
+size: 643,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/d1/d1_05
+  rotate: false
+  xy: 358, 298
+  size: 65, 25
+  orig: 231, 99
+  offset: 83, 37
+  index: -1
+chutu/skill/d1/d1_06
+  rotate: true
+  xy: 577, 90
+  size: 117, 44
+  orig: 231, 99
+  offset: 58, 28
+  index: -1
+chutu/skill/d1/d1_07
+  rotate: true
+  xy: 358, 118
+  size: 167, 66
+  orig: 231, 99
+  offset: 33, 16
+  index: -1
+chutu/skill/d1/d1_09
+  rotate: true
+  xy: 92, 310
+  size: 216, 86
+  orig: 231, 99
+  offset: 10, 7
+  index: -1
+chutu/skill/d1/d1_11
+  rotate: true
+  xy: 96, 93
+  size: 215, 89
+  orig: 231, 99
+  offset: 12, 6
+  index: -1
+chutu/skill/d1/d1_13
+  rotate: true
+  xy: 2, 86
+  size: 217, 92
+  orig: 231, 99
+  offset: 7, 4
+  index: -1
+chutu/skill/d1/d1_15
+  rotate: true
+  xy: 2, 305
+  size: 221, 88
+  orig: 231, 99
+  offset: 5, 4
+  index: -1
+chutu/skill/d1/d1_17
+  rotate: true
+  xy: 187, 105
+  size: 208, 88
+  orig: 231, 99
+  offset: 14, 6
+  index: -1
+chutu/skill/d1/d1_19
+  rotate: true
+  xy: 180, 315
+  size: 211, 80
+  orig: 231, 99
+  offset: 13, 10
+  index: -1
+chutu/skill/d1/d1_21
+  rotate: false
+  xy: 2, 2
+  size: 213, 82
+  orig: 231, 99
+  offset: 9, 7
+  index: -1
+chutu/skill/d1/d1_23
+  rotate: true
+  xy: 262, 322
+  size: 204, 80
+  orig: 231, 99
+  offset: 17, 9
+  index: -1
+chutu/skill/d1/d1_25
+  rotate: true
+  xy: 344, 325
+  size: 201, 79
+  orig: 231, 99
+  offset: 20, 10
+  index: -1
+chutu/skill/d1/d1_27
+  rotate: false
+  xy: 425, 447
+  size: 201, 79
+  orig: 231, 99
+  offset: 20, 10
+  index: -1
+chutu/skill/d1/d1_29
+  rotate: false
+  xy: 425, 366
+  size: 201, 79
+  orig: 231, 99
+  offset: 20, 10
+  index: -1
+chutu/skill/d1/d1_31
+  rotate: true
+  xy: 277, 118
+  size: 202, 79
+  orig: 231, 99
+  offset: 19, 10
+  index: -1
+chutu/skill/d1/d1_33
+  rotate: false
+  xy: 217, 22
+  size: 203, 81
+  orig: 231, 99
+  offset: 18, 10
+  index: -1
+chutu/skill/d1/d1_35
+  rotate: false
+  xy: 425, 287
+  size: 201, 77
+  orig: 231, 99
+  offset: 20, 11
+  index: -1
+chutu/skill/d1/d1_37
+  rotate: false
+  xy: 426, 209
+  size: 196, 76
+  orig: 231, 99
+  offset: 24, 12
+  index: -1
+chutu/skill/d1/d1_39
+  rotate: true
+  xy: 426, 14
+  size: 193, 75
+  orig: 231, 99
+  offset: 26, 13
+  index: -1
+chutu/skill/d1/d1_41
+  rotate: true
+  xy: 503, 20
+  size: 187, 72
+  orig: 231, 99
+  offset: 29, 14
+  index: -1
+chutu/skill/g1
+  rotate: false
+  xy: 577, 55
+  size: 34, 33
+  orig: 36, 35
+  offset: 1, 1
+  index: -1
+chutu/skill/g2
+  rotate: true
+  xy: 577, 21
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+chutu/skill/g3
+  rotate: true
+  xy: 610, 23
+  size: 30, 31
+  orig: 32, 33
+  offset: 1, 1
+  index: -1

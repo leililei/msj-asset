@@ -1,0 +1,62 @@
+
+mazhu9_shashou_zd.png
+size: 712,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/6/6_008
+  rotate: false
+  xy: 204, 5
+  size: 184, 73
+  orig: 214, 93
+  offset: 28, 11
+  index: -1
+chutu/6/6_010
+  rotate: false
+  xy: 2, 2
+  size: 200, 76
+  orig: 214, 93
+  offset: 13, 7
+  index: -1
+chutu/6/6_012
+  rotate: false
+  xy: 2, 80
+  size: 203, 76
+  orig: 214, 93
+  offset: 9, 8
+  index: -1
+chutu/6/6_014
+  rotate: false
+  xy: 207, 80
+  size: 176, 76
+  orig: 214, 93
+  offset: 36, 11
+  index: -1
+chutu/7/7_008
+  rotate: false
+  xy: 385, 80
+  size: 164, 76
+  orig: 208, 112
+  offset: 28, 18
+  index: -1
+chutu/7/7_010
+  rotate: false
+  xy: 390, 5
+  size: 164, 73
+  orig: 208, 112
+  offset: 16, 21
+  index: -1
+chutu/7/7_012
+  rotate: false
+  xy: 551, 82
+  size: 159, 74
+  orig: 208, 112
+  offset: 12, 20
+  index: -1
+chutu/7/7_014
+  rotate: false
+  xy: 556, 3
+  size: 139, 77
+  orig: 208, 112
+  offset: 48, 18
+  index: -1

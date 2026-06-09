@@ -1,0 +1,27 @@
+
+item_15041_cf.png
+size: 485,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenyao_1
+  rotate: false
+  xy: 4, 5
+  size: 190, 182
+  orig: 190, 182
+  offset: 0, 0
+  index: -1
+wenyao_2
+  rotate: true
+  xy: 197, 20
+  size: 166, 149
+  orig: 166, 149
+  offset: 0, 0
+  index: -1
+wenyao_3
+  rotate: true
+  xy: 350, 22
+  size: 164, 131
+  orig: 164, 131
+  offset: 0, 0
+  index: -1

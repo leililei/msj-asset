@@ -1,0 +1,27 @@
+
+pai.png
+size: 557,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paibian1
+  rotate: false
+  xy: 2, 115
+  size: 440, 169
+  orig: 442, 171
+  offset: 1, 1
+  index: -1
+paibian2
+  rotate: false
+  xy: 444, 7
+  size: 111, 277
+  orig: 113, 279
+  offset: 1, 1
+  index: -1
+paibian3
+  rotate: true
+  xy: 2, 2
+  size: 111, 277
+  orig: 113, 279
+  offset: 1, 1
+  index: -1

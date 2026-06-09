@@ -1,0 +1,111 @@
+
+huangzhong_skill_beaten_2.png
+size: 1308,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill/bj/bj_00040
+  rotate: true
+  xy: 1001, 137
+  size: 54, 48
+  orig: 58, 51
+  offset: 2, 2
+  index: -1
+images/chutu/skill/bj/bj_00041
+  rotate: true
+  xy: 1001, 81
+  size: 54, 47
+  orig: 58, 51
+  offset: 2, 2
+  index: -1
+images/chutu/skill/bj/bj_00042
+  rotate: true
+  xy: 1001, 26
+  size: 53, 47
+  orig: 58, 51
+  offset: 2, 2
+  index: -1
+images/chutu/skill/bj/bj_00043
+  rotate: true
+  xy: 1050, 83
+  size: 52, 45
+  orig: 58, 51
+  offset: 3, 3
+  index: -1
+images/chutu/skill/db1/db1_00040
+  rotate: false
+  xy: 570, 16
+  size: 429, 168
+  orig: 434, 195
+  offset: 2, 13
+  index: -1
+images/chutu/skill/yw1/yw1_00004
+  rotate: true
+  xy: 1097, 2
+  size: 196, 209
+  orig: 232, 248
+  offset: 9, 14
+  index: -1
+images/chutu/skill/yw1/yw1_00006
+  rotate: false
+  xy: 1063, 200
+  size: 213, 214
+  orig: 232, 248
+  offset: 6, 14
+  index: -1
+images/chutu/skill/yw1/yw1_00008
+  rotate: false
+  xy: 221, 184
+  size: 220, 230
+  orig: 232, 248
+  offset: 5, 6
+  index: -1
+images/chutu/skill/yw1/yw1_00010
+  rotate: false
+  xy: 2, 183
+  size: 217, 231
+  orig: 232, 248
+  offset: 5, 8
+  index: -1
+images/chutu/skill/yw1/yw1_00012
+  rotate: false
+  xy: 443, 186
+  size: 212, 228
+  orig: 232, 248
+  offset: 6, 14
+  index: -1
+images/chutu/skill/yw1/yw1_00014
+  rotate: false
+  xy: 860, 193
+  size: 201, 221
+  orig: 232, 248
+  offset: 14, 24
+  index: -1
+images/chutu/skill/yw1/yw1_00016
+  rotate: false
+  xy: 657, 192
+  size: 201, 222
+  orig: 232, 248
+  offset: 17, 25
+  index: -1
+images/chutu/skill/yw1/yw1_00018
+  rotate: true
+  xy: 338, 7
+  size: 175, 230
+  orig: 232, 248
+  offset: 15, 14
+  index: -1
+images/chutu/skill/yw1/yw1_00020
+  rotate: true
+  xy: 2, 5
+  size: 176, 167
+  orig: 232, 248
+  offset: 14, 41
+  index: -1
+images/chutu/skill/yw1/yw1_00022
+  rotate: true
+  xy: 171, 5
+  size: 176, 165
+  orig: 232, 248
+  offset: 14, 43
+  index: -1

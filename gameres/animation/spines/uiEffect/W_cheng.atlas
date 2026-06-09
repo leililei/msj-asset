@@ -1,0 +1,125 @@
+
+W_cheng.png
+size: 1247,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chengdi1
+  rotate: false
+  xy: 355, 195
+  size: 351, 326
+  orig: 351, 326
+  offset: 0, 0
+  index: -1
+chengdi2
+  rotate: false
+  xy: 2, 191
+  size: 351, 330
+  orig: 351, 330
+  offset: 0, 0
+  index: -1
+chengdi3
+  rotate: false
+  xy: 2, 11
+  size: 313, 178
+  orig: 313, 178
+  offset: 0, 0
+  index: -1
+chengiqiu_1
+  rotate: false
+  xy: 691, 40
+  size: 109, 153
+  orig: 109, 153
+  offset: 0, 0
+  index: -1
+chengiqiu_11
+  rotate: true
+  xy: 1025, 274
+  size: 247, 219
+  orig: 247, 219
+  offset: 0, 0
+  index: -1
+chengiqiu_12
+  rotate: false
+  xy: 499, 7
+  size: 190, 186
+  orig: 190, 186
+  offset: 0, 0
+  index: -1
+chengiqiu_13
+  rotate: false
+  xy: 802, 85
+  size: 132, 124
+  orig: 132, 124
+  offset: 0, 0
+  index: -1
+chengiqiu_14
+  rotate: false
+  xy: 936, 120
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+chengiqiu_2
+  rotate: false
+  xy: 1025, 139
+  size: 220, 133
+  orig: 220, 133
+  offset: 0, 0
+  index: -1
+chengiqiu_3
+  rotate: false
+  xy: 936, 2
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+chengiqiu_4
+  rotate: true
+  xy: 2, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+chengiqiu_5
+  rotate: false
+  xy: 708, 196
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+chengiqiu_6
+  rotate: false
+  xy: 14, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+chengiqiu_7
+  rotate: false
+  xy: 1007, 199
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+chengiqiu_8
+  rotate: true
+  xy: 802, 30
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+chengiqiu_9
+  rotate: false
+  xy: 317, 11
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+faguangdi2
+  rotate: false
+  xy: 708, 211
+  size: 315, 310
+  orig: 315, 310
+  offset: 0, 0
+  index: -1

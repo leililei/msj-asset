@@ -1,0 +1,62 @@
+
+lvmeng_atk_tx_1.png
+size: 744,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/daoguang/daoguang_12
+  rotate: false
+  xy: 4, 1627
+  size: 524, 415
+  orig: 552, 447
+  offset: 6, 6
+  index: -1
+images/chutu/daoguang/daoguang_14
+  rotate: false
+  xy: 4, 1216
+  size: 527, 407
+  orig: 552, 447
+  offset: 10, 14
+  index: -1
+images/chutu/daoguang/daoguang_16
+  rotate: false
+  xy: 4, 801
+  size: 512, 411
+  orig: 552, 447
+  offset: 22, 22
+  index: -1
+images/chutu/daoguang/daoguang_18
+  rotate: false
+  xy: 4, 388
+  size: 469, 409
+  orig: 552, 447
+  offset: 61, 30
+  index: -1
+images/chutu/daoguang/daoguang_20
+  rotate: false
+  xy: 4, 4
+  size: 396, 380
+  orig: 552, 447
+  offset: 113, 32
+  index: -1
+images/chutu/daoguang/daoguang_22
+  rotate: false
+  xy: 404, 13
+  size: 330, 371
+  orig: 552, 447
+  offset: 163, 39
+  index: -1
+images/chutu/daoguang/daoguang_24
+  rotate: false
+  xy: 477, 453
+  size: 260, 344
+  orig: 552, 447
+  offset: 211, 61
+  index: -1
+images/chutu/daoguang/daoguang_26
+  rotate: false
+  xy: 477, 400
+  size: 92, 49
+  orig: 552, 447
+  offset: 328, 341
+  index: -1

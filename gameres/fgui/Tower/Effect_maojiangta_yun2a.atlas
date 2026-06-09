@@ -1,0 +1,13 @@
+
+Effect_maojiangta_yun2a.png
+size: 806,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X_yun2
+  rotate: false
+  xy: 2, 2
+  size: 802, 224
+  orig: 802, 224
+  offset: 0, 0
+  index: -1

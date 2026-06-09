@@ -1,0 +1,146 @@
+
+shuijing_atk_beaten_1.png
+size: 1749,406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/a10/a10_017
+  rotate: true
+  xy: 1115, 11
+  size: 186, 196
+  orig: 213, 213
+  offset: 8, 11
+  index: -1
+chutu/attack/a10/a10_018
+  rotate: true
+  xy: 917, 6
+  size: 190, 196
+  orig: 213, 213
+  offset: 8, 11
+  index: -1
+chutu/attack/a10/a10_020
+  rotate: false
+  xy: 960, 199
+  size: 202, 205
+  orig: 213, 213
+  offset: 3, 4
+  index: -1
+chutu/attack/a10/a10_022
+  rotate: false
+  xy: 716, 2
+  size: 199, 186
+  orig: 213, 213
+  offset: 12, 19
+  index: -1
+chutu/attack/a10/a10_024
+  rotate: false
+  xy: 2, 12
+  size: 204, 170
+  orig: 213, 213
+  offset: 8, 34
+  index: -1
+chutu/attack/a10/a10_026
+  rotate: false
+  xy: 364, 22
+  size: 160, 162
+  orig: 213, 213
+  offset: 39, 41
+  index: -1
+chutu/attack/a10/a10_028
+  rotate: false
+  xy: 208, 21
+  size: 154, 163
+  orig: 213, 213
+  offset: 45, 39
+  index: -1
+chutu/attack/a10/a10_030
+  rotate: true
+  xy: 1519, 2
+  size: 198, 133
+  orig: 213, 213
+  offset: 0, 38
+  index: -1
+chutu/attack/a7/a7_017
+  rotate: false
+  xy: 526, 5
+  size: 28, 29
+  orig: 34, 35
+  offset: 3, 3
+  index: -1
+chutu/attack/a8/a8_017
+  rotate: false
+  xy: 1351, 202
+  size: 197, 202
+  orig: 243, 222
+  offset: 23, 9
+  index: -1
+chutu/attack/a8/a8_018
+  rotate: false
+  xy: 1550, 202
+  size: 197, 202
+  orig: 243, 222
+  offset: 23, 9
+  index: -1
+chutu/attack/a8/a8_020
+  rotate: false
+  xy: 411, 187
+  size: 207, 217
+  orig: 243, 222
+  offset: 18, 1
+  index: -1
+chutu/attack/a8/a8_022
+  rotate: true
+  xy: 206, 186
+  size: 218, 203
+  orig: 243, 222
+  offset: 20, 17
+  index: -1
+chutu/attack/a8/a8_024
+  rotate: true
+  xy: 2, 184
+  size: 220, 202
+  orig: 243, 222
+  offset: 19, 18
+  index: -1
+chutu/attack/a8/a8_026
+  rotate: true
+  xy: 620, 190
+  size: 214, 188
+  orig: 243, 222
+  offset: 19, 17
+  index: -1
+chutu/attack/a8/a8_028
+  rotate: true
+  xy: 1164, 200
+  size: 204, 185
+  orig: 243, 222
+  offset: 17, 19
+  index: -1
+chutu/attack/a8/a8_030
+  rotate: false
+  xy: 1313, 51
+  size: 204, 147
+  orig: 243, 222
+  offset: 14, 33
+  index: -1
+chutu/attack/a8/a8_032
+  rotate: true
+  xy: 810, 198
+  size: 206, 148
+  orig: 243, 222
+  offset: 12, 33
+  index: -1
+chutu/attack/a8/a8_034
+  rotate: false
+  xy: 526, 36
+  size: 188, 149
+  orig: 243, 222
+  offset: 9, 32
+  index: -1
+chutu/attack/a9/a9_017
+  rotate: false
+  xy: 556, 5
+  size: 28, 29
+  orig: 34, 35
+  offset: 3, 3
+  index: -1

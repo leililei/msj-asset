@@ -1,0 +1,27 @@
+
+suoping.png
+size: 400,1080
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y
+  rotate: false
+  xy: 3, 3
+  size: 338, 338
+  orig: 343, 341
+  offset: 3, 1
+  index: -1
+y1
+  rotate: false
+  xy: 3, 343
+  size: 340, 340
+  orig: 350, 342
+  offset: 2, 1
+  index: -1
+y2
+  rotate: false
+  xy: 3, 685
+  size: 392, 392
+  orig: 400, 400
+  offset: 3, 4
+  index: -1

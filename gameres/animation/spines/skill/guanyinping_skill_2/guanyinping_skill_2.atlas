@@ -1,0 +1,62 @@
+
+guanyinping_skill_2.png
+size: 485,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skl_dikeng
+  rotate: false
+  xy: 2, 399
+  size: 269, 123
+  orig: 269, 123
+  offset: 0, 0
+  index: -1
+effect/skl_zd05_00
+  rotate: true
+  xy: 438, 303
+  size: 94, 28
+  orig: 94, 28
+  offset: 0, 0
+  index: -1
+effect/skl_zd05_01
+  rotate: false
+  xy: 273, 399
+  size: 210, 123
+  orig: 210, 123
+  offset: 0, 0
+  index: -1
+effect/skl_zd05_02
+  rotate: false
+  xy: 230, 10
+  size: 228, 148
+  orig: 228, 148
+  offset: 0, 0
+  index: -1
+effect/skl_zd05_04
+  rotate: true
+  xy: 2, 160
+  size: 237, 155
+  orig: 237, 155
+  offset: 0, 0
+  index: -1
+effect/skl_zd05_05
+  rotate: true
+  xy: 159, 160
+  size: 237, 155
+  orig: 237, 155
+  offset: 0, 0
+  index: -1
+effect/skl_zd05_06
+  rotate: false
+  xy: 2, 2
+  size: 226, 156
+  orig: 226, 156
+  offset: 0, 0
+  index: -1
+effect/skl_zd05_08
+  rotate: true
+  xy: 316, 182
+  size: 215, 120
+  orig: 215, 120
+  offset: 0, 0
+  index: -1

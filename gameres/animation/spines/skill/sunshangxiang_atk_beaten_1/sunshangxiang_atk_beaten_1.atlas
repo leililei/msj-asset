@@ -1,0 +1,132 @@
+
+sunshangxiang_atk_beaten_1.png
+size: 431,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/2bd1/2bd1_0023
+  rotate: false
+  xy: 254, 839
+  size: 155, 183
+  orig: 306, 241
+  offset: 43, 25
+  index: -1
+chutu/attack/2bd1/2bd1_0024
+  rotate: false
+  xy: 2, 587
+  size: 224, 216
+  orig: 306, 241
+  offset: 27, 14
+  index: -1
+chutu/attack/2bd1/2bd1_0026
+  rotate: false
+  xy: 2, 805
+  size: 250, 217
+  orig: 306, 241
+  offset: 12, 16
+  index: -1
+chutu/attack/2bd1/2bd1_0028
+  rotate: false
+  xy: 2, 378
+  size: 214, 207
+  orig: 306, 241
+  offset: 74, 29
+  index: -1
+chutu/attack/2bd1/2bd1_0030
+  rotate: false
+  xy: 2, 164
+  size: 206, 212
+  orig: 306, 241
+  offset: 74, 27
+  index: -1
+chutu/attack/2bd1/2bd1_0032
+  rotate: false
+  xy: 200, 35
+  size: 64, 59
+  orig: 306, 241
+  offset: 221, 90
+  index: -1
+chutu/attack/2bd2lz/2bd2lz_0025
+  rotate: true
+  xy: 228, 580
+  size: 223, 100
+  orig: 230, 110
+  offset: 3, 5
+  index: -1
+chutu/attack/2bd3/2bd3_0023
+  rotate: false
+  xy: 266, 30
+  size: 93, 64
+  orig: 238, 129
+  offset: 78, 31
+  index: -1
+chutu/attack/2bd3/2bd3_0024
+  rotate: true
+  xy: 341, 365
+  size: 234, 88
+  orig: 238, 129
+  offset: 2, 20
+  index: -1
+chutu/attack/2bd3/2bd3_0025
+  rotate: true
+  xy: 218, 384
+  size: 194, 121
+  orig: 238, 129
+  offset: 21, 5
+  index: -1
+chutu/attack/2bd3/2bd3_0027
+  rotate: false
+  xy: 200, 96
+  size: 170, 66
+  orig: 238, 129
+  offset: 19, 26
+  index: -1
+chutu/attack/2bd4/2bd4_0023
+  rotate: true
+  xy: 361, 2
+  size: 92, 67
+  orig: 248, 137
+  offset: 87, 30
+  index: -1
+chutu/attack/2bd4/2bd4_0024
+  rotate: true
+  xy: 330, 601
+  size: 236, 97
+  orig: 248, 137
+  offset: 6, 17
+  index: -1
+chutu/attack/2bd4/2bd4_0025
+  rotate: false
+  xy: 2, 34
+  size: 196, 128
+  orig: 248, 137
+  offset: 27, 4
+  index: -1
+chutu/attack/2bd4/2bd4_0027
+  rotate: true
+  xy: 314, 187
+  size: 176, 76
+  orig: 248, 137
+  offset: 22, 23
+  index: -1
+chutu/attack/3bd5/3bd5_0023
+  rotate: false
+  xy: 2, 15
+  size: 203, 17
+  orig: 207, 19
+  offset: 2, 1
+  index: -1
+chutu/attack/3bd6/3bd6_0023
+  rotate: true
+  xy: 210, 164
+  size: 212, 102
+  orig: 244, 122
+  offset: 16, 10
+  index: -1
+chutu/attack/3bd7/3bd7_0000
+  rotate: false
+  xy: 254, 810
+  size: 27, 27
+  orig: 29, 31
+  offset: 1, 2
+  index: -1

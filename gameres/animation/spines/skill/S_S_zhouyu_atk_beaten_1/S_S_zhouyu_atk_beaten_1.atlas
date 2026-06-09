@@ -1,0 +1,104 @@
+
+S_S_zhouyu_atk_beaten_1.png
+size: 900,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_mz01_00
+  rotate: false
+  xy: 345, 2
+  size: 138, 138
+  orig: 157, 156
+  offset: 12, 3
+  index: -1
+effect/attack_mz01_01
+  rotate: false
+  xy: 711, 421
+  size: 183, 169
+  orig: 199, 189
+  offset: 13, 7
+  index: -1
+effect/attack_mz01_02
+  rotate: true
+  xy: 535, 151
+  size: 217, 199
+  orig: 234, 215
+  offset: 14, 3
+  index: -1
+effect/attack_mz01_03
+  rotate: true
+  xy: 504, 370
+  size: 220, 205
+  orig: 239, 223
+  offset: 15, 3
+  index: -1
+effect/attack_mz01_04
+  rotate: true
+  xy: 302, 367
+  size: 223, 200
+  orig: 227, 207
+  offset: 1, 6
+  index: -1
+effect/attack_mz01_05
+  rotate: true
+  xy: 345, 142
+  size: 223, 188
+  orig: 229, 193
+  offset: 1, 4
+  index: -1
+effect/attack_mz02_00
+  rotate: true
+  xy: 736, 270
+  size: 149, 162
+  orig: 189, 193
+  offset: 35, 25
+  index: -1
+effect/attack_mz02_01
+  rotate: false
+  xy: 2, 4
+  size: 203, 275
+  orig: 228, 277
+  offset: 21, 1
+  index: -1
+effect/attack_mz02_02
+  rotate: false
+  xy: 2, 281
+  size: 145, 309
+  orig: 154, 311
+  offset: 6, 1
+  index: -1
+effect/attack_mz02_03
+  rotate: false
+  xy: 149, 316
+  size: 151, 274
+  orig: 157, 276
+  offset: 4, 1
+  index: -1
+effect/attack_mz02_04
+  rotate: false
+  xy: 207, 52
+  size: 136, 262
+  orig: 169, 265
+  offset: 9, 2
+  index: -1
+effect/attack_mz02_05
+  rotate: true
+  xy: 614, 25
+  size: 124, 215
+  orig: 159, 219
+  offset: 2, 3
+  index: -1
+effect/attack_mz02_06
+  rotate: false
+  xy: 736, 153
+  size: 119, 115
+  orig: 130, 167
+  offset: 2, 2
+  index: -1
+effect/mz03_glow
+  rotate: false
+  xy: 485, 12
+  size: 127, 128
+  orig: 129, 130
+  offset: 1, 1
+  index: -1

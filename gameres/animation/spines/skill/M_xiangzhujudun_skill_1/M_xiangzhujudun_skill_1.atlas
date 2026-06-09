@@ -1,0 +1,118 @@
+
+M_xiangzhujudun_skill_1.png
+size: 1687,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_bz_glow
+  rotate: false
+  xy: 820, 164
+  size: 154, 154
+  orig: 156, 156
+  offset: 1, 1
+  index: -1
+effect/skill_bzg_00
+  rotate: false
+  xy: 976, 194
+  size: 159, 124
+  orig: 182, 147
+  offset: 13, 10
+  index: -1
+effect/skill_bzg_01
+  rotate: false
+  xy: 571, 144
+  size: 247, 174
+  orig: 276, 200
+  offset: 16, 10
+  index: -1
+effect/skill_bzg_02
+  rotate: false
+  xy: 295, 128
+  size: 274, 190
+  orig: 282, 207
+  offset: 5, 13
+  index: -1
+effect/skill_bzg_03
+  rotate: false
+  xy: 2, 120
+  size: 291, 198
+  orig: 301, 213
+  offset: 5, 9
+  index: -1
+effect/skill_sz_yw_00
+  rotate: false
+  xy: 571, 77
+  size: 225, 65
+  orig: 227, 67
+  offset: 1, 1
+  index: -1
+effect/skill_sz_yw_01
+  rotate: true
+  xy: 1582, 42
+  size: 276, 103
+  orig: 278, 105
+  offset: 1, 2
+  index: -1
+effect/skill_sz_yw_03
+  rotate: false
+  xy: 798, 26
+  size: 332, 110
+  orig: 334, 112
+  offset: 1, 1
+  index: -1
+effect/skill_sz_yw_05
+  rotate: false
+  xy: 1132, 5
+  size: 351, 118
+  orig: 355, 120
+  offset: 2, 2
+  index: -1
+effect/skill_sz_yw_07
+  rotate: false
+  xy: 2, 3
+  size: 368, 115
+  orig: 368, 117
+  offset: 0, 1
+  index: -1
+effect/skill_sz_yw_09
+  rotate: false
+  xy: 1137, 125
+  size: 383, 105
+  orig: 383, 106
+  offset: 0, 1
+  index: -1
+effect/skill_sz_yw_11
+  rotate: false
+  xy: 1137, 232
+  size: 384, 86
+  orig: 384, 88
+  offset: 0, 1
+  index: -1
+effect/skill_sz_yw_13
+  rotate: false
+  xy: 372, 18
+  size: 347, 57
+  orig: 349, 59
+  offset: 1, 1
+  index: -1
+effect/skill_sz_yw_15
+  rotate: true
+  xy: 1523, 2
+  size: 316, 57
+  orig: 318, 59
+  offset: 1, 1
+  index: -1
+effect/skill_sz_yw_17
+  rotate: false
+  xy: 820, 149
+  size: 314, 13
+  orig: 316, 15
+  offset: 1, 1
+  index: -1
+effect/skill_sz_yw_19
+  rotate: false
+  xy: 820, 138
+  size: 293, 9
+  orig: 295, 10
+  offset: 1, 0
+  index: -1

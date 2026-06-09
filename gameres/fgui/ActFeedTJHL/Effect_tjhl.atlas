@@ -1,0 +1,20 @@
+
+Effect_tjhl.png
+size: 458,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiantou9
+  rotate: false
+  xy: 435, 295
+  size: 21, 32
+  orig: 23, 34
+  offset: 1, 1
+  index: -1
+kuang
+  rotate: true
+  xy: 2, 2
+  size: 325, 431
+  orig: 327, 433
+  offset: 1, 1
+  index: -1

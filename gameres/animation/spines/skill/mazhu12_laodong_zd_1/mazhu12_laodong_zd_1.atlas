@@ -1,0 +1,13 @@
+
+mazhu12_laodong_zd_1.png
+size: 60,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+luobo
+  rotate: false
+  xy: 2, 2
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+diaoyujiemian_diaoyu_tx_1.png
+size: 1958,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/lz1/lz1_00000
+  rotate: false
+  xy: 309, 53
+  size: 196, 80
+  orig: 221, 110
+  offset: 13, 13
+  index: -1
+chutu/shui1/shui1_00153
+  rotate: false
+  xy: 1732, 39
+  size: 226, 122
+  orig: 338, 320
+  offset: 66, 37
+  index: -1
+chutu/shui1/shui1_00154
+  rotate: true
+  xy: 1732, 165
+  size: 259, 214
+  orig: 338, 320
+  offset: 33, 34
+  index: -1
+chutu/shui1/shui1_00156
+  rotate: true
+  xy: 1251, 135
+  size: 289, 254
+  orig: 338, 320
+  offset: 15, 27
+  index: -1
+chutu/shui1/shui1_00158
+  rotate: false
+  xy: 620, 147
+  size: 311, 277
+  orig: 338, 320
+  offset: 9, 24
+  index: -1
+chutu/shui1/shui1_00160
+  rotate: false
+  xy: 0, 134
+  size: 305, 290
+  orig: 338, 320
+  offset: 14, 21
+  index: -1
+chutu/shui1/shui1_00162
+  rotate: false
+  xy: 309, 137
+  size: 307, 287
+  orig: 338, 320
+  offset: 20, 16
+  index: -1
+chutu/shui1/shui1_00164
+  rotate: false
+  xy: 935, 182
+  size: 312, 242
+  orig: 338, 320
+  offset: 15, 15
+  index: -1
+chutu/shui1/shui1_00166
+  rotate: true
+  xy: 1509, 132
+  size: 292, 219
+  orig: 338, 320
+  offset: 34, 14
+  index: -1
+chutu/shui1/shui1_00168
+  rotate: false
+  xy: 935, 0
+  size: 280, 178
+  orig: 338, 320
+  offset: 37, 12
+  index: -1
+chutu/shui1/shui1_00170
+  rotate: false
+  xy: 620, 4
+  size: 153, 139
+  orig: 338, 320
+  offset: 75, 12
+  index: -1

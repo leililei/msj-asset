@@ -1,0 +1,286 @@
+
+Effect_Sanzu_Birthpoint_Loop.png
+size: 914,1066
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/blue.0001
+  rotate: false
+  xy: 2, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0002
+  rotate: false
+  xy: 154, 914
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0003
+  rotate: false
+  xy: 2, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0004
+  rotate: false
+  xy: 154, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0005
+  rotate: false
+  xy: 306, 914
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0006
+  rotate: false
+  xy: 2, 458
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0007
+  rotate: false
+  xy: 154, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0008
+  rotate: false
+  xy: 306, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0009
+  rotate: false
+  xy: 458, 914
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0010
+  rotate: false
+  xy: 2, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0011
+  rotate: false
+  xy: 154, 458
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0012
+  rotate: false
+  xy: 306, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/blue.0013
+  rotate: false
+  xy: 458, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/glow.0001
+  rotate: false
+  xy: 610, 21
+  size: 131, 131
+  orig: 150, 150
+  offset: 10, 10
+  index: -1
+images/orange.0001
+  rotate: false
+  xy: 610, 914
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0002
+  rotate: false
+  xy: 2, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0003
+  rotate: false
+  xy: 154, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0004
+  rotate: false
+  xy: 306, 458
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0005
+  rotate: false
+  xy: 458, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0006
+  rotate: false
+  xy: 610, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0007
+  rotate: false
+  xy: 762, 914
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0008
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0009
+  rotate: false
+  xy: 154, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0010
+  rotate: false
+  xy: 306, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0011
+  rotate: false
+  xy: 458, 458
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0012
+  rotate: false
+  xy: 610, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/orange.0013
+  rotate: false
+  xy: 762, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0001
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0002
+  rotate: false
+  xy: 306, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0003
+  rotate: false
+  xy: 458, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0004
+  rotate: false
+  xy: 610, 458
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0005
+  rotate: false
+  xy: 762, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0006
+  rotate: false
+  xy: 306, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0007
+  rotate: false
+  xy: 458, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0008
+  rotate: false
+  xy: 610, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0009
+  rotate: false
+  xy: 762, 458
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0010
+  rotate: false
+  xy: 458, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0011
+  rotate: false
+  xy: 610, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0012
+  rotate: false
+  xy: 762, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/purple.0013
+  rotate: false
+  xy: 2, 914
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

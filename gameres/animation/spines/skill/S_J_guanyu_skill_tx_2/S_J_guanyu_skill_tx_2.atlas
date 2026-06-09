@@ -1,0 +1,48 @@
+
+S_J_guanyu_skill_tx_2.png
+size: 1314,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/s3/s3_23
+  rotate: false
+  xy: 909, 15
+  size: 233, 43
+  orig: 401, 59
+  offset: 3, 11
+  index: -1
+chutu/skill/s3/s3_24
+  rotate: false
+  xy: 329, 6
+  size: 297, 52
+  orig: 401, 59
+  offset: 44, 5
+  index: -1
+chutu/skill/s3/s3_25
+  rotate: false
+  xy: 2, 2
+  size: 325, 56
+  orig: 401, 59
+  offset: 74, 1
+  index: -1
+chutu/skill/s3/s3_27
+  rotate: false
+  xy: 628, 9
+  size: 279, 49
+  orig: 401, 59
+  offset: 120, 4
+  index: -1
+chutu/skill/s3/s3_29
+  rotate: false
+  xy: 1144, 24
+  size: 168, 34
+  orig: 401, 59
+  offset: 225, 17
+  index: -1
+chutu/skill/s3/s3_30
+  rotate: false
+  xy: 1144, 12
+  size: 45, 10
+  orig: 401, 59
+  offset: 344, 39
+  index: -1

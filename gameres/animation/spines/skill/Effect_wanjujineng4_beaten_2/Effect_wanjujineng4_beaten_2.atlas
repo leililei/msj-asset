@@ -1,0 +1,97 @@
+
+Effect_wanjujineng4_beaten_2.png
+size: 1593,681
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/8dbd/8dbd_19
+  rotate: true
+  xy: 1426, 156
+  size: 117, 120
+  orig: 426, 303
+  offset: 159, 95
+  index: -1
+chutu/8dbd/8dbd_20
+  rotate: true
+  xy: 1170, 17
+  size: 256, 254
+  orig: 426, 303
+  offset: 89, 28
+  index: -1
+chutu/8dbd/8dbd_21
+  rotate: true
+  xy: 571, 288
+  size: 391, 267
+  orig: 426, 303
+  offset: 17, 19
+  index: -1
+chutu/8dbd/8dbd_23
+  rotate: true
+  xy: 289, 286
+  size: 393, 280
+  orig: 426, 303
+  offset: 16, 12
+  index: -1
+chutu/8dbd/8dbd_25
+  rotate: true
+  xy: 2, 285
+  size: 394, 285
+  orig: 426, 303
+  offset: 15, 11
+  index: -1
+chutu/8dbd/8dbd_27
+  rotate: false
+  xy: 783, 7
+  size: 385, 279
+  orig: 426, 303
+  offset: 19, 12
+  index: -1
+chutu/8dbd/8dbd_29
+  rotate: false
+  xy: 395, 4
+  size: 386, 280
+  orig: 426, 303
+  offset: 19, 12
+  index: -1
+chutu/8dbd/8dbd_31
+  rotate: false
+  xy: 2, 2
+  size: 391, 281
+  orig: 426, 303
+  offset: 16, 16
+  index: -1
+chutu/8dbd/8dbd_33
+  rotate: false
+  xy: 1241, 481
+  size: 350, 198
+  orig: 426, 303
+  offset: 41, 55
+  index: -1
+chutu/8dbd/8dbd_35
+  rotate: false
+  xy: 1241, 275
+  size: 348, 204
+  orig: 426, 303
+  offset: 38, 53
+  index: -1
+chutu/8dbd/8dbd_37
+  rotate: true
+  xy: 1040, 316
+  size: 363, 199
+  orig: 426, 303
+  offset: 31, 59
+  index: -1
+chutu/8dbd/8dbd_39
+  rotate: true
+  xy: 840, 309
+  size: 370, 198
+  orig: 426, 303
+  offset: 28, 59
+  index: -1
+chutu/8glow/8glow_00
+  rotate: true
+  xy: 1426, 69
+  size: 85, 84
+  orig: 90, 90
+  offset: 2, 3
+  index: -1

@@ -1,0 +1,265 @@
+
+bingshu_ui_06.png
+size: 1893,1923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J2_fengmian1
+  rotate: false
+  xy: 1601, 427
+  size: 290, 355
+  orig: 290, 355
+  offset: 0, 0
+  index: -1
+J2_fengmian1sg_00003
+  rotate: false
+  xy: 2, 1489
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fengmian1sg_00004
+  rotate: true
+  xy: 2, 1099
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fengmian1sg_00005
+  rotate: true
+  xy: 392, 1533
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fengmian1sg_00006
+  rotate: false
+  xy: 436, 1099
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fengmian1sg_00007
+  rotate: true
+  xy: 2, 709
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fengmian1sg_00008
+  rotate: true
+  xy: 436, 709
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fengmian1sg_00009
+  rotate: true
+  xy: 826, 1533
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fengmian1sg_00010
+  rotate: true
+  xy: 826, 1143
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fengmian1sg_00011
+  rotate: false
+  xy: 870, 709
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fengmian1sg_00012
+  rotate: true
+  xy: 2, 319
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fengmian1sg_00013
+  rotate: true
+  xy: 436, 319
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fengmian1sg_00014
+  rotate: true
+  xy: 870, 319
+  size: 388, 432
+  orig: 405, 496
+  offset: 5, 33
+  index: -1
+J2_fenmian2
+  rotate: false
+  xy: 1216, 128
+  size: 70, 189
+  orig: 70, 189
+  offset: 0, 0
+  index: -1
+J2_neiye1
+  rotate: true
+  xy: 1260, 747
+  size: 141, 166
+  orig: 141, 166
+  offset: 0, 0
+  index: -1
+J2_neiye2
+  rotate: true
+  xy: 1428, 769
+  size: 119, 162
+  orig: 119, 162
+  offset: 0, 0
+  index: -1
+J2_shuji
+  rotate: false
+  xy: 965, 108
+  size: 249, 209
+  orig: 249, 372
+  offset: 0, 0
+  index: -1
+J2_shuqian
+  rotate: true
+  xy: 1823, 788
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+J2_waiguang
+  rotate: true
+  xy: 1260, 1508
+  size: 413, 375
+  orig: 413, 375
+  offset: 0, 0
+  index: -1
+J6_fenmian2sg_00000
+  rotate: true
+  xy: 1592, 784
+  size: 104, 229
+  orig: 120, 324
+  offset: 5, 41
+  index: -1
+J6_fenmian2sg_00001
+  rotate: false
+  xy: 1625, 196
+  size: 104, 229
+  orig: 120, 324
+  offset: 5, 41
+  index: -1
+J6_fenmian2sg_00002
+  rotate: true
+  xy: 1625, 90
+  size: 104, 229
+  orig: 120, 324
+  offset: 5, 41
+  index: -1
+J6_fenmian2sg_00003
+  rotate: false
+  xy: 1731, 196
+  size: 104, 229
+  orig: 120, 324
+  offset: 5, 41
+  index: -1
+J6_fenmian2sg_00004
+  rotate: true
+  xy: 1288, 23
+  size: 104, 229
+  orig: 120, 324
+  offset: 5, 41
+  index: -1
+J6_fenmian2sg_00005
+  rotate: true
+  xy: 965, 2
+  size: 104, 229
+  orig: 120, 324
+  offset: 5, 41
+  index: -1
+J6_shujisg_00000
+  rotate: true
+  xy: 1260, 1187
+  size: 319, 295
+  orig: 320, 476
+  offset: 1, 13
+  index: -1
+J6_shujisg_00001
+  rotate: false
+  xy: 1260, 890
+  size: 319, 295
+  orig: 320, 476
+  offset: 1, 13
+  index: -1
+J6_shujisg_00002
+  rotate: false
+  xy: 1557, 1211
+  size: 319, 295
+  orig: 320, 476
+  offset: 1, 13
+  index: -1
+J6_shujisg_00003
+  rotate: true
+  xy: 1304, 426
+  size: 319, 295
+  orig: 320, 476
+  offset: 1, 13
+  index: -1
+J6_shujisg_00004
+  rotate: true
+  xy: 1581, 890
+  size: 319, 295
+  orig: 320, 476
+  offset: 1, 13
+  index: -1
+J6_shujisg_00005
+  rotate: false
+  xy: 1304, 129
+  size: 319, 295
+  orig: 320, 476
+  offset: 1, 13
+  index: -1
+J6_shujisg_00006
+  rotate: false
+  xy: 2, 22
+  size: 319, 295
+  orig: 320, 476
+  offset: 1, 13
+  index: -1
+J6_shujisg_00007
+  rotate: false
+  xy: 323, 22
+  size: 319, 295
+  orig: 320, 476
+  offset: 1, 13
+  index: -1
+J6_shujisg_00008
+  rotate: false
+  xy: 644, 22
+  size: 319, 295
+  orig: 320, 476
+  offset: 1, 13
+  index: -1
+Tex_Ramp05
+  rotate: true
+  xy: 1637, 1693
+  size: 228, 220
+  orig: 256, 256
+  offset: 10, 10
+  index: -1
+Tex_Ramp05a
+  rotate: false
+  xy: 1637, 1513
+  size: 237, 178
+  orig: 256, 256
+  offset: 6, 30
+  index: -1
+lizi_016
+  rotate: false
+  xy: 1823, 837
+  size: 51, 51
+  orig: 64, 64
+  offset: 7, 6
+  index: -1

@@ -1,0 +1,118 @@
+
+Effect_ls_nd_2.png
+size: 1373,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hs/hs_00000
+  rotate: true
+  xy: 553, 4
+  size: 90, 89
+  orig: 103, 105
+  offset: 5, 9
+  index: -1
+hs/hs_00002
+  rotate: false
+  xy: 96, 2
+  size: 91, 92
+  orig: 103, 105
+  offset: 6, 6
+  index: -1
+hs/hs_00004
+  rotate: true
+  xy: 997, 6
+  size: 88, 82
+  orig: 103, 105
+  offset: 9, 6
+  index: -1
+hs/hs_00006
+  rotate: true
+  xy: 911, 7
+  size: 87, 84
+  orig: 103, 105
+  offset: 10, 6
+  index: -1
+hs/hs_00008
+  rotate: false
+  xy: 734, 6
+  size: 87, 88
+  orig: 103, 105
+  offset: 10, 6
+  index: -1
+hs/hs_00010
+  rotate: false
+  xy: 644, 4
+  size: 88, 90
+  orig: 103, 105
+  offset: 9, 6
+  index: -1
+hs/hs_00012
+  rotate: false
+  xy: 281, 3
+  size: 89, 91
+  orig: 103, 105
+  offset: 8, 6
+  index: -1
+hs/hs_00014
+  rotate: false
+  xy: 189, 2
+  size: 90, 92
+  orig: 103, 105
+  offset: 7, 6
+  index: -1
+hs/hs_00016
+  rotate: false
+  xy: 2, 2
+  size: 92, 92
+  orig: 103, 105
+  offset: 5, 6
+  index: -1
+hs/hs_00018
+  rotate: true
+  xy: 372, 3
+  size: 91, 89
+  orig: 103, 105
+  offset: 6, 9
+  index: -1
+hs/hs_00020
+  rotate: true
+  xy: 463, 2
+  size: 92, 88
+  orig: 103, 105
+  offset: 5, 10
+  index: -1
+hs/hs_00022
+  rotate: true
+  xy: 1081, 8
+  size: 86, 83
+  orig: 103, 105
+  offset: 5, 15
+  index: -1
+hs/hs_00024
+  rotate: true
+  xy: 1166, 8
+  size: 86, 79
+  orig: 103, 105
+  offset: 5, 19
+  index: -1
+hs/hs_00026
+  rotate: true
+  xy: 1247, 11
+  size: 83, 79
+  orig: 103, 105
+  offset: 6, 17
+  index: -1
+hs/hs_00028
+  rotate: false
+  xy: 823, 8
+  size: 86, 86
+  orig: 103, 105
+  offset: 6, 12
+  index: -1
+lz_00000
+  rotate: false
+  xy: 1328, 51
+  size: 43, 43
+  orig: 55, 55
+  offset: 6, 6
+  index: -1

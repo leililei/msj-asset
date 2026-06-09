@@ -1,0 +1,13 @@
+
+mazhu_shijiebei_zidan.png
+size: 55,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_zuqiu
+  rotate: false
+  xy: 1, 1
+  size: 53, 54
+  orig: 53, 57
+  offset: 0, 0
+  index: -1

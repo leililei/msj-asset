@@ -1,0 +1,55 @@
+
+baoxiangguai_lv_tx_1.png
+size: 63,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/td1/td1_00011
+  rotate: true
+  xy: 2, 163
+  size: 83, 29
+  orig: 96, 39
+  offset: 3, 5
+  index: -1
+chutu/td1/td1_00012
+  rotate: true
+  xy: 2, 81
+  size: 80, 31
+  orig: 96, 39
+  offset: 10, 4
+  index: -1
+chutu/td1/td1_00013
+  rotate: true
+  xy: 2, 2
+  size: 77, 31
+  orig: 96, 39
+  offset: 14, 4
+  index: -1
+chutu/td1/td1_00014
+  rotate: true
+  xy: 33, 175
+  size: 71, 28
+  orig: 96, 39
+  offset: 21, 6
+  index: -1
+chutu/td1/td1_00015
+  rotate: true
+  xy: 35, 106
+  size: 67, 25
+  orig: 96, 39
+  offset: 24, 8
+  index: -1
+chutu/td1/td1_00016
+  rotate: true
+  xy: 35, 46
+  size: 58, 17
+  orig: 96, 39
+  offset: 28, 9
+  index: -1
+chutu/td1/td1_00017
+  rotate: true
+  xy: 35, 9
+  size: 35, 13
+  orig: 96, 39
+  offset: 50, 12
+  index: -1

@@ -1,0 +1,258 @@
+
+caiwenji_atk_beaten_1.png
+size: 1980,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/ci/ci_25
+  rotate: true
+  xy: 970, 2
+  size: 27, 44
+  orig: 100, 84
+  offset: 26, 23
+  index: -1
+images/chutu/ci/ci_26
+  rotate: true
+  xy: 1762, 128
+  size: 43, 42
+  orig: 100, 84
+  offset: 17, 25
+  index: -1
+images/chutu/ci/ci_27
+  rotate: false
+  xy: 1562, 7
+  size: 60, 82
+  orig: 100, 84
+  offset: 19, 1
+  index: -1
+images/chutu/ci/ci_28
+  rotate: false
+  xy: 1245, 4
+  size: 83, 66
+  orig: 100, 84
+  offset: 10, 13
+  index: -1
+images/chutu/ci/ci_29
+  rotate: false
+  xy: 1144, 2
+  size: 99, 68
+  orig: 100, 84
+  offset: 1, 16
+  index: -1
+images/chutu/ci/ci_30
+  rotate: false
+  xy: 1762, 378
+  size: 51, 39
+  orig: 100, 84
+  offset: 26, 26
+  index: -1
+images/chutu/ci/ci_31
+  rotate: true
+  xy: 1016, 8
+  size: 21, 16
+  orig: 100, 84
+  offset: 32, 35
+  index: -1
+images/chutu/ci_26
+  rotate: false
+  xy: 1822, 315
+  size: 156, 142
+  orig: 157, 142
+  offset: 0, 0
+  index: -1
+images/chutu/glow_21
+  rotate: false
+  xy: 1822, 68
+  size: 103, 103
+  orig: 109, 109
+  offset: 3, 3
+  index: -1
+images/chutu/lizi/lizi_25
+  rotate: false
+  xy: 1398, 2
+  size: 90, 77
+  orig: 212, 202
+  offset: 60, 64
+  index: -1
+images/chutu/lizi/lizi_27
+  rotate: true
+  xy: 1240, 270
+  size: 187, 174
+  orig: 212, 202
+  offset: 16, 13
+  index: -1
+images/chutu/lizi/lizi_29
+  rotate: true
+  xy: 366, 6
+  size: 197, 185
+  orig: 212, 202
+  offset: 11, 7
+  index: -1
+images/chutu/lizi/lizi_31
+  rotate: false
+  xy: 1144, 72
+  size: 186, 188
+  orig: 212, 202
+  offset: 7, 6
+  index: -1
+images/chutu/lizi/lizi_33
+  rotate: false
+  xy: 2, 7
+  size: 189, 189
+  orig: 212, 202
+  offset: 6, 5
+  index: -1
+images/chutu/lizi/lizi_35
+  rotate: true
+  xy: 193, 7
+  size: 189, 171
+  orig: 212, 202
+  offset: 7, 24
+  index: -1
+images/chutu/lizi/lizi_37
+  rotate: true
+  xy: 1332, 81
+  size: 187, 173
+  orig: 212, 202
+  offset: 8, 24
+  index: -1
+images/chutu/lizi/lizi_39
+  rotate: true
+  xy: 1416, 274
+  size: 183, 170
+  orig: 212, 202
+  offset: 10, 27
+  index: -1
+images/chutu/lizi/lizi_41
+  rotate: false
+  xy: 1588, 287
+  size: 167, 170
+  orig: 212, 202
+  offset: 25, 27
+  index: -1
+images/chutu/lizi/lizi_43
+  rotate: true
+  xy: 1822, 173
+  size: 140, 152
+  orig: 212, 202
+  offset: 51, 44
+  index: -1
+images/chutu/shan1_25
+  rotate: true
+  xy: 1728, 7
+  size: 118, 92
+  orig: 124, 111
+  offset: 3, 13
+  index: -1
+images/chutu/shan_26
+  rotate: false
+  xy: 1330, 4
+  size: 66, 66
+  orig: 73, 73
+  offset: 4, 3
+  index: -1
+images/chutu/wxp_26
+  rotate: true
+  xy: 1507, 91
+  size: 181, 95
+  orig: 204, 107
+  offset: 11, 5
+  index: -1
+images/chutu/yflizi/yflizi_25
+  rotate: true
+  xy: 1762, 419
+  size: 38, 58
+  orig: 269, 235
+  offset: 121, 87
+  index: -1
+images/chutu/yflizi/yflizi_27
+  rotate: false
+  xy: 1624, 7
+  size: 102, 118
+  orig: 269, 235
+  offset: 85, 58
+  index: -1
+images/chutu/yflizi/yflizi_29
+  rotate: false
+  xy: 1604, 127
+  size: 156, 158
+  orig: 269, 235
+  offset: 59, 39
+  index: -1
+images/chutu/yflizi/yflizi_31
+  rotate: true
+  xy: 1054, 262
+  size: 195, 184
+  orig: 269, 235
+  offset: 40, 26
+  index: -1
+images/chutu/yflizi/yflizi_33
+  rotate: true
+  xy: 765, 6
+  size: 221, 203
+  orig: 269, 235
+  offset: 27, 17
+  index: -1
+images/chutu/yflizi/yflizi_35
+  rotate: true
+  xy: 452, 218
+  size: 239, 213
+  orig: 269, 235
+  offset: 18, 12
+  index: -1
+images/chutu/yflizi/yflizi_37
+  rotate: true
+  xy: 229, 205
+  size: 252, 221
+  orig: 269, 235
+  offset: 11, 8
+  index: -1
+images/chutu/yflizi/yflizi_39
+  rotate: true
+  xy: 2, 198
+  size: 259, 225
+  orig: 269, 235
+  offset: 7, 6
+  index: -1
+images/chutu/yflizi/yflizi_41
+  rotate: false
+  xy: 667, 229
+  size: 211, 228
+  orig: 269, 235
+  offset: 5, 4
+  index: -1
+images/chutu/yflizi/yflizi_43
+  rotate: true
+  xy: 553, 3
+  size: 213, 210
+  orig: 269, 235
+  offset: 3, 3
+  index: -1
+images/chutu/yflizi/yflizi_45
+  rotate: true
+  xy: 880, 244
+  size: 213, 172
+  orig: 269, 235
+  offset: 3, 3
+  index: -1
+images/chutu/yflizi/yflizi_47
+  rotate: true
+  xy: 970, 31
+  size: 211, 172
+  orig: 269, 235
+  offset: 4, 3
+  index: -1
+images/chutu/yin1_12
+  rotate: true
+  xy: 1822, 2
+  size: 64, 66
+  orig: 65, 67
+  offset: 0, 1
+  index: -1
+images/chutu/yin_00
+  rotate: true
+  xy: 1490, 8
+  size: 71, 70
+  orig: 75, 72
+  offset: 2, 1
+  index: -1

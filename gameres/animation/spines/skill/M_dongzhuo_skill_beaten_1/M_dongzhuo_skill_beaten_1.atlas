@@ -1,0 +1,251 @@
+
+M_dongzhuo_skill_beaten_1.png
+size: 2032,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/jn/bdci1/bdci1_00
+  rotate: false
+  xy: 1695, 75
+  size: 63, 130
+  orig: 93, 181
+  offset: 13, 27
+  index: -1
+images/chutu/jn/bdci1/bdci1_01
+  rotate: false
+  xy: 1762, 75
+  size: 63, 130
+  orig: 93, 181
+  offset: 13, 27
+  index: -1
+images/chutu/jn/bdci1/bdci1_02
+  rotate: false
+  xy: 903, 44
+  size: 79, 161
+  orig: 93, 181
+  offset: 6, 12
+  index: -1
+images/chutu/jn/bdci1/bdci1_03
+  rotate: false
+  xy: 524, 33
+  size: 87, 172
+  orig: 93, 181
+  offset: 2, 3
+  index: -1
+images/chutu/jn/bdci1/bdci1_04
+  rotate: false
+  xy: 615, 33
+  size: 87, 172
+  orig: 93, 181
+  offset: 2, 3
+  index: -1
+images/chutu/jn/bdci1/bdci1_05
+  rotate: false
+  xy: 432, 29
+  size: 88, 176
+  orig: 93, 181
+  offset: 3, 3
+  index: -1
+images/chutu/jn/glow_46
+  rotate: false
+  xy: 161, 52
+  size: 153, 153
+  orig: 159, 160
+  offset: 3, 3
+  index: -1
+images/chutu/pg/bc1_02
+  rotate: false
+  xy: 318, 36
+  size: 110, 169
+  orig: 111, 169
+  offset: 0, 0
+  index: -1
+images/chutu/pg/bc2/bc2_00
+  rotate: false
+  xy: 1160, 17
+  size: 88, 62
+  orig: 134, 84
+  offset: 40, 12
+  index: -1
+images/chutu/pg/bc2/bc2_01
+  rotate: false
+  xy: 706, 15
+  size: 99, 67
+  orig: 134, 84
+  offset: 27, 10
+  index: -1
+images/chutu/pg/bc2/bc2_02
+  rotate: false
+  xy: 1512, 26
+  size: 105, 69
+  orig: 134, 84
+  offset: 22, 9
+  index: -1
+images/chutu/pg/bc2/bc2_03
+  rotate: true
+  xy: 1829, 94
+  size: 111, 71
+  orig: 134, 84
+  offset: 15, 7
+  index: -1
+images/chutu/pg/bc2/bc2_04
+  rotate: false
+  xy: 1929, 16
+  size: 97, 71
+  orig: 134, 84
+  offset: 11, 7
+  index: -1
+images/chutu/pg/bc2/bc2_05
+  rotate: false
+  xy: 1318, 12
+  size: 91, 71
+  orig: 134, 84
+  offset: 7, 6
+  index: -1
+images/chutu/pg/bc2/bc2_07
+  rotate: false
+  xy: 1413, 15
+  size: 85, 67
+  orig: 134, 84
+  offset: 7, 7
+  index: -1
+images/chutu/pg/bc3_00
+  rotate: false
+  xy: 1512, 108
+  size: 96, 97
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+images/chutu/pg/glow1_00
+  rotate: false
+  xy: 4, 46
+  size: 153, 159
+  orig: 155, 162
+  offset: 1, 1
+  index: -1
+images/chutu/pg/glow2_01
+  rotate: false
+  xy: 706, 86
+  size: 119, 119
+  orig: 132, 132
+  offset: 7, 6
+  index: -1
+images/chutu/pg/lizi/lizi_01
+  rotate: false
+  xy: 1061, 9
+  size: 56, 68
+  orig: 99, 127
+  offset: 17, 33
+  index: -1
+images/chutu/pg/lizi/lizi_02
+  rotate: true
+  xy: 1829, 15
+  size: 72, 96
+  orig: 99, 127
+  offset: 13, 20
+  index: -1
+images/chutu/pg/lizi/lizi_03
+  rotate: false
+  xy: 1612, 99
+  size: 79, 106
+  orig: 99, 127
+  offset: 10, 14
+  index: -1
+images/chutu/pg/lizi/lizi_05
+  rotate: false
+  xy: 1417, 86
+  size: 91, 119
+  orig: 99, 127
+  offset: 4, 6
+  index: -1
+images/chutu/pg/lizi/lizi_07
+  rotate: false
+  xy: 1160, 83
+  size: 95, 122
+  orig: 99, 127
+  offset: 2, 3
+  index: -1
+images/chutu/pg/lizi/lizi_09
+  rotate: false
+  xy: 1061, 81
+  size: 95, 124
+  orig: 99, 127
+  offset: 1, 1
+  index: -1
+images/chutu/pg/lizi/lizi_11
+  rotate: false
+  xy: 1318, 87
+  size: 95, 118
+  orig: 99, 127
+  offset: 1, 2
+  index: -1
+images/chutu/pg/tiao/tiao_00
+  rotate: true
+  xy: 185, 16
+  size: 32, 79
+  orig: 34, 204
+  offset: 1, 59
+  index: -1
+images/chutu/pg/tiao/tiao_03
+  rotate: true
+  xy: 268, 18
+  size: 14, 146
+  orig: 34, 204
+  offset: 10, 24
+  index: -1
+images/chutu/pg/tiao/tiao_04
+  rotate: true
+  xy: 4, 22
+  size: 20, 177
+  orig: 34, 204
+  offset: 7, 9
+  index: -1
+images/chutu/pg/tiao/tiao_06
+  rotate: true
+  xy: 1621, 17
+  size: 16, 194
+  orig: 34, 204
+  offset: 9, 3
+  index: -1
+images/chutu/pg/yan1/yan1_02
+  rotate: true
+  xy: 1621, 37
+  size: 34, 151
+  orig: 92, 214
+  offset: 26, 38
+  index: -1
+images/chutu/pg/yan1/yan1_04
+  rotate: false
+  xy: 1259, 4
+  size: 55, 201
+  orig: 92, 214
+  offset: 13, 6
+  index: -1
+images/chutu/pg/yan1/yan1_05
+  rotate: false
+  xy: 829, 8
+  size: 70, 197
+  orig: 92, 214
+  offset: 11, 8
+  index: -1
+images/chutu/pg/yan1/yan1_06
+  rotate: false
+  xy: 986, 28
+  size: 71, 177
+  orig: 92, 214
+  offset: 11, 27
+  index: -1
+images/chutu/pg/yan1/yan1_07
+  rotate: false
+  xy: 1904, 91
+  size: 66, 114
+  orig: 92, 214
+  offset: 13, 82
+  index: -1
+images/chutu/pg/yan1/yan1_08
+  rotate: false
+  xy: 1974, 94
+  size: 46, 111
+  orig: 92, 214
+  offset: 28, 79
+  index: -1

@@ -1,0 +1,97 @@
+
+jiachongguai_atk_tx_1.png
+size: 414,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/a1/a1_000
+  rotate: false
+  xy: 2, 997
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+chutu/a2/a2_009
+  rotate: true
+  xy: 2, 746
+  size: 147, 150
+  orig: 268, 236
+  offset: 63, 37
+  index: -1
+chutu/a2/a2_010
+  rotate: true
+  xy: 2, 566
+  size: 164, 166
+  orig: 268, 236
+  offset: 51, 33
+  index: -1
+chutu/a2/a2_011
+  rotate: false
+  xy: 2, 379
+  size: 193, 176
+  orig: 268, 236
+  offset: 36, 29
+  index: -1
+chutu/a2/a2_012
+  rotate: false
+  xy: 188, 197
+  size: 212, 180
+  orig: 268, 236
+  offset: 28, 28
+  index: -1
+chutu/a2/a2_013
+  rotate: false
+  xy: 197, 885
+  size: 171, 136
+  orig: 268, 236
+  offset: 53, 51
+  index: -1
+chutu/a4/a4_015
+  rotate: true
+  xy: 208, 2
+  size: 193, 204
+  orig: 277, 227
+  offset: 6, 8
+  index: -1
+chutu/a4/a4_016
+  rotate: false
+  xy: 197, 379
+  size: 210, 176
+  orig: 277, 227
+  offset: 46, 44
+  index: -1
+chutu/a4/a4_018
+  rotate: false
+  xy: 170, 557
+  size: 221, 173
+  orig: 277, 227
+  offset: 51, 44
+  index: -1
+chutu/a4/a4_020
+  rotate: false
+  xy: 2, 15
+  size: 204, 180
+  orig: 277, 227
+  offset: 67, 32
+  index: -1
+chutu/a4/a4_022
+  rotate: true
+  xy: 2, 201
+  size: 176, 184
+  orig: 277, 227
+  offset: 87, 32
+  index: -1
+chutu/a4/a4_024
+  rotate: true
+  xy: 154, 732
+  size: 151, 171
+  orig: 277, 227
+  offset: 111, 44
+  index: -1
+chutu/a4/a4_026
+  rotate: true
+  xy: 28, 895
+  size: 126, 167
+  orig: 277, 227
+  offset: 126, 44
+  index: -1

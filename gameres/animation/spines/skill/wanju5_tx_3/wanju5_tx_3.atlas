@@ -1,0 +1,48 @@
+
+wanju5_tx_3.png
+size: 234,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fzg
+  rotate: false
+  xy: 142, 77
+  size: 84, 82
+  orig: 88, 87
+  offset: 2, 3
+  index: -1
+glow5
+  rotate: false
+  xy: 192, 42
+  size: 33, 33
+  orig: 35, 36
+  offset: 1, 2
+  index: -1
+k7
+  rotate: false
+  xy: 137, 22
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+k8
+  rotate: false
+  xy: 2, 2
+  size: 133, 117
+  orig: 150, 138
+  offset: 8, 11
+  index: -1
+lzk
+  rotate: false
+  xy: 2, 121
+  size: 138, 135
+  orig: 145, 141
+  offset: 4, 3
+  index: -1
+sm
+  rotate: true
+  xy: 142, 161
+  size: 95, 90
+  orig: 95, 91
+  offset: 0, 0
+  index: -1

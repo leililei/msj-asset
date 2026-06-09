@@ -1,0 +1,160 @@
+
+WJ2.png
+size: 692,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WJ2_chuancang1_1
+  rotate: true
+  xy: 483, 338
+  size: 130, 73
+  orig: 132, 75
+  offset: 1, 1
+  index: -1
+WJ2_chuancang1_2
+  rotate: true
+  xy: 325, 100
+  size: 193, 101
+  orig: 195, 103
+  offset: 1, 1
+  index: -1
+WJ2_chuancang2
+  rotate: true
+  xy: 430, 173
+  size: 161, 104
+  orig: 163, 106
+  offset: 1, 1
+  index: -1
+WJ2_chuangan
+  rotate: false
+  xy: 644, 206
+  size: 19, 189
+  orig: 21, 191
+  offset: 1, 1
+  index: -1
+WJ2_chuanshen
+  rotate: false
+  xy: 4, 83
+  size: 301, 104
+  orig: 303, 106
+  offset: 1, 1
+  index: -1
+WJ2_chuantou
+  rotate: false
+  xy: 345, 488
+  size: 68, 46
+  orig: 70, 48
+  offset: 1, 1
+  index: -1
+WJ2_chuanxian1
+  rotate: false
+  xy: 4, 31
+  size: 71, 48
+  orig: 73, 50
+  offset: 1, 1
+  index: -1
+WJ2_chuanxian2
+  rotate: false
+  xy: 4, 191
+  size: 317, 102
+  orig: 319, 104
+  offset: 1, 1
+  index: -1
+WJ2_chuanxian3
+  rotate: true
+  xy: 560, 173
+  size: 172, 51
+  orig: 174, 53
+  offset: 1, 1
+  index: -1
+WJ2_fan1
+  rotate: false
+  xy: 79, 51
+  size: 101, 28
+  orig: 103, 30
+  offset: 1, 1
+  index: -1
+WJ2_fan2
+  rotate: false
+  xy: 430, 86
+  size: 130, 83
+  orig: 132, 85
+  offset: 1, 1
+  index: -1
+WJ2_fan3
+  rotate: false
+  xy: 351, 297
+  size: 128, 190
+  orig: 128, 190
+  offset: 0, 0
+  index: -1
+WJ2_jiaban1
+  rotate: false
+  xy: 4, 405
+  size: 337, 129
+  orig: 339, 131
+  offset: 1, 1
+  index: -1
+WJ2_jiaban2
+  rotate: true
+  xy: 560, 349
+  size: 132, 48
+  orig: 134, 50
+  offset: 1, 1
+  index: -1
+WJ2_lansheng1
+  rotate: true
+  xy: 432, 7
+  size: 125, 235
+  orig: 125, 235
+  offset: 0, 0
+  index: -1
+WJ2_lansheng2
+  rotate: true
+  xy: 462, 28
+  size: 175, 211
+  orig: 175, 211
+  offset: 0, 0
+  index: -1
+WJ2_lansheng3
+  rotate: 180
+  xy: 583, 6
+  size: 104, 151
+  orig: 104, 151
+  offset: 0, 0
+  index: -1
+WJ2_lansheng4
+  rotate: true
+  xy: 483, 485
+  size: 37, 112
+  orig: 39, 114
+  offset: 1, 1
+  index: -1
+WJ2_lansheng5
+  rotate: true
+  xy: 184, 28
+  size: 51, 155
+  orig: 51, 155
+  offset: 0, 0
+  index: -1
+WJ2_tanzi
+  rotate: false
+  xy: 4, 7
+  size: 23, 20
+  orig: 25, 22
+  offset: 1, 1
+  index: -1
+WJ2_xiangzi
+  rotate: false
+  xy: 417, 508
+  size: 35, 26
+  orig: 37, 28
+  offset: 1, 1
+  index: -1
+WJ2_yingzi
+  rotate: false
+  xy: 4, 297
+  size: 343, 104
+  orig: 345, 106
+  offset: 1, 1
+  index: -1

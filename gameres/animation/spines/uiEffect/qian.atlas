@@ -1,0 +1,20 @@
+
+qian.png
+size: 883,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haishui1
+  rotate: false
+  xy: 4, 4
+  size: 875, 152
+  orig: 875, 152
+  offset: 0, 0
+  index: -1
+haishui2
+  rotate: false
+  xy: 4, 160
+  size: 849, 220
+  orig: 849, 220
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+sh_caocao_atk_beaten_1.png
+size: 530,836
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_mz_00
+  rotate: 180
+  xy: 266, 128
+  size: 204, 116
+  orig: 204, 116
+  offset: 0, 0
+  index: -1
+effect/atk_mz_01
+  rotate: 180
+  xy: 3, 162
+  size: 292, 140
+  orig: 292, 140
+  offset: 0, 0
+  index: -1
+effect/atk_mz_02
+  rotate: 180
+  xy: 3, 275
+  size: 451, 131
+  orig: 451, 132
+  offset: 0, 1
+  index: -1
+effect/atk_mz_03
+  rotate: false
+  xy: 3, 402
+  size: 455, 147
+  orig: 455, 148
+  offset: 0, 1
+  index: -1
+effect/atk_mz_04
+  rotate: false
+  xy: 3, 688
+  size: 460, 147
+  orig: 460, 148
+  offset: 0, 1
+  index: -1
+effect/atk_mz_06
+  rotate: false
+  xy: 3, 540
+  size: 461, 155
+  orig: 463, 157
+  offset: 1, 1
+  index: -1
+effect/atk_mz_08
+  rotate: 180
+  xy: 145, 24
+  size: 226, 130
+  orig: 227, 131
+  offset: 0, 1
+  index: -1
+effect/atk_mz_10
+  rotate: 180
+  xy: 3, 654
+  size: 171, 83
+  orig: 171, 83
+  offset: 0, 0
+  index: -1
+effect/atk_mz_12
+  rotate: 180
+  xy: 3, 516
+  size: 117, 78
+  orig: 117, 79
+  offset: 0, 0
+  index: -1
+effect/atk_mz_14
+  rotate: false
+  xy: 3, 383
+  size: 41, 70
+  orig: 42, 72
+  offset: 1, 1
+  index: -1
+effect/atk_mz_glow
+  rotate: false
+  xy: 424, 623
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+effect/atk_mz_zhaci_00
+  rotate: false
+  xy: 408, 349
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+effect/atk_mz_zhaci_01
+  rotate: 270
+  xy: 370, 4
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+effect/atk_mz_zhaci_02
+  rotate: 270
+  xy: 3, 46
+  size: 140, 146
+  orig: 140, 147
+  offset: 0, 1
+  index: -1
+effect/atk_mz_zhaci_04
+  rotate: true
+  xy: 390, 481
+  size: 133, 137
+  orig: 133, 137
+  offset: 0, 0
+  index: -1
+effect/atk_mz_zhaci_05
+  rotate: false
+  xy: 414, 215
+  size: 102, 109
+  orig: 103, 109
+  offset: 1, 0
+  index: -1
+effect/atk_mz_zhaci_07
+  rotate: false
+  xy: 446, 741
+  size: 71, 94
+  orig: 72, 95
+  offset: 0, 1
+  index: -1
+effect/atk_mz_zhaci_09
+  rotate: false
+  xy: 3, 801
+  size: 67, 34
+  orig: 68, 35
+  offset: 1, 0
+  index: -1

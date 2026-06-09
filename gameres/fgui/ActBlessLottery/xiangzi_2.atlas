@@ -1,0 +1,167 @@
+
+xiangzi_2.png
+size: 418,765
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/huohua_hong/00
+  rotate: false
+  xy: 256, 541
+  size: 69, 84
+  orig: 120, 120
+  offset: 31, 27
+  index: -1
+images/effect/huohua_hong/02
+  rotate: false
+  xy: 233, 365
+  size: 73, 84
+  orig: 120, 120
+  offset: 32, 21
+  index: -1
+images/effect/huohua_hong/04
+  rotate: false
+  xy: 310, 268
+  size: 55, 103
+  orig: 120, 120
+  offset: 32, 8
+  index: -1
+images/effect/huohua_hong/06
+  rotate: true
+  xy: 96, 1
+  size: 86, 92
+  orig: 120, 120
+  offset: 22, 24
+  index: -1
+images/effect/huohua_hong/08
+  rotate: true
+  xy: 192, 2
+  size: 85, 76
+  orig: 120, 120
+  offset: 25, 24
+  index: -1
+images/effect/huohua_hong/10
+  rotate: true
+  xy: 363, 178
+  size: 62, 55
+  orig: 120, 120
+  offset: 22, 33
+  index: -1
+images/effect/huohua_hong/12
+  rotate: false
+  xy: 299, 91
+  size: 66, 83
+  orig: 120, 120
+  offset: 20, 8
+  index: -1
+images/effect/huohua_hong/14
+  rotate: true
+  xy: 329, 648
+  size: 69, 65
+  orig: 120, 120
+  offset: 11, 30
+  index: -1
+images/effect/huohua_hong/16
+  rotate: true
+  xy: 272, 2
+  size: 85, 67
+  orig: 120, 120
+  offset: 8, 21
+  index: -1
+images/effect/huohua_hong/18
+  rotate: false
+  xy: 219, 179
+  size: 69, 89
+  orig: 120, 120
+  offset: 31, 15
+  index: -1
+images/effect/huohua_lan/00
+  rotate: false
+  xy: 256, 629
+  size: 69, 84
+  orig: 120, 120
+  offset: 31, 27
+  index: -1
+images/effect/huohua_lan/02
+  rotate: false
+  xy: 256, 453
+  size: 73, 84
+  orig: 120, 120
+  offset: 32, 21
+  index: -1
+images/effect/huohua_lan/04
+  rotate: false
+  xy: 329, 541
+  size: 55, 103
+  orig: 120, 120
+  offset: 32, 8
+  index: -1
+images/effect/huohua_lan/06
+  rotate: true
+  xy: 0, 0
+  size: 87, 92
+  orig: 120, 120
+  offset: 21, 24
+  index: -1
+images/effect/huohua_lan/08
+  rotate: true
+  xy: 219, 91
+  size: 84, 76
+  orig: 120, 120
+  offset: 26, 24
+  index: -1
+images/effect/huohua_lan/10
+  rotate: true
+  xy: 343, 25
+  size: 62, 56
+  orig: 120, 120
+  offset: 22, 32
+  index: -1
+images/effect/huohua_lan/12
+  rotate: true
+  xy: 310, 375
+  size: 66, 83
+  orig: 120, 120
+  offset: 20, 8
+  index: -1
+images/effect/huohua_lan/14
+  rotate: true
+  xy: 333, 445
+  size: 69, 65
+  orig: 120, 120
+  offset: 11, 30
+  index: -1
+images/effect/huohua_lan/16
+  rotate: true
+  xy: 292, 179
+  size: 85, 67
+  orig: 120, 120
+  offset: 8, 21
+  index: -1
+images/effect/huohua_lan/18
+  rotate: false
+  xy: 233, 272
+  size: 69, 89
+  orig: 120, 120
+  offset: 31, 15
+  index: -1
+images/gaoji
+  rotate: true
+  xy: 0, 283
+  size: 216, 229
+  orig: 218, 231
+  offset: 1, 1
+  index: -1
+images/gaoji2
+  rotate: false
+  xy: 0, 503
+  size: 252, 262
+  orig: 262, 273
+  offset: 5, 5
+  index: -1
+images/yingxzi2
+  rotate: true
+  xy: 0, 91
+  size: 188, 215
+  orig: 192, 252
+  offset: 1, 35
+  index: -1

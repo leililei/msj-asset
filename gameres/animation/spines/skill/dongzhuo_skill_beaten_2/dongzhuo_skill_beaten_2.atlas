@@ -1,0 +1,20 @@
+
+dongzhuo_skill_beaten_2.png
+size: 322,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/d1_50
+  rotate: false
+  xy: 2, 48
+  size: 289, 152
+  orig: 314, 168
+  offset: 7, 4
+  index: -1
+chutu/skill/d2_50
+  rotate: false
+  xy: 2, 2
+  size: 318, 44
+  orig: 319, 44
+  offset: 0, 0
+  index: -1

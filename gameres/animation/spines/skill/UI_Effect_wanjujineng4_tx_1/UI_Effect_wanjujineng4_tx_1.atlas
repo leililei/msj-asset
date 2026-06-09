@@ -1,0 +1,69 @@
+
+UI_Effect_wanjujineng4_tx_1.png
+size: 1424,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/1blg/1blg_00
+  rotate: false
+  xy: 1144, 26
+  size: 142, 151
+  orig: 163, 169
+  offset: 11, 10
+  index: -1
+chutu/2glow/2glow_00
+  rotate: false
+  xy: 595, 62
+  size: 27, 27
+  orig: 27, 28
+  offset: 0, 1
+  index: -1
+chutu/3huan/3huan_18
+  rotate: false
+  xy: 3, 3
+  size: 474, 453
+  orig: 506, 488
+  offset: 18, 24
+  index: -1
+chutu/3huan2/3huan2_10
+  rotate: false
+  xy: 479, 91
+  size: 361, 365
+  orig: 396, 399
+  offset: 18, 18
+  index: -1
+chutu/4lz/4lz_17
+  rotate: false
+  xy: 595, 33
+  size: 26, 27
+  orig: 29, 29
+  offset: 2, 1
+  index: -1
+chutu/5lz/5lz_12
+  rotate: false
+  xy: 541, 30
+  size: 52, 59
+  orig: 62, 69
+  offset: 5, 5
+  index: -1
+chutu/5lz/5lz_19
+  rotate: false
+  xy: 479, 27
+  size: 60, 62
+  orig: 69, 72
+  offset: 5, 5
+  index: -1
+chutu/6huan3/6huan3_16
+  rotate: true
+  xy: 842, 154
+  size: 302, 300
+  orig: 313, 307
+  offset: 3, 4
+  index: -1
+chutu/7td/7td_08
+  rotate: false
+  xy: 1144, 179
+  size: 276, 277
+  orig: 283, 280
+  offset: 3, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+dianwei_skill_beaten_2.png
+size: 1816,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/d/d_00025
+  rotate: false
+  xy: 577, 72
+  size: 204, 208
+  orig: 245, 227
+  offset: 32, 10
+  index: -1
+chutu/dbd/dbd_00021
+  rotate: false
+  xy: 1513, 15
+  size: 54, 92
+  orig: 177, 320
+  offset: 48, 129
+  index: -1
+chutu/dbd/dbd_00022
+  rotate: true
+  xy: 1344, 6
+  size: 94, 167
+  orig: 177, 320
+  offset: 37, 79
+  index: -1
+chutu/dbd/dbd_00023
+  rotate: false
+  xy: 1079, 3
+  size: 109, 277
+  orig: 177, 320
+  offset: 31, 18
+  index: -1
+chutu/dbd/dbd_00024
+  rotate: true
+  xy: 783, 155
+  size: 125, 294
+  orig: 177, 320
+  offset: 22, 11
+  index: -1
+chutu/dbd/dbd_00025
+  rotate: true
+  xy: 783, 17
+  size: 136, 269
+  orig: 177, 320
+  offset: 16, 45
+  index: -1
+chutu/dbd/dbd_00027
+  rotate: false
+  xy: 1190, 87
+  size: 152, 193
+  orig: 177, 320
+  offset: 8, 82
+  index: -1
+chutu/dbd/dbd_00029
+  rotate: false
+  xy: 1344, 102
+  size: 158, 178
+  orig: 177, 320
+  offset: 4, 80
+  index: -1
+chutu/dbd/dbd_00031
+  rotate: false
+  xy: 1504, 109
+  size: 160, 171
+  orig: 177, 320
+  offset: 4, 81
+  index: -1
+chutu/gl2/gl2_00002
+  rotate: false
+  xy: 1666, 133
+  size: 147, 147
+  orig: 157, 153
+  offset: 4, 3
+  index: -1
+chutu/glow/glow_00000
+  rotate: false
+  xy: 1666, 7
+  size: 124, 124
+  orig: 147, 144
+  offset: 11, 10
+  index: -1
+chutu/t/t_00014
+  rotate: true
+  xy: 335, 50
+  size: 230, 240
+  orig: 255, 257
+  offset: 7, 10
+  index: -1
+chutu/wq/wq_00019
+  rotate: false
+  xy: 3, 59
+  size: 330, 221
+  orig: 372, 262
+  offset: 14, 24
+  index: -1

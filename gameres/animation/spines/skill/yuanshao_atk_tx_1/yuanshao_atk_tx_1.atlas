@@ -1,0 +1,111 @@
+
+yuanshao_atk_tx_1.png
+size: 1524,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/atk/as1/as1_00012
+  rotate: true
+  xy: 485, 3
+  size: 263, 216
+  orig: 282, 289
+  offset: 12, 68
+  index: -1
+images/chutu/atk/as1/as1_00013
+  rotate: false
+  xy: 3, 18
+  size: 244, 248
+  orig: 282, 289
+  offset: 31, 8
+  index: -1
+images/chutu/atk/as1/as1_00015
+  rotate: true
+  xy: 249, 18
+  size: 246, 234
+  orig: 282, 289
+  offset: 24, 7
+  index: -1
+images/chutu/atk/as1/as1_00017
+  rotate: false
+  xy: 703, 35
+  size: 208, 231
+  orig: 282, 289
+  offset: 25, 9
+  index: -1
+images/chutu/atk/as1/as1_00019
+  rotate: false
+  xy: 913, 52
+  size: 206, 214
+  orig: 282, 289
+  offset: 27, 27
+  index: -1
+images/chutu/atk/as1/as1_00021
+  rotate: false
+  xy: 1121, 74
+  size: 176, 192
+  orig: 282, 289
+  offset: 58, 45
+  index: -1
+images/chutu/atk/as1/as1_00023
+  rotate: false
+  xy: 1299, 84
+  size: 175, 182
+  orig: 282, 289
+  offset: 58, 51
+  index: -1
+images/chutu/atk/as1/as1_00025
+  rotate: false
+  xy: 913, 3
+  size: 157, 47
+  orig: 282, 289
+  offset: 58, 51
+  index: -1
+images/chutu/skill1/ss10/ss10_00039
+  rotate: false
+  xy: 1072, 19
+  size: 45, 31
+  orig: 86, 51
+  offset: 16, 2
+  index: -1
+images/chutu/skill1/ss10/ss10_00040
+  rotate: true
+  xy: 1476, 84
+  size: 64, 44
+  orig: 86, 51
+  offset: 11, 1
+  index: -1
+images/chutu/skill1/ss10/ss10_00041
+  rotate: false
+  xy: 1376, 34
+  size: 78, 48
+  orig: 86, 51
+  offset: 5, 0
+  index: -1
+images/chutu/skill1/ss10/ss10_00042
+  rotate: false
+  xy: 1293, 24
+  size: 81, 48
+  orig: 86, 51
+  offset: 3, 1
+  index: -1
+images/chutu/skill1/ss10/ss10_00043
+  rotate: false
+  xy: 1208, 23
+  size: 83, 49
+  orig: 86, 51
+  offset: 2, 1
+  index: -1
+images/chutu/skill1/ss10/ss10_00044
+  rotate: false
+  xy: 1121, 24
+  size: 85, 48
+  orig: 86, 51
+  offset: 1, 2
+  index: -1
+images/chutu/skill1/ss10/ss10_00045
+  rotate: true
+  xy: 1456, 17
+  size: 65, 44
+  orig: 86, 51
+  offset: 1, 4
+  index: -1

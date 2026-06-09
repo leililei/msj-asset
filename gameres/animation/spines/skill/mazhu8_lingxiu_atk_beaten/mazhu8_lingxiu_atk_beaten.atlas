@@ -1,0 +1,587 @@
+
+mazhu8_lingxiu_atk_beaten.png
+size: 761,1039
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/atk/a1/a1_00012
+  rotate: true
+  xy: 635, 764
+  size: 102, 68
+  orig: 130, 76
+  offset: 8, 5
+  index: -1
+images/chutu/atk/a1/a1_00013
+  rotate: true
+  xy: 697, 568
+  size: 107, 62
+  orig: 130, 76
+  offset: 7, 7
+  index: -1
+images/chutu/atk/a1/a1_00014
+  rotate: true
+  xy: 165, 442
+  size: 118, 67
+  orig: 130, 76
+  offset: 6, 4
+  index: -1
+images/chutu/atk/a1/a1_00015
+  rotate: false
+  xy: 373, 654
+  size: 118, 69
+  orig: 130, 76
+  offset: 6, 4
+  index: -1
+images/chutu/atk/a1/a1_00016
+  rotate: true
+  xy: 588, 269
+  size: 102, 68
+  orig: 130, 76
+  offset: 8, 5
+  index: -1
+images/chutu/atk/a10/d4_00007
+  rotate: false
+  xy: 234, 418
+  size: 97, 142
+  orig: 135, 175
+  offset: 13, 15
+  index: -1
+images/chutu/atk/a10/d4_00008
+  rotate: true
+  xy: 2, 4
+  size: 101, 126
+  orig: 135, 175
+  offset: 15, 14
+  index: -1
+images/chutu/atk/a10/d4_00009
+  rotate: false
+  xy: 514, 483
+  size: 72, 115
+  orig: 135, 175
+  offset: 21, 20
+  index: -1
+images/chutu/atk/a11/d5_00011
+  rotate: false
+  xy: 292, 563
+  size: 117, 87
+  orig: 134, 99
+  offset: 7, 6
+  index: -1
+images/chutu/atk/a11/d5_00012
+  rotate: true
+  xy: 435, 190
+  size: 113, 81
+  orig: 134, 99
+  offset: 12, 7
+  index: -1
+images/chutu/atk/a11/d5_00013
+  rotate: true
+  xy: 465, 75
+  size: 113, 81
+  orig: 134, 99
+  offset: 12, 7
+  index: -1
+images/chutu/atk/a11/d5_00014
+  rotate: true
+  xy: 368, 833
+  size: 74, 46
+  orig: 134, 99
+  offset: 14, 11
+  index: -1
+images/chutu/atk/a13/a13_00016
+  rotate: false
+  xy: 594, 677
+  size: 108, 85
+  orig: 179, 123
+  offset: 7, 35
+  index: -1
+images/chutu/atk/a13/a13_00017
+  rotate: false
+  xy: 548, 2
+  size: 83, 81
+  orig: 179, 123
+  offset: 4, 34
+  index: -1
+images/chutu/atk/a13/a13_00018
+  rotate: false
+  xy: 465, 2
+  size: 77, 71
+  orig: 179, 123
+  offset: 8, 42
+  index: -1
+images/chutu/atk/a13/a13_00019
+  rotate: false
+  xy: 2, 562
+  size: 163, 120
+  orig: 179, 123
+  offset: 6, 2
+  index: -1
+images/chutu/atk/a13/a13_00020
+  rotate: false
+  xy: 2, 442
+  size: 161, 118
+  orig: 179, 123
+  offset: 14, 3
+  index: -1
+images/chutu/atk/a13/a13_00021
+  rotate: true
+  xy: 112, 114
+  size: 160, 106
+  orig: 179, 123
+  offset: 13, 7
+  index: -1
+images/chutu/atk/a13/a13_00022
+  rotate: true
+  xy: 587, 373
+  size: 108, 66
+  orig: 179, 123
+  offset: 17, 7
+  index: -1
+images/chutu/atk/a13/a13_00023
+  rotate: true
+  xy: 2, 107
+  size: 167, 108
+  orig: 179, 123
+  offset: 10, 1
+  index: -1
+images/chutu/atk/a13/a13_00024
+  rotate: false
+  xy: 624, 939
+  size: 135, 98
+  orig: 179, 123
+  offset: 15, 1
+  index: -1
+images/chutu/atk/a13/a13_00025
+  rotate: true
+  xy: 548, 85
+  size: 109, 85
+  orig: 179, 123
+  offset: 14, 7
+  index: -1
+images/chutu/atk/a13/a13_00026
+  rotate: true
+  xy: 119, 276
+  size: 164, 101
+  orig: 179, 123
+  offset: 13, 19
+  index: -1
+images/chutu/atk/a13/a13_00027
+  rotate: false
+  xy: 216, 813
+  size: 150, 94
+  orig: 179, 123
+  offset: 27, 26
+  index: -1
+images/chutu/atk/a13/a13_00028
+  rotate: false
+  xy: 167, 562
+  size: 123, 88
+  orig: 179, 123
+  offset: 51, 29
+  index: -1
+images/chutu/atk/a13/a13_00029
+  rotate: true
+  xy: 2, 276
+  size: 164, 115
+  orig: 179, 123
+  offset: 8, 2
+  index: -1
+images/chutu/atk/a13/a13_00030
+  rotate: false
+  xy: 209, 652
+  size: 162, 75
+  orig: 179, 123
+  offset: 9, 8
+  index: -1
+images/chutu/atk/a13/a13_00031
+  rotate: false
+  xy: 411, 563
+  size: 85, 89
+  orig: 179, 123
+  offset: 11, 17
+  index: -1
+images/chutu/atk/a14/a14_00016
+  rotate: true
+  xy: 680, 159
+  size: 73, 65
+  orig: 138, 98
+  offset: 5, 29
+  index: -1
+images/chutu/atk/a14/a14_00017
+  rotate: false
+  xy: 705, 741
+  size: 53, 60
+  orig: 138, 98
+  offset: 1, 30
+  index: -1
+images/chutu/atk/a14/a14_00018
+  rotate: false
+  xy: 704, 688
+  size: 53, 51
+  orig: 138, 98
+  offset: 1, 38
+  index: -1
+images/chutu/atk/a14/a14_00019
+  rotate: true
+  xy: 498, 708
+  size: 121, 94
+  orig: 138, 98
+  offset: 5, 4
+  index: -1
+images/chutu/atk/a14/a14_00020
+  rotate: true
+  xy: 420, 438
+  size: 123, 92
+  orig: 138, 98
+  offset: 8, 4
+  index: -1
+images/chutu/atk/a14/a14_00021
+  rotate: true
+  xy: 333, 434
+  size: 127, 85
+  orig: 138, 98
+  offset: 4, 5
+  index: -1
+images/chutu/atk/a14/a14_00022
+  rotate: true
+  xy: 635, 111
+  size: 86, 43
+  orig: 138, 98
+  offset: 7, 5
+  index: -1
+images/chutu/atk/a14/a14_00023
+  rotate: true
+  xy: 347, 305
+  size: 127, 87
+  orig: 138, 98
+  offset: 11, 1
+  index: -1
+images/chutu/atk/a14/a14_00024
+  rotate: false
+  xy: 589, 597
+  size: 106, 78
+  orig: 138, 98
+  offset: 11, 0
+  index: -1
+images/chutu/atk/a14/a14_00025
+  rotate: false
+  xy: 589, 199
+  size: 81, 68
+  orig: 138, 98
+  offset: 8, 2
+  index: -1
+images/chutu/atk/a14/a14_00026
+  rotate: true
+  xy: 359, 177
+  size: 126, 74
+  orig: 138, 98
+  offset: 9, 17
+  index: -1
+images/chutu/atk/a14/a14_00027
+  rotate: true
+  xy: 516, 363
+  size: 118, 69
+  orig: 138, 98
+  offset: 19, 23
+  index: -1
+images/chutu/atk/a14/a14_00028
+  rotate: false
+  xy: 664, 501
+  size: 95, 65
+  orig: 138, 98
+  offset: 39, 24
+  index: -1
+images/chutu/atk/a14/a14_00029
+  rotate: true
+  xy: 376, 51
+  size: 124, 87
+  orig: 138, 98
+  offset: 8, 2
+  index: -1
+images/chutu/atk/a14/a14_00030
+  rotate: false
+  xy: 624, 883
+  size: 122, 54
+  orig: 138, 98
+  offset: 9, 9
+  index: -1
+images/chutu/atk/a14/a14_00031
+  rotate: false
+  xy: 705, 803
+  size: 54, 63
+  orig: 138, 98
+  offset: 9, 10
+  index: -1
+images/chutu/atk/a16/a16_00013
+  rotate: true
+  xy: 518, 196
+  size: 53, 69
+  orig: 99, 137
+  offset: 32, 4
+  index: -1
+images/chutu/atk/a16/a16_00014
+  rotate: false
+  xy: 518, 251
+  size: 68, 110
+  orig: 99, 137
+  offset: 22, 7
+  index: -1
+images/chutu/atk/a16/a16_00015
+  rotate: false
+  xy: 436, 321
+  size: 78, 115
+  orig: 99, 137
+  offset: 13, 9
+  index: -1
+images/chutu/atk/a16/a16_00016
+  rotate: false
+  xy: 588, 490
+  size: 74, 105
+  orig: 99, 137
+  offset: 14, 20
+  index: -1
+images/chutu/atk/a16/a16_00017
+  rotate: false
+  xy: 655, 398
+  size: 69, 89
+  orig: 99, 137
+  offset: 13, 37
+  index: -1
+images/chutu/atk/a16/a16_00018
+  rotate: false
+  xy: 658, 310
+  size: 70, 86
+  orig: 99, 137
+  offset: 12, 40
+  index: -1
+images/chutu/atk/a2/a2_00012
+  rotate: false
+  xy: 216, 729
+  size: 161, 82
+  orig: 226, 126
+  offset: 30, 22
+  index: -1
+images/chutu/atk/a2/a2_00013
+  rotate: false
+  xy: 429, 934
+  size: 193, 103
+  orig: 226, 126
+  offset: 15, 10
+  index: -1
+images/chutu/atk/a2/a2_00014
+  rotate: false
+  xy: 2, 684
+  size: 205, 112
+  orig: 226, 126
+  offset: 10, 5
+  index: -1
+images/chutu/atk/a2/a2_00016
+  rotate: false
+  xy: 2, 798
+  size: 212, 117
+  orig: 226, 126
+  offset: 7, 3
+  index: -1
+images/chutu/atk/a2/a2_00017
+  rotate: false
+  xy: 2, 917
+  size: 215, 120
+  orig: 226, 126
+  offset: 5, 2
+  index: -1
+images/chutu/atk/a2/a2_00019
+  rotate: false
+  xy: 219, 922
+  size: 208, 115
+  orig: 226, 126
+  offset: 9, 5
+  index: -1
+images/chutu/atk/b1/b1_00013
+  rotate: true
+  xy: 376, 20
+  size: 29, 36
+  orig: 81, 70
+  offset: 26, 19
+  index: -1
+images/chutu/atk/b1/b1_00014
+  rotate: false
+  xy: 680, 94
+  size: 73, 63
+  orig: 81, 70
+  offset: 2, 5
+  index: -1
+images/chutu/atk/b1/b1_00015
+  rotate: true
+  xy: 633, 2
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+images/chutu/atk/b1/b1_00016
+  rotate: true
+  xy: 633, 2
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+images/chutu/atk/b1/b1_00017
+  rotate: true
+  xy: 672, 234
+  size: 74, 67
+  orig: 81, 70
+  offset: 1, 1
+  index: -1
+images/chutu/atk/b2/b2_00013
+  rotate: true
+  xy: 664, 489
+  size: 10, 95
+  orig: 14, 181
+  offset: 2, 49
+  index: -1
+images/chutu/atk/b2/b2_00014
+  rotate: true
+  xy: 610, 868
+  size: 13, 143
+  orig: 14, 181
+  offset: 0, 26
+  index: -1
+images/chutu/atk/b2/b2_00015
+  rotate: false
+  xy: 222, 276
+  size: 10, 164
+  orig: 14, 181
+  offset: 2, 13
+  index: -1
+images/chutu/atk/b2/b2_00017
+  rotate: true
+  xy: 436, 831
+  size: 9, 155
+  orig: 14, 181
+  offset: 2, 12
+  index: -1
+images/chutu/atk/b2/b2_00019
+  rotate: true
+  xy: 436, 857
+  size: 6, 162
+  orig: 14, 181
+  offset: 4, 9
+  index: -1
+images/chutu/atk/b2/b2_00021
+  rotate: true
+  xy: 436, 865
+  size: 5, 165
+  orig: 14, 181
+  offset: 4, 7
+  index: -1
+images/chutu/atk/b3/b3_00013
+  rotate: false
+  xy: 603, 764
+  size: 19, 102
+  orig: 27, 203
+  offset: 4, 59
+  index: -1
+images/chutu/atk/b3/b3_00014
+  rotate: false
+  xy: 220, 121
+  size: 23, 153
+  orig: 27, 203
+  offset: 2, 34
+  index: -1
+images/chutu/atk/b3/b3_00015
+  rotate: true
+  xy: 429, 910
+  size: 22, 173
+  orig: 27, 203
+  offset: 3, 20
+  index: -1
+images/chutu/atk/b3/b3_00017
+  rotate: true
+  xy: 436, 889
+  size: 19, 166
+  orig: 27, 203
+  offset: 4, 17
+  index: -1
+images/chutu/atk/b3/b3_00019
+  rotate: true
+  xy: 436, 872
+  size: 15, 172
+  orig: 27, 203
+  offset: 6, 16
+  index: -1
+images/chutu/atk/b3/b3_00021
+  rotate: true
+  xy: 219, 909
+  size: 11, 173
+  orig: 27, 203
+  offset: 8, 15
+  index: -1
+images/chutu/atk/b3/b3_00023
+  rotate: true
+  xy: 263, 13
+  size: 5, 117
+  orig: 27, 203
+  offset: 12, 10
+  index: -1
+images/chutu/atk/b4/b4_00013
+  rotate: true
+  xy: 414, 12
+  size: 37, 43
+  orig: 123, 140
+  offset: 41, 51
+  index: -1
+images/chutu/atk/b4/b4_00014
+  rotate: false
+  xy: 498, 600
+  size: 89, 106
+  orig: 123, 140
+  offset: 15, 16
+  index: -1
+images/chutu/atk/b4/b4_00015
+  rotate: true
+  xy: 379, 725
+  size: 104, 117
+  orig: 123, 140
+  offset: 9, 9
+  index: -1
+images/chutu/atk/b4/b4_00017
+  rotate: false
+  xy: 263, 20
+  size: 111, 128
+  orig: 123, 140
+  offset: 7, 4
+  index: -1
+images/chutu/atk/b4/b4_00019
+  rotate: false
+  xy: 245, 150
+  size: 112, 131
+  orig: 123, 140
+  offset: 7, 3
+  index: -1
+images/chutu/atk/b4/b4_00021
+  rotate: true
+  xy: 130, 2
+  size: 110, 131
+  orig: 123, 140
+  offset: 9, 4
+  index: -1
+images/chutu/atk/b4/b4_00023
+  rotate: false
+  xy: 234, 283
+  size: 111, 133
+  orig: 123, 140
+  offset: 9, 3
+  index: -1
+images/chutu/atk/b5/b5_00014
+  rotate: true
+  xy: 436, 842
+  size: 13, 162
+  orig: 15, 165
+  offset: 1, 1
+  index: -1
+images/chutu/atk/b6/b6_00000
+  rotate: false
+  xy: 167, 652
+  size: 28, 30
+  orig: 32, 34
+  offset: 2, 2
+  index: -1

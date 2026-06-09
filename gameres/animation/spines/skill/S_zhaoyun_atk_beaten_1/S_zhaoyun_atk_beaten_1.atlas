@@ -1,0 +1,370 @@
+
+S_zhaoyun_atk_beaten_1.png
+size: 1705,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_dg01_00
+  rotate: false
+  xy: 385, 969
+  size: 378, 146
+  orig: 378, 146
+  offset: 0, 0
+  index: -1
+effect/atk_dg01_01
+  rotate: false
+  xy: 391, 564
+  size: 329, 202
+  orig: 329, 202
+  offset: 0, 0
+  index: -1
+effect/atk_dg01_02
+  rotate: false
+  xy: 2, 1071
+  size: 381, 213
+  orig: 381, 213
+  offset: 0, 0
+  index: -1
+effect/atk_dg01_03
+  rotate: true
+  xy: 171, 169
+  size: 339, 207
+  orig: 339, 207
+  offset: 0, 0
+  index: -1
+effect/atk_dg01_04
+  rotate: false
+  xy: 2, 865
+  size: 378, 204
+  orig: 378, 204
+  offset: 0, 0
+  index: -1
+effect/atk_dg01_05
+  rotate: false
+  xy: 391, 768
+  size: 339, 199
+  orig: 339, 199
+  offset: 0, 0
+  index: -1
+effect/atk_dg01_06
+  rotate: false
+  xy: 722, 570
+  size: 321, 179
+  orig: 321, 179
+  offset: 0, 0
+  index: -1
+effect/atk_dg01_08
+  rotate: false
+  xy: 1461, 919
+  size: 192, 162
+  orig: 192, 162
+  offset: 0, 0
+  index: -1
+effect/atk_dg02_00
+  rotate: false
+  xy: 391, 433
+  size: 319, 129
+  orig: 319, 129
+  offset: 0, 0
+  index: -1
+effect/atk_dg02_01
+  rotate: true
+  xy: 1338, 639
+  size: 278, 179
+  orig: 278, 179
+  offset: 0, 0
+  index: -1
+effect/atk_dg02_02
+  rotate: true
+  xy: 218, 510
+  size: 353, 171
+  orig: 353, 171
+  offset: 0, 0
+  index: -1
+effect/atk_dg02_03
+  rotate: false
+  xy: 774, 1114
+  size: 379, 170
+  orig: 379, 170
+  offset: 0, 0
+  index: -1
+effect/atk_dg02_04
+  rotate: false
+  xy: 385, 1117
+  size: 387, 167
+  orig: 387, 167
+  offset: 0, 0
+  index: -1
+effect/atk_dg02_05
+  rotate: true
+  xy: 2, 132
+  size: 387, 167
+  orig: 387, 167
+  offset: 0, 0
+  index: -1
+effect/atk_dg02_06
+  rotate: false
+  xy: 765, 964
+  size: 371, 148
+  orig: 371, 148
+  offset: 0, 0
+  index: -1
+effect/atk_dg02_07
+  rotate: false
+  xy: 1155, 1133
+  size: 380, 151
+  orig: 380, 151
+  offset: 0, 0
+  index: -1
+effect/atk_dg02_09
+  rotate: true
+  xy: 1519, 681
+  size: 236, 131
+  orig: 236, 131
+  offset: 0, 0
+  index: -1
+effect/skl_mz-glow
+  rotate: false
+  xy: 227, 24
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+effect/skl_mz01_00
+  rotate: false
+  xy: 1542, 350
+  size: 149, 135
+  orig: 149, 135
+  offset: 0, 0
+  index: -1
+effect/skl_mz01_01
+  rotate: true
+  xy: 576, 6
+  size: 206, 179
+  orig: 206, 179
+  offset: 0, 0
+  index: -1
+effect/skl_mz01_02
+  rotate: true
+  xy: 380, 2
+  size: 210, 194
+  orig: 210, 194
+  offset: 0, 0
+  index: -1
+effect/skl_mz01_03
+  rotate: false
+  xy: 1336, 436
+  size: 204, 201
+  orig: 204, 201
+  offset: 0, 0
+  index: -1
+effect/skl_mz01_05
+  rotate: false
+  xy: 979, 50
+  size: 199, 203
+  orig: 199, 203
+  offset: 0, 0
+  index: -1
+effect/skl_mz01_07
+  rotate: true
+  xy: 1335, 243
+  size: 191, 203
+  orig: 191, 203
+  offset: 0, 0
+  index: -1
+effect/skl_mz01_09
+  rotate: false
+  xy: 1537, 1083
+  size: 166, 201
+  orig: 166, 201
+  offset: 0, 0
+  index: -1
+effect/skl_mz01_11
+  rotate: true
+  xy: 915, 255
+  size: 164, 199
+  orig: 164, 199
+  offset: 0, 0
+  index: -1
+effect/skl_mz01_13
+  rotate: false
+  xy: 1542, 487
+  size: 161, 192
+  orig: 161, 192
+  offset: 0, 0
+  index: -1
+effect/skl_mz02_00
+  rotate: false
+  xy: 1308, 70
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1
+effect/skl_mz02_01
+  rotate: true
+  xy: 732, 751
+  size: 211, 313
+  orig: 211, 313
+  offset: 0, 0
+  index: -1
+effect/skl_mz02_02
+  rotate: false
+  xy: 2, 521
+  size: 214, 342
+  orig: 214, 342
+  offset: 0, 0
+  index: -1
+effect/skl_mz02_03
+  rotate: true
+  xy: 380, 214
+  size: 217, 306
+  orig: 217, 306
+  offset: 0, 0
+  index: -1
+effect/skl_mz02_04
+  rotate: true
+  xy: 1155, 919
+  size: 212, 304
+  orig: 212, 304
+  offset: 0, 0
+  index: -1
+effect/skl_mz02_05
+  rotate: true
+  xy: 1047, 705
+  size: 212, 289
+  orig: 212, 289
+  offset: 0, 0
+  index: -1
+effect/skl_mz02_06
+  rotate: true
+  xy: 1045, 520
+  size: 183, 289
+  orig: 183, 289
+  offset: 0, 0
+  index: -1
+effect/skl_mz02_07
+  rotate: true
+  xy: 688, 238
+  size: 183, 225
+  orig: 183, 225
+  offset: 0, 0
+  index: -1
+effect/skl_mz02_09
+  rotate: false
+  xy: 1194, 326
+  size: 139, 192
+  orig: 139, 192
+  offset: 0, 0
+  index: -1
+effect/skl_mz02_11
+  rotate: false
+  xy: 1116, 368
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_00
+  rotate: true
+  xy: 1525, 63
+  size: 178, 37
+  orig: 178, 37
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_01
+  rotate: true
+  xy: 1483, 36
+  size: 205, 40
+  orig: 205, 40
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_02
+  rotate: false
+  xy: 2, 13
+  size: 223, 117
+  orig: 223, 117
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_03
+  rotate: true
+  xy: 868, 12
+  size: 224, 109
+  orig: 224, 109
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_04
+  rotate: true
+  xy: 757, 2
+  size: 234, 109
+  orig: 234, 109
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_05
+  rotate: false
+  xy: 712, 423
+  size: 239, 97
+  orig: 239, 97
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_06
+  rotate: false
+  xy: 953, 421
+  size: 239, 97
+  orig: 239, 97
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_07
+  rotate: true
+  xy: 1244, 81
+  size: 243, 62
+  orig: 243, 62
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_08
+  rotate: true
+  xy: 1180, 78
+  size: 246, 62
+  orig: 246, 62
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_09
+  rotate: false
+  xy: 1232, 23
+  size: 249, 45
+  orig: 249, 45
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_11
+  rotate: false
+  xy: 722, 522
+  size: 251, 46
+  orig: 251, 46
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_13
+  rotate: false
+  xy: 979, 2
+  size: 251, 46
+  orig: 251, 46
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_15
+  rotate: true
+  xy: 1564, 98
+  size: 250, 46
+  orig: 250, 46
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_17
+  rotate: true
+  xy: 1652, 699
+  size: 218, 21
+  orig: 218, 21
+  offset: 0, 0
+  index: -1
+effect/skl_smoke01_19
+  rotate: false
+  xy: 1232, 4
+  size: 209, 17
+  orig: 209, 17
+  offset: 0, 0
+  index: -1

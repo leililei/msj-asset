@@ -1,0 +1,167 @@
+
+shizongdawang_atk_beaten_1.png
+size: 350,1942
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_mz_00
+  rotate: false
+  xy: 0, 29
+  size: 160, 157
+  orig: 201, 187
+  offset: 30, 16
+  index: -1
+effect/attack_mz_01
+  rotate: false
+  xy: 0, 504
+  size: 216, 200
+  orig: 223, 204
+  offset: 5, 2
+  index: -1
+effect/attack_mz_03
+  rotate: true
+  xy: 0, 935
+  size: 228, 230
+  orig: 258, 258
+  offset: 15, 14
+  index: -1
+effect/attack_mz_05
+  rotate: false
+  xy: 0, 1681
+  size: 253, 261
+  orig: 285, 285
+  offset: 16, 12
+  index: -1
+effect/attack_mz_07
+  rotate: true
+  xy: 0, 1420
+  size: 257, 253
+  orig: 285, 285
+  offset: 14, 16
+  index: -1
+effect/attack_mz_09
+  rotate: true
+  xy: 0, 1167
+  size: 249, 251
+  orig: 285, 285
+  offset: 18, 17
+  index: -1
+effect/attack_mz_12
+  rotate: false
+  xy: 0, 708
+  size: 223, 223
+  orig: 277, 277
+  offset: 27, 27
+  index: -1
+effect/attack_mz_15
+  rotate: false
+  xy: 0, 328
+  size: 212, 172
+  orig: 266, 266
+  offset: 27, 47
+  index: -1
+effect/attack_mz_18
+  rotate: false
+  xy: 0, 190
+  size: 199, 134
+  orig: 225, 190
+  offset: 13, 28
+  index: -1
+effect/attack_mz_21
+  rotate: true
+  xy: 164, 0
+  size: 186, 134
+  orig: 225, 190
+  offset: 19, 28
+  index: -1
+effect/attack_mz_22
+  rotate: true
+  xy: 215, 190
+  size: 176, 134
+  orig: 225, 190
+  offset: 24, 28
+  index: -1
+effect/attack_mz_24
+  rotate: true
+  xy: 220, 569
+  size: 135, 107
+  orig: 205, 187
+  offset: 25, 25
+  index: -1
+effect/attack_yc_00
+  rotate: true
+  xy: 257, 1832
+  size: 110, 55
+  orig: 116, 57
+  offset: 5, 1
+  index: -1
+effect/attack_yc_01
+  rotate: true
+  xy: 255, 1305
+  size: 111, 66
+  orig: 118, 68
+  offset: 6, 1
+  index: -1
+effect/attack_yc_03
+  rotate: false
+  xy: 234, 935
+  size: 112, 87
+  orig: 118, 92
+  offset: 5, 0
+  index: -1
+effect/attack_yc_05
+  rotate: false
+  xy: 227, 708
+  size: 116, 85
+  orig: 118, 87
+  offset: 1, 1
+  index: -1
+effect/attack_yc_07
+  rotate: true
+  xy: 227, 807
+  size: 124, 84
+  orig: 126, 86
+  offset: 1, 1
+  index: -1
+effect/attack_yc_09
+  rotate: false
+  xy: 220, 459
+  size: 129, 85
+  orig: 131, 87
+  offset: 1, 1
+  index: -1
+effect/attack_yc_11
+  rotate: false
+  xy: 216, 370
+  size: 133, 85
+  orig: 135, 87
+  offset: 1, 1
+  index: -1
+effect/attack_yc_13
+  rotate: false
+  xy: 234, 1026
+  size: 114, 84
+  orig: 116, 86
+  offset: 1, 1
+  index: -1
+effect/attack_yc_15
+  rotate: true
+  xy: 255, 1167
+  size: 115, 82
+  orig: 117, 84
+  offset: 1, 1
+  index: -1
+effect/attack_yc_17
+  rotate: false
+  xy: 257, 1420
+  size: 89, 59
+  orig: 116, 61
+  offset: 1, 1
+  index: -1
+effect/attack_yc_19
+  rotate: false
+  xy: 257, 1483
+  size: 88, 57
+  orig: 90, 59
+  offset: 1, 1
+  index: -1

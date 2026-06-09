@@ -1,0 +1,41 @@
+
+Effect_jiban_yun.png
+size: 1115,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/chutu/ss1/ss1_00000
+  rotate: false
+  xy: 1006, 58
+  size: 107, 109
+  orig: 111, 113
+  offset: 2, 2
+  index: -1
+image/chutu/ss2/ss2_00000
+  rotate: false
+  xy: 608, 43
+  size: 198, 124
+  orig: 202, 126
+  offset: 2, 1
+  index: -1
+image/chutu/ss3/ss3_00000
+  rotate: false
+  xy: 386, 3
+  size: 220, 164
+  orig: 224, 168
+  offset: 2, 2
+  index: -1
+image/chutu/ss4/ss4_00000
+  rotate: false
+  xy: 3, 19
+  size: 381, 148
+  orig: 391, 157
+  offset: 2, 7
+  index: -1
+image/chutu/ss5/ss5_00000
+  rotate: false
+  xy: 808, 63
+  size: 196, 104
+  orig: 210, 113
+  offset: 6, 5
+  index: -1

@@ -1,0 +1,188 @@
+
+sh_caocao_skill_beaten_1.png
+size: 2048,1996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_mz_zhaci_00
+  rotate: false
+  xy: 1003, 1318
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+effect/atk_mz_zhaci_01
+  rotate: false
+  xy: 1088, 1274
+  size: 118, 120
+  orig: 118, 120
+  offset: 0, 0
+  index: -1
+effect/atk_mz_zhaci_02
+  rotate: false
+  xy: 1918, 1419
+  size: 128, 133
+  orig: 128, 134
+  offset: 0, 1
+  index: -1
+effect/atk_mz_zhaci_04
+  rotate: false
+  xy: 1878, 1188
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: -1
+effect/atk_mz_zhaci_05
+  rotate: false
+  xy: 1310, 1383
+  size: 93, 99
+  orig: 94, 99
+  offset: 1, 0
+  index: -1
+effect/atk_mz_zhaci_07
+  rotate: false
+  xy: 1419, 1910
+  size: 65, 85
+  orig: 66, 86
+  offset: 0, 1
+  index: -1
+effect/atk_mz_zhaci_09
+  rotate: false
+  xy: 871, 1964
+  size: 61, 31
+  orig: 62, 32
+  offset: 1, 0
+  index: -1
+effect/skl3_bz_00
+  rotate: false
+  xy: 357, 56
+  size: 383, 354
+  orig: 383, 354
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_01
+  rotate: 270
+  xy: 3, 219
+  size: 455, 403
+  orig: 456, 404
+  offset: 0, 1
+  index: -1
+effect/skl3_bz_02
+  rotate: false
+  xy: 306, 399
+  size: 482, 364
+  orig: 484, 364
+  offset: 1, 0
+  index: -1
+effect/skl3_bz_04
+  rotate: true
+  xy: 1004, 298
+  size: 547, 505
+  orig: 548, 506
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_06
+  rotate: false
+  xy: 61, 734
+  size: 569, 490
+  orig: 571, 490
+  offset: 1, 0
+  index: -1
+effect/skl3_bz_08
+  rotate: 270
+  xy: 1444, 1408
+  size: 587, 549
+  orig: 588, 549
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_10
+  rotate: 270
+  xy: 871, 1393
+  size: 602, 579
+  orig: 602, 579
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_12
+  rotate: true
+  xy: 1204, 952
+  size: 581, 586
+  orig: 581, 586
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_14
+  rotate: true
+  xy: 632, 753
+  size: 543, 597
+  orig: 543, 598
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_16
+  rotate: true
+  xy: 1449, 500
+  size: 546, 597
+  orig: 546, 597
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_18
+  rotate: true
+  xy: 598, 90
+  size: 544, 588
+  orig: 544, 588
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_20
+  rotate: true
+  xy: 1460, 4
+  size: 411, 586
+  orig: 411, 586
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_22
+  rotate: false
+  xy: 1216, 67
+  size: 339, 230
+  orig: 340, 230
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_24
+  rotate: false
+  xy: 1735, 1313
+  size: 311, 122
+  orig: 312, 123
+  offset: 1, 0
+  index: -1
+effect/skl3_bz_guang
+  rotate: false
+  xy: 871, 1365
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+effect/skl3_ch_guang
+  rotate: false
+  xy: 1763, 1173
+  size: 113, 142
+  orig: 113, 142
+  offset: 0, 0
+  index: -1
+effect/skl3_shanping_23
+  rotate: false
+  xy: 3, 1226
+  size: 434, 769
+  orig: 435, 771
+  offset: 1, 1
+  index: -1
+effect/skl3_shanping_24
+  rotate: false
+  xy: 437, 1226
+  size: 433, 769
+  orig: 435, 771
+  offset: 1, 1
+  index: -1
+effect/skl3_shanping_bai
+  rotate: false
+  xy: 1975, 1918
+  size: 44, 78
+  orig: 46, 80
+  offset: 1, 1
+  index: -1

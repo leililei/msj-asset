@@ -1,0 +1,62 @@
+
+longhun_5661_pm.png
+size: 2023,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/tielian_pm/00
+  rotate: false
+  xy: 1521, 2
+  size: 249, 55
+  orig: 473, 75
+  offset: 0, 10
+  index: -1
+images/effect/tielian_pm/01
+  rotate: false
+  xy: 256, 2
+  size: 251, 55
+  orig: 473, 75
+  offset: 0, 10
+  index: -1
+images/effect/tielian_pm/02
+  rotate: false
+  xy: 509, 2
+  size: 251, 55
+  orig: 473, 75
+  offset: 0, 10
+  index: -1
+images/effect/tielian_pm/03
+  rotate: false
+  xy: 2, 2
+  size: 252, 55
+  orig: 473, 75
+  offset: 0, 10
+  index: -1
+images/effect/tielian_pm/04
+  rotate: false
+  xy: 762, 2
+  size: 251, 55
+  orig: 473, 75
+  offset: 0, 10
+  index: -1
+images/effect/tielian_pm2/00
+  rotate: false
+  xy: 1015, 2
+  size: 251, 55
+  orig: 473, 75
+  offset: 0, 10
+  index: -1
+images/effect/tielian_pm2/03
+  rotate: false
+  xy: 1268, 2
+  size: 251, 55
+  orig: 473, 75
+  offset: 0, 10
+  index: -1
+images/effect/tielian_pm2/04
+  rotate: false
+  xy: 1772, 2
+  size: 249, 55
+  orig: 473, 75
+  offset: 0, 10
+  index: -1

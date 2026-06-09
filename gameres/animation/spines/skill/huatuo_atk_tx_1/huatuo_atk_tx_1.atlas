@@ -1,0 +1,83 @@
+
+huatuo_atk_tx_1.png
+size: 368,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/atk/gx1/gx1_00013
+  rotate: false
+  xy: 173, 277
+  size: 100, 91
+  orig: 113, 109
+  offset: 10, 14
+  index: -1
+images/chutu/atk/gx2/gx2_00013
+  rotate: false
+  xy: 275, 277
+  size: 91, 91
+  orig: 100, 100
+  offset: 5, 4
+  index: -1
+images/chutu/atk/gx3/gx3_00013
+  rotate: false
+  xy: 152, 390
+  size: 45, 44
+  orig: 53, 50
+  offset: 5, 3
+  index: -1
+images/chutu/atk/xg1/xg1_00013
+  rotate: false
+  xy: 108, 392
+  size: 42, 42
+  orig: 44, 43
+  offset: 2, 1
+  index: -1
+images/chutu/atk/xl1/xl1_00001
+  rotate: true
+  xy: 2, 14
+  size: 156, 164
+  orig: 245, 188
+  offset: 17, 11
+  index: -1
+images/chutu/atk/xl1/xl1_00003
+  rotate: false
+  xy: 168, 2
+  size: 190, 145
+  orig: 245, 188
+  offset: 35, 33
+  index: -1
+images/chutu/atk/xl1/xl1_00005
+  rotate: false
+  xy: 179, 149
+  size: 184, 126
+  orig: 245, 188
+  offset: 46, 52
+  index: -1
+images/chutu/atk/xl1/xl1_00007
+  rotate: false
+  xy: 2, 172
+  size: 175, 103
+  orig: 245, 188
+  offset: 57, 68
+  index: -1
+images/chutu/atk/xl1/xl1_00009
+  rotate: false
+  xy: 2, 306
+  size: 169, 82
+  orig: 245, 188
+  offset: 61, 81
+  index: -1
+images/chutu/atk/xl1/xl1_00011
+  rotate: false
+  xy: 199, 370
+  size: 157, 64
+  orig: 245, 188
+  offset: 66, 89
+  index: -1
+images/chutu/atk/xl1/xl1_00013
+  rotate: false
+  xy: 2, 395
+  size: 104, 39
+  orig: 245, 188
+  offset: 107, 100
+  index: -1

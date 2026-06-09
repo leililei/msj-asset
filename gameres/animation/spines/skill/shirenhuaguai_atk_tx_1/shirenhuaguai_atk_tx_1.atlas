@@ -1,0 +1,139 @@
+
+shirenhuaguai_atk_tx_1.png
+size: 1750,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/1bd11/1bd11_0013
+  rotate: true
+  xy: 1623, 28
+  size: 53, 122
+  orig: 174, 215
+  offset: 119, 41
+  index: -1
+chutu/1bd11/1bd11_0015
+  rotate: true
+  xy: 242, 6
+  size: 72, 149
+  orig: 174, 215
+  offset: 94, 29
+  index: -1
+chutu/1bd11/1bd11_0016
+  rotate: true
+  xy: 1049, 2
+  size: 96, 173
+  orig: 174, 215
+  offset: 61, 18
+  index: -1
+chutu/1bd11/1bd11_0018
+  rotate: true
+  xy: 1464, 83
+  size: 103, 188
+  orig: 174, 215
+  offset: 37, 12
+  index: -1
+chutu/1bd11/1bd11_0019
+  rotate: true
+  xy: 735, 2
+  size: 92, 202
+  orig: 174, 215
+  offset: 14, 4
+  index: -1
+chutu/1yw/1yw_0013
+  rotate: false
+  xy: 512, 21
+  size: 112, 32
+  orig: 239, 96
+  offset: 114, 14
+  index: -1
+chutu/1yw/1yw_0014
+  rotate: false
+  xy: 1453, 27
+  size: 168, 54
+  orig: 239, 96
+  offset: 58, 11
+  index: -1
+chutu/1yw/1yw_0016
+  rotate: false
+  xy: 1262, 105
+  size: 200, 81
+  orig: 239, 96
+  offset: 22, 7
+  index: -1
+chutu/1yw/1yw_0018
+  rotate: false
+  xy: 1049, 100
+  size: 211, 86
+  orig: 239, 96
+  offset: 14, 7
+  index: -1
+chutu/1yw/1yw_0020
+  rotate: false
+  xy: 1298, 13
+  size: 153, 90
+  orig: 239, 96
+  offset: 9, 5
+  index: -1
+chutu/1yw/1yw_0022
+  rotate: false
+  xy: 939, 2
+  size: 104, 92
+  orig: 239, 96
+  offset: 4, 2
+  index: -1
+chutu/1yw/1yw_0024
+  rotate: true
+  xy: 1224, 2
+  size: 96, 72
+  orig: 239, 96
+  offset: 1, 1
+  index: -1
+chutu/1yw/1yw_0025
+  rotate: false
+  xy: 1654, 114
+  size: 94, 72
+  orig: 239, 96
+  offset: 1, 1
+  index: -1
+chutu/2ci1/2ci1_0013
+  rotate: false
+  xy: 397, 55
+  size: 336, 131
+  orig: 453, 161
+  offset: 81, 14
+  index: -1
+chutu/2ci1/2ci1_0014
+  rotate: false
+  xy: 2, 80
+  size: 393, 106
+  orig: 453, 161
+  offset: 30, 25
+  index: -1
+chutu/2ci1/2ci1_0015
+  rotate: false
+  xy: 735, 96
+  size: 312, 90
+  orig: 453, 161
+  offset: 117, 33
+  index: -1
+chutu/2ci1/2ci1_0016
+  rotate: false
+  xy: 2, 9
+  size: 238, 69
+  orig: 453, 161
+  offset: 194, 42
+  index: -1
+chutu/2ci2/2ci2_0013
+  rotate: false
+  xy: 393, 9
+  size: 117, 44
+  orig: 140, 53
+  offset: 4, 3
+  index: -1
+chutu/2ci2/2ci2_0014
+  rotate: false
+  xy: 626, 13
+  size: 96, 40
+  orig: 140, 53
+  offset: 39, 10
+  index: -1

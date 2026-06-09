@@ -1,0 +1,125 @@
+
+W_huang.png
+size: 1955,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguangdi3
+  rotate: true
+  xy: 708, 32
+  size: 314, 310
+  orig: 314, 310
+  offset: 0, 0
+  index: -1
+huangdi1
+  rotate: false
+  xy: 355, 20
+  size: 351, 326
+  orig: 351, 326
+  offset: 0, 0
+  index: -1
+huangdi2
+  rotate: false
+  xy: 2, 16
+  size: 351, 330
+  orig: 351, 330
+  offset: 0, 0
+  index: -1
+huangdi3
+  rotate: false
+  xy: 1020, 150
+  size: 345, 196
+  orig: 345, 196
+  offset: 0, 0
+  index: -1
+huangiqiu_11
+  rotate: true
+  xy: 1734, 99
+  size: 247, 219
+  orig: 247, 219
+  offset: 0, 0
+  index: -1
+huangiqiu_12
+  rotate: true
+  xy: 1367, 155
+  size: 191, 185
+  orig: 191, 185
+  offset: 0, 0
+  index: -1
+huangiqiu_13
+  rotate: true
+  xy: 1397, 22
+  size: 131, 123
+  orig: 131, 123
+  offset: 0, 0
+  index: -1
+huangiqiu_14
+  rotate: true
+  xy: 1640, 94
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+huangiqiu_2
+  rotate: false
+  xy: 1020, 15
+  size: 220, 133
+  orig: 220, 133
+  offset: 0, 0
+  index: -1
+huangiqiu_3
+  rotate: true
+  xy: 1522, 29
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+huangiqiu_9
+  rotate: true
+  xy: 1554, 166
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+huangqiu_1
+  rotate: true
+  xy: 1242, 38
+  size: 110, 153
+  orig: 110, 153
+  offset: 0, 0
+  index: -1
+huangqiu_4
+  rotate: false
+  xy: 28, 4
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+huangqiu_5
+  rotate: true
+  xy: 2, 3
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+huangqiu_6
+  rotate: false
+  xy: 37, 7
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+huangqiu_7
+  rotate: true
+  xy: 17, 2
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+huangqiu_8
+  rotate: false
+  xy: 1731, 29
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1

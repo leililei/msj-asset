@@ -1,0 +1,90 @@
+
+sunjian_skill_buff_1.png
+size: 1695,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/cc_huzhao_00000
+  rotate: true
+  xy: 144, 2
+  size: 151, 139
+  orig: 174, 174
+  offset: 12, 22
+  index: -1
+chutu/skill/cc_huzhao_00002
+  rotate: true
+  xy: 285, 2
+  size: 151, 139
+  orig: 174, 174
+  offset: 12, 22
+  index: -1
+chutu/skill/cc_huzhao_00004
+  rotate: true
+  xy: 426, 2
+  size: 151, 139
+  orig: 174, 174
+  offset: 12, 22
+  index: -1
+chutu/skill/cc_huzhao_00006
+  rotate: true
+  xy: 567, 2
+  size: 151, 139
+  orig: 174, 174
+  offset: 12, 22
+  index: -1
+chutu/skill/cc_huzhao_00008
+  rotate: true
+  xy: 708, 2
+  size: 151, 139
+  orig: 174, 174
+  offset: 12, 22
+  index: -1
+chutu/skill/cc_huzhao_00010
+  rotate: true
+  xy: 849, 2
+  size: 151, 139
+  orig: 174, 174
+  offset: 12, 22
+  index: -1
+chutu/skill/cc_huzhao_00012
+  rotate: true
+  xy: 990, 2
+  size: 151, 139
+  orig: 174, 174
+  offset: 12, 22
+  index: -1
+chutu/skill/cc_huzhao_00014
+  rotate: true
+  xy: 1131, 2
+  size: 151, 139
+  orig: 174, 174
+  offset: 12, 22
+  index: -1
+chutu/skill/cc_huzhao_00016
+  rotate: true
+  xy: 2, 2
+  size: 151, 140
+  orig: 174, 174
+  offset: 12, 21
+  index: -1
+chutu/skill/cc_huzhao_00018
+  rotate: true
+  xy: 1272, 2
+  size: 151, 139
+  orig: 174, 174
+  offset: 12, 22
+  index: -1
+chutu/skill/cc_huzhao_00020
+  rotate: true
+  xy: 1413, 2
+  size: 151, 139
+  orig: 174, 174
+  offset: 12, 22
+  index: -1
+chutu/skill/cc_huzhao_00022
+  rotate: true
+  xy: 1554, 2
+  size: 151, 139
+  orig: 174, 174
+  offset: 12, 22
+  index: -1

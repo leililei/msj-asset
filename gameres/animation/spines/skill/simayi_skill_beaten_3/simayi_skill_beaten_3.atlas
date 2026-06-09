@@ -1,0 +1,146 @@
+
+simayi_skill_beaten_3.png
+size: 821,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_mz01_00
+  rotate: true
+  xy: 2, 43
+  size: 160, 162
+  orig: 168, 168
+  offset: 4, 3
+  index: -1
+attack_mz02_00
+  rotate: false
+  xy: 584, 15
+  size: 87, 82
+  orig: 106, 108
+  offset: 16, 24
+  index: -1
+attack_mz02_01
+  rotate: true
+  xy: 720, 67
+  size: 136, 99
+  orig: 144, 103
+  offset: 4, 2
+  index: -1
+attack_mz02_03
+  rotate: false
+  xy: 444, 81
+  size: 138, 122
+  orig: 148, 126
+  offset: 5, 2
+  index: -1
+attack_mz02_05
+  rotate: false
+  xy: 303, 80
+  size: 139, 123
+  orig: 149, 129
+  offset: 5, 3
+  index: -1
+attack_mz02_07
+  rotate: false
+  xy: 166, 77
+  size: 135, 126
+  orig: 141, 132
+  offset: 3, 3
+  index: -1
+attack_mz02_09
+  rotate: false
+  xy: 584, 99
+  size: 134, 104
+  orig: 142, 134
+  offset: 4, 15
+  index: -1
+attack_mz02_11
+  rotate: true
+  xy: 444, 11
+  size: 68, 71
+  orig: 132, 132
+  offset: 27, 37
+  index: -1
+attack_mz02_13
+  rotate: false
+  xy: 517, 16
+  size: 59, 63
+  orig: 73, 75
+  offset: 4, 8
+  index: -1
+skill_smoke_00
+  rotate: false
+  xy: 718, 16
+  size: 88, 21
+  orig: 92, 25
+  offset: 2, 2
+  index: -1
+skill_smoke_01
+  rotate: true
+  xy: 673, 3
+  size: 94, 24
+  orig: 98, 28
+  offset: 2, 2
+  index: -1
+skill_smoke_02
+  rotate: false
+  xy: 718, 39
+  size: 98, 26
+  orig: 102, 30
+  offset: 2, 2
+  index: -1
+skill_smoke_04
+  rotate: false
+  xy: 166, 44
+  size: 104, 31
+  orig: 108, 35
+  offset: 2, 2
+  index: -1
+skill_smoke_06
+  rotate: false
+  xy: 303, 43
+  size: 110, 35
+  orig: 114, 39
+  offset: 2, 2
+  index: -1
+skill_smoke_08
+  rotate: false
+  xy: 258, 3
+  size: 90, 38
+  orig: 94, 42
+  offset: 2, 2
+  index: -1
+skill_smoke_10
+  rotate: false
+  xy: 2, 2
+  size: 89, 39
+  orig: 93, 43
+  offset: 2, 2
+  index: -1
+skill_smoke_12
+  rotate: false
+  xy: 166, 3
+  size: 90, 39
+  orig: 94, 43
+  offset: 2, 2
+  index: -1
+skill_smoke_14
+  rotate: false
+  xy: 350, 3
+  size: 90, 38
+  orig: 94, 42
+  offset: 2, 2
+  index: -1
+skill_smoke_16
+  rotate: true
+  xy: 699, 8
+  size: 89, 17
+  orig: 93, 21
+  offset: 2, 2
+  index: -1
+skill_smoke_18
+  rotate: false
+  xy: 517, 8
+  size: 17, 6
+  orig: 21, 10
+  offset: 2, 2
+  index: -1

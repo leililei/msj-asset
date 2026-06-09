@@ -1,0 +1,13 @@
+
+maozhu2_atk_zd_4.png
+size: 70,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuci 6
+  rotate: false
+  xy: 0, 0
+  size: 70, 79
+  orig: 72, 80
+  offset: 1, 0
+  index: -1

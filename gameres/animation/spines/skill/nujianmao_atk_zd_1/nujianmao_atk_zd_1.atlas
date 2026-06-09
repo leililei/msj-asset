@@ -1,0 +1,20 @@
+
+nujianmao_atk_zd_1.png
+size: 64,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J_gongjian1_A
+  rotate: false
+  xy: 3, 4
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+S_jiantou_A
+  rotate: false
+  xy: 14, 55
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+longhun1_sh_2.png
+size: 404,2008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill/buff1/buff1_00080
+  rotate: false
+  xy: 3, 1116
+  size: 320, 129
+  orig: 340, 136
+  offset: 9, 2
+  index: -1
+images/chutu/skill/buff1/buff1_00082
+  rotate: false
+  xy: 3, 1379
+  size: 326, 131
+  orig: 340, 136
+  offset: 7, 1
+  index: -1
+images/chutu/skill/buff1/buff1_00084
+  rotate: false
+  xy: 3, 1512
+  size: 330, 130
+  orig: 340, 136
+  offset: 5, 1
+  index: -1
+images/chutu/skill/buff1/buff1_00086
+  rotate: false
+  xy: 3, 986
+  size: 321, 128
+  orig: 340, 136
+  offset: 10, 3
+  index: -1
+images/chutu/skill/buff1/buff1_00088
+  rotate: false
+  xy: 3, 1247
+  size: 323, 130
+  orig: 340, 136
+  offset: 9, 3
+  index: -1
+images/chutu/skill/buff1/buff1_00090
+  rotate: false
+  xy: 3, 1644
+  size: 327, 132
+  orig: 340, 136
+  offset: 6, 1
+  index: -1
+images/chutu/skill/buff1/buff1_00092
+  rotate: false
+  xy: 3, 857
+  size: 314, 127
+  orig: 340, 136
+  offset: 15, 6
+  index: -1
+images/chutu/skill/buff1/buff1_00094
+  rotate: false
+  xy: 3, 731
+  size: 315, 124
+  orig: 340, 136
+  offset: 14, 5
+  index: -1
+images/chutu/skill/buff1/buff1_00096
+  rotate: false
+  xy: 3, 603
+  size: 305, 126
+  orig: 340, 136
+  offset: 12, 4
+  index: -1
+images/chutu/skill/buff1/buff1_00098
+  rotate: false
+  xy: 3, 476
+  size: 297, 125
+  orig: 340, 136
+  offset: 11, 3
+  index: -1
+images/chutu/skill/buff1/buff1_00100
+  rotate: false
+  xy: 3, 3
+  size: 277, 121
+  orig: 340, 136
+  offset: 31, 7
+  index: -1
+images/chutu/skill/buff1/buff1_00102
+  rotate: true
+  xy: 211, 190
+  size: 284, 118
+  orig: 340, 136
+  offset: 25, 9
+  index: -1
+images/chutu/skill/gx8/gx8_00000
+  rotate: true
+  xy: 278, 1842
+  size: 163, 123
+  orig: 181, 220
+  offset: 9, 3
+  index: -1
+images/chutu/skill/gx8/gx8_00001
+  rotate: true
+  xy: 3, 126
+  size: 171, 200
+  orig: 181, 220
+  offset: 5, 3
+  index: -1
+images/chutu/skill/gx8/gx8_00002
+  rotate: true
+  xy: 3, 299
+  size: 175, 206
+  orig: 181, 220
+  offset: 3, 3
+  index: -1
+images/chutu/skill/gx9/gx9_00007
+  rotate: false
+  xy: 3, 1778
+  size: 273, 227
+  orig: 324, 308
+  offset: 19, 42
+  index: -1

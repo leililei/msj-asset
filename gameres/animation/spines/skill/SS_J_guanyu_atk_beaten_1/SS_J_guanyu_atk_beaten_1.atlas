@@ -1,0 +1,83 @@
+
+SS_J_guanyu_atk_beaten_1.png
+size: 1534,802
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/a2/a2_13
+  rotate: true
+  xy: 2, 11
+  size: 363, 361
+  orig: 453, 445
+  offset: 42, 37
+  index: -1
+chutu/attack/a2/a2_14
+  rotate: false
+  xy: 2, 376
+  size: 402, 424
+  orig: 453, 445
+  offset: 34, 0
+  index: -1
+chutu/attack/a2/a2_15
+  rotate: true
+  xy: 751, 5
+  size: 385, 407
+  orig: 453, 445
+  offset: 41, 0
+  index: -1
+chutu/attack/a2/a2_16
+  rotate: false
+  xy: 810, 395
+  size: 391, 405
+  orig: 453, 445
+  offset: 29, 0
+  index: -1
+chutu/attack/a2/a2_18
+  rotate: true
+  xy: 406, 392
+  size: 408, 402
+  orig: 453, 445
+  offset: 10, 0
+  index: -1
+chutu/attack/a2/a2_20
+  rotate: true
+  xy: 365, 22
+  size: 352, 384
+  orig: 453, 445
+  offset: 37, 0
+  index: -1
+chutu/attack/a2/a2_22
+  rotate: false
+  xy: 1203, 456
+  size: 329, 344
+  orig: 453, 445
+  offset: 36, 17
+  index: -1
+chutu/attack/a2/a2_24
+  rotate: false
+  xy: 1203, 225
+  size: 249, 229
+  orig: 453, 445
+  offset: 60, 86
+  index: -1
+chutu/attack/a2/a2_26
+  rotate: true
+  xy: 1160, 19
+  size: 204, 197
+  orig: 453, 445
+  offset: 61, 115
+  index: -1
+chutu/attack/a2/a2_28
+  rotate: false
+  xy: 1454, 331
+  size: 66, 123
+  orig: 453, 445
+  offset: 192, 186
+  index: -1
+chutu/attack/a2/a2_30
+  rotate: true
+  xy: 365, 2
+  size: 18, 59
+  orig: 453, 445
+  offset: 227, 248
+  index: -1

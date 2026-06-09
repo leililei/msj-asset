@@ -1,0 +1,174 @@
+
+Effect_wpk2_caise.png
+size: 1374,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caise/caise_0001
+  rotate: true
+  xy: 354, 134
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 3
+  index: -1
+caise/caise_0002
+  rotate: true
+  xy: 456, 134
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 3
+  index: -1
+caise/caise_0003
+  rotate: true
+  xy: 558, 134
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 3
+  index: -1
+caise/caise_0004
+  rotate: true
+  xy: 660, 134
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 3
+  index: -1
+caise/caise_0005
+  rotate: true
+  xy: 762, 134
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 3
+  index: -1
+caise/caise_0006
+  rotate: true
+  xy: 864, 134
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 3
+  index: -1
+caise/caise_0007
+  rotate: true
+  xy: 966, 134
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 3
+  index: -1
+caise/caise_0008
+  rotate: true
+  xy: 1068, 134
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 3
+  index: -1
+caise/caise_0009
+  rotate: false
+  xy: 1170, 134
+  size: 99, 99
+  orig: 103, 105
+  offset: 2, 3
+  index: -1
+caise/caise_0010
+  rotate: true
+  xy: 48, 135
+  size: 98, 99
+  orig: 103, 105
+  offset: 3, 3
+  index: -1
+caise/caise_0011
+  rotate: true
+  xy: 149, 135
+  size: 98, 100
+  orig: 103, 105
+  offset: 3, 3
+  index: -1
+caise/caise_0012
+  rotate: true
+  xy: 251, 135
+  size: 98, 101
+  orig: 103, 105
+  offset: 3, 2
+  index: -1
+caise/caise_0013
+  rotate: true
+  xy: 1271, 134
+  size: 99, 101
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+caise/caise_0014
+  rotate: true
+  xy: 2, 34
+  size: 99, 101
+  orig: 103, 105
+  offset: 2, 2
+  index: -1
+caise/caise_0015
+  rotate: true
+  xy: 105, 34
+  size: 99, 100
+  orig: 103, 105
+  offset: 2, 3
+  index: -1
+caisek/caisek_0001
+  rotate: true
+  xy: 207, 3
+  size: 130, 131
+  orig: 144, 146
+  offset: 7, 7
+  index: -1
+caisek/caisek_0003
+  rotate: true
+  xy: 340, 2
+  size: 130, 131
+  orig: 144, 146
+  offset: 7, 7
+  index: -1
+caisek/caisek_0005
+  rotate: true
+  xy: 473, 2
+  size: 130, 131
+  orig: 144, 146
+  offset: 7, 7
+  index: -1
+caisek/caisek_0007
+  rotate: false
+  xy: 606, 2
+  size: 130, 130
+  orig: 144, 146
+  offset: 7, 8
+  index: -1
+caisek/caisek_0009
+  rotate: false
+  xy: 738, 2
+  size: 130, 130
+  orig: 144, 146
+  offset: 7, 8
+  index: -1
+caisek/caisek_0011
+  rotate: false
+  xy: 870, 2
+  size: 130, 130
+  orig: 144, 146
+  offset: 7, 8
+  index: -1
+caisek/caisek_0013
+  rotate: false
+  xy: 1002, 2
+  size: 130, 130
+  orig: 144, 146
+  offset: 7, 8
+  index: -1
+caisek/caisek_0015
+  rotate: false
+  xy: 1134, 2
+  size: 130, 130
+  orig: 144, 146
+  offset: 7, 8
+  index: -1
+lz4_00000
+  rotate: false
+  xy: 2, 190
+  size: 44, 43
+  orig: 55, 55
+  offset: 6, 6
+  index: -1

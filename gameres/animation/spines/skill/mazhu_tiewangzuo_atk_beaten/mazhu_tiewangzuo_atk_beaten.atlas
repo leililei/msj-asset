@@ -1,0 +1,139 @@
+
+mazhu_tiewangzuo_atk_beaten.png
+size: 473,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/baozha/baozha_00022
+  rotate: true
+  xy: 218, 250
+  size: 167, 176
+  orig: 259, 271
+  offset: 47, 55
+  index: -1
+atk/baozha/baozha_00023
+  rotate: true
+  xy: 2, 393
+  size: 196, 214
+  orig: 259, 271
+  offset: 24, 32
+  index: -1
+atk/baozha/baozha_00024
+  rotate: true
+  xy: 244, 419
+  size: 220, 226
+  orig: 259, 271
+  offset: 15, 26
+  index: -1
+atk/baozha/baozha_00026
+  rotate: true
+  xy: 2, 591
+  size: 219, 240
+  orig: 259, 271
+  offset: 13, 20
+  index: -1
+atk/baozha/baozha_00028
+  rotate: true
+  xy: 2, 812
+  size: 217, 244
+  orig: 259, 271
+  offset: 13, 17
+  index: -1
+atk/baozha/baozha_00030
+  rotate: true
+  xy: 248, 641
+  size: 193, 221
+  orig: 259, 271
+  offset: 38, 41
+  index: -1
+atk/baozha/baozha_00032
+  rotate: true
+  xy: 248, 836
+  size: 193, 222
+  orig: 259, 271
+  offset: 39, 40
+  index: -1
+atk/baozha/baozha_00034
+  rotate: false
+  xy: 125, 10
+  size: 119, 125
+  orig: 259, 271
+  offset: 77, 105
+  index: -1
+atk/baozha/baozha_00036
+  rotate: true
+  xy: 342, 121
+  size: 99, 121
+  orig: 259, 271
+  offset: 96, 109
+  index: -1
+atk/baozha/baozha_00038
+  rotate: true
+  xy: 246, 43
+  size: 96, 94
+  orig: 259, 271
+  offset: 95, 113
+  index: -1
+atk/yan2/yan2_00022
+  rotate: true
+  xy: 131, 141
+  size: 107, 104
+  orig: 144, 157
+  offset: 21, 29
+  index: -1
+atk/yan2/yan2_00023
+  rotate: true
+  xy: 342, 2
+  size: 117, 119
+  orig: 144, 157
+  offset: 14, 18
+  index: -1
+atk/yan2/yan2_00024
+  rotate: true
+  xy: 2, 137
+  size: 125, 127
+  orig: 144, 157
+  offset: 9, 15
+  index: -1
+atk/yan2/yan2_00026
+  rotate: true
+  xy: 2, 264
+  size: 127, 133
+  orig: 144, 157
+  offset: 8, 12
+  index: -1
+atk/yan2/yan2_00028
+  rotate: false
+  xy: 2, 9
+  size: 121, 126
+  orig: 144, 157
+  offset: 12, 17
+  index: -1
+atk/yan2/yan2_00030
+  rotate: true
+  xy: 237, 141
+  size: 107, 103
+  orig: 144, 157
+  offset: 20, 34
+  index: -1
+atk/yan2/yan2_00032
+  rotate: false
+  xy: 396, 347
+  size: 75, 70
+  orig: 144, 157
+  offset: 37, 53
+  index: -1
+atk/yan2/yan2_00034
+  rotate: false
+  xy: 396, 280
+  size: 72, 65
+  orig: 144, 157
+  offset: 40, 56
+  index: -1
+atk/yan2/yan2_00036
+  rotate: false
+  xy: 396, 222
+  size: 57, 56
+  orig: 144, 157
+  offset: 55, 63
+  index: -1

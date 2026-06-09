@@ -1,0 +1,13 @@
+
+maozhu3_atk_zd_1.png
+size: 129,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapons1
+  rotate: false
+  xy: 2, 2
+  size: 125, 134
+  orig: 125, 146
+  offset: 0, 6
+  index: -1

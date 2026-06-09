@@ -1,0 +1,153 @@
+
+huangyueying_atk_tx_1.png
+size: 456,1029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/atk/b1/b1_16
+  rotate: false
+  xy: 381, 70
+  size: 53, 75
+  orig: 132, 243
+  offset: 48, 79
+  index: -1
+chutu/atk/b1/b1_17
+  rotate: true
+  xy: 199, 147
+  size: 81, 192
+  orig: 132, 243
+  offset: 30, 16
+  index: -1
+chutu/atk/b1/b1_18
+  rotate: true
+  xy: 258, 919
+  size: 108, 188
+  orig: 132, 243
+  offset: 14, 24
+  index: -1
+chutu/atk/b1/b1_19
+  rotate: true
+  xy: 229, 448
+  size: 117, 207
+  orig: 132, 243
+  offset: 8, 17
+  index: -1
+chutu/atk/b1/b1_20
+  rotate: true
+  xy: 230, 677
+  size: 120, 223
+  orig: 132, 243
+  offset: 6, 9
+  index: -1
+chutu/atk/b1/b1_21
+  rotate: false
+  xy: 110, 431
+  size: 117, 226
+  orig: 132, 243
+  offset: 9, 8
+  index: -1
+chutu/atk/b1/b1_22
+  rotate: true
+  xy: 230, 567
+  size: 108, 218
+  orig: 132, 243
+  offset: 17, 16
+  index: -1
+chutu/atk/b1/b1_23
+  rotate: true
+  xy: 229, 348
+  size: 98, 212
+  orig: 132, 243
+  offset: 22, 19
+  index: -1
+chutu/atk/b1/b1_24
+  rotate: false
+  xy: 291, 2
+  size: 88, 143
+  orig: 132, 243
+  offset: 22, 79
+  index: -1
+chutu/atk/glow1_00
+  rotate: false
+  xy: 404, 313
+  size: 32, 33
+  orig: 36, 37
+  offset: 2, 2
+  index: -1
+chutu/atk/glow2_16
+  rotate: false
+  xy: 2, 22
+  size: 151, 155
+  orig: 164, 164
+  offset: 6, 5
+  index: -1
+chutu/atk/s4/s4_11
+  rotate: true
+  xy: 381, 13
+  size: 55, 51
+  orig: 300, 164
+  offset: 44, 89
+  index: -1
+chutu/atk/s4/s4_12
+  rotate: false
+  xy: 155, 43
+  size: 134, 102
+  orig: 300, 164
+  offset: 21, 41
+  index: -1
+chutu/atk/s4/s4_13
+  rotate: false
+  xy: 199, 230
+  size: 203, 116
+  orig: 300, 164
+  offset: 18, 32
+  index: -1
+chutu/atk/s4/s4_14
+  rotate: false
+  xy: 230, 799
+  size: 224, 115
+  orig: 300, 164
+  offset: 15, 28
+  index: -1
+chutu/atk/s4/s4_16
+  rotate: true
+  xy: 112, 669
+  size: 245, 116
+  orig: 300, 164
+  offset: 16, 21
+  index: -1
+chutu/atk/s4/s4_18
+  rotate: true
+  xy: 2, 659
+  size: 255, 108
+  orig: 300, 164
+  offset: 19, 19
+  index: -1
+chutu/atk/s4/s4_20
+  rotate: false
+  xy: 2, 916
+  size: 254, 111
+  orig: 300, 164
+  offset: 27, 18
+  index: -1
+chutu/atk/s4/s4_22
+  rotate: true
+  xy: 2, 416
+  size: 241, 106
+  orig: 300, 164
+  offset: 42, 20
+  index: -1
+chutu/atk/s4/s4_24
+  rotate: true
+  xy: 2, 179
+  size: 235, 104
+  orig: 300, 164
+  offset: 45, 19
+  index: -1
+chutu/atk/s4/s4_26
+  rotate: true
+  xy: 108, 202
+  size: 212, 89
+  orig: 300, 164
+  offset: 55, 23
+  index: -1

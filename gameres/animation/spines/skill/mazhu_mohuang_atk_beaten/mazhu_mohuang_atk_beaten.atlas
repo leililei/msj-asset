@@ -1,0 +1,195 @@
+
+mazhu_mohuang_atk_beaten.png
+size: 1923,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11/11_021
+  rotate: false
+  xy: 643, 75
+  size: 48, 50
+  orig: 53, 56
+  offset: 3, 3
+  index: -1
+12/12_020
+  rotate: true
+  xy: 186, 12
+  size: 99, 124
+  orig: 163, 185
+  offset: 19, 12
+  index: -1
+12/12_021
+  rotate: true
+  xy: 693, 5
+  size: 136, 161
+  orig: 163, 185
+  offset: 7, 4
+  index: -1
+12/12_023
+  rotate: true
+  xy: 1426, 7
+  size: 155, 170
+  orig: 163, 185
+  offset: 4, 4
+  index: -1
+12/12_025
+  rotate: false
+  xy: 1640, 178
+  size: 129, 181
+  orig: 163, 185
+  offset: 18, 2
+  index: -1
+13/13_020
+  rotate: false
+  xy: 85, 23
+  size: 99, 77
+  orig: 205, 176
+  offset: 58, 48
+  index: -1
+13/13_021
+  rotate: true
+  xy: 1777, 6
+  size: 175, 144
+  orig: 205, 176
+  offset: 15, 13
+  index: -1
+13/13_022
+  rotate: false
+  xy: 856, 2
+  size: 188, 158
+  orig: 205, 176
+  offset: 10, 6
+  index: -1
+13/13_024
+  rotate: true
+  xy: 962, 164
+  size: 195, 167
+  orig: 205, 176
+  offset: 6, 3
+  index: -1
+14/14_020
+  rotate: true
+  xy: 312, 12
+  size: 99, 77
+  orig: 205, 176
+  offset: 58, 48
+  index: -1
+14/14_021
+  rotate: true
+  xy: 1777, 183
+  size: 176, 144
+  orig: 205, 176
+  offset: 14, 13
+  index: -1
+14/14_022
+  rotate: false
+  xy: 1046, 4
+  size: 188, 158
+  orig: 205, 176
+  offset: 10, 6
+  index: -1
+14/14_024
+  rotate: true
+  xy: 1131, 164
+  size: 195, 167
+  orig: 205, 176
+  offset: 6, 3
+  index: -1
+15/15_020
+  rotate: true
+  xy: 564, 26
+  size: 99, 77
+  orig: 205, 176
+  offset: 58, 48
+  index: -1
+15/15_021
+  rotate: false
+  xy: 1598, 27
+  size: 177, 144
+  orig: 205, 176
+  offset: 14, 13
+  index: -1
+15/15_022
+  rotate: false
+  xy: 1236, 4
+  size: 188, 158
+  orig: 205, 176
+  offset: 10, 6
+  index: -1
+15/15_024
+  rotate: true
+  xy: 1300, 164
+  size: 195, 167
+  orig: 205, 176
+  offset: 6, 3
+  index: -1
+16/16_020
+  rotate: true
+  xy: 2, 5
+  size: 95, 81
+  orig: 269, 186
+  offset: 75, 38
+  index: -1
+16/16_021
+  rotate: true
+  xy: 819, 162
+  size: 197, 141
+  orig: 269, 186
+  offset: 28, 14
+  index: -1
+16/16_022
+  rotate: true
+  xy: 666, 143
+  size: 216, 151
+  orig: 269, 186
+  offset: 20, 13
+  index: -1
+16/16_023
+  rotate: true
+  xy: 506, 127
+  size: 232, 158
+  orig: 269, 186
+  offset: 13, 13
+  index: -1
+16/16_024
+  rotate: true
+  xy: 343, 119
+  size: 240, 161
+  orig: 269, 186
+  offset: 11, 12
+  index: -1
+16/16_025
+  rotate: true
+  xy: 174, 113
+  size: 246, 167
+  orig: 269, 186
+  offset: 10, 10
+  index: -1
+16/16_027
+  rotate: true
+  xy: 2, 102
+  size: 257, 170
+  orig: 269, 186
+  offset: 4, 12
+  index: -1
+16/16_029
+  rotate: true
+  xy: 1469, 173
+  size: 186, 169
+  orig: 269, 186
+  offset: 75, 12
+  index: -1
+16/16_031
+  rotate: true
+  xy: 391, 3
+  size: 114, 171
+  orig: 269, 186
+  offset: 83, 13
+  index: -1
+17/17_020
+  rotate: false
+  xy: 643, 23
+  size: 48, 50
+  orig: 54, 58
+  offset: 3, 4
+  index: -1

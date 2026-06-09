@@ -1,0 +1,34 @@
+
+p_liubei_skill_2.png
+size: 711,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill/gx2/gx2_00006
+  rotate: false
+  xy: 2, 2
+  size: 241, 241
+  orig: 245, 246
+  offset: 3, 4
+  index: -1
+images/chutu/skill/xl3/xl3_00004
+  rotate: true
+  xy: 245, 25
+  size: 218, 155
+  orig: 230, 177
+  offset: 12, 13
+  index: -1
+images/chutu/skill/xl3/xl3_00008
+  rotate: true
+  xy: 559, 35
+  size: 208, 150
+  orig: 230, 177
+  offset: 22, 12
+  index: -1
+images/chutu/skill/xl3/xl3_00009
+  rotate: true
+  xy: 402, 26
+  size: 217, 155
+  orig: 230, 177
+  offset: 13, 12
+  index: -1

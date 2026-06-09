@@ -1,0 +1,118 @@
+
+liushan_atk_zd_1.png
+size: 1730,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/7dd1/7dd1_0020
+  rotate: true
+  xy: 1575, 71
+  size: 36, 35
+  orig: 38, 39
+  offset: 1, 2
+  index: -1
+chutu/attack/7dd2/7dd2_0000
+  rotate: false
+  xy: 910, 7
+  size: 203, 85
+  orig: 264, 123
+  offset: 46, 20
+  index: -1
+chutu/attack/7dd2/7dd2_0002
+  rotate: false
+  xy: 881, 94
+  size: 205, 94
+  orig: 264, 123
+  offset: 44, 9
+  index: -1
+chutu/attack/7dd2/7dd2_0004
+  rotate: false
+  xy: 1088, 94
+  size: 205, 94
+  orig: 264, 123
+  offset: 44, 9
+  index: -1
+chutu/attack/7dd2/7dd2_0006
+  rotate: false
+  xy: 243, 2
+  size: 213, 87
+  orig: 264, 123
+  offset: 36, 14
+  index: -1
+chutu/attack/7dd2/7dd2_0008
+  rotate: false
+  xy: 1519, 109
+  size: 209, 79
+  orig: 264, 123
+  offset: 40, 19
+  index: -1
+chutu/attack/7dd2/7dd2_0010
+  rotate: false
+  xy: 1115, 13
+  size: 211, 79
+  orig: 264, 123
+  offset: 38, 19
+  index: -1
+chutu/attack/7dd2/7dd2_0012
+  rotate: false
+  xy: 458, 3
+  size: 214, 88
+  orig: 264, 123
+  offset: 35, 12
+  index: -1
+chutu/attack/7dd2/7dd2_0014
+  rotate: false
+  xy: 2, 88
+  size: 213, 100
+  orig: 264, 123
+  offset: 36, 8
+  index: -1
+chutu/attack/7dd2/7dd2_0016
+  rotate: false
+  xy: 446, 93
+  size: 214, 95
+  orig: 264, 123
+  offset: 35, 13
+  index: -1
+chutu/attack/7dd2/7dd2_0018
+  rotate: false
+  xy: 662, 94
+  size: 217, 94
+  orig: 264, 123
+  offset: 32, 14
+  index: -1
+chutu/attack/7dd2/7dd2_0020
+  rotate: false
+  xy: 1295, 96
+  size: 222, 92
+  orig: 264, 123
+  offset: 27, 16
+  index: -1
+chutu/attack/7dd2/7dd2_0022
+  rotate: false
+  xy: 217, 91
+  size: 227, 97
+  orig: 264, 123
+  offset: 22, 11
+  index: -1
+chutu/attack/7dd2/7dd2_0024
+  rotate: false
+  xy: 674, 7
+  size: 234, 85
+  orig: 264, 123
+  offset: 15, 16
+  index: -1
+chutu/attack/7dd2/7dd2_0026
+  rotate: false
+  xy: 2, 7
+  size: 239, 79
+  orig: 264, 123
+  offset: 10, 19
+  index: -1
+chutu/attack/7dd2/7dd2_0028
+  rotate: false
+  xy: 1328, 16
+  size: 245, 78
+  orig: 264, 123
+  offset: 4, 20
+  index: -1

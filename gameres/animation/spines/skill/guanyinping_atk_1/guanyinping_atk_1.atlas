@@ -1,0 +1,55 @@
+
+guanyinping_atk_1.png
+size: 318,614
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_dg_00
+  rotate: false
+  xy: 2, 111
+  size: 308, 105
+  orig: 308, 105
+  offset: 0, 0
+  index: -1
+effect/atk_dg_01
+  rotate: false
+  xy: 2, 218
+  size: 314, 102
+  orig: 314, 102
+  offset: 0, 0
+  index: -1
+effect/atk_dg_02
+  rotate: false
+  xy: 2, 2
+  size: 310, 107
+  orig: 310, 107
+  offset: 0, 0
+  index: -1
+effect/atk_dg_03
+  rotate: false
+  xy: 2, 322
+  size: 288, 98
+  orig: 288, 98
+  offset: 0, 0
+  index: -1
+effect/atk_dg_05
+  rotate: false
+  xy: 2, 422
+  size: 269, 97
+  orig: 269, 97
+  offset: 0, 0
+  index: -1
+effect/atk_dg_07
+  rotate: false
+  xy: 127, 521
+  size: 182, 91
+  orig: 182, 91
+  offset: 0, 0
+  index: -1
+effect/atk_dg_09
+  rotate: false
+  xy: 2, 548
+  size: 123, 64
+  orig: 123, 64
+  offset: 0, 0
+  index: -1

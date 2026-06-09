@@ -1,0 +1,41 @@
+
+mazhu_wukong_attack_dd.png
+size: 324,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack/dd/00
+  rotate: true
+  xy: 216, 39
+  size: 121, 52
+  orig: 174, 93
+  offset: 29, 20
+  index: -1
+effect/attack/dd/01
+  rotate: false
+  xy: 3, 3
+  size: 151, 74
+  orig: 174, 93
+  offset: 13, 9
+  index: -1
+effect/attack/dd/02
+  rotate: true
+  xy: 163, 29
+  size: 131, 51
+  orig: 174, 93
+  offset: 19, 21
+  index: -1
+effect/attack/dd/03
+  rotate: false
+  xy: 3, 79
+  size: 158, 81
+  orig: 174, 93
+  offset: 6, 10
+  index: -1
+effect/attack/dd/04
+  rotate: true
+  xy: 270, 39
+  size: 121, 52
+  orig: 174, 93
+  offset: 29, 20
+  index: -1

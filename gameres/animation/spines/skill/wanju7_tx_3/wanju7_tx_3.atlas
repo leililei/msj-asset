@@ -1,0 +1,223 @@
+
+wanju7_tx_3.png
+size: 1928,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/wanju7_tx_3/wanju7_tx_3_01
+  rotate: false
+  xy: 1309, 1907
+  size: 105, 46
+  orig: 432, 375
+  offset: 163, 162
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_03
+  rotate: false
+  xy: 1583, 1835
+  size: 341, 209
+  orig: 432, 375
+  offset: 43, 81
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_05
+  rotate: true
+  xy: 1579, 876
+  size: 432, 231
+  orig: 432, 375
+  offset: 0, 75
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_07
+  rotate: true
+  xy: 1480, 4
+  size: 432, 263
+  orig: 432, 375
+  offset: 0, 63
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_09
+  rotate: true
+  xy: 750, 304
+  size: 432, 290
+  orig: 432, 375
+  offset: 0, 51
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_11
+  rotate: false
+  xy: 440, 4
+  size: 432, 296
+  orig: 432, 375
+  offset: 0, 47
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_13
+  rotate: true
+  xy: 440, 304
+  size: 432, 303
+  orig: 432, 375
+  offset: 0, 42
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_15
+  rotate: true
+  xy: 440, 740
+  size: 432, 306
+  orig: 432, 375
+  offset: 0, 39
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_17
+  rotate: true
+  xy: 440, 1176
+  size: 432, 312
+  orig: 432, 375
+  offset: 0, 35
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_19
+  rotate: false
+  xy: 4, 26
+  size: 432, 318
+  orig: 432, 375
+  offset: 0, 30
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_21
+  rotate: false
+  xy: 4, 348
+  size: 432, 325
+  orig: 432, 375
+  offset: 0, 26
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_23
+  rotate: false
+  xy: 4, 677
+  size: 432, 332
+  orig: 432, 375
+  offset: 0, 22
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_25
+  rotate: false
+  xy: 4, 1352
+  size: 432, 340
+  orig: 432, 375
+  offset: 0, 18
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_27
+  rotate: false
+  xy: 4, 1696
+  size: 432, 348
+  orig: 432, 375
+  offset: 0, 14
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_29
+  rotate: false
+  xy: 4, 1013
+  size: 432, 335
+  orig: 432, 375
+  offset: 0, 21
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_31
+  rotate: true
+  xy: 440, 1612
+  size: 432, 316
+  orig: 432, 375
+  offset: 0, 34
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_33
+  rotate: true
+  xy: 1031, 1176
+  size: 432, 270
+  orig: 432, 375
+  offset: 0, 75
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_35
+  rotate: true
+  xy: 1035, 1612
+  size: 432, 270
+  orig: 432, 375
+  offset: 0, 74
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_37
+  rotate: false
+  xy: 876, 30
+  size: 432, 270
+  orig: 432, 375
+  offset: 0, 75
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_39
+  rotate: true
+  xy: 750, 740
+  size: 432, 271
+  orig: 432, 375
+  offset: 0, 75
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_41
+  rotate: false
+  xy: 1044, 304
+  size: 432, 270
+  orig: 432, 375
+  offset: 0, 76
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_43
+  rotate: true
+  xy: 1300, 578
+  size: 432, 270
+  orig: 432, 375
+  offset: 0, 77
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_44
+  rotate: true
+  xy: 1305, 1014
+  size: 432, 270
+  orig: 432, 375
+  offset: 0, 77
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_45
+  rotate: true
+  xy: 756, 1176
+  size: 432, 271
+  orig: 432, 375
+  offset: 0, 77
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_47
+  rotate: true
+  xy: 1309, 1450
+  size: 432, 270
+  orig: 432, 375
+  offset: 0, 80
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_49
+  rotate: true
+  xy: 760, 1612
+  size: 432, 271
+  orig: 432, 375
+  offset: 0, 82
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_51
+  rotate: true
+  xy: 1025, 740
+  size: 432, 271
+  orig: 432, 375
+  offset: 0, 82
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_53
+  rotate: true
+  xy: 1574, 440
+  size: 432, 238
+  orig: 432, 375
+  offset: 0, 82
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_55
+  rotate: true
+  xy: 1583, 1312
+  size: 424, 216
+  orig: 432, 375
+  offset: 8, 82
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_57
+  rotate: true
+  xy: 1747, 27
+  size: 409, 170
+  orig: 432, 375
+  offset: 18, 89
+  index: -1
+effect/wanju7_tx_3/wanju7_tx_3_59
+  rotate: false
+  xy: 1309, 1957
+  size: 200, 87
+  orig: 432, 375
+  offset: 116, 136
+  index: -1

@@ -1,0 +1,139 @@
+
+longhun_5661_shifa_2.png
+size: 257,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/sf2/00
+  rotate: false
+  xy: 2, 249
+  size: 131, 99
+  orig: 157, 207
+  offset: 11, 45
+  index: -1
+images/effect/sf2/02
+  rotate: false
+  xy: 2, 46
+  size: 129, 99
+  orig: 157, 207
+  offset: 12, 46
+  index: -1
+images/effect/sf2/04
+  rotate: false
+  xy: 2, 147
+  size: 130, 100
+  orig: 157, 207
+  offset: 11, 45
+  index: -1
+images/effect/sf2/06
+  rotate: true
+  xy: 163, 456
+  size: 131, 84
+  orig: 157, 207
+  offset: 10, 45
+  index: -1
+images/effect/sf2/08
+  rotate: true
+  xy: 167, 589
+  size: 123, 88
+  orig: 157, 207
+  offset: 16, 47
+  index: -1
+images/effect/sf2/10
+  rotate: false
+  xy: 135, 248
+  size: 120, 94
+  orig: 157, 207
+  offset: 15, 46
+  index: -1
+images/effect/sf2/12
+  rotate: false
+  xy: 134, 146
+  size: 119, 100
+  orig: 157, 207
+  offset: 13, 45
+  index: -1
+images/effect/sf2/14
+  rotate: true
+  xy: 149, 344
+  size: 110, 103
+  orig: 157, 207
+  offset: 22, 46
+  index: -1
+images/effect/sf2/16
+  rotate: false
+  xy: 133, 44
+  size: 113, 100
+  orig: 157, 207
+  offset: 19, 48
+  index: -1
+images/effect/sf2/18
+  rotate: false
+  xy: 2, 2
+  size: 108, 42
+  orig: 157, 207
+  offset: 22, 50
+  index: -1
+images/effect/sf3/00
+  rotate: false
+  xy: 2, 910
+  size: 165, 128
+  orig: 205, 164
+  offset: 20, 18
+  index: -1
+images/effect/sf3/01
+  rotate: false
+  xy: 2, 706
+  size: 163, 128
+  orig: 205, 164
+  offset: 21, 18
+  index: -1
+images/effect/sf3/02
+  rotate: false
+  xy: 2, 518
+  size: 159, 128
+  orig: 205, 164
+  offset: 23, 18
+  index: -1
+images/effect/sf3/03
+  rotate: false
+  xy: 2, 350
+  size: 145, 118
+  orig: 205, 164
+  offset: 30, 23
+  index: -1
+images/effect/sf3/04
+  rotate: true
+  xy: 169, 714
+  size: 159, 84
+  orig: 205, 164
+  offset: 23, 40
+  index: -1
+images/effect/sf3/05
+  rotate: true
+  xy: 169, 875
+  size: 163, 86
+  orig: 205, 164
+  offset: 21, 39
+  index: -1
+images/effect/sf3/06
+  rotate: false
+  xy: 2, 836
+  size: 165, 72
+  orig: 205, 164
+  offset: 20, 46
+  index: -1
+images/effect/sf3/07
+  rotate: false
+  xy: 2, 648
+  size: 161, 56
+  orig: 205, 164
+  offset: 22, 54
+  index: -1
+images/effect/sf3/08
+  rotate: false
+  xy: 2, 470
+  size: 155, 46
+  orig: 205, 164
+  offset: 24, 59
+  index: -1

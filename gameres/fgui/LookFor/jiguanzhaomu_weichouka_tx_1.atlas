@@ -1,0 +1,90 @@
+
+jiguanzhaomu_weichouka_tx_1.png
+size: 538,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/g2/g2_00000
+  rotate: true
+  xy: 272, 22
+  size: 65, 53
+  orig: 84, 72
+  offset: 9, 8
+  index: -1
+chutu/g3/g3_00000
+  rotate: false
+  xy: 329, 26
+  size: 39, 61
+  orig: 54, 81
+  offset: 7, 3
+  index: -1
+chutu/lz1/lz1_00055
+  rotate: true
+  xy: 170, 20
+  size: 67, 98
+  orig: 77, 104
+  offset: 5, 4
+  index: -1
+chutu/lz2/lz2_00033
+  rotate: false
+  xy: 0, 7
+  size: 166, 80
+  orig: 174, 84
+  offset: 4, 1
+  index: -1
+chutu/xx1/xx1_00000
+  rotate: false
+  xy: 329, 3
+  size: 18, 19
+  orig: 67, 63
+  offset: 24, 22
+  index: -1
+chutu/xx1/xx1_00001
+  rotate: true
+  xy: 509, 43
+  size: 32, 29
+  orig: 67, 63
+  offset: 17, 17
+  index: -1
+chutu/xx1/xx1_00002
+  rotate: false
+  xy: 468, 0
+  size: 38, 39
+  orig: 67, 63
+  offset: 14, 12
+  index: -1
+chutu/xx1/xx1_00003
+  rotate: true
+  xy: 372, 43
+  size: 44, 41
+  orig: 67, 63
+  offset: 11, 11
+  index: -1
+chutu/xx1/xx1_00004
+  rotate: false
+  xy: 372, 0
+  size: 44, 39
+  orig: 67, 63
+  offset: 11, 12
+  index: -1
+chutu/xx1/xx1_00005
+  rotate: true
+  xy: 420, 43
+  size: 44, 37
+  orig: 67, 63
+  offset: 11, 13
+  index: -1
+chutu/xx1/xx1_00006
+  rotate: false
+  xy: 420, 2
+  size: 44, 37
+  orig: 67, 63
+  offset: 11, 13
+  index: -1
+chutu/xx1/xx1_00007
+  rotate: false
+  xy: 461, 43
+  size: 44, 37
+  orig: 67, 63
+  offset: 11, 13
+  index: -1

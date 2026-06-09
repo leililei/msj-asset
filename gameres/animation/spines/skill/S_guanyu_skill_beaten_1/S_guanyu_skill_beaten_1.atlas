@@ -1,0 +1,13 @@
+
+S_guanyu_skill_beaten_1.png
+size: 285,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_sf_glow
+  rotate: false
+  xy: 2, 2
+  size: 281, 281
+  orig: 307, 307
+  offset: 13, 13
+  index: -1

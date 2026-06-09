@@ -1,0 +1,90 @@
+
+Effect_Sanzu_EnterActivity_Loop.png
+size: 1140,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0001
+  rotate: false
+  xy: 2, 2
+  size: 188, 190
+  orig: 190, 190
+  offset: 1, 0
+  index: -1
+images/0002
+  rotate: false
+  xy: 192, 194
+  size: 188, 190
+  orig: 190, 190
+  offset: 1, 0
+  index: -1
+images/0003
+  rotate: false
+  xy: 762, 4
+  size: 188, 188
+  orig: 190, 190
+  offset: 1, 1
+  index: -1
+images/0004
+  rotate: false
+  xy: 951, 195
+  size: 187, 189
+  orig: 190, 190
+  offset: 2, 0
+  index: -1
+images/0005
+  rotate: false
+  xy: 762, 194
+  size: 187, 190
+  orig: 190, 190
+  offset: 2, 0
+  index: -1
+images/0006
+  rotate: false
+  xy: 952, 3
+  size: 186, 190
+  orig: 190, 190
+  offset: 2, 0
+  index: -1
+images/0007
+  rotate: false
+  xy: 192, 2
+  size: 188, 190
+  orig: 190, 190
+  offset: 1, 0
+  index: -1
+images/0008
+  rotate: false
+  xy: 382, 194
+  size: 188, 190
+  orig: 190, 190
+  offset: 1, 0
+  index: -1
+images/0009
+  rotate: false
+  xy: 382, 2
+  size: 188, 190
+  orig: 190, 190
+  offset: 1, 0
+  index: -1
+images/0010
+  rotate: false
+  xy: 572, 194
+  size: 188, 190
+  orig: 190, 190
+  offset: 1, 0
+  index: -1
+images/0011
+  rotate: false
+  xy: 572, 2
+  size: 188, 190
+  orig: 190, 190
+  offset: 1, 0
+  index: -1
+images/0012
+  rotate: false
+  xy: 2, 194
+  size: 188, 190
+  orig: 190, 190
+  offset: 1, 0
+  index: -1

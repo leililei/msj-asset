@@ -1,0 +1,188 @@
+
+SS_caocao_atk_1.png
+size: 1395,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_dg_00
+  rotate: false
+  xy: 1141, 133
+  size: 213, 162
+  orig: 233, 174
+  offset: 7, 6
+  index: -1
+effect/attack_dg_01
+  rotate: true
+  xy: 804, 159
+  size: 362, 207
+  orig: 376, 220
+  offset: 7, 6
+  index: -1
+effect/attack_dg_02
+  rotate: true
+  xy: 498, 117
+  size: 404, 210
+  orig: 414, 220
+  offset: 4, 6
+  index: -1
+effect/attack_dg_03
+  rotate: true
+  xy: 2, 108
+  size: 413, 197
+  orig: 423, 207
+  offset: 5, 5
+  index: -1
+effect/attack_dg_04
+  rotate: true
+  xy: 201, 114
+  size: 407, 165
+  orig: 419, 175
+  offset: 4, 5
+  index: -1
+effect/attack_dg_05
+  rotate: true
+  xy: 368, 115
+  size: 406, 128
+  orig: 415, 138
+  offset: 4, 5
+  index: -1
+effect/attack_dg_06
+  rotate: false
+  xy: 2, 7
+  size: 407, 99
+  orig: 417, 109
+  offset: 5, 5
+  index: -1
+effect/attack_dg_07
+  rotate: true
+  xy: 710, 121
+  size: 400, 92
+  orig: 410, 102
+  offset: 5, 5
+  index: -1
+effect/attack_dmyc_00
+  rotate: false
+  xy: 1226, 82
+  size: 152, 49
+  orig: 157, 58
+  offset: 3, 5
+  index: -1
+effect/attack_dmyc_01
+  rotate: true
+  xy: 1013, 166
+  size: 187, 69
+  orig: 191, 79
+  offset: 2, 5
+  index: -1
+effect/attack_dmyc_02
+  rotate: false
+  xy: 864, 37
+  size: 230, 120
+  orig: 237, 130
+  offset: 5, 5
+  index: -1
+effect/attack_dmyc_03
+  rotate: false
+  xy: 509, 7
+  size: 267, 108
+  orig: 273, 118
+  offset: 4, 5
+  index: -1
+effect/attack_dmyc_04
+  rotate: false
+  xy: 1096, 297
+  size: 282, 71
+  orig: 289, 81
+  offset: 5, 5
+  index: -1
+effect/attack_dmyc_05
+  rotate: false
+  xy: 1096, 370
+  size: 283, 53
+  orig: 289, 63
+  offset: 4, 5
+  index: -1
+effect/attack_dmyc_06
+  rotate: false
+  xy: 1096, 425
+  size: 284, 47
+  orig: 290, 53
+  offset: 4, 4
+  index: -1
+effect/attack_dmyc_07
+  rotate: false
+  xy: 1096, 474
+  size: 286, 47
+  orig: 294, 53
+  offset: 5, 4
+  index: -1
+effect/attack_dmyc_08
+  rotate: true
+  xy: 1096, 25
+  size: 270, 43
+  orig: 274, 47
+  offset: 2, 2
+  index: -1
+effect/attack_dmyc_09
+  rotate: false
+  xy: 794, 5
+  size: 272, 19
+  orig: 276, 23
+  offset: 2, 2
+  index: -1
+effect/attack_dmyc_10
+  rotate: false
+  xy: 864, 29
+  size: 199, 6
+  orig: 203, 10
+  offset: 2, 2
+  index: -1
+effect/attack_sf_00
+  rotate: false
+  xy: 1356, 248
+  size: 37, 47
+  orig: 48, 51
+  offset: 6, 2
+  index: -1
+effect/attack_sf_01
+  rotate: false
+  xy: 1141, 39
+  size: 83, 92
+  orig: 90, 98
+  offset: 3, 3
+  index: -1
+effect/attack_sf_02
+  rotate: false
+  xy: 411, 2
+  size: 96, 111
+  orig: 102, 116
+  offset: 3, 3
+  index: -1
+effect/attack_sf_03
+  rotate: false
+  xy: 778, 26
+  size: 84, 93
+  orig: 91, 99
+  offset: 3, 4
+  index: -1
+effect/attack_sf_04
+  rotate: false
+  xy: 1013, 430
+  size: 79, 91
+  orig: 87, 99
+  offset: 4, 4
+  index: -1
+effect/attack_sf_05
+  rotate: false
+  xy: 1013, 355
+  size: 78, 73
+  orig: 86, 81
+  offset: 4, 4
+  index: -1
+effect/attack_sf_06
+  rotate: false
+  xy: 778, 4
+  size: 14, 20
+  orig: 29, 33
+  offset: 9, 9
+  index: -1

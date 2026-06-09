@@ -1,0 +1,139 @@
+
+longhun5_sh_2.png
+size: 1753,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/b1/b1_00000
+  rotate: true
+  xy: 1471, 3
+  size: 215, 137
+  orig: 241, 181
+  offset: 7, 24
+  index: -1
+chutu/b1/b1_00002
+  rotate: true
+  xy: 1471, 3
+  size: 215, 137
+  orig: 241, 181
+  offset: 7, 24
+  index: -1
+chutu/b1/b1_00004
+  rotate: true
+  xy: 1329, 6
+  size: 212, 140
+  orig: 241, 181
+  offset: 12, 21
+  index: -1
+chutu/b1/b1_00006
+  rotate: true
+  xy: 1469, 220
+  size: 208, 142
+  orig: 241, 181
+  offset: 16, 21
+  index: -1
+chutu/b1/b1_00008
+  rotate: true
+  xy: 1469, 220
+  size: 208, 142
+  orig: 241, 181
+  offset: 16, 21
+  index: -1
+chutu/b1/b1_00010
+  rotate: true
+  xy: 1325, 225
+  size: 211, 142
+  orig: 241, 181
+  offset: 16, 21
+  index: -1
+chutu/b1/b1_00012
+  rotate: true
+  xy: 1044, 7
+  size: 216, 142
+  orig: 241, 181
+  offset: 16, 21
+  index: -1
+chutu/b1/b1_00014
+  rotate: true
+  xy: 1044, 7
+  size: 216, 142
+  orig: 241, 181
+  offset: 16, 21
+  index: -1
+chutu/b1/b1_00016
+  rotate: true
+  xy: 901, 232
+  size: 222, 142
+  orig: 241, 181
+  offset: 13, 20
+  index: -1
+chutu/b1/b1_00018
+  rotate: true
+  xy: 901, 7
+  size: 223, 141
+  orig: 241, 181
+  offset: 10, 19
+  index: -1
+chutu/b1/b1_00020
+  rotate: true
+  xy: 901, 7
+  size: 223, 141
+  orig: 241, 181
+  offset: 10, 19
+  index: -1
+chutu/b1/b1_00022
+  rotate: true
+  xy: 1045, 225
+  size: 221, 138
+  orig: 241, 181
+  offset: 6, 20
+  index: -1
+chutu/b1/b1_00024
+  rotate: true
+  xy: 1185, 225
+  size: 219, 138
+  orig: 241, 181
+  offset: 5, 21
+  index: -1
+chutu/b1/b1_00026
+  rotate: true
+  xy: 1185, 225
+  size: 219, 138
+  orig: 241, 181
+  offset: 5, 21
+  index: -1
+chutu/b1/b1_00028
+  rotate: true
+  xy: 1188, 6
+  size: 217, 139
+  orig: 241, 181
+  offset: 4, 21
+  index: -1
+chutu/fz1/fz1_00030
+  rotate: true
+  xy: 1613, 180
+  size: 248, 103
+  orig: 341, 338
+  offset: 32, 110
+  index: -1
+chutu/fz2/fz2_00000
+  rotate: true
+  xy: 474, 22
+  size: 432, 425
+  orig: 579, 572
+  offset: 73, 75
+  index: -1
+chutu/fz3/fz3_00000
+  rotate: false
+  xy: 3, 22
+  size: 469, 464
+  orig: 469, 469
+  offset: 0, 0
+  index: -1
+chutu/fz4/fz4_00014
+  rotate: true
+  xy: 1610, 9
+  size: 169, 141
+  orig: 169, 155
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+shi.png
+size: 1129,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/stbaozha/00
+  rotate: true
+  xy: 781, 8
+  size: 123, 105
+  orig: 200, 200
+  offset: 38, 43
+  index: -1
+images/effect/stbaozha/01
+  rotate: true
+  xy: 557, 2
+  size: 129, 114
+  orig: 200, 200
+  offset: 36, 43
+  index: -1
+images/effect/stbaozha/02
+  rotate: false
+  xy: 419, 13
+  size: 136, 118
+  orig: 200, 200
+  offset: 29, 39
+  index: -1
+images/effect/stbaozha/03
+  rotate: false
+  xy: 2, 2
+  size: 137, 129
+  orig: 200, 200
+  offset: 25, 35
+  index: -1
+images/effect/stbaozha/04
+  rotate: false
+  xy: 141, 4
+  size: 139, 127
+  orig: 200, 200
+  offset: 25, 37
+  index: -1
+images/effect/stbaozha/05
+  rotate: false
+  xy: 282, 4
+  size: 135, 127
+  orig: 200, 200
+  offset: 30, 39
+  index: -1
+images/effect/stbaozha/07
+  rotate: true
+  xy: 673, 9
+  size: 122, 106
+  orig: 200, 200
+  offset: 42, 58
+  index: -1
+images/effect/stbaozha/09
+  rotate: true
+  xy: 888, 9
+  size: 122, 102
+  orig: 200, 200
+  offset: 41, 62
+  index: -1
+images/effect/stbaozha/11
+  rotate: true
+  xy: 992, 10
+  size: 121, 91
+  orig: 200, 200
+  offset: 43, 72
+  index: -1
+images/effect/stbaozha/13
+  rotate: false
+  xy: 1085, 87
+  size: 42, 44
+  orig: 200, 200
+  offset: 121, 118
+  index: -1

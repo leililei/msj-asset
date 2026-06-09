@@ -1,0 +1,83 @@
+
+hulu_03.png
+size: 471,303
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hl1_yanjing
+  rotate: false
+  xy: 177, 0
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+hl3_biyan1
+  rotate: false
+  xy: 235, 2
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+hl3_biyan2
+  rotate: false
+  xy: 268, 3
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+hl3_lianyun
+  rotate: false
+  xy: 235, 16
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+hl3_shenti
+  rotate: false
+  xy: 177, 40
+  size: 145, 263
+  orig: 147, 266
+  offset: 1, 1
+  index: -1
+hl3_shentiA
+  rotate: false
+  xy: 0, 12
+  size: 173, 291
+  orig: 178, 297
+  offset: 2, 3
+  index: -1
+hl3_shentiB
+  rotate: false
+  xy: 326, 40
+  size: 145, 263
+  orig: 147, 266
+  offset: 1, 1
+  index: -1
+hl3_yankuang1
+  rotate: false
+  xy: 331, 11
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+hl3_yankuang2
+  rotate: false
+  xy: 302, 10
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+hl3_yanzhu1
+  rotate: false
+  xy: 360, 21
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+hl3_yanzhu2
+  rotate: false
+  xy: 360, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1

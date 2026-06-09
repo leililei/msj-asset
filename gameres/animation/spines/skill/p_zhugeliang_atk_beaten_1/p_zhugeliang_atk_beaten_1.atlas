@@ -1,0 +1,139 @@
+
+p_zhugeliang_atk_beaten_1.png
+size: 201,1897
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/baozha/baozha_00022
+  rotate: true
+  xy: 4, 641
+  size: 141, 150
+  orig: 215, 224
+  offset: 37, 43
+  index: -1
+atk/baozha/baozha_00023
+  rotate: true
+  xy: 4, 1116
+  size: 168, 183
+  orig: 215, 224
+  offset: 17, 24
+  index: -1
+atk/baozha/baozha_00024
+  rotate: false
+  xy: 4, 1288
+  size: 185, 191
+  orig: 215, 224
+  offset: 11, 19
+  index: -1
+atk/baozha/baozha_00026
+  rotate: false
+  xy: 4, 1483
+  size: 186, 201
+  orig: 215, 224
+  offset: 9, 14
+  index: -1
+atk/baozha/baozha_00028
+  rotate: false
+  xy: 4, 1688
+  size: 183, 205
+  orig: 215, 224
+  offset: 8, 11
+  index: -1
+atk/baozha/baozha_00030
+  rotate: true
+  xy: 4, 951
+  size: 161, 184
+  orig: 215, 224
+  offset: 31, 33
+  index: -1
+atk/baozha/baozha_00032
+  rotate: true
+  xy: 4, 786
+  size: 161, 184
+  orig: 215, 224
+  offset: 32, 33
+  index: -1
+atk/baozha/baozha_00034
+  rotate: true
+  xy: 4, 205
+  size: 102, 107
+  orig: 215, 224
+  offset: 62, 85
+  index: -1
+atk/baozha/baozha_00036
+  rotate: false
+  xy: 110, 97
+  size: 86, 104
+  orig: 215, 224
+  offset: 78, 88
+  index: -1
+atk/baozha/baozha_00038
+  rotate: true
+  xy: 115, 205
+  size: 83, 82
+  orig: 215, 224
+  offset: 77, 90
+  index: -1
+atk/yan2/yan2_00022
+  rotate: false
+  xy: 101, 4
+  size: 91, 89
+  orig: 119, 130
+  offset: 16, 23
+  index: -1
+atk/yan2/yan2_00023
+  rotate: true
+  xy: 4, 102
+  size: 99, 102
+  orig: 119, 130
+  offset: 10, 13
+  index: -1
+atk/yan2/yan2_00024
+  rotate: true
+  xy: 4, 311
+  size: 106, 108
+  orig: 119, 130
+  offset: 6, 11
+  index: -1
+atk/yan2/yan2_00026
+  rotate: true
+  xy: 4, 529
+  size: 108, 114
+  orig: 119, 130
+  offset: 5, 8
+  index: -1
+atk/yan2/yan2_00028
+  rotate: true
+  xy: 4, 421
+  size: 104, 111
+  orig: 119, 130
+  offset: 8, 10
+  index: -1
+atk/yan2/yan2_00030
+  rotate: false
+  xy: 4, 5
+  size: 93, 93
+  orig: 119, 130
+  offset: 14, 23
+  index: -1
+atk/yan2/yan2_00032
+  rotate: false
+  xy: 116, 292
+  size: 66, 61
+  orig: 119, 130
+  offset: 28, 42
+  index: -1
+atk/yan2/yan2_00034
+  rotate: false
+  xy: 116, 357
+  size: 62, 57
+  orig: 119, 130
+  offset: 31, 45
+  index: -1
+atk/yan2/yan2_00036
+  rotate: false
+  xy: 119, 418
+  size: 52, 51
+  orig: 119, 130
+  offset: 43, 49
+  index: -1

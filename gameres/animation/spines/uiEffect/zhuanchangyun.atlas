@@ -1,0 +1,124 @@
+
+zhuanchangyun.png
+size: 2007,2007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nyun_1
+  rotate: false
+  xy: 1265, 284
+  size: 736, 436
+  orig: 736, 436
+  offset: 0, 0
+  index: -1
+Nyun_2
+  rotate: true
+  xy: 4, 128
+  size: 387, 695
+  orig: 387, 695
+  offset: 0, 0
+  index: -1
+Nyun_3
+  rotate: false
+  xy: 4, 1263
+  size: 736, 740
+  orig: 736, 740
+  offset: 0, 0
+  index: -1
+Nyun_4
+  rotate: false
+  xy: 4, 519
+  size: 736, 740
+  orig: 736, 740
+  offset: 0, 0
+  index: -1
+Wyun_1
+  rotate: false
+  xy: 1336, 1537
+  size: 596, 467
+  orig: 596, 467
+  offset: 0, 0
+  index: -1
+Wyun_4
+  rotate: true
+  xy: 744, 519
+  size: 736, 518
+  orig: 736, 518
+  offset: 0, 0
+  index: -1
+Zyun_1
+  rotate: true
+  xy: 702, 71
+  size: 445, 531
+  orig: 445, 531
+  offset: 0, 0
+  index: -1
+Zyun_4
+  rotate: true
+  xy: 1238, 5
+  size: 275, 599
+  orig: 275, 599
+  offset: 0, 0
+  index: -1
+Zyun_8
+  rotate: true
+  xy: 1265, 725
+  size: 592, 588
+  orig: 592, 588
+  offset: 0, 0
+  index: -1
+Zyun_9
+  rotate: false
+  xy: 744, 1320
+  size: 588, 684
+  orig: 588, 684
+  offset: 0, 0
+  index: -1
+
+zhuanchangyun2.png
+size: 1777,665
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wyun_2
+  rotate: false
+  xy: 1011, 18
+  size: 418, 266
+  orig: 418, 266
+  offset: 0, 0
+  index: -1
+Wyun_3
+  rotate: true
+  xy: 1433, 37
+  size: 247, 340
+  orig: 247, 340
+  offset: 0, 0
+  index: -1
+Zyun_2
+  rotate: true
+  xy: 1266, 287
+  size: 374, 484
+  orig: 374, 484
+  offset: 0, 0
+  index: -1
+Zyun_5
+  rotate: true
+  xy: 604, 6
+  size: 321, 402
+  orig: 321, 402
+  offset: 0, 0
+  index: -1
+Zyun_6
+  rotate: true
+  xy: 604, 330
+  size: 332, 658
+  orig: 332, 658
+  offset: 0, 0
+  index: -1
+Zyun_7
+  rotate: false
+  xy: 4, 215
+  size: 597, 446
+  orig: 597, 446
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+yujin_atk_beaten_1.png
+size: 696,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_mz_00
+  rotate: false
+  xy: 349, 388
+  size: 130, 126
+  orig: 130, 126
+  offset: 0, 0
+  index: -1
+effect/atk_mz_01
+  rotate: false
+  xy: 481, 361
+  size: 174, 153
+  orig: 174, 153
+  offset: 0, 0
+  index: -1
+effect/atk_mz_02
+  rotate: false
+  xy: 243, 206
+  size: 210, 180
+  orig: 210, 180
+  offset: 0, 0
+  index: -1
+effect/atk_mz_03
+  rotate: false
+  xy: 2, 40
+  size: 221, 191
+  orig: 221, 191
+  offset: 0, 0
+  index: -1
+effect/atk_mz_04
+  rotate: false
+  xy: 225, 10
+  size: 226, 194
+  orig: 226, 194
+  offset: 0, 0
+  index: -1
+effect/atk_mz_06
+  rotate: false
+  xy: 453, 2
+  size: 237, 194
+  orig: 237, 194
+  offset: 0, 0
+  index: -1
+effect/atk_mz_08
+  rotate: false
+  xy: 455, 198
+  size: 239, 161
+  orig: 239, 161
+  offset: 0, 0
+  index: -1
+effect/atk_mz_09
+  rotate: false
+  xy: 2, 233
+  size: 239, 155
+  orig: 239, 155
+  offset: 0, 0
+  index: -1
+effect/atk_mz_11
+  rotate: false
+  xy: 223, 390
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+effect/atk_mz_12
+  rotate: false
+  xy: 98, 392
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+effect/atk_mz_13
+  rotate: false
+  xy: 2, 421
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1

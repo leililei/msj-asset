@@ -1,0 +1,76 @@
+
+diaochan_attack_tx_1.png
+size: 1732,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/glow2_000
+  rotate: false
+  xy: 272, 7
+  size: 248, 222
+  orig: 280, 266
+  offset: 20, 30
+  index: -1
+chutu/attack/glow_000
+  rotate: false
+  xy: 1628, 127
+  size: 102, 102
+  orig: 115, 115
+  offset: 5, 6
+  index: -1
+chutu/attack/wl_000
+  rotate: true
+  xy: 2, 2
+  size: 227, 268
+  orig: 274, 317
+  offset: 25, 24
+  index: -1
+chutu/attack/zhua/zhua_000
+  rotate: true
+  xy: 1628, 49
+  size: 76, 79
+  orig: 226, 256
+  offset: 87, 74
+  index: -1
+chutu/attack/zhua/zhua_001
+  rotate: false
+  xy: 1461, 53
+  size: 165, 176
+  orig: 226, 256
+  offset: 57, 16
+  index: -1
+chutu/attack/zhua/zhua_002
+  rotate: false
+  xy: 522, 5
+  size: 191, 224
+  orig: 226, 256
+  offset: 27, 18
+  index: -1
+chutu/attack/zhua/zhua_004
+  rotate: false
+  xy: 715, 8
+  size: 187, 221
+  orig: 226, 256
+  offset: 30, 18
+  index: -1
+chutu/attack/zhua/zhua_006
+  rotate: false
+  xy: 904, 10
+  size: 185, 219
+  orig: 226, 256
+  offset: 33, 16
+  index: -1
+chutu/attack/zhua/zhua_008
+  rotate: false
+  xy: 1091, 11
+  size: 183, 218
+  orig: 226, 256
+  offset: 37, 13
+  index: -1
+chutu/attack/zhua/zhua_009
+  rotate: false
+  xy: 1276, 13
+  size: 183, 216
+  orig: 226, 256
+  offset: 39, 13
+  index: -1

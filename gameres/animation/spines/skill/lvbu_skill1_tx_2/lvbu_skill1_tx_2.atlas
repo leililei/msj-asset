@@ -1,0 +1,62 @@
+
+lvbu_skill1_tx_2.png
+size: 215,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill1/gh1/gh1_00011
+  rotate: true
+  xy: 2, 2
+  size: 221, 110
+  orig: 226, 114
+  offset: 2, 2
+  index: -1
+images/chutu/skill1/gh2/gh2_00016
+  rotate: false
+  xy: 2, 291
+  size: 162, 71
+  orig: 167, 74
+  offset: 2, 2
+  index: -1
+images/chutu/skill1/gh3/gh3_00027
+  rotate: true
+  xy: 166, 225
+  size: 137, 47
+  orig: 224, 79
+  offset: 45, 16
+  index: -1
+images/chutu/skill1/gh3/gh3_00029
+  rotate: false
+  xy: 2, 364
+  size: 200, 69
+  orig: 224, 79
+  offset: 14, 5
+  index: -1
+images/chutu/skill1/gh3/gh3_00031
+  rotate: false
+  xy: 2, 435
+  size: 207, 71
+  orig: 224, 79
+  offset: 11, 4
+  index: -1
+images/chutu/skill1/gh3/gh3_00033
+  rotate: true
+  xy: 114, 5
+  size: 218, 75
+  orig: 224, 79
+  offset: 4, 2
+  index: -1
+images/chutu/skill1/gh3/gh3_00035
+  rotate: false
+  xy: 2, 238
+  size: 121, 51
+  orig: 224, 79
+  offset: 54, 15
+  index: -1
+images/chutu/skill1/gx1/gx1_00038
+  rotate: true
+  xy: 125, 262
+  size: 27, 28
+  orig: 31, 32
+  offset: 2, 2
+  index: -1

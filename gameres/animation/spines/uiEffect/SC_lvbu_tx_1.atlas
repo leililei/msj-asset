@@ -1,0 +1,265 @@
+
+SC_lvbu_tx_1.png
+size: 1614,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1duan/d1/d1_00000
+  rotate: true
+  xy: 2, 229
+  size: 223, 101
+  orig: 223, 103
+  offset: 0, 1
+  index: -1
+1duan/d2/d2_00000
+  rotate: false
+  xy: 760, 282
+  size: 166, 170
+  orig: 182, 187
+  offset: 9, 9
+  index: -1
+1duan/d3/d3_00000
+  rotate: false
+  xy: 1365, 142
+  size: 141, 141
+  orig: 146, 146
+  offset: 3, 2
+  index: -1
+1duan/d4/d4_00000
+  rotate: false
+  xy: 105, 277
+  size: 161, 175
+  orig: 182, 186
+  offset: 15, 4
+  index: -1
+1duan/d4/d4_00002
+  rotate: false
+  xy: 70, 52
+  size: 163, 175
+  orig: 182, 186
+  offset: 13, 5
+  index: -1
+1duan/d4/d4_00004
+  rotate: false
+  xy: 392, 103
+  size: 164, 173
+  orig: 182, 186
+  offset: 12, 7
+  index: -1
+1duan/d4/d4_00006
+  rotate: false
+  xy: 433, 279
+  size: 164, 173
+  orig: 182, 186
+  offset: 12, 6
+  index: -1
+1duan/d4/d4_00008
+  rotate: false
+  xy: 928, 283
+  size: 165, 169
+  orig: 182, 186
+  offset: 11, 5
+  index: -1
+1duan/d4/d4_00010
+  rotate: false
+  xy: 878, 110
+  size: 165, 170
+  orig: 182, 186
+  offset: 11, 7
+  index: -1
+1duan/d4/d4_00012
+  rotate: false
+  xy: 268, 278
+  size: 163, 174
+  orig: 182, 186
+  offset: 11, 7
+  index: -1
+1duan/d4/d4_00014
+  rotate: false
+  xy: 599, 280
+  size: 159, 172
+  orig: 182, 186
+  offset: 12, 10
+  index: -1
+1duan/d4/d4_00016
+  rotate: false
+  xy: 1045, 112
+  size: 160, 169
+  orig: 182, 186
+  offset: 14, 11
+  index: -1
+1duan/d4/d4_00018
+  rotate: false
+  xy: 558, 104
+  size: 160, 173
+  orig: 182, 186
+  offset: 14, 7
+  index: -1
+1duan/d4/d4_00020
+  rotate: false
+  xy: 235, 100
+  size: 155, 175
+  orig: 182, 186
+  offset: 15, 5
+  index: -1
+1duan/d4/d4_00022
+  rotate: false
+  xy: 720, 106
+  size: 156, 172
+  orig: 182, 186
+  offset: 14, 7
+  index: -1
+1duan/d4/d4_00024
+  rotate: false
+  xy: 1095, 283
+  size: 157, 169
+  orig: 182, 186
+  offset: 13, 6
+  index: -1
+1duan/d4/d4_00026
+  rotate: false
+  xy: 1207, 112
+  size: 156, 169
+  orig: 182, 186
+  offset: 13, 7
+  index: -1
+1duan/d4/d4_00028
+  rotate: false
+  xy: 1254, 285
+  size: 156, 167
+  orig: 182, 186
+  offset: 13, 8
+  index: -1
+1duan/d5/d5_00000
+  rotate: false
+  xy: 2, 50
+  size: 66, 177
+  orig: 77, 192
+  offset: 5, 8
+  index: -1
+1duan/d6/d6_00000
+  rotate: true
+  xy: 163, 18
+  size: 32, 153
+  orig: 35, 156
+  offset: 2, 1
+  index: -1
+1duan/d7/d7_00000
+  rotate: true
+  xy: 2, 10
+  size: 38, 159
+  orig: 44, 166
+  offset: 3, 3
+  index: -1
+1duan/d8/d8_00000
+  rotate: false
+  xy: 1508, 168
+  size: 86, 88
+  orig: 90, 91
+  offset: 2, 1
+  index: -1
+1duan/d9/d9_00000
+  rotate: false
+  xy: 1412, 363
+  size: 93, 89
+  orig: 116, 118
+  offset: 17, 8
+  index: -1
+1duan/d9/d9_00002
+  rotate: true
+  xy: 426, 2
+  size: 99, 103
+  orig: 116, 118
+  offset: 8, 7
+  index: -1
+1duan/d9/d9_00004
+  rotate: false
+  xy: 967, 2
+  size: 105, 106
+  orig: 116, 118
+  offset: 4, 5
+  index: -1
+1duan/d9/d9_00006
+  rotate: true
+  xy: 641, 2
+  size: 100, 106
+  orig: 116, 118
+  offset: 8, 5
+  index: -1
+1duan/d9/d9_00008
+  rotate: true
+  xy: 1508, 258
+  size: 100, 101
+  orig: 116, 118
+  offset: 8, 5
+  index: -1
+1duan/d9/d9_00010
+  rotate: false
+  xy: 1074, 3
+  size: 98, 107
+  orig: 116, 118
+  offset: 8, 5
+  index: -1
+1duan/d9/d9_00012
+  rotate: true
+  xy: 749, 2
+  size: 102, 109
+  orig: 116, 118
+  offset: 7, 6
+  index: -1
+1duan/d9/d9_00014
+  rotate: true
+  xy: 531, 3
+  size: 98, 108
+  orig: 116, 118
+  offset: 13, 6
+  index: -1
+1duan/d9/d9_00016
+  rotate: false
+  xy: 860, 2
+  size: 105, 102
+  orig: 116, 118
+  offset: 5, 11
+  index: -1
+1duan/d9/d9_00018
+  rotate: true
+  xy: 1174, 4
+  size: 106, 101
+  orig: 116, 118
+  offset: 5, 10
+  index: -1
+1duan/d9/d9_00020
+  rotate: false
+  xy: 318, 2
+  size: 106, 96
+  orig: 116, 118
+  offset: 5, 7
+  index: -1
+1duan/d9/d9_00022
+  rotate: true
+  xy: 1490, 35
+  size: 105, 102
+  orig: 116, 118
+  offset: 5, 11
+  index: -1
+1duan/d9/d9_00024
+  rotate: false
+  xy: 1277, 5
+  size: 105, 105
+  orig: 116, 118
+  offset: 5, 9
+  index: -1
+1duan/d9/d9_00026
+  rotate: true
+  xy: 1384, 35
+  size: 105, 104
+  orig: 116, 118
+  offset: 5, 7
+  index: -1
+1duan/d9/d9_00028
+  rotate: false
+  xy: 1508, 360
+  size: 104, 92
+  orig: 116, 118
+  offset: 7, 10
+  index: -1

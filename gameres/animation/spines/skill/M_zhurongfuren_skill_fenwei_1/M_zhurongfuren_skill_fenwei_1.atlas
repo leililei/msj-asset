@@ -1,0 +1,20 @@
+
+M_zhurongfuren_skill_fenwei_1.png
+size: 448,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill/sa8/sa8_00021
+  rotate: false
+  xy: 4, 172
+  size: 440, 164
+  orig: 442, 191
+  offset: 2, 14
+  index: -1
+images/chutu/skill/sa8/sa8_00022
+  rotate: false
+  xy: 4, 4
+  size: 440, 164
+  orig: 442, 191
+  offset: 2, 14
+  index: -1

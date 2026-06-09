@@ -1,0 +1,125 @@
+
+shuijing_atk_tx_1.png
+size: 340,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/a2/a2_010
+  rotate: false
+  xy: 2, 35
+  size: 209, 58
+  orig: 258, 103
+  offset: 8, 27
+  index: -1
+chutu/attack/a2/a2_011
+  rotate: false
+  xy: 2, 159
+  size: 240, 66
+  orig: 258, 103
+  offset: 2, 17
+  index: -1
+chutu/attack/a2/a2_013
+  rotate: false
+  xy: 2, 420
+  size: 251, 87
+  orig: 258, 103
+  offset: 3, 10
+  index: -1
+chutu/attack/a2/a2_015
+  rotate: false
+  xy: 2, 325
+  size: 245, 93
+  orig: 258, 103
+  offset: 6, 6
+  index: -1
+chutu/attack/a2/a2_017
+  rotate: false
+  xy: 2, 227
+  size: 237, 96
+  orig: 258, 103
+  offset: 16, 4
+  index: -1
+chutu/attack/a2/a2_019
+  rotate: true
+  xy: 244, 201
+  size: 25, 86
+  orig: 258, 103
+  offset: 163, 10
+  index: -1
+chutu/attack/a3/a3_010
+  rotate: false
+  xy: 2, 509
+  size: 278, 72
+  orig: 341, 138
+  offset: 10, 35
+  index: -1
+chutu/attack/a3/a3_011
+  rotate: false
+  xy: 2, 583
+  size: 321, 82
+  orig: 341, 138
+  offset: 2, 21
+  index: -1
+chutu/attack/a3/a3_013
+  rotate: false
+  xy: 2, 917
+  size: 335, 113
+  orig: 341, 138
+  offset: 4, 11
+  index: -1
+chutu/attack/a3/a3_015
+  rotate: false
+  xy: 2, 794
+  size: 327, 121
+  orig: 341, 138
+  offset: 8, 6
+  index: -1
+chutu/attack/a3/a3_017
+  rotate: false
+  xy: 2, 667
+  size: 322, 125
+  orig: 341, 138
+  offset: 17, 2
+  index: -1
+chutu/attack/a4/a4_004
+  rotate: true
+  xy: 241, 228
+  size: 81, 92
+  orig: 214, 112
+  offset: 68, 10
+  index: -1
+chutu/attack/a4/a4_006
+  rotate: false
+  xy: 216, 51
+  size: 119, 106
+  orig: 214, 112
+  offset: 52, 3
+  index: -1
+chutu/attack/a4/a4_007
+  rotate: true
+  xy: 255, 311
+  size: 196, 83
+  orig: 214, 112
+  offset: 6, 12
+  index: -1
+chutu/attack/a4/a4_009
+  rotate: false
+  xy: 2, 95
+  size: 212, 62
+  orig: 214, 112
+  offset: 1, 22
+  index: -1
+chutu/attack/a4/a4_011
+  rotate: false
+  xy: 2, 2
+  size: 150, 31
+  orig: 214, 112
+  offset: 34, 39
+  index: -1
+chutu/attack/a5/a5_000
+  rotate: false
+  xy: 282, 538
+  size: 43, 43
+  orig: 52, 52
+  offset: 5, 4
+  index: -1

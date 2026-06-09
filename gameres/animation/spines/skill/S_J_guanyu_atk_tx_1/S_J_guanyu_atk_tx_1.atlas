@@ -1,0 +1,90 @@
+
+S_J_guanyu_atk_tx_1.png
+size: 1158,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/a1/a1_12
+  rotate: false
+  xy: 212, 2
+  size: 303, 148
+  orig: 341, 258
+  offset: 30, 106
+  index: -1
+chutu/attack/a1/a1_13
+  rotate: false
+  xy: 611, 314
+  size: 281, 243
+  orig: 341, 258
+  offset: 47, 6
+  index: -1
+chutu/attack/a1/a1_14
+  rotate: true
+  xy: 894, 284
+  size: 273, 232
+  orig: 341, 258
+  offset: 51, 11
+  index: -1
+chutu/attack/a1/a1_16
+  rotate: false
+  xy: 312, 330
+  size: 297, 227
+  orig: 341, 258
+  offset: 26, 15
+  index: -1
+chutu/attack/a1/a1_18
+  rotate: false
+  xy: 2, 337
+  size: 308, 220
+  orig: 341, 258
+  offset: 21, 14
+  index: -1
+chutu/attack/a1/a1_20
+  rotate: true
+  xy: 2, 18
+  size: 317, 208
+  orig: 341, 258
+  offset: 15, 10
+  index: -1
+chutu/attack/a1/a1_22
+  rotate: false
+  xy: 212, 152
+  size: 323, 176
+  orig: 341, 258
+  offset: 10, 31
+  index: -1
+chutu/attack/a1/a1_24
+  rotate: false
+  xy: 537, 143
+  size: 301, 169
+  orig: 341, 258
+  offset: 28, 31
+  index: -1
+chutu/attack/a1/a1_26
+  rotate: false
+  xy: 840, 121
+  size: 293, 161
+  orig: 341, 258
+  offset: 35, 33
+  index: -1
+chutu/attack/a1/a1_28
+  rotate: false
+  xy: 517, 21
+  size: 282, 120
+  orig: 341, 258
+  offset: 43, 37
+  index: -1
+chutu/attack/a1/a1_30
+  rotate: false
+  xy: 1058, 29
+  size: 98, 90
+  orig: 341, 258
+  offset: 46, 46
+  index: -1
+chutu/attack/a1/a1_31
+  rotate: false
+  xy: 801, 37
+  size: 255, 82
+  orig: 341, 258
+  offset: 70, 58
+  index: -1

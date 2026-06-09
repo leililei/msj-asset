@@ -1,0 +1,90 @@
+
+pengzhuang_effect.png
+size: 1966,378
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/pengzhuang/00
+  rotate: false
+  xy: 1258, 64
+  size: 223, 130
+  orig: 470, 240
+  offset: 113, 53
+  index: -1
+effect/pengzhuang/01
+  rotate: false
+  xy: 1207, 196
+  size: 324, 180
+  orig: 470, 240
+  offset: 55, 36
+  index: -1
+effect/pengzhuang/02
+  rotate: false
+  xy: 833, 187
+  size: 372, 189
+  orig: 470, 240
+  offset: 36, 28
+  index: -1
+effect/pengzhuang/03
+  rotate: false
+  xy: 419, 177
+  size: 412, 199
+  orig: 470, 240
+  offset: 31, 25
+  index: -1
+effect/pengzhuang/04
+  rotate: false
+  xy: 2, 171
+  size: 415, 205
+  orig: 470, 240
+  offset: 28, 22
+  index: -1
+effect/pengzhuang/05
+  rotate: false
+  xy: 833, 17
+  size: 423, 168
+  orig: 470, 240
+  offset: 28, 59
+  index: -1
+effect/pengzhuang/06
+  rotate: false
+  xy: 2, 2
+  size: 427, 167
+  orig: 470, 240
+  offset: 24, 59
+  index: -1
+effect/pengzhuang/07
+  rotate: false
+  xy: 1533, 46
+  size: 430, 167
+  orig: 470, 240
+  offset: 24, 59
+  index: -1
+effect/pengzhuang/08
+  rotate: false
+  xy: 1533, 215
+  size: 431, 161
+  orig: 470, 240
+  offset: 23, 59
+  index: -1
+effect/pengzhuang/09
+  rotate: false
+  xy: 431, 15
+  size: 387, 160
+  orig: 470, 240
+  offset: 23, 60
+  index: -1
+effect/pengzhuang/10
+  rotate: true
+  xy: 1258, 2
+  size: 60, 121
+  orig: 470, 240
+  offset: 205, 60
+  index: -1
+effect/pengzhuang/11
+  rotate: false
+  xy: 820, 164
+  size: 11, 11
+  orig: 470, 240
+  offset: 254, 170
+  index: -1

@@ -1,0 +1,181 @@
+
+S_S_simayi_attack_beatan_1.png
+size: 2041,1041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/plot/attack/g/g_00019
+  rotate: false
+  xy: 1751, 733
+  size: 17, 17
+  orig: 21, 22
+  offset: 2, 2
+  index: -1
+images/plot/attack/hit/hit_00019
+  rotate: false
+  xy: 1753, 18
+  size: 184, 183
+  orig: 519, 544
+  offset: 170, 193
+  index: -1
+images/plot/attack/hit/hit_00020
+  rotate: false
+  xy: 1404, 366
+  size: 366, 328
+  orig: 519, 544
+  offset: 71, 117
+  index: -1
+images/plot/attack/hit/hit_00021
+  rotate: false
+  xy: 0, 643
+  size: 345, 398
+  orig: 519, 544
+  offset: 84, 78
+  index: -1
+images/plot/attack/hit/hit_00023
+  rotate: false
+  xy: 345, 664
+  size: 353, 377
+  orig: 519, 544
+  offset: 80, 90
+  index: -1
+images/plot/attack/hit/hit_00025
+  rotate: false
+  xy: 698, 688
+  size: 353, 353
+  orig: 519, 544
+  offset: 80, 102
+  index: -1
+images/plot/attack/hit/hit_00027
+  rotate: false
+  xy: 1051, 688
+  size: 353, 353
+  orig: 519, 544
+  offset: 80, 102
+  index: -1
+images/plot/attack/hit/hit_00029
+  rotate: false
+  xy: 1404, 694
+  size: 347, 347
+  orig: 519, 544
+  offset: 83, 106
+  index: -1
+images/plot/attack/hit/hit_00031
+  rotate: false
+  xy: 698, 357
+  size: 332, 331
+  orig: 519, 544
+  offset: 91, 114
+  index: -1
+images/plot/attack/hit/hit_00033
+  rotate: false
+  xy: 1030, 373
+  size: 313, 315
+  orig: 519, 544
+  offset: 100, 122
+  index: -1
+images/plot/attack/hit/hit_00035
+  rotate: true
+  xy: 1751, 750
+  size: 291, 290
+  orig: 519, 544
+  offset: 111, 134
+  index: -1
+images/plot/attack/hit/hit_00037
+  rotate: false
+  xy: 269, 131
+  size: 254, 254
+  orig: 519, 544
+  offset: 130, 152
+  index: -1
+images/plot/attack/hit/hit_00039
+  rotate: false
+  xy: 758, 140
+  size: 212, 217
+  orig: 519, 544
+  offset: 162, 158
+  index: -1
+images/plot/attack/hit/hit_00041
+  rotate: true
+  xy: 1516, 0
+  size: 161, 194
+  orig: 519, 544
+  offset: 182, 182
+  index: -1
+images/plot/attack/hit2/hit2_00019
+  rotate: false
+  xy: 1343, 636
+  size: 39, 52
+  orig: 354, 370
+  offset: 158, 177
+  index: -1
+images/plot/attack/hit2/hit2_00020
+  rotate: false
+  xy: 1770, 463
+  size: 270, 287
+  orig: 354, 370
+  offset: 49, 54
+  index: -1
+images/plot/attack/hit2/hit2_00021
+  rotate: false
+  xy: 0, 371
+  size: 269, 272
+  orig: 354, 370
+  offset: 49, 69
+  index: -1
+images/plot/attack/hit2/hit2_00023
+  rotate: false
+  xy: 345, 385
+  size: 267, 279
+  orig: 354, 370
+  offset: 51, 61
+  index: -1
+images/plot/attack/hit2/hit2_00025
+  rotate: true
+  xy: 1770, 201
+  size: 262, 266
+  orig: 354, 370
+  offset: 53, 71
+  index: -1
+images/plot/attack/hit2/hit2_00027
+  rotate: true
+  xy: 1030, 143
+  size: 230, 246
+  orig: 354, 370
+  offset: 72, 75
+  index: -1
+images/plot/attack/hit2/hit2_00029
+  rotate: true
+  xy: 0, 146
+  size: 225, 247
+  orig: 354, 370
+  offset: 77, 73
+  index: -1
+images/plot/attack/hit2/hit2_00031
+  rotate: true
+  xy: 1276, 155
+  size: 211, 240
+  orig: 354, 370
+  offset: 91, 80
+  index: -1
+images/plot/attack/hit2/hit2_00033
+  rotate: true
+  xy: 1516, 161
+  size: 205, 237
+  orig: 354, 370
+  offset: 95, 82
+  index: -1
+images/plot/attack/hit2/hit2_00035
+  rotate: true
+  xy: 523, 158
+  size: 199, 235
+  orig: 354, 370
+  offset: 97, 84
+  index: -1
+images/plot/attack/hit2/hit2_00037
+  rotate: false
+  xy: 523, 51
+  size: 191, 107
+  orig: 354, 370
+  offset: 104, 95
+  index: -1

@@ -1,0 +1,146 @@
+
+b_1.png
+size: 904,629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_1
+  rotate: false
+  xy: 626, 92
+  size: 131, 254
+  orig: 133, 256
+  offset: 1, 1
+  index: -1
+b_2
+  rotate: true
+  xy: 626, 348
+  size: 279, 265
+  orig: 281, 267
+  offset: 1, 1
+  index: -1
+beam
+  rotate: false
+  xy: 2, 5
+  size: 622, 622
+  orig: 640, 640
+  offset: 9, 9
+  index: -1
+shield_b_01
+  rotate: false
+  xy: 885, 319
+  size: 17, 27
+  orig: 71, 67
+  offset: 1, 9
+  index: -1
+shield_b_02
+  rotate: false
+  xy: 759, 117
+  size: 33, 51
+  orig: 71, 67
+  offset: 1, 1
+  index: -1
+shield_b_03
+  rotate: true
+  xy: 819, 304
+  size: 42, 64
+  orig: 71, 67
+  offset: 1, 0
+  index: -1
+shield_b_04
+  rotate: false
+  xy: 681, 27
+  size: 48, 63
+  orig: 71, 67
+  offset: 4, 1
+  index: -1
+shield_b_05
+  rotate: false
+  xy: 626, 26
+  size: 53, 64
+  orig: 71, 67
+  offset: 9, 3
+  index: -1
+shield_b_06
+  rotate: false
+  xy: 759, 225
+  size: 49, 60
+  orig: 71, 67
+  offset: 20, 7
+  index: -1
+shield_b_07
+  rotate: false
+  xy: 759, 170
+  size: 39, 53
+  orig: 71, 67
+  offset: 32, 13
+  index: -1
+shield_b_08
+  rotate: false
+  xy: 810, 241
+  size: 20, 43
+  orig: 71, 67
+  offset: 50, 21
+  index: -1
+star_01
+  rotate: false
+  xy: 759, 287
+  size: 58, 59
+  orig: 64, 64
+  offset: 3, 2
+  index: -1
+sword_b_01
+  rotate: true
+  xy: 810, 219
+  size: 20, 38
+  orig: 35, 64
+  offset: 1, 0
+  index: -1
+sword_b_02
+  rotate: true
+  xy: 759, 93
+  size: 22, 42
+  orig: 35, 64
+  offset: 1, 1
+  index: -1
+sword_b_03
+  rotate: false
+  xy: 731, 45
+  size: 23, 45
+  orig: 35, 64
+  offset: 2, 1
+  index: -1
+sword_b_04
+  rotate: true
+  xy: 626, 2
+  size: 22, 46
+  orig: 35, 64
+  offset: 3, 3
+  index: -1
+sword_b_05
+  rotate: false
+  xy: 832, 241
+  size: 20, 43
+  orig: 35, 64
+  offset: 5, 7
+  index: -1
+sword_b_06
+  rotate: true
+  xy: 819, 286
+  size: 16, 45
+  orig: 35, 64
+  offset: 9, 17
+  index: -1
+sword_b_07
+  rotate: false
+  xy: 800, 180
+  size: 21, 37
+  orig: 35, 64
+  offset: 13, 27
+  index: -1
+sword_b_08
+  rotate: false
+  xy: 823, 188
+  size: 20, 29
+  orig: 35, 64
+  offset: 14, 35
+  index: -1

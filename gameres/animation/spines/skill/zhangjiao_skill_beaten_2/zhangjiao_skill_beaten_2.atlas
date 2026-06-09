@@ -1,0 +1,237 @@
+
+zhangjiao_skill_beaten_2.png
+size: 1464,1056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/d1_36
+  rotate: true
+  xy: 961, 771
+  size: 281, 105
+  orig: 283, 105
+  offset: 0, 0
+  index: -1
+chutu/skill/d2_36
+  rotate: false
+  xy: 1273, 532
+  size: 180, 69
+  orig: 187, 70
+  offset: 5, 0
+  index: -1
+chutu/skill/dbd1/dbd1_36
+  rotate: true
+  xy: 1329, 830
+  size: 222, 132
+  orig: 338, 313
+  offset: 42, 20
+  index: -1
+chutu/skill/dbd1/dbd1_37
+  rotate: false
+  xy: 1069, 861
+  size: 257, 191
+  orig: 338, 313
+  offset: 32, 17
+  index: -1
+chutu/skill/dbd1/dbd1_38
+  rotate: true
+  xy: 143, 3
+  size: 287, 173
+  orig: 338, 313
+  offset: 24, 8
+  index: -1
+chutu/skill/dbd1/dbd1_39
+  rotate: false
+  xy: 726, 427
+  size: 305, 306
+  orig: 338, 313
+  offset: 14, 5
+  index: -1
+chutu/skill/dbd1/dbd1_40
+  rotate: true
+  xy: 319, 1
+  size: 307, 244
+  orig: 338, 313
+  offset: 13, 2
+  index: -1
+chutu/skill/dbd1/dbd1_41
+  rotate: true
+  xy: 714, 736
+  size: 316, 244
+  orig: 338, 313
+  offset: 11, 2
+  index: -1
+chutu/skill/dbd1/dbd1_42
+  rotate: true
+  xy: 566, 27
+  size: 326, 244
+  orig: 338, 313
+  offset: 6, 3
+  index: -1
+chutu/skill/dbd1/dbd1_43
+  rotate: true
+  xy: 491, 356
+  size: 329, 232
+  orig: 338, 313
+  offset: 5, 6
+  index: -1
+chutu/skill/dbd1/dbd1_45
+  rotate: true
+  xy: 493, 726
+  size: 326, 218
+  orig: 338, 313
+  offset: 10, 11
+  index: -1
+chutu/skill/dbd1/dbd1_47
+  rotate: false
+  xy: 1034, 246
+  size: 234, 196
+  orig: 338, 313
+  offset: 38, 26
+  index: -1
+chutu/skill/dbd1/dbd1_49
+  rotate: true
+  xy: 1272, 307
+  size: 222, 175
+  orig: 338, 313
+  offset: 36, 31
+  index: -1
+chutu/skill/dbd1/dbd1_51
+  rotate: true
+  xy: 914, 14
+  size: 222, 166
+  orig: 338, 313
+  offset: 36, 31
+  index: -1
+chutu/skill/dbd1/dbd1_53
+  rotate: true
+  xy: 1083, 21
+  size: 222, 124
+  orig: 338, 313
+  offset: 36, 31
+  index: -1
+chutu/skill/dbd1/dbd1_55
+  rotate: true
+  xy: 1308, 604
+  size: 223, 125
+  orig: 338, 313
+  offset: 36, 32
+  index: -1
+chutu/skill/dbd1/dbd1_57
+  rotate: true
+  xy: 1210, 21
+  size: 222, 116
+  orig: 338, 313
+  offset: 38, 35
+  index: -1
+chutu/skill/dbd1/dbd1_59
+  rotate: true
+  xy: 1210, 21
+  size: 222, 116
+  orig: 338, 313
+  offset: 38, 35
+  index: -1
+chutu/skill/dbd1/dbd1_61
+  rotate: false
+  xy: 813, 333
+  size: 217, 91
+  orig: 338, 313
+  offset: 47, 39
+  index: -1
+chutu/skill/dbd1/dbd1_63
+  rotate: false
+  xy: 813, 239
+  size: 217, 91
+  orig: 338, 313
+  offset: 47, 39
+  index: -1
+chutu/skill/dq/dq_36
+  rotate: true
+  xy: 1, 1
+  size: 289, 139
+  orig: 389, 172
+  offset: 38, 21
+  index: -1
+chutu/skill/dq/dq_37
+  rotate: true
+  xy: 335, 355
+  size: 330, 153
+  orig: 389, 172
+  offset: 29, 11
+  index: -1
+chutu/skill/dq/dq_38
+  rotate: true
+  xy: 171, 311
+  size: 368, 161
+  orig: 389, 172
+  offset: 16, 8
+  index: -1
+chutu/skill/dq/dq_39
+  rotate: true
+  xy: 1, 669
+  size: 383, 149
+  orig: 389, 172
+  offset: 3, 6
+  index: -1
+chutu/skill/dq/dq_40
+  rotate: true
+  xy: 153, 682
+  size: 370, 167
+  orig: 389, 172
+  offset: 9, 3
+  index: -1
+chutu/skill/dq/dq_41
+  rotate: true
+  xy: 1, 293
+  size: 373, 167
+  orig: 389, 172
+  offset: 9, 3
+  index: -1
+chutu/skill/dq/dq_42
+  rotate: true
+  xy: 323, 688
+  size: 364, 167
+  orig: 389, 172
+  offset: 18, 2
+  index: -1
+chutu/skill/q1/q1_36
+  rotate: true
+  xy: 1329, 95
+  size: 209, 89
+  orig: 237, 101
+  offset: 14, 10
+  index: -1
+chutu/skill/q1/q1_38
+  rotate: true
+  xy: 813, 7
+  size: 229, 98
+  orig: 237, 101
+  offset: 4, 3
+  index: -1
+chutu/skill/q1/q1_40
+  rotate: false
+  xy: 1034, 445
+  size: 235, 101
+  orig: 237, 101
+  offset: 1, 0
+  index: -1
+chutu/skill/q1/q1_42
+  rotate: false
+  xy: 1069, 757
+  size: 236, 101
+  orig: 237, 101
+  offset: 0, 0
+  index: -1
+chutu/skill/q1/q1_44
+  rotate: false
+  xy: 1034, 653
+  size: 236, 101
+  orig: 237, 101
+  offset: 0, 0
+  index: -1
+chutu/skill/q1/q1_46
+  rotate: false
+  xy: 1034, 549
+  size: 236, 101
+  orig: 237, 101
+  offset: 0, 0
+  index: -1

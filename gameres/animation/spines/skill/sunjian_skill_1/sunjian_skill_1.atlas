@@ -1,0 +1,216 @@
+
+sunjian_skill_1.png
+size: 2007,647
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/cc_skill_dg_00005
+  rotate: false
+  xy: 1528, 4
+  size: 149, 187
+  orig: 348, 348
+  offset: 4, 46
+  index: -1
+chutu/skill/cc_skill_dg_00007
+  rotate: true
+  xy: 283, 11
+  size: 307, 223
+  orig: 348, 348
+  offset: 13, 34
+  index: -1
+chutu/skill/cc_skill_dg_00009
+  rotate: true
+  xy: 569, 352
+  size: 293, 220
+  orig: 348, 348
+  offset: 32, 37
+  index: -1
+chutu/skill/cc_skill_dg_00011
+  rotate: true
+  xy: 288, 325
+  size: 320, 279
+  orig: 348, 348
+  offset: 0, 39
+  index: -1
+chutu/skill/cc_skill_dg_00013
+  rotate: true
+  xy: 2, 320
+  size: 325, 284
+  orig: 348, 348
+  offset: 15, 48
+  index: -1
+chutu/skill/cc_skill_dg_00015
+  rotate: true
+  xy: 2, 7
+  size: 311, 279
+  orig: 348, 348
+  offset: 37, 43
+  index: -1
+chutu/skill/cc_skill_dg_00017
+  rotate: true
+  xy: 508, 23
+  size: 300, 278
+  orig: 348, 348
+  offset: 47, 40
+  index: -1
+chutu/skill/cc_skill_dg_00019
+  rotate: false
+  xy: 788, 68
+  size: 282, 282
+  orig: 348, 348
+  offset: 57, 28
+  index: -1
+chutu/skill/cc_skill_dg_00021
+  rotate: false
+  xy: 791, 373
+  size: 243, 272
+  orig: 348, 348
+  offset: 92, 28
+  index: -1
+chutu/skill/cc_skill_dg_00023
+  rotate: false
+  xy: 1036, 393
+  size: 211, 252
+  orig: 348, 348
+  offset: 124, 33
+  index: -1
+chutu/skill/cc_skill_dg_00025
+  rotate: false
+  xy: 1072, 155
+  size: 197, 236
+  orig: 348, 348
+  offset: 124, 47
+  index: -1
+chutu/skill/cc_skill_dg_00027
+  rotate: false
+  xy: 1531, 205
+  size: 185, 218
+  orig: 348, 348
+  offset: 127, 62
+  index: -1
+chutu/skill/cc_skill_dg_00029
+  rotate: false
+  xy: 1377, 2
+  size: 149, 188
+  orig: 348, 348
+  offset: 144, 88
+  index: -1
+chutu/skill/cc_skill_jujixian_00006
+  rotate: true
+  xy: 1718, 334
+  size: 119, 92
+  orig: 348, 348
+  offset: 199, 41
+  index: -1
+chutu/skill/cc_skill_jujixian_00008
+  rotate: true
+  xy: 1638, 455
+  size: 190, 185
+  orig: 348, 348
+  offset: 86, 43
+  index: -1
+chutu/skill/cc_skill_jujixian_00010
+  rotate: false
+  xy: 1477, 425
+  size: 159, 220
+  orig: 348, 348
+  offset: 92, 49
+  index: -1
+chutu/skill/cc_skill_jujixian_00012
+  rotate: false
+  xy: 1271, 192
+  size: 143, 222
+  orig: 348, 348
+  offset: 102, 48
+  index: -1
+chutu/skill/cc_skill_jujixian_00014
+  rotate: false
+  xy: 1416, 193
+  size: 113, 221
+  orig: 348, 348
+  offset: 112, 51
+  index: -1
+chutu/skill/cc_skill_jujixian_00016
+  rotate: false
+  xy: 1679, 7
+  size: 94, 196
+  orig: 348, 348
+  offset: 116, 64
+  index: -1
+chutu/skill/cc_skill_jujixian_00018
+  rotate: true
+  xy: 1825, 416
+  size: 87, 158
+  orig: 348, 348
+  offset: 127, 87
+  index: -1
+chutu/skill/cc_skill_jujizha_00009
+  rotate: false
+  xy: 1249, 416
+  size: 226, 229
+  orig: 245, 258
+  offset: 6, 17
+  index: -1
+chutu/skill/cc_skill_jujizha_00013
+  rotate: true
+  xy: 1825, 505
+  size: 140, 158
+  orig: 245, 258
+  offset: 47, 58
+  index: -1
+chutu/skill/cc_skill_jujizha_00015
+  rotate: false
+  xy: 1072, 3
+  size: 152, 150
+  orig: 245, 258
+  offset: 42, 56
+  index: -1
+chutu/skill/cc_skill_jujizha_00017
+  rotate: false
+  xy: 1226, 3
+  size: 149, 150
+  orig: 245, 258
+  offset: 44, 56
+  index: -1
+chutu/skill/cc_skill_jujizha_00019
+  rotate: true
+  xy: 1841, 280
+  size: 134, 135
+  orig: 245, 258
+  offset: 51, 63
+  index: -1
+chutu/skill/cc_skill_jujizha_00021
+  rotate: true
+  xy: 1718, 209
+  size: 123, 121
+  orig: 245, 258
+  offset: 55, 69
+  index: -1
+chutu/skill/cc_skill_jujizha_00023
+  rotate: false
+  xy: 1841, 157
+  size: 122, 121
+  orig: 245, 258
+  offset: 56, 69
+  index: -1
+chutu/skill/cc_skill_jujizha_00025
+  rotate: true
+  xy: 1775, 34
+  size: 121, 115
+  orig: 245, 258
+  offset: 57, 75
+  index: -1
+chutu/skill/cc_skill_jujizha_00027
+  rotate: false
+  xy: 1892, 45
+  size: 113, 110
+  orig: 245, 258
+  offset: 63, 79
+  index: -1
+chutu/skill/fx_e_glow_001_cl
+  rotate: true
+  xy: 788, 31
+  size: 35, 34
+  orig: 44, 44
+  offset: 4, 5
+  index: -1

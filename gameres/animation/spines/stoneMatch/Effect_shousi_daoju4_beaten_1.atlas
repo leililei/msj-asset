@@ -1,0 +1,118 @@
+
+Effect_shousi_daoju4_beaten_1.png
+size: 2024,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoju4/g1/g1_00017
+  rotate: true
+  xy: 1920, 314
+  size: 109, 101
+  orig: 121, 114
+  offset: 5, 7
+  index: -1
+daoju4/g2/g2_00027
+  rotate: true
+  xy: 667, 122
+  size: 301, 226
+  orig: 321, 240
+  offset: 9, 6
+  index: -1
+daoju4/g3/g3_00022
+  rotate: false
+  xy: 365, 122
+  size: 300, 301
+  orig: 309, 312
+  offset: 3, 6
+  index: -1
+daoju4/j3/j3_012
+  rotate: false
+  xy: 1920, 260
+  size: 51, 52
+  orig: 53, 56
+  offset: 1, 2
+  index: -1
+daoju4/j4/j4_011
+  rotate: false
+  xy: 3, 87
+  size: 360, 336
+  orig: 382, 362
+  offset: 11, 14
+  index: -1
+daoju4/j5/j5_011
+  rotate: false
+  xy: 1302, 209
+  size: 204, 214
+  orig: 216, 226
+  offset: 6, 6
+  index: -1
+daoju4/j5/j5_019
+  rotate: false
+  xy: 1508, 209
+  size: 204, 214
+  orig: 216, 226
+  offset: 6, 6
+  index: -1
+daoju4/j5/j5_020
+  rotate: false
+  xy: 1714, 209
+  size: 204, 214
+  orig: 216, 226
+  offset: 6, 6
+  index: -1
+daoju4/j5/j5_022
+  rotate: true
+  xy: 1095, 3
+  size: 204, 214
+  orig: 216, 226
+  offset: 6, 6
+  index: -1
+daoju4/j5/j5_024
+  rotate: true
+  xy: 1311, 7
+  size: 200, 214
+  orig: 216, 226
+  offset: 7, 6
+  index: -1
+daoju4/j5/j5_026
+  rotate: true
+  xy: 1527, 43
+  size: 164, 214
+  orig: 216, 226
+  offset: 13, 6
+  index: -1
+daoju4/j5/j5_028
+  rotate: true
+  xy: 1743, 73
+  size: 134, 214
+  orig: 216, 226
+  offset: 29, 6
+  index: -1
+daoju4/j5/j5_030
+  rotate: true
+  xy: 895, 57
+  size: 110, 96
+  orig: 216, 226
+  offset: 39, 125
+  index: -1
+daoju4/j7/j7_011
+  rotate: false
+  xy: 1973, 264
+  size: 46, 48
+  orig: 50, 52
+  offset: 2, 2
+  index: -1
+daoju4/j8/j8_023
+  rotate: true
+  xy: 895, 169
+  size: 254, 198
+  orig: 257, 307
+  offset: 1, 100
+  index: -1
+daoju4/j9/j9_011
+  rotate: false
+  xy: 1095, 209
+  size: 205, 214
+  orig: 217, 225
+  offset: 6, 6
+  index: -1

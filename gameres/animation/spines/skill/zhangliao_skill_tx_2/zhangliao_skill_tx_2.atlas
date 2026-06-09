@@ -1,0 +1,139 @@
+
+zhangliao_skill_tx_2.png
+size: 435,2024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/s2/s2_028
+  rotate: false
+  xy: 3, 1554
+  size: 334, 220
+  orig: 345, 264
+  offset: 5, 33
+  index: -1
+chutu/skill/s2/s2_029
+  rotate: false
+  xy: 3, 1776
+  size: 323, 246
+  orig: 345, 264
+  offset: 17, 9
+  index: -1
+chutu/skill/s2/s2_031
+  rotate: false
+  xy: 3, 1339
+  size: 302, 213
+  orig: 345, 264
+  offset: 39, 8
+  index: -1
+chutu/skill/s2/s2_033
+  rotate: false
+  xy: 3, 1134
+  size: 290, 203
+  orig: 345, 264
+  offset: 49, 6
+  index: -1
+chutu/skill/s2/s2_035
+  rotate: false
+  xy: 3, 951
+  size: 271, 181
+  orig: 345, 264
+  offset: 62, 12
+  index: -1
+chutu/skill/s2/s2_037
+  rotate: false
+  xy: 3, 382
+  size: 235, 159
+  orig: 345, 264
+  offset: 73, 17
+  index: -1
+chutu/skill/s2/s2_039
+  rotate: true
+  xy: 307, 1394
+  size: 158, 121
+  orig: 345, 264
+  offset: 108, 26
+  index: -1
+chutu/skill/s2/s2_041
+  rotate: false
+  xy: 3, 83
+  size: 56, 16
+  orig: 345, 264
+  offset: 150, 47
+  index: -1
+chutu/skill/s3/s3_029
+  rotate: true
+  xy: 188, 3
+  size: 248, 105
+  orig: 328, 147
+  offset: 32, 19
+  index: -1
+chutu/skill/s3/s3_030
+  rotate: false
+  xy: 3, 253
+  size: 278, 127
+  orig: 328, 147
+  offset: 24, 9
+  index: -1
+chutu/skill/s3/s3_032
+  rotate: false
+  xy: 3, 543
+  size: 297, 133
+  orig: 328, 147
+  offset: 13, 4
+  index: -1
+chutu/skill/s3/s3_034
+  rotate: false
+  xy: 3, 812
+  size: 315, 137
+  orig: 328, 147
+  offset: 7, 5
+  index: -1
+chutu/skill/s3/s3_036
+  rotate: false
+  xy: 3, 678
+  size: 324, 132
+  orig: 328, 147
+  offset: 2, 10
+  index: -1
+chutu/skill/s4/s4_004
+  rotate: false
+  xy: 276, 960
+  size: 138, 172
+  orig: 197, 321
+  offset: 3, 3
+  index: -1
+chutu/skill/s4/s4_005
+  rotate: false
+  xy: 295, 1167
+  size: 138, 170
+  orig: 197, 321
+  offset: 3, 42
+  index: -1
+chutu/skill/s4/s4_006
+  rotate: false
+  xy: 295, 215
+  size: 137, 170
+  orig: 197, 321
+  offset: 3, 80
+  index: -1
+chutu/skill/s4/s4_007
+  rotate: false
+  xy: 295, 46
+  size: 138, 167
+  orig: 197, 321
+  offset: 1, 120
+  index: -1
+chutu/skill/s4/s4_008
+  rotate: false
+  xy: 240, 387
+  size: 161, 154
+  orig: 197, 321
+  offset: 8, 147
+  index: -1
+chutu/skill/s4/s4_009
+  rotate: false
+  xy: 3, 101
+  size: 183, 150
+  orig: 197, 321
+  offset: 12, 169
+  index: -1

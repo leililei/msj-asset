@@ -1,0 +1,146 @@
+
+sunjian_atk_1.png
+size: 1915,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/attack_dg_00012
+  rotate: true
+  xy: 1744, 72
+  size: 140, 155
+  orig: 348, 340
+  offset: 23, 122
+  index: -1
+chutu/attack/attack_dg_00014
+  rotate: true
+  xy: 1413, 59
+  size: 238, 217
+  orig: 348, 340
+  offset: 64, 70
+  index: -1
+chutu/attack/attack_dg_00016
+  rotate: true
+  xy: 508, 10
+  size: 287, 257
+  orig: 348, 340
+  offset: 24, 50
+  index: -1
+chutu/attack/attack_dg_00018
+  rotate: true
+  xy: 2, 4
+  size: 293, 247
+  orig: 348, 340
+  offset: 26, 49
+  index: -1
+chutu/attack/attack_dg_00020
+  rotate: true
+  xy: 251, 6
+  size: 291, 255
+  orig: 348, 340
+  offset: 30, 47
+  index: -1
+chutu/attack/attack_dg_00022
+  rotate: true
+  xy: 767, 22
+  size: 275, 233
+  orig: 348, 340
+  offset: 42, 46
+  index: -1
+chutu/attack/attack_dg_00024
+  rotate: true
+  xy: 1002, 33
+  size: 264, 217
+  orig: 348, 340
+  offset: 46, 53
+  index: -1
+chutu/attack/attack_dg_00026
+  rotate: true
+  xy: 1221, 40
+  size: 257, 190
+  orig: 348, 340
+  offset: 41, 72
+  index: -1
+chutu/attack/attack_dg_00028
+  rotate: true
+  xy: 1632, 63
+  size: 234, 110
+  orig: 348, 340
+  offset: 42, 94
+  index: -1
+chutu/attack/attack_dg_00029
+  rotate: false
+  xy: 1744, 214
+  size: 159, 83
+  orig: 348, 340
+  offset: 116, 122
+  index: -1
+chutu/attack/attack_dg_00030
+  rotate: true
+  xy: 767, 5
+  size: 15, 76
+  orig: 348, 340
+  offset: 229, 129
+  index: -1
+chutu/attack/cc_jiaodiyanwu_00007
+  rotate: false
+  xy: 1221, 2
+  size: 103, 36
+  orig: 133, 76
+  offset: 13, 16
+  index: -1
+chutu/attack/cc_jiaodiyanwu_00009
+  rotate: false
+  xy: 1812, 32
+  size: 101, 38
+  orig: 133, 76
+  offset: 12, 15
+  index: -1
+chutu/attack/cc_jiaodiyanwu_00011
+  rotate: false
+  xy: 1709, 22
+  size: 101, 39
+  orig: 133, 76
+  offset: 11, 14
+  index: -1
+chutu/attack/cc_jiaodiyanwu_00013
+  rotate: false
+  xy: 1538, 17
+  size: 89, 40
+  orig: 133, 76
+  offset: 9, 14
+  index: -1
+chutu/attack/cc_jiaodiyanwu_00015
+  rotate: false
+  xy: 1629, 17
+  size: 78, 40
+  orig: 133, 76
+  offset: 8, 14
+  index: -1
+chutu/attack/cc_jiaodiyanwu_00017
+  rotate: false
+  xy: 1468, 16
+  size: 68, 41
+  orig: 133, 76
+  offset: 7, 13
+  index: -1
+chutu/attack/cc_jiaodiyanwu_00019
+  rotate: false
+  xy: 1326, 3
+  size: 68, 35
+  orig: 133, 76
+  offset: 6, 14
+  index: -1
+chutu/attack/cc_jiaodiyanwu_00021
+  rotate: true
+  xy: 1432, 9
+  size: 48, 34
+  orig: 133, 76
+  offset: 6, 14
+  index: -1
+chutu/skill/fx_e_glow_001_cl
+  rotate: true
+  xy: 1396, 3
+  size: 35, 34
+  orig: 44, 44
+  offset: 4, 5
+  index: -1

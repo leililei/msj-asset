@@ -1,0 +1,244 @@
+
+WH_xh.png
+size: 1168,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/dj_h/00
+  rotate: true
+  xy: 2, 420
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/03
+  rotate: true
+  xy: 126, 420
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/06
+  rotate: true
+  xy: 250, 420
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/09
+  rotate: true
+  xy: 374, 420
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/12
+  rotate: true
+  xy: 498, 420
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/15
+  rotate: true
+  xy: 622, 420
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/18
+  rotate: true
+  xy: 746, 420
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/21
+  rotate: true
+  xy: 870, 420
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/24
+  rotate: true
+  xy: 994, 420
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/27
+  rotate: true
+  xy: 2, 298
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/30
+  rotate: true
+  xy: 126, 298
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/33
+  rotate: true
+  xy: 250, 298
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/36
+  rotate: true
+  xy: 374, 298
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/39
+  rotate: true
+  xy: 498, 298
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/42
+  rotate: true
+  xy: 622, 298
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/45
+  rotate: true
+  xy: 746, 298
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_h/48
+  rotate: true
+  xy: 870, 298
+  size: 120, 122
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+images/effect/dj_q/00
+  rotate: true
+  xy: 2, 167
+  size: 129, 130
+  orig: 180, 180
+  offset: 26, 26
+  index: -1
+images/effect/dj_q/03
+  rotate: true
+  xy: 134, 165
+  size: 131, 132
+  orig: 180, 180
+  offset: 25, 25
+  index: -1
+images/effect/dj_q/06
+  rotate: false
+  xy: 268, 164
+  size: 132, 132
+  orig: 180, 180
+  offset: 24, 25
+  index: -1
+images/effect/dj_q/09
+  rotate: true
+  xy: 402, 163
+  size: 133, 135
+  orig: 180, 180
+  offset: 24, 24
+  index: -1
+images/effect/dj_q/12
+  rotate: true
+  xy: 539, 161
+  size: 135, 136
+  orig: 180, 180
+  offset: 23, 23
+  index: -1
+images/effect/dj_q/15
+  rotate: true
+  xy: 677, 159
+  size: 137, 138
+  orig: 180, 180
+  offset: 22, 22
+  index: -1
+images/effect/dj_q/18
+  rotate: true
+  xy: 817, 159
+  size: 137, 138
+  orig: 180, 180
+  offset: 22, 22
+  index: -1
+images/effect/dj_q/21
+  rotate: false
+  xy: 957, 149
+  size: 139, 139
+  orig: 180, 180
+  offset: 21, 22
+  index: -1
+images/effect/dj_q/24
+  rotate: false
+  xy: 2, 22
+  size: 141, 141
+  orig: 180, 180
+  offset: 20, 21
+  index: -1
+images/effect/dj_q/27
+  rotate: true
+  xy: 145, 20
+  size: 142, 143
+  orig: 180, 180
+  offset: 20, 20
+  index: -1
+images/effect/dj_q/30
+  rotate: false
+  xy: 290, 18
+  size: 143, 143
+  orig: 180, 180
+  offset: 19, 20
+  index: -1
+images/effect/dj_q/33
+  rotate: true
+  xy: 580, 13
+  size: 144, 145
+  orig: 180, 180
+  offset: 19, 19
+  index: -1
+images/effect/dj_q/36
+  rotate: false
+  xy: 727, 12
+  size: 145, 145
+  orig: 180, 180
+  offset: 18, 19
+  index: -1
+images/effect/dj_q/39
+  rotate: false
+  xy: 874, 2
+  size: 145, 145
+  orig: 180, 180
+  offset: 18, 19
+  index: -1
+images/effect/dj_q/42
+  rotate: false
+  xy: 1021, 2
+  size: 145, 145
+  orig: 180, 180
+  offset: 18, 19
+  index: -1
+images/effect/dj_q/45
+  rotate: false
+  xy: 435, 16
+  size: 143, 143
+  orig: 180, 180
+  offset: 19, 20
+  index: -1
+images/effect/dj_q/48
+  rotate: true
+  xy: 994, 290
+  size: 128, 134
+  orig: 180, 180
+  offset: 26, 22
+  index: -1

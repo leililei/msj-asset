@@ -1,0 +1,62 @@
+
+longhun6_sh_1.png
+size: 1382,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/sf/00
+  rotate: false
+  xy: 1289, 3
+  size: 91, 138
+  orig: 240, 192
+  offset: 76, 28
+  index: -1
+images/effect/sf/01
+  rotate: true
+  xy: 810, 14
+  size: 127, 165
+  orig: 240, 192
+  offset: 61, 14
+  index: -1
+images/effect/sf/02
+  rotate: false
+  xy: 438, 14
+  size: 200, 127
+  orig: 240, 192
+  offset: 18, 30
+  index: -1
+images/effect/sf/03
+  rotate: false
+  xy: 223, 21
+  size: 213, 120
+  orig: 240, 192
+  offset: 13, 36
+  index: -1
+images/effect/sf/04
+  rotate: false
+  xy: 3, 5
+  size: 218, 136
+  orig: 240, 192
+  offset: 10, 28
+  index: -1
+images/effect/sf/06
+  rotate: false
+  xy: 640, 7
+  size: 168, 134
+  orig: 240, 192
+  offset: 36, 29
+  index: -1
+images/effect/sf/08
+  rotate: false
+  xy: 977, 17
+  size: 156, 124
+  orig: 240, 192
+  offset: 42, 34
+  index: -1
+images/effect/sf/10
+  rotate: false
+  xy: 1135, 23
+  size: 152, 118
+  orig: 240, 192
+  offset: 44, 37
+  index: -1

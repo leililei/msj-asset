@@ -1,0 +1,125 @@
+
+M_lvbu_atk_beaten_1.png
+size: 2048,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/attack/a11/a11_00018
+  rotate: false
+  xy: 1670, 75
+  size: 99, 92
+  orig: 249, 219
+  offset: 76, 65
+  index: -1
+images/chutu/attack/a11/a11_00019
+  rotate: false
+  xy: 1416, 35
+  size: 150, 139
+  orig: 249, 219
+  offset: 49, 40
+  index: -1
+images/chutu/attack/a11/a11_00021
+  rotate: false
+  xy: 1637, 169
+  size: 210, 195
+  orig: 249, 219
+  offset: 17, 10
+  index: -1
+images/chutu/attack/a11/a11_00023
+  rotate: true
+  xy: 1849, 158
+  size: 206, 195
+  orig: 249, 219
+  offset: 14, 7
+  index: -1
+images/chutu/attack/a11/a11_00025
+  rotate: false
+  xy: 866, 3
+  size: 213, 188
+  orig: 249, 219
+  offset: 12, 16
+  index: -1
+images/chutu/attack/a11/a11_00027
+  rotate: false
+  xy: 1417, 176
+  size: 218, 188
+  orig: 249, 219
+  offset: 12, 14
+  index: -1
+images/chutu/attack/a11/a11_00029
+  rotate: false
+  xy: 3, 4
+  size: 210, 176
+  orig: 249, 219
+  offset: 22, 20
+  index: -1
+images/chutu/attack/a6/a6_00000
+  rotate: false
+  xy: 215, 44
+  size: 236, 126
+  orig: 355, 355
+  offset: 70, 116
+  index: -1
+images/chutu/attack/a6/a6_00001
+  rotate: false
+  xy: 1138, 57
+  size: 276, 145
+  orig: 355, 355
+  offset: 39, 112
+  index: -1
+images/chutu/attack/a6/a6_00002
+  rotate: false
+  xy: 1138, 204
+  size: 277, 160
+  orig: 355, 355
+  offset: 39, 105
+  index: -1
+images/chutu/attack/a6/a6_00004
+  rotate: false
+  xy: 3, 182
+  size: 330, 182
+  orig: 355, 355
+  offset: 24, 95
+  index: -1
+images/chutu/attack/a6/a6_00006
+  rotate: false
+  xy: 335, 172
+  size: 253, 192
+  orig: 355, 355
+  offset: 28, 89
+  index: -1
+images/chutu/attack/a6/a6_00008
+  rotate: false
+  xy: 866, 193
+  size: 270, 171
+  orig: 355, 355
+  offset: 14, 87
+  index: -1
+images/chutu/attack/a6/a6_00010
+  rotate: false
+  xy: 590, 189
+  size: 274, 175
+  orig: 355, 355
+  offset: 13, 85
+  index: -1
+images/chutu/attack/a7/a10_00018
+  rotate: false
+  xy: 615, 65
+  size: 190, 122
+  orig: 231, 156
+  offset: 19, 16
+  index: -1
+images/chutu/attack/a7/a7_00000
+  rotate: false
+  xy: 1568, 67
+  size: 100, 100
+  orig: 148, 148
+  offset: 24, 25
+  index: -1
+images/chutu/attack/a7/a8_00018
+  rotate: false
+  xy: 453, 10
+  size: 160, 160
+  orig: 197, 197
+  offset: 18, 19
+  index: -1

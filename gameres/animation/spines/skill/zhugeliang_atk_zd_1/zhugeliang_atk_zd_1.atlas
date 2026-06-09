@@ -1,0 +1,244 @@
+
+zhugeliang_atk_zd_1.png
+size: 2047,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/ddao1/ddao1_00
+  rotate: false
+  xy: 1448, 93
+  size: 285, 87
+  orig: 303, 96
+  offset: 14, 6
+  index: -1
+images/chutu/ddao1/ddao1_30
+  rotate: false
+  xy: 1448, 93
+  size: 285, 87
+  orig: 303, 96
+  offset: 14, 6
+  index: -1
+images/chutu/ddao1/ddao1_03
+  rotate: false
+  xy: 1476, 184
+  size: 285, 88
+  orig: 303, 96
+  offset: 15, 5
+  index: -1
+images/chutu/ddao1/ddao1_33
+  rotate: false
+  xy: 1476, 184
+  size: 285, 88
+  orig: 303, 96
+  offset: 15, 5
+  index: -1
+images/chutu/ddao1/ddao1_06
+  rotate: false
+  xy: 1177, 184
+  size: 295, 88
+  orig: 303, 96
+  offset: 6, 6
+  index: -1
+images/chutu/ddao1/ddao1_36
+  rotate: false
+  xy: 1177, 184
+  size: 295, 88
+  orig: 303, 96
+  offset: 6, 6
+  index: -1
+images/chutu/ddao1/ddao1_09
+  rotate: false
+  xy: 1152, 95
+  size: 292, 85
+  orig: 303, 96
+  offset: 9, 6
+  index: -1
+images/chutu/ddao1/ddao1_39
+  rotate: false
+  xy: 1152, 95
+  size: 292, 85
+  orig: 303, 96
+  offset: 9, 6
+  index: -1
+images/chutu/ddao1/ddao1_12
+  rotate: false
+  xy: 874, 185
+  size: 299, 87
+  orig: 303, 96
+  offset: 2, 6
+  index: -1
+images/chutu/ddao1/ddao1_42
+  rotate: false
+  xy: 874, 185
+  size: 299, 87
+  orig: 303, 96
+  offset: 2, 6
+  index: -1
+images/chutu/ddao1/ddao1_15
+  rotate: false
+  xy: 4, 180
+  size: 290, 92
+  orig: 303, 96
+  offset: 11, 2
+  index: -1
+images/chutu/ddao1/ddao1_45
+  rotate: false
+  xy: 4, 180
+  size: 290, 92
+  orig: 303, 96
+  offset: 11, 2
+  index: -1
+images/chutu/ddao1/ddao1_18
+  rotate: false
+  xy: 298, 180
+  size: 284, 92
+  orig: 303, 96
+  offset: 17, 2
+  index: -1
+images/chutu/ddao1/ddao1_48
+  rotate: false
+  xy: 298, 180
+  size: 284, 92
+  orig: 303, 96
+  offset: 17, 2
+  index: -1
+images/chutu/ddao1/ddao1_21
+  rotate: false
+  xy: 1765, 181
+  size: 274, 91
+  orig: 303, 96
+  offset: 27, 2
+  index: -1
+images/chutu/ddao1/ddao1_24
+  rotate: false
+  xy: 874, 90
+  size: 274, 91
+  orig: 303, 96
+  offset: 25, 2
+  index: -1
+images/chutu/ddao1/ddao1_27
+  rotate: false
+  xy: 586, 180
+  size: 284, 92
+  orig: 303, 96
+  offset: 17, 2
+  index: -1
+images/chutu/ddao2/ddao2_00
+  rotate: false
+  xy: 686, 85
+  size: 96, 91
+  orig: 117, 112
+  offset: 13, 2
+  index: -1
+images/chutu/ddao2/ddao2_01
+  rotate: true
+  xy: 1954, 86
+  size: 91, 89
+  orig: 117, 112
+  offset: 22, 4
+  index: -1
+images/chutu/ddao2/ddao2_02
+  rotate: true
+  xy: 584, 86
+  size: 90, 98
+  orig: 117, 112
+  offset: 22, 12
+  index: -1
+images/chutu/ddao2/ddao2_03
+  rotate: false
+  xy: 223, 90
+  size: 108, 86
+  orig: 117, 112
+  offset: 7, 23
+  index: -1
+images/chutu/ddao2/ddao2_04
+  rotate: false
+  xy: 4, 90
+  size: 111, 86
+  orig: 117, 112
+  offset: 4, 23
+  index: -1
+images/chutu/ddao2/ddao2_05
+  rotate: false
+  xy: 119, 81
+  size: 100, 95
+  orig: 117, 112
+  offset: 4, 10
+  index: -1
+images/chutu/ddao2/ddao2_06
+  rotate: false
+  xy: 1152, 4
+  size: 88, 87
+  orig: 117, 112
+  offset: 6, 6
+  index: -1
+images/chutu/ddao2/ddao2_07
+  rotate: false
+  xy: 1847, 84
+  size: 103, 93
+  orig: 117, 112
+  offset: 7, 8
+  index: -1
+images/chutu/ddao2/ddao2_08
+  rotate: false
+  xy: 1737, 81
+  size: 106, 96
+  orig: 117, 112
+  offset: 8, 4
+  index: -1
+images/chutu/ddao2/ddao2_09
+  rotate: false
+  xy: 483, 85
+  size: 97, 91
+  orig: 117, 112
+  offset: 12, 2
+  index: -1
+images/chutu/sbdian/sbdian_60
+  rotate: false
+  xy: 335, 115
+  size: 144, 61
+  orig: 149, 70
+  offset: 1, 7
+  index: -1
+images/chutu/sbdian/sbdian_62
+  rotate: false
+  xy: 1505, 40
+  size: 130, 49
+  orig: 149, 70
+  offset: 10, 14
+  index: -1
+images/chutu/sbdian/sbdian_64
+  rotate: false
+  xy: 848, 44
+  size: 133, 42
+  orig: 149, 70
+  offset: 14, 13
+  index: -1
+images/chutu/sbdian/sbdian_67
+  rotate: false
+  xy: 1244, 35
+  size: 132, 56
+  orig: 149, 70
+  offset: 4, 4
+  index: -1
+images/chutu/sbdian/sbdian_69
+  rotate: true
+  xy: 786, 39
+  size: 137, 58
+  orig: 149, 70
+  offset: 6, 7
+  index: -1
+images/chutu/sbdian/sbdian_71
+  rotate: false
+  xy: 335, 53
+  size: 140, 58
+  orig: 149, 70
+  offset: 7, 2
+  index: -1
+images/chutu/sbdian/sbdian_73
+  rotate: false
+  xy: 1380, 36
+  size: 121, 53
+  orig: 149, 70
+  offset: 21, 2
+  index: -1

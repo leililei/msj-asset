@@ -1,0 +1,265 @@
+
+mazhu14_chuanzhang_beaten_1.png
+size: 1988,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_mz01_01
+  rotate: false
+  xy: 956, 5
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_02
+  rotate: true
+  xy: 511, 13
+  size: 101, 130
+  orig: 101, 130
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_03
+  rotate: true
+  xy: 1104, 135
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_04
+  rotate: true
+  xy: 1104, 25
+  size: 107, 132
+  orig: 107, 132
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_05
+  rotate: true
+  xy: 1361, 43
+  size: 106, 135
+  orig: 106, 135
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_07
+  rotate: true
+  xy: 1561, 121
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+effect/atk_mz01_09
+  rotate: false
+  xy: 838, 4
+  size: 88, 27
+  orig: 88, 27
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_00
+  rotate: false
+  xy: 326, 19
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_01
+  rotate: false
+  xy: 1369, 246
+  size: 192, 98
+  orig: 192, 98
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_02
+  rotate: false
+  xy: 971, 245
+  size: 195, 99
+  orig: 195, 99
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_03
+  rotate: false
+  xy: 1170, 245
+  size: 195, 99
+  orig: 195, 99
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_04
+  rotate: false
+  xy: 570, 243
+  size: 197, 102
+  orig: 197, 102
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_05
+  rotate: false
+  xy: 770, 243
+  size: 197, 102
+  orig: 197, 102
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_07
+  rotate: false
+  xy: 1369, 153
+  size: 188, 90
+  orig: 188, 90
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_09
+  rotate: false
+  xy: 4, 112
+  size: 185, 89
+  orig: 185, 89
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_11
+  rotate: false
+  xy: 192, 119
+  size: 179, 83
+  orig: 179, 83
+  offset: 0, 0
+  index: -1
+effect/atk_mz02_13
+  rotate: false
+  xy: 122, 83
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+effect/atk_mz03_01
+  rotate: false
+  xy: 394, 204
+  size: 172, 141
+  orig: 172, 141
+  offset: 0, 0
+  index: -1
+effect/atk_mz03_02
+  rotate: false
+  xy: 4, 205
+  size: 194, 139
+  orig: 194, 139
+  offset: 0, 0
+  index: -1
+effect/atk_mz03_03
+  rotate: false
+  xy: 201, 208
+  size: 189, 137
+  orig: 189, 137
+  offset: 0, 0
+  index: -1
+effect/atk_mz03_05
+  rotate: false
+  xy: 1565, 231
+  size: 161, 114
+  orig: 161, 114
+  offset: 0, 0
+  index: -1
+effect/atk_mz03_07
+  rotate: false
+  xy: 192, 14
+  size: 130, 102
+  orig: 130, 102
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_00
+  rotate: false
+  xy: 1854, 89
+  size: 129, 111
+  orig: 129, 111
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_01
+  rotate: false
+  xy: 706, 123
+  size: 133, 116
+  orig: 133, 116
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_02
+  rotate: true
+  xy: 1854, 204
+  size: 141, 122
+  orig: 141, 122
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_03
+  rotate: true
+  xy: 1729, 203
+  size: 142, 121
+  orig: 142, 121
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_04
+  rotate: false
+  xy: 570, 119
+  size: 132, 121
+  orig: 132, 121
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_06
+  rotate: false
+  xy: 375, 91
+  size: 132, 110
+  orig: 132, 110
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_08
+  rotate: false
+  xy: 1705, 90
+  size: 131, 110
+  orig: 131, 110
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_10
+  rotate: true
+  xy: 1248, 105
+  size: 136, 109
+  orig: 136, 109
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_12
+  rotate: true
+  xy: 842, 108
+  size: 132, 110
+  orig: 132, 110
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_14
+  rotate: false
+  xy: 706, 10
+  size: 128, 110
+  orig: 128, 110
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_16
+  rotate: false
+  xy: 1500, 13
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_18
+  rotate: false
+  xy: 4, 13
+  size: 115, 95
+  orig: 115, 95
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_20
+  rotate: false
+  xy: 838, 35
+  size: 93, 68
+  orig: 93, 68
+  offset: 0, 0
+  index: -1
+effect/atk_mz04_22
+  rotate: false
+  xy: 1240, 45
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+effect/skl_glow
+  rotate: false
+  xy: 971, 112
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1

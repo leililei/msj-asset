@@ -1,0 +1,55 @@
+
+S_diaochan_atk_beaten_zd.png
+size: 123,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_dd_00
+  rotate: false
+  xy: 2, 60
+  size: 118, 56
+  orig: 122, 61
+  offset: 1, 4
+  index: -1
+effect/attack_dd_01
+  rotate: false
+  xy: 2, 286
+  size: 115, 52
+  orig: 123, 61
+  offset: 1, 4
+  index: -1
+effect/attack_dd_02
+  rotate: false
+  xy: 2, 2
+  size: 119, 56
+  orig: 122, 61
+  offset: 0, 4
+  index: -1
+effect/attack_dd_03
+  rotate: false
+  xy: 2, 340
+  size: 115, 50
+  orig: 123, 61
+  offset: 1, 6
+  index: -1
+effect/attack_dd_04
+  rotate: false
+  xy: 2, 175
+  size: 119, 55
+  orig: 123, 61
+  offset: 1, 4
+  index: -1
+effect/attack_dd_05
+  rotate: false
+  xy: 2, 232
+  size: 118, 52
+  orig: 125, 61
+  offset: 0, 4
+  index: -1
+effect/attack_dd_06
+  rotate: false
+  xy: 2, 118
+  size: 110, 55
+  orig: 113, 61
+  offset: 0, 3
+  index: -1

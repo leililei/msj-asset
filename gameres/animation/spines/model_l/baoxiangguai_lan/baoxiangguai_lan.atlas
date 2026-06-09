@@ -1,0 +1,146 @@
+
+baoxiangguai_lan.png
+size: 477,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_10
+  rotate: false
+  xy: 186, 118
+  size: 171, 67
+  orig: 171, 67
+  offset: 0, 0
+  index: -1
+01_11
+  rotate: false
+  xy: 454, 26
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+01_12
+  rotate: false
+  xy: 454, 55
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+01_13
+  rotate: false
+  xy: 359, 85
+  size: 116, 53
+  orig: 116, 53
+  offset: 0, 0
+  index: -1
+01_14
+  rotate: false
+  xy: 184, 40
+  size: 161, 76
+  orig: 161, 76
+  offset: 0, 0
+  index: -1
+01_15
+  rotate: false
+  xy: 2, 56
+  size: 180, 85
+  orig: 180, 85
+  offset: 0, 0
+  index: -1
+01_16
+  rotate: false
+  xy: 2, 13
+  size: 71, 41
+  orig: 71, 41
+  offset: 0, 0
+  index: -1
+01_17
+  rotate: true
+  xy: 247, 6
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+01_18
+  rotate: true
+  xy: 130, 17
+  size: 37, 48
+  orig: 37, 55
+  offset: 0, 1
+  index: -1
+01_19
+  rotate: false
+  xy: 180, 2
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+01_20
+  rotate: false
+  xy: 347, 17
+  size: 105, 66
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+01_21
+  rotate: false
+  xy: 102, 3
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+01_22
+  rotate: true
+  xy: 207, 9
+  size: 29, 38
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+01_23
+  rotate: false
+  xy: 75, 2
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+01_24
+  rotate: false
+  xy: 282, 12
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+01_25
+  rotate: true
+  xy: 75, 18
+  size: 36, 53
+  orig: 36, 60
+  offset: 0, 2
+  index: -1
+01_26
+  rotate: true
+  xy: 360, 140
+  size: 127, 108
+  orig: 127, 108
+  offset: 0, 0
+  index: -1
+01_9
+  rotate: false
+  xy: 2, 143
+  size: 182, 124
+  orig: 182, 124
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 186, 187
+  size: 172, 80
+  orig: 174, 82
+  offset: 1, 1
+  index: -1
+20000
+  rotate: false
+  xy: 314, 20
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1

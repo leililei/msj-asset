@@ -1,0 +1,62 @@
+
+jiachongguai_atk_beaten_2.png
+size: 871,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/a3/a3_016
+  rotate: false
+  xy: 691, 108
+  size: 178, 72
+  orig: 237, 107
+  offset: 30, 18
+  index: -1
+chutu/a3/a3_017
+  rotate: false
+  xy: 659, 5
+  size: 204, 82
+  orig: 237, 107
+  offset: 12, 14
+  index: -1
+chutu/a3/a3_019
+  rotate: false
+  xy: 448, 2
+  size: 209, 85
+  orig: 237, 107
+  offset: 8, 12
+  index: -1
+chutu/a3/a3_021
+  rotate: false
+  xy: 234, 15
+  size: 212, 88
+  orig: 237, 107
+  offset: 6, 10
+  index: -1
+chutu/a3/a3_023
+  rotate: false
+  xy: 469, 89
+  size: 220, 91
+  orig: 237, 107
+  offset: 4, 9
+  index: -1
+chutu/a3/a3_025
+  rotate: false
+  xy: 2, 5
+  size: 226, 88
+  orig: 237, 107
+  offset: 4, 8
+  index: -1
+chutu/a3/a3_027
+  rotate: false
+  xy: 2, 95
+  size: 230, 85
+  orig: 237, 107
+  offset: 4, 7
+  index: -1
+chutu/a3/a3_029
+  rotate: false
+  xy: 234, 105
+  size: 233, 75
+  orig: 237, 107
+  offset: 3, 12
+  index: -1

@@ -1,0 +1,41 @@
+
+denglong.png
+size: 243,373
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: true
+  xy: 0, 1
+  size: 105, 112
+  orig: 127, 131
+  offset: 6, 4
+  index: -1
+guang
+  rotate: false
+  xy: 0, 109
+  size: 243, 264
+  orig: 243, 264
+  offset: 0, 0
+  index: -1
+piao1
+  rotate: false
+  xy: 145, 4
+  size: 25, 39
+  orig: 34, 45
+  offset: 5, 6
+  index: -1
+piao2
+  rotate: false
+  xy: 168, 8
+  size: 20, 36
+  orig: 26, 46
+  offset: 0, 10
+  index: -1
+weiba
+  rotate: false
+  xy: 112, 15
+  size: 48, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1

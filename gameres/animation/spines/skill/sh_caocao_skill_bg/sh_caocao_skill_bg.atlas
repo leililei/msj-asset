@@ -1,0 +1,27 @@
+
+sh_caocao_skill_bg.png
+size: 461,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skl3_bj1
+  rotate: false
+  xy: 3, 4
+  size: 433, 250
+  orig: 435, 252
+  offset: 1, 1
+  index: -1
+effect/skl3_bj2
+  rotate: false
+  xy: 3, 255
+  size: 434, 302
+  orig: 435, 304
+  offset: 0, 1
+  index: -1
+effect/skl3_bj3
+  rotate: 270
+  xy: 381, 210
+  size: 44, 78
+  orig: 46, 80
+  offset: 1, 1
+  index: -1

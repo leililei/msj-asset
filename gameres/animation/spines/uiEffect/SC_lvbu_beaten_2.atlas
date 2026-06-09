@@ -1,0 +1,279 @@
+
+SC_lvbu_beaten_2.png
+size: 1526,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2duan/b1/b1_00028
+  rotate: false
+  xy: 1328, 326
+  size: 137, 80
+  orig: 156, 97
+  offset: 10, 9
+  index: -1
+2duan/b2/b2_00028
+  rotate: false
+  xy: 1338, 51
+  size: 129, 61
+  orig: 130, 65
+  offset: 1, 2
+  index: -1
+2duan/b3/b3_00028
+  rotate: false
+  xy: 1376, 533
+  size: 141, 75
+  orig: 301, 222
+  offset: 82, 16
+  index: -1
+2duan/b3/b3_00029
+  rotate: true
+  xy: 1328, 610
+  size: 180, 195
+  orig: 301, 222
+  offset: 69, 15
+  index: -1
+2duan/b3/b3_00030
+  rotate: true
+  xy: 1153, 294
+  size: 218, 173
+  orig: 301, 222
+  offset: 40, 6
+  index: -1
+2duan/b3/b3_00032
+  rotate: false
+  xy: 294, 3
+  size: 273, 190
+  orig: 301, 222
+  offset: 10, 5
+  index: -1
+2duan/b3/b3_00034
+  rotate: false
+  xy: 569, 7
+  size: 279, 197
+  orig: 301, 222
+  offset: 6, 5
+  index: -1
+2duan/b3/b3_00036
+  rotate: true
+  xy: 715, 505
+  size: 285, 192
+  orig: 301, 222
+  offset: 4, 5
+  index: -1
+2duan/b3/b3_00038
+  rotate: false
+  xy: 2, 4
+  size: 290, 187
+  orig: 301, 222
+  offset: 2, 4
+  index: -1
+2duan/b3/b3_00040
+  rotate: true
+  xy: 132, 195
+  size: 295, 179
+  orig: 301, 222
+  offset: 1, 4
+  index: -1
+2duan/b3/b3_00042
+  rotate: true
+  xy: 313, 201
+  size: 293, 168
+  orig: 301, 222
+  offset: 6, 4
+  index: -1
+2duan/b3/b3_00044
+  rotate: true
+  xy: 483, 206
+  size: 289, 165
+  orig: 301, 222
+  offset: 11, 6
+  index: -1
+2duan/b3/b3_00046
+  rotate: true
+  xy: 650, 211
+  size: 288, 133
+  orig: 301, 222
+  offset: 11, 6
+  index: -1
+2duan/b3/b3_00048
+  rotate: true
+  xy: 1048, 544
+  size: 246, 114
+  orig: 301, 222
+  offset: 45, 23
+  index: -1
+2duan/b3/b3_00050
+  rotate: false
+  xy: 1164, 645
+  size: 140, 79
+  orig: 301, 222
+  offset: 84, 48
+  index: -1
+2duan/b3/b3_00052
+  rotate: true
+  xy: 1448, 132
+  size: 140, 73
+  orig: 301, 222
+  offset: 84, 54
+  index: -1
+2duan/b4/b4_00028
+  rotate: false
+  xy: 1153, 251
+  size: 75, 41
+  orig: 318, 167
+  offset: 117, 36
+  index: -1
+2duan/b4/b4_00029
+  rotate: false
+  xy: 1164, 726
+  size: 141, 64
+  orig: 318, 167
+  offset: 81, 33
+  index: -1
+2duan/b4/b4_00030
+  rotate: false
+  xy: 1328, 408
+  size: 194, 105
+  orig: 318, 167
+  offset: 61, 26
+  index: -1
+2duan/b4/b4_00032
+  rotate: true
+  xy: 909, 511
+  size: 279, 137
+  orig: 318, 167
+  offset: 16, 18
+  index: -1
+2duan/b4/b4_00034
+  rotate: true
+  xy: 785, 219
+  size: 284, 144
+  orig: 318, 167
+  offset: 14, 16
+  index: -1
+2duan/b4/b4_00036
+  rotate: true
+  xy: 564, 501
+  size: 289, 149
+  orig: 318, 167
+  offset: 9, 12
+  index: -1
+2duan/b4/b4_00038
+  rotate: true
+  xy: 292, 496
+  size: 294, 150
+  orig: 318, 167
+  offset: 6, 11
+  index: -1
+2duan/b4/b4_00040
+  rotate: true
+  xy: 2, 492
+  size: 298, 150
+  orig: 318, 167
+  offset: 5, 10
+  index: -1
+2duan/b4/b4_00042
+  rotate: true
+  xy: 154, 495
+  size: 295, 136
+  orig: 318, 167
+  offset: 12, 9
+  index: -1
+2duan/b4/b4_00044
+  rotate: true
+  xy: 2, 193
+  size: 297, 128
+  orig: 318, 167
+  offset: 16, 10
+  index: -1
+2duan/b4/b4_00046
+  rotate: true
+  xy: 444, 497
+  size: 293, 118
+  orig: 318, 167
+  offset: 16, 15
+  index: -1
+2duan/b4/b4_00048
+  rotate: true
+  xy: 1048, 514
+  size: 28, 105
+  orig: 318, 167
+  offset: 274, 29
+  index: -1
+2duan/b5/b5_00028
+  rotate: true
+  xy: 1467, 274
+  size: 132, 57
+  orig: 283, 122
+  offset: 73, 30
+  index: -1
+2duan/b5/b5_00029
+  rotate: true
+  xy: 850, 2
+  size: 215, 92
+  orig: 283, 122
+  offset: 32, 13
+  index: -1
+2duan/b5/b5_00030
+  rotate: true
+  xy: 931, 236
+  size: 273, 113
+  orig: 283, 122
+  offset: 1, 7
+  index: -1
+2duan/b5/b5_00032
+  rotate: true
+  xy: 1046, 237
+  size: 272, 105
+  orig: 283, 122
+  offset: 10, 6
+  index: -1
+2duan/b5/b5_00034
+  rotate: true
+  xy: 944, 7
+  size: 227, 107
+  orig: 283, 122
+  offset: 11, 5
+  index: -1
+2duan/b5/b5_00036
+  rotate: true
+  xy: 1144, 15
+  size: 220, 94
+  orig: 283, 122
+  offset: 16, 8
+  index: -1
+2duan/b5/b5_00038
+  rotate: true
+  xy: 1240, 34
+  size: 216, 96
+  orig: 283, 122
+  offset: 18, 6
+  index: -1
+2duan/b5/b5_00040
+  rotate: true
+  xy: 1053, 14
+  size: 221, 89
+  orig: 283, 122
+  offset: 15, 13
+  index: -1
+2duan/b5/b5_00042
+  rotate: false
+  xy: 1164, 515
+  size: 210, 93
+  orig: 283, 122
+  offset: 27, 11
+  index: -1
+2duan/b5/b5_00044
+  rotate: true
+  xy: 1347, 114
+  size: 210, 99
+  orig: 283, 122
+  offset: 27, 9
+  index: -1
+2duan/b5/b5_00046
+  rotate: false
+  xy: 1230, 252
+  size: 115, 40
+  orig: 283, 122
+  offset: 126, 7
+  index: -1

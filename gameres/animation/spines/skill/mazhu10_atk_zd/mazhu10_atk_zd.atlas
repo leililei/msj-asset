@@ -1,0 +1,13 @@
+
+mazhu10_atk_zd.png
+size: 28,28
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qian
+  rotate: false
+  xy: 2, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

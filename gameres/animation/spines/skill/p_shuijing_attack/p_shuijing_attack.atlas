@@ -1,0 +1,90 @@
+
+p_shuijing_attack.png
+size: 362,987
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/atk/bk/bk_10
+  rotate: true
+  xy: 278, 693
+  size: 89, 77
+  orig: 152, 163
+  offset: 28, 43
+  index: -1
+chutu/atk/bk/bk_11
+  rotate: true
+  xy: 231, 400
+  size: 133, 129
+  orig: 152, 163
+  offset: 13, 10
+  index: -1
+chutu/atk/bk/bk_12
+  rotate: true
+  xy: 213, 119
+  size: 108, 141
+  orig: 152, 163
+  offset: 8, 10
+  index: -1
+chutu/atk/bk/bk_13
+  rotate: false
+  xy: 212, 9
+  size: 115, 108
+  orig: 152, 163
+  offset: 20, 29
+  index: -1
+chutu/atk/dg/dg_09
+  rotate: true
+  xy: 231, 229
+  size: 169, 128
+  orig: 384, 304
+  offset: 21, 148
+  index: -1
+chutu/atk/dg/dg_10
+  rotate: false
+  xy: 2, 784
+  size: 312, 201
+  orig: 384, 304
+  offset: 22, 10
+  index: -1
+chutu/atk/dg/dg_11
+  rotate: false
+  xy: 2, 535
+  size: 274, 247
+  orig: 384, 304
+  offset: 99, 21
+  index: -1
+chutu/atk/dg/dg_13
+  rotate: true
+  xy: 2, 330
+  size: 203, 227
+  orig: 384, 304
+  offset: 140, 57
+  index: -1
+chutu/atk/dg/dg_15
+  rotate: false
+  xy: 2, 127
+  size: 209, 201
+  orig: 384, 304
+  offset: 127, 67
+  index: -1
+chutu/atk/dg/dg_17
+  rotate: false
+  xy: 2, 2
+  size: 208, 123
+  orig: 384, 304
+  offset: 108, 146
+  index: -1
+chutu/atk/xlz
+  rotate: true
+  xy: 316, 950
+  size: 35, 37
+  orig: 37, 39
+  offset: 1, 1
+  index: -1
+chutu/skill/g2
+  rotate: false
+  xy: 278, 645
+  size: 46, 46
+  orig: 48, 50
+  offset: 1, 2
+  index: -1

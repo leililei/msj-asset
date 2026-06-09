@@ -1,0 +1,244 @@
+
+S_S_lvbu_skill_2.png
+size: 2015,790
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_baozha04_00
+  rotate: false
+  xy: 1410, 148
+  size: 202, 148
+  orig: 204, 148
+  offset: 1, 0
+  index: -1
+effect/skill_baozha04_01
+  rotate: false
+  xy: 1614, 154
+  size: 179, 142
+  orig: 180, 142
+  offset: 1, 0
+  index: -1
+effect/skill_baozha04_02
+  rotate: false
+  xy: 1807, 650
+  size: 206, 138
+  orig: 210, 138
+  offset: 4, 0
+  index: -1
+effect/skill_baozha04_03
+  rotate: false
+  xy: 1807, 379
+  size: 202, 136
+  orig: 203, 136
+  offset: 0, 0
+  index: -1
+effect/skill_baozha04_04
+  rotate: false
+  xy: 1601, 2
+  size: 204, 144
+  orig: 204, 144
+  offset: 0, 0
+  index: -1
+effect/skill_baozha04_05
+  rotate: false
+  xy: 1488, 651
+  size: 201, 137
+  orig: 201, 137
+  offset: 0, 0
+  index: -1
+effect/skill_baozha04_06
+  rotate: false
+  xy: 1488, 524
+  size: 201, 124
+  orig: 202, 125
+  offset: 0, 1
+  index: -1
+effect/skill_baozha04_07
+  rotate: false
+  xy: 1184, 7
+  size: 203, 125
+  orig: 205, 125
+  offset: 1, 0
+  index: -1
+effect/skill_baozha04_08
+  rotate: false
+  xy: 1807, 517
+  size: 206, 131
+  orig: 208, 131
+  offset: 1, 0
+  index: -1
+effect/skill_baozha04_09
+  rotate: false
+  xy: 939, 6
+  size: 125, 85
+  orig: 126, 87
+  offset: 0, 1
+  index: -1
+effect/skill_baozha04_10
+  rotate: false
+  xy: 1758, 299
+  size: 118, 78
+  orig: 119, 78
+  offset: 0, 0
+  index: -1
+effect/skill_baozha04_11
+  rotate: false
+  xy: 1066, 12
+  size: 116, 79
+  orig: 117, 79
+  offset: 0, 0
+  index: -1
+effect/skill_baozha04_12
+  rotate: false
+  xy: 1691, 709
+  size: 112, 79
+  orig: 114, 79
+  offset: 1, 0
+  index: -1
+effect/skill_baozha04_13
+  rotate: false
+  xy: 691, 10
+  size: 110, 66
+  orig: 112, 66
+  offset: 1, 0
+  index: -1
+effect/skill_baozha05_00
+  rotate: false
+  xy: 1807, 68
+  size: 173, 104
+  orig: 181, 112
+  offset: 4, 4
+  index: -1
+effect/skill_baozha05_01
+  rotate: true
+  xy: 1636, 300
+  size: 192, 120
+  orig: 200, 128
+  offset: 4, 4
+  index: -1
+effect/skill_baozha05_02
+  rotate: false
+  xy: 1807, 174
+  size: 197, 123
+  orig: 205, 131
+  offset: 4, 4
+  index: -1
+effect/skill_baozha05_03
+  rotate: false
+  xy: 1389, 8
+  size: 210, 124
+  orig: 218, 132
+  offset: 4, 4
+  index: -1
+effect/skill_baozha05_04
+  rotate: true
+  xy: 1410, 298
+  size: 224, 123
+  orig: 233, 129
+  offset: 4, 4
+  index: -1
+effect/skill_baozha05_05
+  rotate: true
+  xy: 1691, 494
+  size: 213, 111
+  orig: 220, 118
+  offset: 4, 5
+  index: -1
+effect/skill_baozha05_06
+  rotate: true
+  xy: 1535, 298
+  size: 194, 99
+  orig: 203, 110
+  offset: 7, 10
+  index: -1
+effect/skill_baozha05_07
+  rotate: true
+  xy: 803, 38
+  size: 38, 36
+  orig: 42, 39
+  offset: 2, 2
+  index: -1
+effect/skill_moshen_00
+  rotate: true
+  xy: 1183, 134
+  size: 318, 225
+  orig: 336, 247
+  offset: 10, 11
+  index: -1
+effect/skill_moshen_01
+  rotate: true
+  xy: 1000, 454
+  size: 334, 236
+  orig: 355, 258
+  offset: 11, 11
+  index: -1
+effect/skill_moshen_02
+  rotate: true
+  xy: 939, 93
+  size: 343, 242
+  orig: 369, 264
+  offset: 13, 11
+  index: -1
+effect/skill_moshen_03
+  rotate: true
+  xy: 691, 78
+  size: 351, 246
+  orig: 373, 264
+  offset: 10, 9
+  index: -1
+effect/skill_moshen_04
+  rotate: true
+  xy: 504, 431
+  size: 357, 247
+  orig: 376, 263
+  offset: 9, 8
+  index: -1
+effect/skill_moshen_05
+  rotate: true
+  xy: 1238, 524
+  size: 264, 248
+  orig: 279, 264
+  offset: 8, 8
+  index: -1
+effect/skill_moshen_06
+  rotate: true
+  xy: 753, 438
+  size: 350, 245
+  orig: 369, 265
+  offset: 9, 10
+  index: -1
+effect/skill_moshen_07
+  rotate: true
+  xy: 214, 24
+  size: 363, 246
+  orig: 383, 265
+  offset: 9, 10
+  index: -1
+effect/skill_moshen_08
+  rotate: true
+  xy: 254, 395
+  size: 393, 248
+  orig: 416, 269
+  offset: 11, 11
+  index: -1
+effect/skill_moshen_09
+  rotate: true
+  xy: 2, 389
+  size: 399, 250
+  orig: 417, 268
+  offset: 9, 9
+  index: -1
+effect/skill_moshen_10
+  rotate: true
+  xy: 462, 5
+  size: 388, 227
+  orig: 408, 250
+  offset: 10, 11
+  index: -1
+effect/skill_moshen_11
+  rotate: true
+  xy: 2, 18
+  size: 369, 210
+  orig: 377, 225
+  offset: 4, 7
+  index: -1

@@ -1,0 +1,97 @@
+
+gongji_baozha.png
+size: 1836,682
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz3_00
+  rotate: false
+  xy: 1621, 199
+  size: 191, 186
+  orig: 212, 211
+  offset: 12, 15
+  index: -1
+bz3_01
+  rotate: true
+  xy: 1553, 387
+  size: 293, 281
+  orig: 298, 286
+  offset: 2, 3
+  index: -1
+bz3_03
+  rotate: true
+  xy: 645, 263
+  size: 417, 296
+  orig: 423, 302
+  offset: 3, 3
+  index: -1
+bz3_05
+  rotate: true
+  xy: 2, 232
+  size: 448, 322
+  orig: 453, 326
+  offset: 2, 2
+  index: -1
+bz3_07
+  rotate: true
+  xy: 326, 257
+  size: 423, 317
+  orig: 428, 326
+  offset: 2, 7
+  index: -1
+bz3_09
+  rotate: true
+  xy: 943, 275
+  size: 405, 316
+  orig: 411, 328
+  offset: 3, 6
+  index: -1
+bz3_11
+  rotate: true
+  xy: 1261, 275
+  size: 405, 290
+  orig: 411, 325
+  offset: 3, 25
+  index: -1
+bz3_13
+  rotate: false
+  xy: 401, 5
+  size: 405, 250
+  orig: 410, 254
+  offset: 3, 3
+  index: -1
+bz3_15
+  rotate: false
+  xy: 808, 3
+  size: 404, 258
+  orig: 408, 262
+  offset: 2, 2
+  index: -1
+bz3_17
+  rotate: false
+  xy: 1214, 23
+  size: 404, 250
+  orig: 408, 262
+  offset: 2, 11
+  index: -1
+bz3_19
+  rotate: false
+  xy: 2, 2
+  size: 397, 228
+  orig: 400, 230
+  offset: 2, 1
+  index: -1
+bz3_21
+  rotate: true
+  xy: 1620, 36
+  size: 161, 142
+  orig: 164, 145
+  offset: 1, 2
+  index: -1
+bz3_23
+  rotate: false
+  xy: 1553, 294
+  size: 66, 91
+  orig: 68, 94
+  offset: 1, 1
+  index: -1

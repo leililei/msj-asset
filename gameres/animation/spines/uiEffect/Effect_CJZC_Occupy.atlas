@@ -1,0 +1,34 @@
+
+Effect_CJZC_Occupy.png
+size: 333,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gs1_00000
+  rotate: false
+  xy: 234, 44
+  size: 33, 89
+  orig: 115, 115
+  offset: 41, 13
+  index: -1
+quan1_00000
+  rotate: false
+  xy: 234, 135
+  size: 97, 97
+  orig: 115, 115
+  offset: 9, 9
+  index: -1
+sg1
+  rotate: false
+  xy: 2, 2
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+xd1
+  rotate: false
+  xy: 269, 88
+  size: 40, 45
+  orig: 58, 58
+  offset: 9, 7
+  index: -1

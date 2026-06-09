@@ -1,0 +1,174 @@
+
+guanyu_atk_beaten_1.png
+size: 1350,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk/msg_guanyu_pg_dg/msg_guanyu_pg_dg_00
+  rotate: true
+  xy: 889, 300
+  size: 235, 154
+  orig: 252, 167
+  offset: 11, 7
+  index: -1
+effect/atk/msg_guanyu_pg_dg/msg_guanyu_pg_dg_02
+  rotate: false
+  xy: 1151, 21
+  size: 191, 154
+  orig: 252, 167
+  offset: 51, 7
+  index: -1
+effect/atk/msg_guanyu_pg_dg/msg_guanyu_pg_dg_04
+  rotate: false
+  xy: 904, 2
+  size: 160, 155
+  orig: 252, 167
+  offset: 80, 7
+  index: -1
+effect/atk/msg_guanyu_pg_dg/msg_guanyu_pg_dg_06
+  rotate: true
+  xy: 314, 8
+  size: 126, 154
+  orig: 252, 167
+  offset: 110, 7
+  index: -1
+effect/atk/msg_guanyu_pg_dl
+  rotate: true
+  xy: 2, 128
+  size: 407, 36
+  orig: 407, 36
+  offset: 0, 0
+  index: -1
+effect/atk/msg_guanyu_pg_gy
+  rotate: false
+  xy: 40, 235
+  size: 297, 300
+  orig: 311, 318
+  offset: 7, 9
+  index: -1
+effect/atk/msg_guanyu_pg_hwdg/msg_guanyu_pg_hwdg_00
+  rotate: false
+  xy: 191, 7
+  size: 121, 127
+  orig: 259, 163
+  offset: 11, 25
+  index: -1
+effect/atk/msg_guanyu_pg_hwdg/msg_guanyu_pg_hwdg_01
+  rotate: false
+  xy: 470, 4
+  size: 244, 135
+  orig: 259, 163
+  offset: 12, 6
+  index: -1
+effect/atk/msg_guanyu_pg_hwdg/msg_guanyu_pg_hwdg_02
+  rotate: true
+  xy: 1045, 311
+  size: 224, 135
+  orig: 259, 163
+  offset: 31, 15
+  index: -1
+effect/atk/msg_guanyu_pg_hwdg/msg_guanyu_pg_hwdg_04
+  rotate: false
+  xy: 705, 149
+  size: 184, 140
+  orig: 259, 163
+  offset: 68, 12
+  index: -1
+effect/atk/msg_guanyu_pg_hwdg/msg_guanyu_pg_hwdg_06
+  rotate: true
+  xy: 406, 141
+  size: 145, 141
+  orig: 259, 163
+  offset: 103, 13
+  index: -1
+effect/atk/msg_guanyu_pg_hwdg/msg_guanyu_pg_hwdg_08
+  rotate: false
+  xy: 40, 130
+  size: 145, 103
+  orig: 259, 163
+  offset: 101, 51
+  index: -1
+effect/atk/msg_guanyu_pg_mz/msg_guanyu_pg_mz_00
+  rotate: true
+  xy: 334, 147
+  size: 86, 70
+  orig: 222, 163
+  offset: 67, 41
+  index: -1
+effect/atk/msg_guanyu_pg_mz/msg_guanyu_pg_mz_02
+  rotate: false
+  xy: 1182, 177
+  size: 165, 135
+  orig: 222, 163
+  offset: 31, 14
+  index: -1
+effect/atk/msg_guanyu_pg_mz/msg_guanyu_pg_mz_04
+  rotate: false
+  xy: 891, 159
+  size: 175, 139
+  orig: 222, 163
+  offset: 28, 16
+  index: -1
+effect/atk/msg_guanyu_pg_mz/msg_guanyu_pg_mz_06
+  rotate: false
+  xy: 716, 8
+  size: 186, 139
+  orig: 222, 163
+  offset: 23, 21
+  index: -1
+effect/atk/msg_guanyu_pg_mz/msg_guanyu_pg_mz_08
+  rotate: false
+  xy: 2, 3
+  size: 187, 123
+  orig: 222, 163
+  offset: 23, 37
+  index: -1
+effect/atk/msg_guanyu_pg_zd/msg_guanyu_pg_zd_00
+  rotate: false
+  xy: 187, 136
+  size: 145, 97
+  orig: 266, 204
+  offset: 57, 15
+  index: -1
+effect/atk/msg_guanyu_pg_zd/msg_guanyu_pg_zd_02
+  rotate: true
+  xy: 339, 288
+  size: 247, 179
+  orig: 266, 204
+  offset: 6, 6
+  index: -1
+effect/atk/msg_guanyu_pg_zd/msg_guanyu_pg_zd_04
+  rotate: true
+  xy: 520, 291
+  size: 244, 184
+  orig: 266, 204
+  offset: 8, 6
+  index: -1
+effect/atk/msg_guanyu_pg_zd/msg_guanyu_pg_zd_06
+  rotate: true
+  xy: 706, 296
+  size: 239, 181
+  orig: 266, 204
+  offset: 10, 7
+  index: -1
+effect/atk/msg_guanyu_pg_zd/msg_guanyu_pg_zd_08
+  rotate: true
+  xy: 1182, 314
+  size: 221, 166
+  orig: 266, 204
+  offset: 24, 16
+  index: -1
+effect/atk/msg_guanyu_pg_zd/msg_guanyu_pg_zd_10
+  rotate: true
+  xy: 549, 146
+  size: 143, 154
+  orig: 266, 204
+  offset: 106, 30
+  index: -1
+effect/atk/msg_guanyu_pg_zd/msg_guanyu_pg_zd_12
+  rotate: false
+  xy: 1066, 2
+  size: 83, 155
+  orig: 266, 204
+  offset: 132, 31
+  index: -1

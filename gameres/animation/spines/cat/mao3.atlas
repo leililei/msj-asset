@@ -1,0 +1,174 @@
+
+mao3.png
+size: 272,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbeard1
+  rotate: false
+  xy: 3, 101
+  size: 22, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+Lbrow1
+  rotate: false
+  xy: 150, 4
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Lbrow2
+  rotate: false
+  xy: 163, 4
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Lear1
+  rotate: false
+  xy: 245, 56
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: false
+  xy: 222, 86
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Leyec1
+  rotate: false
+  xy: 54, 6
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Lfoot1
+  rotate: false
+  xy: 246, 86
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Lfoot2
+  rotate: false
+  xy: 245, 30
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Lshy1
+  rotate: false
+  xy: 71, 5
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+Rbeard1
+  rotate: true
+  xy: 3, 6
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+Rbrow1
+  rotate: true
+  xy: 19, 5
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+Rbrow2
+  rotate: false
+  xy: 228, 5
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Rear1
+  rotate: 180
+  xy: 126, 8
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 193, 22
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Reyec1
+  rotate: false
+  xy: 33, 7
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Rfoot1
+  rotate: false
+  xy: 206, 4
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+Rfoot2
+  rotate: true
+  xy: 245, 11
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+Rshy1
+  rotate: false
+  xy: 83, 6
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 3, 13
+  size: 144, 101
+  orig: 144, 101
+  offset: 0, 0
+  index: -1
+eyes1
+  rotate: true
+  xy: 224, 21
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: 270
+  xy: 145, 19
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+head1
+  rotate: true
+  xy: 183, 5
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 119, 5
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: false
+  xy: 173, 53
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1

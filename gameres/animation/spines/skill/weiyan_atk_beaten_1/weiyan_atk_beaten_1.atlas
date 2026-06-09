@@ -1,0 +1,97 @@
+
+weiyan_atk_beaten_1.png
+size: 763,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk/msg_weiy_pg_dg/msg_weiy_pg_dg_00
+  rotate: true
+  xy: 2, 233
+  size: 277, 219
+  orig: 302, 234
+  offset: 16, 7
+  index: -1
+effect/atk/msg_weiy_pg_dg/msg_weiy_pg_dg_01
+  rotate: true
+  xy: 223, 239
+  size: 271, 203
+  orig: 302, 234
+  offset: 20, 7
+  index: -1
+effect/atk/msg_weiy_pg_dg/msg_weiy_pg_dg_02
+  rotate: true
+  xy: 428, 246
+  size: 264, 166
+  orig: 302, 234
+  offset: 25, 7
+  index: -1
+effect/atk/msg_weiy_pg_dg/msg_weiy_pg_dg_04
+  rotate: true
+  xy: 596, 160
+  size: 187, 164
+  orig: 302, 234
+  offset: 57, 7
+  index: -1
+effect/atk/msg_weiy_pg_dg/msg_weiy_pg_dg_06
+  rotate: false
+  xy: 596, 349
+  size: 165, 161
+  orig: 302, 234
+  offset: 74, 7
+  index: -1
+effect/atk/msg_weiy_pg_dl
+  rotate: false
+  xy: 257, 2
+  size: 197, 16
+  orig: 197, 16
+  offset: 0, 0
+  index: -1
+effect/atk/msg_weiy_pg_mz/msg_weiy_pg_mz_00
+  rotate: true
+  xy: 257, 20
+  size: 217, 113
+  orig: 281, 146
+  offset: 13, 4
+  index: -1
+effect/atk/msg_weiy_pg_mz/msg_weiy_pg_mz_02
+  rotate: true
+  xy: 131, 8
+  size: 223, 124
+  orig: 281, 146
+  offset: 29, 4
+  index: -1
+effect/atk/msg_weiy_pg_mz/msg_weiy_pg_mz_04
+  rotate: true
+  xy: 2, 2
+  size: 229, 127
+  orig: 281, 146
+  offset: 35, 6
+  index: -1
+effect/atk/msg_weiy_pg_mz/msg_weiy_pg_mz_06
+  rotate: true
+  xy: 372, 43
+  size: 194, 113
+  orig: 281, 146
+  offset: 38, 8
+  index: -1
+effect/atk/msg_weiy_pg_mz/msg_weiy_pg_mz_08
+  rotate: false
+  xy: 487, 43
+  size: 179, 115
+  orig: 281, 146
+  offset: 53, 6
+  index: -1
+effect/atk/msg_weiy_pg_mz/msg_weiy_pg_mz_10
+  rotate: true
+  xy: 668, 7
+  size: 151, 65
+  orig: 281, 146
+  offset: 69, 13
+  index: -1
+effect/atk/msg_weiy_pg_mz/msg_weiy_pg_mz_12
+  rotate: false
+  xy: 456, 2
+  size: 79, 39
+  orig: 281, 146
+  offset: 141, 14
+  index: -1

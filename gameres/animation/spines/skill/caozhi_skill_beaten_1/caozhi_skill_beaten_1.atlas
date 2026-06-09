@@ -1,0 +1,391 @@
+
+caozhi_skill_beaten_1.png
+size: 1982,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/sf03a_00
+  rotate: true
+  xy: 1037, 496
+  size: 54, 50
+  orig: 65, 61
+  offset: 5, 5
+  index: -1
+effect/sf03a_01
+  rotate: true
+  xy: 1776, 166
+  size: 72, 84
+  orig: 83, 95
+  offset: 5, 5
+  index: -1
+effect/sf03a_02
+  rotate: true
+  xy: 418, 32
+  size: 111, 86
+  orig: 122, 97
+  offset: 6, 5
+  index: -1
+effect/sf03a_03
+  rotate: true
+  xy: 2, 3
+  size: 136, 85
+  orig: 146, 96
+  offset: 5, 5
+  index: -1
+effect/sf03a_04
+  rotate: false
+  xy: 1782, 240
+  size: 180, 68
+  orig: 191, 80
+  offset: 5, 5
+  index: -1
+effect/sf03a_05
+  rotate: true
+  xy: 764, 2
+  size: 192, 61
+  orig: 203, 71
+  offset: 5, 5
+  index: -1
+effect/sf03a_06
+  rotate: true
+  xy: 1090, 344
+  size: 206, 65
+  orig: 218, 75
+  offset: 6, 5
+  index: -1
+effect/sf03a_07
+  rotate: true
+  xy: 1037, 552
+  size: 206, 70
+  orig: 217, 80
+  offset: 6, 5
+  index: -1
+effect/sf03a_08
+  rotate: true
+  xy: 89, 11
+  size: 128, 71
+  orig: 139, 81
+  offset: 5, 5
+  index: -1
+effect/sf03a_09
+  rotate: false
+  xy: 577, 5
+  size: 68, 30
+  orig: 80, 41
+  offset: 6, 5
+  index: -1
+effect/sf03a_10
+  rotate: false
+  xy: 296, 453
+  size: 43, 23
+  orig: 54, 33
+  offset: 5, 5
+  index: -1
+effect/sf03b_00
+  rotate: false
+  xy: 1813, 12
+  size: 87, 152
+  orig: 97, 163
+  offset: 5, 5
+  index: -1
+effect/sf03b_01
+  rotate: true
+  xy: 1029, 8
+  size: 217, 148
+  orig: 230, 156
+  offset: 8, 4
+  index: -1
+effect/sf03b_02
+  rotate: true
+  xy: 577, 493
+  size: 265, 244
+  orig: 272, 254
+  offset: 3, 5
+  index: -1
+effect/sf03b_03
+  rotate: false
+  xy: 296, 478
+  size: 279, 280
+  orig: 287, 288
+  offset: 4, 4
+  index: -1
+effect/sf03b_04
+  rotate: false
+  xy: 571, 196
+  size: 279, 280
+  orig: 287, 288
+  offset: 4, 4
+  index: -1
+effect/sf03b_05
+  rotate: false
+  xy: 281, 145
+  size: 288, 303
+  orig: 296, 309
+  offset: 4, 3
+  index: -1
+effect/sf03b_06
+  rotate: false
+  xy: 2, 141
+  size: 277, 307
+  orig: 287, 313
+  offset: 5, 3
+  index: -1
+effect/sf03b_07
+  rotate: false
+  xy: 2, 450
+  size: 292, 308
+  orig: 299, 314
+  offset: 3, 3
+  index: -1
+effect/sf03b_08
+  rotate: true
+  xy: 852, 227
+  size: 264, 236
+  orig: 274, 247
+  offset: 5, 6
+  index: -1
+effect/sf03b_09
+  rotate: true
+  xy: 823, 493
+  size: 265, 212
+  orig: 275, 224
+  offset: 5, 7
+  index: -1
+effect/sf03b_10
+  rotate: true
+  xy: 1539, 16
+  size: 180, 169
+  orig: 192, 181
+  offset: 6, 6
+  index: -1
+effect/sf03b_11
+  rotate: true
+  xy: 162, 12
+  size: 127, 161
+  orig: 139, 175
+  offset: 6, 7
+  index: -1
+effect/sf03c_00
+  rotate: false
+  xy: 325, 3
+  size: 91, 140
+  orig: 95, 150
+  offset: 2, 8
+  index: -1
+effect/sf03c_01
+  rotate: false
+  xy: 1710, 4
+  size: 101, 152
+  orig: 105, 163
+  offset: 2, 8
+  index: -1
+effect/sf03c_02
+  rotate: false
+  xy: 1678, 405
+  size: 103, 153
+  orig: 107, 166
+  offset: 2, 7
+  index: -1
+effect/sf03c_03
+  rotate: false
+  xy: 1678, 247
+  size: 102, 156
+  orig: 106, 169
+  offset: 2, 7
+  index: -1
+effect/sf03c_04
+  rotate: true
+  xy: 1255, 240
+  size: 104, 158
+  orig: 108, 171
+  offset: 2, 7
+  index: -1
+effect/sf03c_05
+  rotate: true
+  xy: 1090, 237
+  size: 105, 163
+  orig: 109, 172
+  offset: 2, 7
+  index: -1
+effect/sf03c_06
+  rotate: true
+  xy: 506, 37
+  size: 106, 164
+  orig: 110, 175
+  offset: 2, 9
+  index: -1
+effect/sf03c_07
+  rotate: true
+  xy: 1415, 246
+  size: 103, 166
+  orig: 107, 176
+  offset: 2, 8
+  index: -1
+effect/sf03c_08
+  rotate: true
+  xy: 1818, 669
+  size: 89, 162
+  orig: 99, 177
+  offset: 2, 8
+  index: -1
+effect/sf03c_09
+  rotate: true
+  xy: 1818, 576
+  size: 91, 161
+  orig: 101, 177
+  offset: 2, 8
+  index: -1
+effect/sf03c_10
+  rotate: true
+  xy: 1818, 483
+  size: 91, 159
+  orig: 101, 175
+  offset: 2, 8
+  index: -1
+effect/sf03c_11
+  rotate: false
+  xy: 672, 37
+  size: 90, 157
+  orig: 100, 174
+  offset: 2, 9
+  index: -1
+effect/sf03c_12
+  rotate: false
+  xy: 1583, 198
+  size: 90, 156
+  orig: 99, 173
+  offset: 2, 9
+  index: -1
+effect/sf03c_13
+  rotate: false
+  xy: 1862, 176
+  size: 90, 62
+  orig: 99, 72
+  offset: 2, 2
+  index: -1
+effect/sf03c_14
+  rotate: true
+  xy: 1710, 158
+  size: 87, 64
+  orig: 97, 73
+  offset: 2, 2
+  index: -1
+effect/sf03c_15
+  rotate: true
+  xy: 540, 4
+  size: 31, 35
+  orig: 35, 39
+  offset: 2, 2
+  index: -1
+effect/sf03c_16
+  rotate: false
+  xy: 418, 2
+  size: 35, 28
+  orig: 39, 33
+  offset: 2, 3
+  index: -1
+effect/sf03c_17
+  rotate: false
+  xy: 689, 5
+  size: 38, 30
+  orig: 42, 34
+  offset: 2, 2
+  index: -1
+effect/sf03c_18
+  rotate: false
+  xy: 647, 5
+  size: 40, 30
+  orig: 44, 34
+  offset: 2, 2
+  index: -1
+effect/sf03c_19
+  rotate: true
+  xy: 506, 2
+  size: 33, 32
+  orig: 37, 37
+  offset: 2, 3
+  index: -1
+effect/sf03c_20
+  rotate: false
+  xy: 341, 463
+  size: 11, 13
+  orig: 15, 18
+  offset: 2, 3
+  index: -1
+effect/sf_qiu_00
+  rotate: false
+  xy: 827, 6
+  size: 200, 188
+  orig: 206, 195
+  offset: 3, 3
+  index: -1
+effect/sf_qiu_01
+  rotate: true
+  xy: 1179, 33
+  size: 202, 185
+  orig: 209, 192
+  offset: 3, 3
+  index: -1
+effect/sf_qiu_02
+  rotate: true
+  xy: 1109, 553
+  size: 205, 184
+  orig: 211, 190
+  offset: 3, 3
+  index: -1
+effect/sf_qiu_03
+  rotate: true
+  xy: 1157, 346
+  size: 205, 181
+  orig: 211, 188
+  offset: 3, 4
+  index: -1
+effect/sf_qiu_04
+  rotate: true
+  xy: 1295, 554
+  size: 204, 174
+  orig: 212, 180
+  offset: 3, 3
+  index: -1
+effect/sf_qiu_05
+  rotate: true
+  xy: 1471, 558
+  size: 200, 171
+  orig: 209, 177
+  offset: 3, 3
+  index: -1
+effect/sf_qiu_06
+  rotate: true
+  xy: 1340, 351
+  size: 201, 166
+  orig: 207, 172
+  offset: 3, 3
+  index: -1
+effect/sf_qiu_07
+  rotate: true
+  xy: 1508, 356
+  size: 200, 168
+  orig: 207, 173
+  offset: 4, 3
+  index: -1
+effect/sf_qiu_08
+  rotate: true
+  xy: 1366, 38
+  size: 200, 171
+  orig: 207, 177
+  offset: 4, 3
+  index: -1
+effect/sf_qiu_09
+  rotate: true
+  xy: 1644, 560
+  size: 198, 172
+  orig: 204, 178
+  offset: 3, 3
+  index: -1
+effect/sf_qiu_10
+  rotate: false
+  xy: 1783, 310
+  size: 197, 171
+  orig: 203, 177
+  offset: 3, 3
+  index: -1

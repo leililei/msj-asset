@@ -1,0 +1,83 @@
+
+baoxiangguai_lv_beaten_1.png
+size: 406,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/g1/g1_00001
+  rotate: true
+  xy: 354, 39
+  size: 44, 46
+  orig: 50, 53
+  offset: 3, 3
+  index: -1
+chutu/g2/g2_00000
+  rotate: false
+  xy: 354, 85
+  size: 50, 52
+  orig: 56, 58
+  offset: 3, 3
+  index: -1
+chutu/hit/hit_00013
+  rotate: false
+  xy: 348, 7
+  size: 40, 30
+  orig: 111, 88
+  offset: 49, 22
+  index: -1
+chutu/hit/hit_00014
+  rotate: false
+  xy: 194, 79
+  size: 80, 58
+  orig: 111, 88
+  offset: 21, 10
+  index: -1
+chutu/hit/hit_00016
+  rotate: false
+  xy: 2, 2
+  size: 92, 65
+  orig: 111, 88
+  offset: 11, 7
+  index: -1
+chutu/hit/hit_00018
+  rotate: false
+  xy: 2, 69
+  size: 96, 68
+  orig: 111, 88
+  offset: 7, 6
+  index: -1
+chutu/hit/hit_00020
+  rotate: false
+  xy: 100, 74
+  size: 92, 63
+  orig: 111, 88
+  offset: 11, 11
+  index: -1
+chutu/hit/hit_00022
+  rotate: false
+  xy: 100, 10
+  size: 75, 62
+  orig: 111, 88
+  offset: 28, 12
+  index: -1
+chutu/hit/hit_00024
+  rotate: false
+  xy: 194, 15
+  size: 75, 62
+  orig: 111, 88
+  offset: 28, 12
+  index: -1
+chutu/hit/hit_00026
+  rotate: false
+  xy: 276, 76
+  size: 76, 61
+  orig: 111, 88
+  offset: 27, 13
+  index: -1
+chutu/hit/hit_00028
+  rotate: false
+  xy: 271, 13
+  size: 75, 61
+  orig: 111, 88
+  offset: 27, 14
+  index: -1

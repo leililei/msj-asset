@@ -1,0 +1,69 @@
+
+houziguai_dandao_1.png
+size: 136,376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/dd/dd_00000
+  rotate: false
+  xy: 3, 181
+  size: 128, 37
+  orig: 144, 50
+  offset: 12, 8
+  index: -1
+chutu/dd/dd_00002
+  rotate: false
+  xy: 3, 37
+  size: 126, 32
+  orig: 144, 50
+  offset: 11, 10
+  index: -1
+chutu/dd/dd_00004
+  rotate: false
+  xy: 3, 259
+  size: 130, 37
+  orig: 144, 50
+  offset: 10, 6
+  index: -1
+chutu/dd/dd_00006
+  rotate: false
+  xy: 3, 71
+  size: 127, 32
+  orig: 144, 50
+  offset: 9, 9
+  index: -1
+chutu/dd/dd_00008
+  rotate: false
+  xy: 3, 220
+  size: 129, 37
+  orig: 144, 50
+  offset: 9, 6
+  index: -1
+chutu/dd/dd_00010
+  rotate: false
+  xy: 3, 3
+  size: 120, 32
+  orig: 144, 50
+  offset: 15, 10
+  index: -1
+chutu/dd/dd_00012
+  rotate: false
+  xy: 3, 142
+  size: 124, 37
+  orig: 144, 50
+  offset: 13, 7
+  index: -1
+chutu/dd/dd_00014
+  rotate: false
+  xy: 3, 105
+  size: 124, 35
+  orig: 144, 50
+  offset: 14, 9
+  index: -1
+chutu/g1/g1_00000
+  rotate: false
+  xy: 3, 298
+  size: 76, 75
+  orig: 81, 80
+  offset: 2, 2
+  index: -1

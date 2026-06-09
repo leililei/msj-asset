@@ -1,0 +1,76 @@
+
+Effect_sw_succeed.png
+size: 334,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glowkuai1
+  rotate: true
+  xy: 247, 188
+  size: 114, 79
+  orig: 128, 128
+  offset: 7, 24
+  index: -1
+hudie
+  rotate: false
+  xy: 244, 73
+  size: 40, 41
+  orig: 42, 43
+  offset: 1, 1
+  index: -1
+kuosan044_00000
+  rotate: false
+  xy: 143, 5
+  size: 101, 53
+  orig: 118, 62
+  offset: 8, 3
+  index: -1
+lizi22
+  rotate: false
+  xy: 143, 60
+  size: 99, 99
+  orig: 102, 102
+  offset: 3, 3
+  index: -1
+quan
+  rotate: true
+  xy: 127, 304
+  size: 206, 205
+  orig: 206, 205
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: true
+  xy: 286, 77
+  size: 37, 33
+  orig: 43, 41
+  offset: 3, 4
+  index: -1
+youyan
+  rotate: true
+  xy: 2, 2
+  size: 111, 139
+  orig: 158, 142
+  offset: 47, 3
+  index: -1
+yuan
+  rotate: false
+  xy: 247, 116
+  size: 72, 70
+  orig: 78, 77
+  offset: 3, 4
+  index: -1
+zi
+  rotate: true
+  xy: 2, 115
+  size: 395, 123
+  orig: 398, 126
+  offset: 2, 1
+  index: -1
+zuoyan
+  rotate: false
+  xy: 127, 161
+  size: 118, 141
+  orig: 121, 143
+  offset: 0, 2
+  index: -1

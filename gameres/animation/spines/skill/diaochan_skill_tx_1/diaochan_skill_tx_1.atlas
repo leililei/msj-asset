@@ -1,0 +1,230 @@
+
+diaochan_skill_tx_1.png
+size: 1855,781
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/glow1_000
+  rotate: true
+  xy: 1625, 437
+  size: 195, 200
+  orig: 218, 222
+  offset: 10, 12
+  index: -1
+chutu/glow2/glow2_007
+  rotate: true
+  xy: 1443, 513
+  size: 24, 23
+  orig: 164, 158
+  offset: 71, 66
+  index: -1
+chutu/glow2/glow2_010
+  rotate: false
+  xy: 1706, 288
+  size: 147, 147
+  orig: 164, 158
+  offset: 17, 0
+  index: -1
+chutu/glow2/glow2_011
+  rotate: true
+  xy: 706, 6
+  size: 164, 158
+  orig: 164, 158
+  offset: 0, 0
+  index: -1
+chutu/glow2/glow2_012
+  rotate: true
+  xy: 1547, 33
+  size: 163, 157
+  orig: 164, 158
+  offset: 0, 0
+  index: -1
+chutu/glow2/glow2_013
+  rotate: true
+  xy: 1549, 276
+  size: 159, 151
+  orig: 164, 158
+  offset: 3, 2
+  index: -1
+chutu/glow2/glow2_014
+  rotate: true
+  xy: 1706, 24
+  size: 119, 144
+  orig: 164, 158
+  offset: 6, 5
+  index: -1
+chutu/quan2_000
+  rotate: false
+  xy: 350, 473
+  size: 250, 306
+  orig: 266, 309
+  offset: 0, 2
+  index: -1
+chutu/shizi1/shizi_000
+  rotate: true
+  xy: 1706, 145
+  size: 141, 145
+  orig: 160, 181
+  offset: 0, 19
+  index: -1
+chutu/shizi1/shizi_001
+  rotate: true
+  xy: 2, 3
+  size: 147, 160
+  orig: 160, 181
+  offset: 0, 14
+  index: -1
+chutu/shizi1/shizi_002
+  rotate: true
+  xy: 315, 2
+  size: 154, 152
+  orig: 160, 181
+  offset: 0, 14
+  index: -1
+chutu/shizi1/shizi_003
+  rotate: false
+  xy: 164, 3
+  size: 149, 147
+  orig: 160, 181
+  offset: 6, 20
+  index: -1
+chutu/shizi_000
+  rotate: false
+  xy: 1625, 634
+  size: 216, 145
+  orig: 245, 181
+  offset: 16, 19
+  index: -1
+chutu/td/td_000
+  rotate: true
+  xy: 866, 3
+  size: 176, 119
+  orig: 332, 383
+  offset: 22, 34
+  index: -1
+chutu/td/td_002
+  rotate: true
+  xy: 1060, 198
+  size: 285, 263
+  orig: 332, 383
+  offset: 21, 16
+  index: -1
+chutu/td/td_004
+  rotate: false
+  xy: 831, 485
+  size: 271, 294
+  orig: 332, 383
+  offset: 44, 19
+  index: -1
+chutu/td/td_005
+  rotate: false
+  xy: 532, 172
+  size: 265, 299
+  orig: 332, 383
+  offset: 51, 24
+  index: -1
+chutu/td/td_007
+  rotate: false
+  xy: 799, 181
+  size: 259, 297
+  orig: 332, 383
+  offset: 57, 39
+  index: -1
+chutu/td/td_009
+  rotate: false
+  xy: 602, 480
+  size: 227, 299
+  orig: 332, 383
+  offset: 85, 47
+  index: -1
+chutu/td/td_011
+  rotate: true
+  xy: 987, 6
+  size: 173, 290
+  orig: 332, 383
+  offset: 126, 63
+  index: -1
+chutu/td/td_013
+  rotate: false
+  xy: 1325, 214
+  size: 129, 278
+  orig: 332, 383
+  offset: 155, 78
+  index: -1
+chutu/td/td_015
+  rotate: false
+  xy: 1456, 198
+  size: 91, 237
+  orig: 332, 383
+  offset: 192, 106
+  index: -1
+chutu/xf/xf_000
+  rotate: false
+  xy: 1279, 14
+  size: 266, 182
+  orig: 342, 221
+  offset: 26, 8
+  index: -1
+chutu/xf/xf_002
+  rotate: true
+  xy: 367, 170
+  size: 301, 163
+  orig: 342, 221
+  offset: 8, 11
+  index: -1
+chutu/xf/xf_004
+  rotate: true
+  xy: 2, 466
+  size: 313, 159
+  orig: 342, 221
+  offset: 7, 10
+  index: -1
+chutu/xf/xf_006
+  rotate: true
+  xy: 163, 469
+  size: 310, 185
+  orig: 342, 221
+  offset: 13, 6
+  index: -1
+chutu/xf/xf_008
+  rotate: true
+  xy: 2, 152
+  size: 312, 192
+  orig: 342, 221
+  offset: 24, 16
+  index: -1
+chutu/xf/xf_010
+  rotate: true
+  xy: 1443, 539
+  size: 240, 180
+  orig: 342, 221
+  offset: 52, 8
+  index: -1
+chutu/xf/xf_012
+  rotate: true
+  xy: 1278, 494
+  size: 285, 163
+  orig: 342, 221
+  offset: 24, 12
+  index: -1
+chutu/xf/xf_014
+  rotate: true
+  xy: 196, 158
+  size: 309, 169
+  orig: 342, 221
+  offset: 11, 12
+  index: -1
+chutu/xf/xf_016
+  rotate: false
+  xy: 469, 2
+  size: 235, 166
+  orig: 342, 221
+  offset: 59, 8
+  index: -1
+chutu/xf/xf_018
+  rotate: true
+  xy: 1104, 494
+  size: 285, 172
+  orig: 342, 221
+  offset: 24, 13
+  index: -1

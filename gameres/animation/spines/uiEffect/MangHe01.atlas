@@ -1,0 +1,125 @@
+
+MangHe01.png
+size: 1925,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_di
+  rotate: false
+  xy: 631, 11
+  size: 248, 99
+  orig: 248, 99
+  offset: 0, 0
+  index: -1
+L_hou1
+  rotate: false
+  xy: 881, 56
+  size: 238, 54
+  orig: 238, 54
+  offset: 0, 0
+  index: -1
+L_hou2
+  rotate: false
+  xy: 1121, 17
+  size: 260, 124
+  orig: 260, 124
+  offset: 0, 0
+  index: -1
+L_shenti
+  rotate: true
+  xy: 1532, 10
+  size: 167, 118
+  orig: 167, 118
+  offset: 0, 0
+  index: -1
+L_tou
+  rotate: false
+  xy: 1652, 33
+  size: 264, 182
+  orig: 264, 182
+  offset: 0, 0
+  index: -1
+L_weiba
+  rotate: false
+  xy: 1383, 8
+  size: 147, 169
+  orig: 147, 169
+  offset: 0, 0
+  index: -1
+L_yan1
+  rotate: true
+  xy: 2, 3
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+L_yan2
+  rotate: false
+  xy: 881, 9
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+L_zhua
+  rotate: false
+  xy: 924, 14
+  size: 143, 40
+  orig: 143, 40
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 45, 7
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+chutu/fsg1
+  rotate: true
+  xy: 1649, 217
+  size: 335, 274
+  orig: 403, 397
+  offset: 34, 33
+  index: -1
+chutu/fsg2
+  rotate: false
+  xy: 902, 143
+  size: 405, 409
+  orig: 433, 465
+  offset: 13, 10
+  index: -1
+chutu/fsg3
+  rotate: true
+  xy: 1309, 179
+  size: 373, 338
+  orig: 401, 402
+  offset: 14, 17
+  index: -1
+chutu/g1
+  rotate: false
+  xy: 2, 38
+  size: 514, 514
+  orig: 552, 552
+  offset: 19, 19
+  index: -1
+chutu/g2
+  rotate: true
+  xy: 518, 112
+  size: 440, 190
+  orig: 468, 204
+  offset: 14, 7
+  index: -1
+chutu/g3
+  rotate: true
+  xy: 710, 112
+  size: 440, 190
+  orig: 468, 204
+  offset: 14, 7
+  index: -1
+chutu/lz
+  rotate: true
+  xy: 518, 2
+  size: 108, 111
+  orig: 132, 139
+  offset: 12, 14
+  index: -1

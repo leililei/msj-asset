@@ -1,0 +1,83 @@
+
+sunjian_skill_beaten_1.png
+size: 460,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/cc_skill_sj1_00000
+  rotate: true
+  xy: 2, 209
+  size: 294, 55
+  orig: 313, 92
+  offset: 0, 21
+  index: -1
+chutu/skill/cc_skill_sj_00000
+  rotate: false
+  xy: 190, 20
+  size: 144, 141
+  orig: 358, 272
+  offset: 107, 65
+  index: -1
+chutu/skill/cc_skill_sj_00002
+  rotate: true
+  xy: 190, 163
+  size: 168, 158
+  orig: 358, 272
+  offset: 94, 54
+  index: -1
+chutu/skill/cc_skill_sj_00004
+  rotate: false
+  xy: 59, 333
+  size: 186, 170
+  orig: 358, 272
+  offset: 84, 46
+  index: -1
+chutu/skill/cc_skill_sj_00006
+  rotate: false
+  xy: 2, 26
+  size: 186, 181
+  orig: 358, 272
+  offset: 80, 38
+  index: -1
+chutu/skill/cc_skill_sj_00008
+  rotate: true
+  xy: 247, 350
+  size: 153, 175
+  orig: 358, 272
+  offset: 114, 51
+  index: -1
+chutu/skill/cc_skill_sj_00010
+  rotate: false
+  xy: 336, 2
+  size: 119, 159
+  orig: 358, 272
+  offset: 124, 67
+  index: -1
+chutu/skill/cc_skill_sj_00012
+  rotate: true
+  xy: 59, 220
+  size: 111, 123
+  orig: 358, 272
+  offset: 127, 69
+  index: -1
+chutu/skill/cc_skill_sj_00014
+  rotate: true
+  xy: 350, 243
+  size: 105, 102
+  orig: 358, 272
+  offset: 127, 80
+  index: -1
+chutu/skill/cc_skill_sj_00016
+  rotate: true
+  xy: 350, 174
+  size: 67, 93
+  orig: 358, 272
+  offset: 148, 84
+  index: -1
+chutu/skill/fx_e_glow_001_cl
+  rotate: true
+  xy: 424, 468
+  size: 35, 34
+  orig: 44, 44
+  offset: 4, 5
+  index: -1

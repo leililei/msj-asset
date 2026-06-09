@@ -1,0 +1,27 @@
+
+wanju8_tx_2.png
+size: 281,667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/miaozhun1
+  rotate: true
+  xy: 1, 185
+  size: 196, 203
+  orig: 200, 207
+  offset: 2, 2
+  index: -1
+effect/miaozhun2
+  rotate: true
+  xy: 1, 1
+  size: 182, 190
+  orig: 182, 190
+  offset: 0, 0
+  index: -1
+effect/miaozhun3
+  rotate: false
+  xy: 1, 383
+  size: 279, 283
+  orig: 284, 290
+  offset: 2, 4
+  index: -1

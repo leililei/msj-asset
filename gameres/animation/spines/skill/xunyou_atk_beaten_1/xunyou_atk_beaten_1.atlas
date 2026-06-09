@@ -1,0 +1,237 @@
+
+xunyou_atk_beaten_1.png
+size: 820,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/atk/as10/as10_00001
+  rotate: true
+  xy: 504, 1
+  size: 41, 56
+  orig: 127, 110
+  offset: 41, 32
+  index: -1
+images/chutu/atk/as10/as10_00003
+  rotate: false
+  xy: 479, 182
+  size: 95, 84
+  orig: 127, 110
+  offset: 15, 19
+  index: -1
+images/chutu/atk/as10/as10_00005
+  rotate: false
+  xy: 670, 162
+  size: 116, 100
+  orig: 127, 110
+  offset: 5, 8
+  index: -1
+images/chutu/atk/as10/as10_00007
+  rotate: false
+  xy: 452, 269
+  size: 124, 108
+  orig: 127, 110
+  offset: 2, 2
+  index: -1
+images/chutu/atk/as10/as10_00009
+  rotate: false
+  xy: 217, 188
+  size: 127, 110
+  orig: 127, 110
+  offset: 0, 0
+  index: -1
+images/chutu/atk/as11/as11_00000
+  rotate: false
+  xy: 759, 297
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/chutu/atk/as12/as12_00001
+  rotate: true
+  xy: 504, 45
+  size: 61, 64
+  orig: 88, 87
+  offset: 11, 17
+  index: -1
+images/chutu/atk/as12/as12_00003
+  rotate: false
+  xy: 731, 4
+  size: 76, 75
+  orig: 88, 87
+  offset: 7, 7
+  index: -1
+images/chutu/atk/as12/as12_00005
+  rotate: true
+  xy: 653, 82
+  size: 77, 78
+  orig: 88, 87
+  offset: 7, 5
+  index: -1
+images/chutu/atk/as12/as12_00007
+  rotate: false
+  xy: 420, 84
+  size: 80, 81
+  orig: 88, 87
+  offset: 6, 3
+  index: -1
+images/chutu/atk/as12/as12_00009
+  rotate: true
+  xy: 420, 3
+  size: 78, 81
+  orig: 88, 87
+  offset: 7, 3
+  index: -1
+images/chutu/atk/as12/as12_00011
+  rotate: false
+  xy: 571, 96
+  size: 79, 79
+  orig: 88, 87
+  offset: 6, 3
+  index: -1
+images/chutu/atk/as12/as12_00013
+  rotate: false
+  xy: 734, 82
+  size: 77, 77
+  orig: 88, 87
+  offset: 6, 3
+  index: -1
+images/chutu/atk/as12/as12_00015
+  rotate: true
+  xy: 571, 18
+  size: 75, 77
+  orig: 88, 87
+  offset: 4, 3
+  index: -1
+images/chutu/atk/as12/as12_00017
+  rotate: true
+  xy: 651, 6
+  size: 73, 77
+  orig: 88, 87
+  offset: 3, 3
+  index: -1
+images/chutu/atk/as12/as12_00019
+  rotate: false
+  xy: 503, 109
+  size: 65, 70
+  orig: 88, 87
+  offset: 3, 4
+  index: -1
+images/chutu/atk/as12/as12_00021
+  rotate: false
+  xy: 759, 332
+  size: 46, 62
+  orig: 88, 87
+  offset: 3, 10
+  index: -1
+images/chutu/atk/as6/as6_00000
+  rotate: false
+  xy: 646, 397
+  size: 136, 134
+  orig: 146, 144
+  offset: 5, 5
+  index: -1
+images/chutu/atk/as8/as8_00000
+  rotate: false
+  xy: 577, 178
+  size: 90, 71
+  orig: 169, 116
+  offset: 11, 9
+  index: -1
+images/chutu/atk/as8/as8_00001
+  rotate: true
+  xy: 579, 252
+  size: 125, 87
+  orig: 169, 116
+  offset: 2, 1
+  index: -1
+images/chutu/atk/as8/as8_00002
+  rotate: true
+  xy: 361, 254
+  size: 126, 88
+  orig: 169, 116
+  offset: 11, 9
+  index: -1
+images/chutu/atk/as8/as8_00003
+  rotate: false
+  xy: 347, 168
+  size: 129, 83
+  orig: 169, 116
+  offset: 18, 18
+  index: -1
+images/chutu/atk/as8/as8_00004
+  rotate: true
+  xy: 669, 265
+  size: 129, 87
+  orig: 169, 116
+  offset: 24, 22
+  index: -1
+images/chutu/atk/as8/as8_00005
+  rotate: true
+  xy: 206, 34
+  size: 131, 79
+  orig: 169, 116
+  offset: 28, 34
+  index: -1
+images/chutu/atk/as8/as8_00006
+  rotate: false
+  xy: 226, 301
+  size: 132, 79
+  orig: 169, 116
+  offset: 28, 34
+  index: -1
+images/chutu/atk/as8/as8_00007
+  rotate: false
+  xy: 288, 90
+  size: 129, 75
+  orig: 169, 116
+  offset: 37, 38
+  index: -1
+images/chutu/atk/as8/as8_00008
+  rotate: false
+  xy: 288, 12
+  size: 129, 75
+  orig: 169, 116
+  offset: 37, 38
+  index: -1
+images/chutu/atk/as8/as8_00009
+  rotate: true
+  xy: 785, 430
+  size: 101, 31
+  orig: 169, 116
+  offset: 58, 74
+  index: -1
+images/chutu/atk/as9/as9_00001
+  rotate: false
+  xy: 452, 380
+  size: 191, 151
+  orig: 225, 188
+  offset: 13, 19
+  index: -1
+images/chutu/atk/as9/as9_00003
+  rotate: false
+  xy: 1, 4
+  size: 202, 161
+  orig: 225, 188
+  offset: 13, 13
+  index: -1
+images/chutu/atk/as9/as9_00005
+  rotate: false
+  xy: 1, 168
+  size: 213, 176
+  orig: 225, 188
+  offset: 7, 7
+  index: -1
+images/chutu/atk/as9/as9_00007
+  rotate: false
+  xy: 1, 347
+  size: 222, 184
+  orig: 225, 188
+  offset: 2, 4
+  index: -1
+images/chutu/atk/as9/as9_00009
+  rotate: false
+  xy: 226, 383
+  size: 223, 148
+  orig: 225, 188
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,83 @@
+
+chengpu_skill_beaten_1.png
+size: 347,875
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill/bd1/bd1_00038
+  rotate: true
+  xy: 186, 624
+  size: 61, 77
+  orig: 200, 290
+  offset: 64, 85
+  index: -1
+images/chutu/skill/bd1/bd1_00039
+  rotate: true
+  xy: 2, 2
+  size: 160, 241
+  orig: 200, 290
+  offset: 15, 0
+  index: -1
+images/chutu/skill/bd1/bd1_00040
+  rotate: false
+  xy: 177, 170
+  size: 165, 235
+  orig: 200, 290
+  offset: 15, 15
+  index: -1
+images/chutu/skill/bd1/bd1_00041
+  rotate: false
+  xy: 2, 164
+  size: 173, 241
+  orig: 200, 290
+  offset: 12, 14
+  index: -1
+images/chutu/skill/bd1/bd1_00043
+  rotate: false
+  xy: 2, 622
+  size: 182, 251
+  orig: 200, 290
+  offset: 10, 14
+  index: -1
+images/chutu/skill/bd1/bd1_00045
+  rotate: false
+  xy: 2, 407
+  size: 177, 213
+  orig: 200, 290
+  offset: 15, 26
+  index: -1
+images/chutu/skill/bd1/bd1_00047
+  rotate: false
+  xy: 181, 426
+  size: 164, 194
+  orig: 200, 290
+  offset: 18, 30
+  index: -1
+images/chutu/skill/bd1/bd1_00049
+  rotate: false
+  xy: 186, 687
+  size: 139, 186
+  orig: 200, 290
+  offset: 20, 35
+  index: -1
+images/chutu/skill/gx6/gx6_00038
+  rotate: true
+  xy: 265, 655
+  size: 30, 31
+  orig: 32, 34
+  offset: 1, 1
+  index: -1
+images/chutu/skill/gx7/gx7_00038
+  rotate: false
+  xy: 298, 666
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+images/chutu/skill/lz1/lz1_00042
+  rotate: true
+  xy: 245, 54
+  size: 114, 100
+  orig: 120, 110
+  offset: 3, 5
+  index: -1

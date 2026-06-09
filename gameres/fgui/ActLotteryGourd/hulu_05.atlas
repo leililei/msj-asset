@@ -1,0 +1,76 @@
+
+hulu_05.png
+size: 492,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hl5_lianyun C
+  rotate: false
+  xy: 249, 19
+  size: 68, 15
+  orig: 70, 17
+  offset: 1, 1
+  index: -1
+hl5_meimao
+  rotate: false
+  xy: 321, 15
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+hl5_shenti
+  rotate: false
+  xy: 184, 38
+  size: 152, 292
+  orig: 154, 294
+  offset: 1, 1
+  index: -1
+hl5_shentiA
+  rotate: false
+  xy: 0, 12
+  size: 180, 318
+  orig: 186, 325
+  offset: 3, 3
+  index: -1
+hl5_shentiB
+  rotate: false
+  xy: 340, 38
+  size: 152, 292
+  orig: 154, 294
+  offset: 1, 1
+  index: -1
+hl5_yankuang
+  rotate: false
+  xy: 184, 0
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+hl5_yanzhu1_1
+  rotate: false
+  xy: 376, 10
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+hl5_yanzhu1_2
+  rotate: false
+  xy: 424, 16
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+hl5_yanzhu2_1
+  rotate: false
+  xy: 400, 10
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+hl5_yanzhu2_2
+  rotate: false
+  xy: 445, 16
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+SC_lvbu_beaten_3.png
+size: 258,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2duan/b30/b30_00059
+  rotate: false
+  xy: 2, 2
+  size: 126, 126
+  orig: 130, 131
+  offset: 2, 2
+  index: -1
+4duan/bb1/bb1_00103
+  rotate: false
+  xy: 130, 2
+  size: 126, 126
+  orig: 130, 131
+  offset: 2, 1
+  index: -1
+4duan/g1/g1_00103
+  rotate: false
+  xy: 141, 154
+  size: 112, 125
+  orig: 124, 137
+  offset: 5, 7
+  index: -1
+4duan/g2/g2_00106
+  rotate: false
+  xy: 2, 130
+  size: 137, 149
+  orig: 153, 166
+  offset: 8, 9
+  index: -1

@@ -1,0 +1,97 @@
+
+S_S_simayi_attact_zd_1.png
+size: 1626,55
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/plot/attack/glow/glow_00000
+  rotate: true
+  xy: 1608, 32
+  size: 23, 18
+  orig: 27, 22
+  offset: 2, 2
+  index: -1
+images/plot/attack/huoyan/huoyan_00000
+  rotate: false
+  xy: 1343, 7
+  size: 128, 48
+  orig: 151, 63
+  offset: 17, 9
+  index: -1
+images/plot/attack/huoyan/huoyan_00002
+  rotate: false
+  xy: 273, 0
+  size: 133, 55
+  orig: 151, 63
+  offset: 11, 6
+  index: -1
+images/plot/attack/huoyan/huoyan_00004
+  rotate: false
+  xy: 809, 5
+  size: 132, 50
+  orig: 151, 63
+  offset: 13, 8
+  index: -1
+images/plot/attack/huoyan/huoyan_00006
+  rotate: false
+  xy: 545, 4
+  size: 134, 51
+  orig: 151, 63
+  offset: 11, 9
+  index: -1
+images/plot/attack/huoyan/huoyan_00008
+  rotate: false
+  xy: 1209, 9
+  size: 134, 46
+  orig: 151, 63
+  offset: 10, 10
+  index: -1
+images/plot/attack/huoyan/huoyan_00010
+  rotate: false
+  xy: 137, 0
+  size: 136, 55
+  orig: 151, 63
+  offset: 8, 5
+  index: -1
+images/plot/attack/huoyan2/huoyan2_00000
+  rotate: false
+  xy: 679, 4
+  size: 130, 51
+  orig: 151, 61
+  offset: 19, 8
+  index: -1
+images/plot/attack/huoyan2/huoyan2_00002
+  rotate: false
+  xy: 0, 0
+  size: 137, 55
+  orig: 151, 61
+  offset: 12, 2
+  index: -1
+images/plot/attack/huoyan2/huoyan2_00004
+  rotate: false
+  xy: 941, 6
+  size: 129, 49
+  orig: 151, 61
+  offset: 19, 6
+  index: -1
+images/plot/attack/huoyan2/huoyan2_00006
+  rotate: false
+  xy: 1471, 12
+  size: 137, 43
+  orig: 151, 61
+  offset: 11, 7
+  index: -1
+images/plot/attack/huoyan2/huoyan2_00008
+  rotate: false
+  xy: 1070, 10
+  size: 139, 45
+  orig: 151, 61
+  offset: 10, 9
+  index: -1
+images/plot/attack/huoyan2/huoyan2_00010
+  rotate: false
+  xy: 406, 5
+  size: 139, 50
+  orig: 151, 61
+  offset: 9, 6
+  index: -1

@@ -1,0 +1,146 @@
+
+Effect_zhuchengranshao.png
+size: 2027,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/hy1/hy1_00000
+  rotate: false
+  xy: 1398, 169
+  size: 140, 214
+  orig: 218, 326
+  offset: 43, 26
+  index: -1
+chutu/hy1/hy1_00002
+  rotate: false
+  xy: 941, 147
+  size: 152, 236
+  orig: 218, 326
+  offset: 40, 26
+  index: -1
+chutu/hy1/hy1_00004
+  rotate: false
+  xy: 473, 140
+  size: 154, 243
+  orig: 218, 326
+  offset: 40, 26
+  index: -1
+chutu/hy1/hy1_00006
+  rotate: false
+  xy: 317, 133
+  size: 154, 250
+  orig: 218, 326
+  offset: 41, 25
+  index: -1
+chutu/hy1/hy1_00008
+  rotate: false
+  xy: 783, 149
+  size: 156, 234
+  orig: 218, 326
+  offset: 39, 24
+  index: -1
+chutu/hy1/hy1_00010
+  rotate: false
+  xy: 1248, 152
+  size: 148, 231
+  orig: 218, 326
+  offset: 37, 24
+  index: -1
+chutu/hy1/hy1_00012
+  rotate: false
+  xy: 1095, 147
+  size: 151, 236
+  orig: 218, 326
+  offset: 35, 26
+  index: -1
+chutu/hy1/hy1_00014
+  rotate: false
+  xy: 629, 138
+  size: 152, 245
+  orig: 218, 326
+  offset: 33, 26
+  index: -1
+chutu/hy1/hy1_00016
+  rotate: false
+  xy: 160, 129
+  size: 155, 254
+  orig: 218, 326
+  offset: 29, 26
+  index: -1
+chutu/hy1/hy1_00018
+  rotate: false
+  xy: 3, 128
+  size: 155, 255
+  orig: 218, 326
+  offset: 28, 25
+  index: -1
+chutu/hy2/hy2_00000
+  rotate: true
+  xy: 1097, 9
+  size: 136, 152
+  orig: 218, 326
+  offset: 40, 59
+  index: -1
+chutu/hy2/hy2_00002
+  rotate: true
+  xy: 940, 5
+  size: 140, 155
+  orig: 218, 326
+  offset: 38, 59
+  index: -1
+chutu/hy2/hy2_00004
+  rotate: false
+  xy: 1251, 8
+  size: 143, 142
+  orig: 218, 326
+  offset: 37, 59
+  index: -1
+chutu/hy2/hy2_00006
+  rotate: true
+  xy: 783, 3
+  size: 144, 155
+  orig: 218, 326
+  offset: 37, 59
+  index: -1
+chutu/hy2/hy2_00008
+  rotate: true
+  xy: 1611, 10
+  size: 145, 187
+  orig: 218, 326
+  offset: 37, 39
+  index: -1
+chutu/hy2/hy2_00010
+  rotate: false
+  xy: 1820, 187
+  size: 147, 196
+  orig: 218, 326
+  offset: 38, 41
+  index: -1
+chutu/hy2/hy2_00012
+  rotate: false
+  xy: 1540, 181
+  size: 146, 202
+  orig: 218, 326
+  offset: 40, 47
+  index: -1
+chutu/hy2/hy2_00014
+  rotate: true
+  xy: 1820, 50
+  size: 135, 205
+  orig: 218, 326
+  offset: 43, 55
+  index: -1
+chutu/hy2/hy2_00016
+  rotate: true
+  xy: 1398, 37
+  size: 130, 211
+  orig: 218, 326
+  offset: 47, 59
+  index: -1
+chutu/hy2/hy2_00018
+  rotate: false
+  xy: 1688, 157
+  size: 130, 226
+  orig: 218, 326
+  offset: 43, 52
+  index: -1

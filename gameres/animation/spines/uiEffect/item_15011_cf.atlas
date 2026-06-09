@@ -1,0 +1,62 @@
+
+item_15011_cf.png
+size: 475,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jing_yuchi1
+  rotate: false
+  xy: 414, 45
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+jing_yuchi2
+  rotate: true
+  xy: 441, 100
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+jingli_1
+  rotate: false
+  xy: 4, 5
+  size: 183, 171
+  orig: 183, 171
+  offset: 0, 0
+  index: -1
+jingli_ld1
+  rotate: false
+  xy: 432, 17
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+jingli_ld2
+  rotate: false
+  xy: 352, 68
+  size: 58, 107
+  orig: 58, 107
+  offset: 0, 0
+  index: -1
+jingli_ld3
+  rotate: true
+  xy: 346, 14
+  size: 28, 82
+  orig: 28, 82
+  offset: 0, 0
+  index: -1
+jingli_shenti
+  rotate: false
+  xy: 190, 12
+  size: 158, 163
+  orig: 158, 163
+  offset: 0, 0
+  index: -1
+jingli_xu1
+  rotate: false
+  xy: 190, 12
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1

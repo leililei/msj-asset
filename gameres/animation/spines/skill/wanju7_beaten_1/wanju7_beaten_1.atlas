@@ -1,0 +1,167 @@
+
+wanju7_beaten_1.png
+size: 2038,814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/wanju7_beaten_1/wanju7_beaten_1_01
+  rotate: false
+  xy: 746, 88
+  size: 156, 156
+  orig: 336, 336
+  offset: 90, 89
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_02
+  rotate: false
+  xy: 1834, 434
+  size: 189, 182
+  orig: 336, 336
+  offset: 73, 71
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_03
+  rotate: false
+  xy: 1834, 620
+  size: 197, 190
+  orig: 336, 336
+  offset: 69, 73
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_04
+  rotate: true
+  xy: 1560, 538
+  size: 272, 270
+  orig: 336, 336
+  offset: 32, 33
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_05
+  rotate: false
+  xy: 1264, 518
+  size: 292, 292
+  orig: 336, 336
+  offset: 22, 22
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_06
+  rotate: true
+  xy: 954, 502
+  size: 308, 306
+  orig: 336, 336
+  offset: 14, 15
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_07
+  rotate: true
+  xy: 640, 498
+  size: 312, 310
+  orig: 336, 336
+  offset: 12, 13
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_08
+  rotate: false
+  xy: 4, 496
+  size: 316, 314
+  orig: 336, 336
+  offset: 10, 11
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_09
+  rotate: false
+  xy: 324, 498
+  size: 312, 312
+  orig: 336, 336
+  offset: 12, 12
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_10
+  rotate: false
+  xy: 1560, 276
+  size: 264, 258
+  orig: 336, 336
+  offset: 36, 39
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_11
+  rotate: false
+  xy: 1264, 258
+  size: 260, 256
+  orig: 336, 336
+  offset: 38, 40
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_12
+  rotate: false
+  xy: 954, 242
+  size: 260, 256
+  orig: 336, 336
+  offset: 38, 40
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_13
+  rotate: false
+  xy: 324, 248
+  size: 256, 246
+  orig: 336, 336
+  offset: 40, 45
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_14
+  rotate: false
+  xy: 584, 248
+  size: 256, 246
+  orig: 336, 336
+  offset: 40, 45
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_15
+  rotate: false
+  xy: 4, 242
+  size: 248, 250
+  orig: 336, 336
+  offset: 44, 43
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_16
+  rotate: true
+  xy: 1528, 24
+  size: 248, 250
+  orig: 336, 336
+  offset: 44, 43
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_17
+  rotate: true
+  xy: 1782, 30
+  size: 242, 252
+  orig: 336, 336
+  offset: 47, 42
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_18
+  rotate: true
+  xy: 1218, 12
+  size: 242, 250
+  orig: 336, 336
+  offset: 47, 43
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_19
+  rotate: false
+  xy: 256, 4
+  size: 242, 240
+  orig: 336, 336
+  offset: 47, 48
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_20
+  rotate: false
+  xy: 502, 10
+  size: 240, 234
+  orig: 336, 336
+  offset: 48, 51
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_21
+  rotate: false
+  xy: 906, 176
+  size: 164, 62
+  orig: 336, 336
+  offset: 86, 137
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_22
+  rotate: false
+  xy: 1828, 320
+  size: 164, 110
+  orig: 336, 336
+  offset: 86, 113
+  index: -1
+effect/wanju7_beaten_1/wanju7_beaten_1_23
+  rotate: false
+  xy: 4, 130
+  size: 162, 108
+  orig: 336, 336
+  offset: 87, 114
+  index: -1

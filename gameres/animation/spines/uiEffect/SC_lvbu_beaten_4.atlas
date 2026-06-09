@@ -1,0 +1,272 @@
+
+SC_lvbu_beaten_4.png
+size: 1927,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2duan/b10/b10_00028
+  rotate: true
+  xy: 1286, 141
+  size: 170, 75
+  orig: 181, 84
+  offset: 9, 1
+  index: -1
+2duan/b10/b10_00030
+  rotate: true
+  xy: 1053, 140
+  size: 171, 76
+  orig: 181, 84
+  offset: 6, 2
+  index: -1
+2duan/b10/b10_00032
+  rotate: true
+  xy: 600, 134
+  size: 177, 76
+  orig: 181, 84
+  offset: 3, 4
+  index: -1
+2duan/b10/b10_00034
+  rotate: true
+  xy: 756, 136
+  size: 175, 71
+  orig: 181, 84
+  offset: 5, 8
+  index: -1
+2duan/b10/b10_00036
+  rotate: false
+  xy: 1347, 6
+  size: 52, 32
+  orig: 181, 84
+  offset: 17, 12
+  index: -1
+2duan/b11/b11_00028
+  rotate: true
+  xy: 1363, 141
+  size: 170, 75
+  orig: 181, 84
+  offset: 9, 1
+  index: -1
+2duan/b11/b11_00030
+  rotate: true
+  xy: 1131, 140
+  size: 171, 76
+  orig: 181, 84
+  offset: 6, 2
+  index: -1
+2duan/b11/b11_00032
+  rotate: true
+  xy: 678, 134
+  size: 177, 76
+  orig: 181, 84
+  offset: 3, 4
+  index: -1
+2duan/b11/b11_00034
+  rotate: true
+  xy: 829, 136
+  size: 175, 71
+  orig: 181, 84
+  offset: 5, 8
+  index: -1
+2duan/b11/b11_00036
+  rotate: false
+  xy: 1401, 7
+  size: 52, 32
+  orig: 181, 84
+  offset: 17, 12
+  index: -1
+2duan/b12/b12_00028
+  rotate: false
+  xy: 1455, 8
+  size: 30, 31
+  orig: 34, 35
+  offset: 2, 2
+  index: -1
+2duan/b13/b13_00028
+  rotate: false
+  xy: 1837, 182
+  size: 50, 51
+  orig: 54, 57
+  offset: 2, 3
+  index: -1
+2duan/b7/b7_00028
+  rotate: false
+  xy: 1837, 235
+  size: 80, 76
+  orig: 206, 213
+  offset: 57, 42
+  index: -1
+2duan/b7/b7_00029
+  rotate: false
+  xy: 798, 6
+  size: 151, 128
+  orig: 206, 213
+  offset: 18, 41
+  index: -1
+2duan/b7/b7_00030
+  rotate: false
+  xy: 637, 2
+  size: 159, 130
+  orig: 206, 213
+  offset: 14, 46
+  index: -1
+2duan/b7/b7_00032
+  rotate: false
+  xy: 951, 10
+  size: 168, 125
+  orig: 206, 213
+  offset: 15, 67
+  index: -1
+2duan/b7/b7_00034
+  rotate: false
+  xy: 295, 4
+  size: 163, 114
+  orig: 206, 213
+  offset: 25, 76
+  index: -1
+2duan/b7/b7_00036
+  rotate: false
+  xy: 1121, 18
+  size: 170, 120
+  orig: 206, 213
+  offset: 23, 68
+  index: -1
+2duan/b7/b7_00038
+  rotate: false
+  xy: 460, 2
+  size: 175, 129
+  orig: 206, 213
+  offset: 21, 54
+  index: -1
+2duan/b7/b7_00040
+  rotate: true
+  xy: 377, 133
+  size: 178, 143
+  orig: 206, 213
+  offset: 20, 38
+  index: -1
+2duan/b7/b7_00042
+  rotate: true
+  xy: 1640, 12
+  size: 148, 141
+  orig: 206, 213
+  offset: 50, 21
+  index: -1
+2duan/b7/b7_00044
+  rotate: false
+  xy: 1440, 151
+  size: 148, 160
+  orig: 206, 213
+  offset: 51, 3
+  index: -1
+2duan/b7/b7_00046
+  rotate: true
+  xy: 2, 10
+  size: 105, 149
+  orig: 206, 213
+  offset: 83, 14
+  index: -1
+2duan/b8/b8_00028
+  rotate: false
+  xy: 1293, 40
+  size: 99, 99
+  orig: 240, 231
+  offset: 71, 33
+  index: -1
+2duan/b8/b8_00029
+  rotate: false
+  xy: 1783, 16
+  size: 142, 146
+  orig: 240, 231
+  offset: 51, 20
+  index: -1
+2duan/b8/b8_00030
+  rotate: true
+  xy: 185, 120
+  size: 191, 190
+  orig: 240, 231
+  offset: 22, 13
+  index: -1
+2duan/b8/b8_00032
+  rotate: true
+  xy: 2, 117
+  size: 194, 181
+  orig: 240, 231
+  offset: 20, 27
+  index: -1
+2duan/b8/b8_00034
+  rotate: false
+  xy: 153, 16
+  size: 140, 99
+  orig: 240, 231
+  offset: 78, 84
+  index: -1
+2duan/b8/b8_00036
+  rotate: false
+  xy: 1394, 41
+  size: 145, 98
+  orig: 240, 231
+  offset: 78, 88
+  index: -1
+2duan/b8/b8_00038
+  rotate: true
+  xy: 1541, 2
+  size: 147, 97
+  orig: 240, 231
+  offset: 79, 91
+  index: -1
+2duan/b8/b8_00040
+  rotate: true
+  xy: 1590, 162
+  size: 149, 94
+  orig: 240, 231
+  offset: 79, 93
+  index: -1
+2duan/b8/b8_00042
+  rotate: true
+  xy: 1686, 163
+  size: 148, 74
+  orig: 240, 231
+  offset: 80, 94
+  index: -1
+2duan/b8/b8_00044
+  rotate: true
+  xy: 1762, 164
+  size: 147, 73
+  orig: 240, 231
+  offset: 81, 95
+  index: -1
+2duan/b9/b9_00028
+  rotate: true
+  xy: 1209, 141
+  size: 170, 75
+  orig: 181, 84
+  offset: 9, 1
+  index: -1
+2duan/b9/b9_00030
+  rotate: true
+  xy: 975, 140
+  size: 171, 76
+  orig: 181, 84
+  offset: 6, 2
+  index: -1
+2duan/b9/b9_00032
+  rotate: true
+  xy: 522, 134
+  size: 177, 76
+  orig: 181, 84
+  offset: 3, 4
+  index: -1
+2duan/b9/b9_00034
+  rotate: true
+  xy: 902, 137
+  size: 174, 71
+  orig: 181, 84
+  offset: 6, 8
+  index: -1
+2duan/b9/b9_00036
+  rotate: false
+  xy: 1293, 6
+  size: 52, 32
+  orig: 181, 84
+  offset: 17, 12
+  index: -1

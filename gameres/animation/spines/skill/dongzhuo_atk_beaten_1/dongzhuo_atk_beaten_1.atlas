@@ -1,0 +1,167 @@
+
+dongzhuo_atk_beaten_1.png
+size: 331,972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/c1/c1_22
+  rotate: true
+  xy: 132, 917
+  size: 53, 85
+  orig: 121, 171
+  offset: 33, 44
+  index: -1
+chutu/skill/c1/c1_24
+  rotate: true
+  xy: 2, 645
+  size: 90, 142
+  orig: 121, 171
+  offset: 19, 13
+  index: -1
+chutu/skill/c1/c1_26
+  rotate: true
+  xy: 2, 442
+  size: 101, 150
+  orig: 121, 171
+  offset: 11, 11
+  index: -1
+chutu/skill/c1/c1_28
+  rotate: true
+  xy: 2, 231
+  size: 105, 154
+  orig: 121, 171
+  offset: 7, 8
+  index: -1
+chutu/skill/c1/c1_30
+  rotate: true
+  xy: 2, 338
+  size: 101, 154
+  orig: 121, 171
+  offset: 8, 6
+  index: -1
+chutu/skill/c1/c1_32
+  rotate: true
+  xy: 146, 640
+  size: 92, 148
+  orig: 121, 171
+  offset: 16, 6
+  index: -1
+chutu/skill/c1/c1_34
+  rotate: true
+  xy: 219, 911
+  size: 59, 110
+  orig: 121, 171
+  offset: 36, 28
+  index: -1
+chutu/skill/c1/c1_36
+  rotate: true
+  xy: 72, 931
+  size: 39, 58
+  orig: 121, 171
+  offset: 36, 30
+  index: -1
+chutu/skill/c2/c2_22
+  rotate: true
+  xy: 2, 835
+  size: 94, 103
+  orig: 122, 182
+  offset: 6, 40
+  index: -1
+chutu/skill/c2/c2_23
+  rotate: true
+  xy: 107, 825
+  size: 84, 149
+  orig: 122, 182
+  offset: 12, 23
+  index: -1
+chutu/skill/c2/c2_24
+  rotate: true
+  xy: 2, 737
+  size: 86, 153
+  orig: 122, 182
+  offset: 13, 19
+  index: -1
+chutu/skill/c2/c2_25
+  rotate: true
+  xy: 157, 734
+  size: 89, 156
+  orig: 122, 182
+  offset: 13, 16
+  index: -1
+chutu/skill/c2/c2_26
+  rotate: true
+  xy: 2, 545
+  size: 93, 158
+  orig: 122, 182
+  offset: 13, 13
+  index: -1
+chutu/skill/c2/c2_27
+  rotate: true
+  xy: 162, 542
+  size: 96, 161
+  orig: 122, 182
+  offset: 13, 10
+  index: -1
+chutu/skill/c2/c2_28
+  rotate: true
+  xy: 154, 441
+  size: 99, 164
+  orig: 122, 182
+  offset: 13, 8
+  index: -1
+chutu/skill/c2/c2_29
+  rotate: true
+  xy: 158, 335
+  size: 104, 166
+  orig: 122, 182
+  offset: 10, 7
+  index: -1
+chutu/skill/c2/c2_30
+  rotate: true
+  xy: 158, 227
+  size: 106, 167
+  orig: 122, 182
+  offset: 9, 7
+  index: -1
+chutu/skill/c2/c2_31
+  rotate: true
+  xy: 155, 116
+  size: 109, 169
+  orig: 122, 182
+  offset: 7, 6
+  index: -1
+chutu/skill/c2/c2_32
+  rotate: true
+  xy: 2, 3
+  size: 111, 170
+  orig: 122, 182
+  offset: 6, 6
+  index: -1
+chutu/skill/c2/c2_33
+  rotate: true
+  xy: 2, 117
+  size: 112, 151
+  orig: 122, 182
+  offset: 5, 5
+  index: -1
+chutu/skill/c2/c2_35
+  rotate: true
+  xy: 174, 2
+  size: 112, 152
+  orig: 122, 182
+  offset: 5, 5
+  index: -1
+chutu/skill/glow1_23
+  rotate: true
+  xy: 2, 945
+  size: 25, 34
+  orig: 27, 35
+  offset: 1, 0
+  index: -1
+chutu/skill/glow2_23
+  rotate: true
+  xy: 38, 940
+  size: 30, 32
+  orig: 32, 34
+  offset: 1, 1
+  index: -1

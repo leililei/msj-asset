@@ -1,0 +1,90 @@
+
+caozhi_atk_1.png
+size: 613,611
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/sf_mozhi_00
+  rotate: false
+  xy: 412, 60
+  size: 136, 77
+  orig: 160, 137
+  offset: 10, 10
+  index: -1
+effect/sf_mozhi_01
+  rotate: true
+  xy: 495, 277
+  size: 180, 99
+  orig: 201, 138
+  offset: 10, 10
+  index: -1
+effect/sf_mozhi_02
+  rotate: false
+  xy: 2, 26
+  size: 218, 128
+  orig: 238, 148
+  offset: 10, 10
+  index: -1
+effect/sf_mozhi_03
+  rotate: false
+  xy: 2, 156
+  size: 230, 139
+  orig: 250, 159
+  offset: 10, 10
+  index: -1
+effect/sf_mozhi_04
+  rotate: false
+  xy: 245, 308
+  size: 241, 146
+  orig: 262, 167
+  offset: 11, 11
+  index: -1
+effect/sf_mozhi_05
+  rotate: false
+  xy: 2, 456
+  size: 247, 153
+  orig: 268, 173
+  offset: 11, 10
+  index: -1
+effect/sf_mozhi_06
+  rotate: false
+  xy: 2, 297
+  size: 241, 157
+  orig: 261, 177
+  offset: 10, 10
+  index: -1
+effect/sf_mozhi_07
+  rotate: false
+  xy: 245, 148
+  size: 240, 158
+  orig: 260, 178
+  offset: 10, 10
+  index: -1
+effect/sf_mozhi_08
+  rotate: false
+  xy: 251, 456
+  size: 242, 153
+  orig: 262, 175
+  offset: 10, 12
+  index: -1
+effect/sf_mozhi_09
+  rotate: false
+  xy: 222, 2
+  size: 188, 144
+  orig: 262, 171
+  offset: 62, 17
+  index: -1
+effect/sf_mozhi_10
+  rotate: true
+  xy: 495, 459
+  size: 150, 116
+  orig: 235, 139
+  offset: 75, 12
+  index: -1
+effect/sf_mozhi_11
+  rotate: true
+  xy: 487, 139
+  size: 136, 97
+  orig: 229, 122
+  offset: 81, 10
+  index: -1

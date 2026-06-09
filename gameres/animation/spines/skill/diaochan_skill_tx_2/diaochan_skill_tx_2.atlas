@@ -1,0 +1,489 @@
+
+diaochan_skill_tx_2.png
+size: 475,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/canyin/canyin_000
+  rotate: false
+  xy: 256, 214
+  size: 46, 39
+  orig: 60, 62
+  offset: 0, 7
+  index: -1
+chutu/canyin/canyin_001
+  rotate: false
+  xy: 122, 88
+  size: 43, 40
+  orig: 60, 62
+  offset: 2, 8
+  index: -1
+chutu/canyin/canyin_002
+  rotate: false
+  xy: 304, 214
+  size: 40, 40
+  orig: 60, 62
+  offset: 4, 8
+  index: -1
+chutu/canyin/canyin_003
+  rotate: true
+  xy: 346, 132
+  size: 39, 40
+  orig: 60, 62
+  offset: 6, 9
+  index: -1
+chutu/canyin/canyin_004
+  rotate: true
+  xy: 167, 49
+  size: 39, 41
+  orig: 60, 62
+  offset: 7, 9
+  index: -1
+chutu/canyin/canyin_005
+  rotate: false
+  xy: 212, 185
+  size: 42, 41
+  orig: 60, 62
+  offset: 6, 9
+  index: -1
+chutu/canyin/canyin_006
+  rotate: true
+  xy: 122, 175
+  size: 44, 42
+  orig: 60, 62
+  offset: 5, 9
+  index: -1
+chutu/canyin/canyin_007
+  rotate: false
+  xy: 166, 180
+  size: 44, 42
+  orig: 60, 62
+  offset: 6, 9
+  index: -1
+chutu/canyin/canyin_008
+  rotate: true
+  xy: 122, 130
+  size: 43, 42
+  orig: 60, 62
+  offset: 7, 9
+  index: -1
+chutu/canyin/canyin_009
+  rotate: false
+  xy: 167, 90
+  size: 41, 43
+  orig: 60, 62
+  offset: 9, 8
+  index: -1
+chutu/canyin/canyin_010
+  rotate: false
+  xy: 212, 141
+  size: 42, 42
+  orig: 60, 62
+  offset: 8, 8
+  index: -1
+chutu/canyin/canyin_011
+  rotate: false
+  xy: 256, 85
+  size: 42, 42
+  orig: 60, 62
+  offset: 8, 8
+  index: -1
+chutu/canyin/canyin_012
+  rotate: false
+  xy: 121, 44
+  size: 43, 42
+  orig: 60, 62
+  offset: 7, 8
+  index: -1
+chutu/canyin/canyin_013
+  rotate: false
+  xy: 256, 171
+  size: 45, 41
+  orig: 60, 62
+  offset: 5, 8
+  index: -1
+chutu/canyin/canyin_014
+  rotate: false
+  xy: 305, 301
+  size: 46, 41
+  orig: 60, 62
+  offset: 3, 8
+  index: -1
+chutu/canyin/canyin_015
+  rotate: false
+  xy: 377, 343
+  size: 48, 40
+  orig: 60, 62
+  offset: 1, 8
+  index: -1
+chutu/canyin/canyin_016
+  rotate: true
+  xy: 212, 328
+  size: 48, 40
+  orig: 60, 62
+  offset: 1, 8
+  index: -1
+chutu/canyin/canyin_017
+  rotate: false
+  xy: 353, 301
+  size: 46, 40
+  orig: 60, 62
+  offset: 2, 8
+  index: -1
+chutu/canyin/canyin_018
+  rotate: false
+  xy: 401, 297
+  size: 45, 41
+  orig: 60, 62
+  offset: 3, 8
+  index: -1
+chutu/canyin/canyin_019
+  rotate: false
+  xy: 210, 17
+  size: 41, 41
+  orig: 60, 62
+  offset: 6, 9
+  index: -1
+chutu/canyin/canyin_020
+  rotate: true
+  xy: 388, 172
+  size: 39, 41
+  orig: 60, 62
+  offset: 8, 10
+  index: -1
+chutu/canyin/canyin_021
+  rotate: false
+  xy: 301, 129
+  size: 41, 40
+  orig: 60, 62
+  offset: 6, 12
+  index: -1
+chutu/canyin/canyin_022
+  rotate: false
+  xy: 210, 60
+  size: 42, 40
+  orig: 60, 62
+  offset: 5, 13
+  index: -1
+chutu/canyin/canyin_023
+  rotate: false
+  xy: 121, 3
+  size: 43, 39
+  orig: 60, 62
+  offset: 4, 15
+  index: -1
+chutu/canyin/canyin_024
+  rotate: false
+  xy: 254, 43
+  size: 42, 40
+  orig: 60, 62
+  offset: 5, 16
+  index: -1
+chutu/canyin/canyin_025
+  rotate: false
+  xy: 253, 2
+  size: 42, 39
+  orig: 60, 62
+  offset: 5, 18
+  index: -1
+chutu/canyin/canyin_026
+  rotate: false
+  xy: 300, 87
+  size: 41, 40
+  orig: 60, 62
+  offset: 6, 19
+  index: -1
+chutu/canyin/canyin_027
+  rotate: true
+  xy: 346, 216
+  size: 41, 40
+  orig: 60, 62
+  offset: 7, 20
+  index: -1
+chutu/canyin/canyin_028
+  rotate: true
+  xy: 302, 256
+  size: 42, 40
+  orig: 60, 62
+  offset: 7, 21
+  index: -1
+chutu/canyin/canyin_029
+  rotate: false
+  xy: 344, 259
+  size: 42, 40
+  orig: 60, 62
+  offset: 8, 22
+  index: -1
+chutu/canyin/canyin_030
+  rotate: true
+  xy: 343, 87
+  size: 40, 39
+  orig: 60, 62
+  offset: 14, 14
+  index: -1
+chutu/canyin/canyin_031
+  rotate: false
+  xy: 343, 45
+  size: 39, 40
+  orig: 60, 62
+  offset: 21, 4
+  index: -1
+chutu/canyin/canyin_032
+  rotate: false
+  xy: 384, 90
+  size: 40, 40
+  orig: 60, 62
+  offset: 20, 3
+  index: -1
+chutu/canyin/canyin_033
+  rotate: false
+  xy: 346, 173
+  size: 40, 41
+  orig: 60, 62
+  offset: 20, 1
+  index: -1
+chutu/canyin/canyin_034
+  rotate: false
+  xy: 388, 255
+  size: 41, 40
+  orig: 60, 62
+  offset: 18, 3
+  index: -1
+chutu/canyin/canyin_035
+  rotate: false
+  xy: 388, 213
+  size: 41, 40
+  orig: 60, 62
+  offset: 17, 4
+  index: -1
+chutu/canyin/canyin_036
+  rotate: false
+  xy: 303, 171
+  size: 41, 41
+  orig: 60, 62
+  offset: 16, 4
+  index: -1
+chutu/canyin/canyin_037
+  rotate: false
+  xy: 166, 6
+  size: 42, 41
+  orig: 60, 62
+  offset: 15, 5
+  index: -1
+chutu/canyin/canyin_038
+  rotate: false
+  xy: 428, 385
+  size: 45, 42
+  orig: 60, 62
+  offset: 11, 5
+  index: -1
+chutu/canyin/canyin_039
+  rotate: false
+  xy: 256, 300
+  size: 47, 42
+  orig: 60, 62
+  offset: 9, 6
+  index: -1
+chutu/canyin/canyin_040
+  rotate: true
+  xy: 212, 278
+  size: 48, 42
+  orig: 60, 62
+  offset: 7, 6
+  index: -1
+chutu/canyin/canyin_041
+  rotate: false
+  xy: 195, 378
+  size: 48, 43
+  orig: 60, 62
+  offset: 6, 6
+  index: -1
+chutu/canyin/canyin_042
+  rotate: false
+  xy: 377, 385
+  size: 49, 42
+  orig: 60, 62
+  offset: 5, 7
+  index: -1
+chutu/canyin/canyin_043
+  rotate: true
+  xy: 212, 228
+  size: 48, 42
+  orig: 60, 62
+  offset: 5, 8
+  index: -1
+chutu/canyin/canyin_044
+  rotate: false
+  xy: 427, 340
+  size: 46, 43
+  orig: 60, 62
+  offset: 6, 8
+  index: -1
+chutu/canyin/canyin_045
+  rotate: false
+  xy: 256, 255
+  size: 44, 43
+  orig: 60, 62
+  offset: 7, 9
+  index: -1
+chutu/canyin/canyin_046
+  rotate: false
+  xy: 166, 135
+  size: 43, 43
+  orig: 60, 62
+  offset: 8, 9
+  index: -1
+chutu/canyin/canyin_047
+  rotate: true
+  xy: 256, 129
+  size: 40, 43
+  orig: 60, 62
+  offset: 10, 10
+  index: -1
+chutu/canyin/canyin_048
+  rotate: true
+  xy: 431, 257
+  size: 38, 42
+  orig: 60, 62
+  offset: 11, 11
+  index: -1
+chutu/canyin/canyin_049
+  rotate: true
+  xy: 431, 217
+  size: 38, 42
+  orig: 60, 62
+  offset: 12, 12
+  index: -1
+chutu/canyin/canyin_050
+  rotate: true
+  xy: 211, 102
+  size: 37, 43
+  orig: 60, 62
+  offset: 13, 12
+  index: -1
+chutu/canyin/canyin_051
+  rotate: true
+  xy: 431, 140
+  size: 36, 42
+  orig: 60, 62
+  offset: 14, 13
+  index: -1
+chutu/canyin/canyin_052
+  rotate: true
+  xy: 431, 178
+  size: 37, 42
+  orig: 60, 62
+  offset: 14, 12
+  index: -1
+chutu/canyin/canyin_053
+  rotate: true
+  xy: 388, 132
+  size: 38, 41
+  orig: 60, 62
+  offset: 14, 11
+  index: -1
+chutu/canyin/canyin_054
+  rotate: true
+  xy: 431, 99
+  size: 39, 41
+  orig: 60, 62
+  offset: 13, 10
+  index: -1
+chutu/canyin/canyin_055
+  rotate: true
+  xy: 300, 46
+  size: 39, 41
+  orig: 60, 62
+  offset: 13, 4
+  index: -1
+chutu/canyin/canyin_056
+  rotate: false
+  xy: 384, 48
+  size: 39, 40
+  orig: 60, 62
+  offset: 13, 0
+  index: -1
+chutu/canyin/canyin_057
+  rotate: false
+  xy: 426, 63
+  size: 40, 34
+  orig: 60, 62
+  offset: 12, 0
+  index: -1
+chutu/canyin/canyin_058
+  rotate: false
+  xy: 425, 30
+  size: 39, 31
+  orig: 60, 62
+  offset: 12, 0
+  index: -1
+chutu/canyin/canyin_059
+  rotate: false
+  xy: 384, 17
+  size: 39, 29
+  orig: 60, 62
+  offset: 11, 0
+  index: -1
+chutu/quan1_000
+  rotate: false
+  xy: 2, 423
+  size: 250, 95
+  orig: 260, 107
+  offset: 5, 6
+  index: -1
+chutu/quan_000
+  rotate: false
+  xy: 2, 349
+  size: 191, 72
+  orig: 196, 82
+  offset: 3, 5
+  index: -1
+chutu/yan/yan_000
+  rotate: false
+  xy: 379, 429
+  size: 90, 89
+  orig: 132, 141
+  offset: 28, 9
+  index: -1
+chutu/yan/yan_001
+  rotate: false
+  xy: 2, 105
+  size: 118, 114
+  orig: 132, 141
+  offset: 3, 5
+  index: -1
+chutu/yan/yan_003
+  rotate: false
+  xy: 2, 221
+  size: 123, 126
+  orig: 132, 141
+  offset: 3, 5
+  index: -1
+chutu/yan/yan_005
+  rotate: false
+  xy: 2, 16
+  size: 117, 87
+  orig: 132, 141
+  offset: 2, 5
+  index: -1
+chutu/yan/yan_007
+  rotate: false
+  xy: 254, 344
+  size: 121, 86
+  orig: 132, 141
+  offset: 0, 6
+  index: -1
+chutu/yan/yan_009
+  rotate: false
+  xy: 254, 432
+  size: 123, 86
+  orig: 132, 141
+  offset: 0, 6
+  index: -1
+chutu/yan/yan_011
+  rotate: true
+  xy: 127, 224
+  size: 123, 83
+  orig: 132, 141
+  offset: 0, 7
+  index: -1

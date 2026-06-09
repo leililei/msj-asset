@@ -1,0 +1,62 @@
+
+longhun6_xiaodun.png
+size: 73,619
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/dun/00
+  rotate: false
+  xy: 3, 542
+  size: 68, 75
+  orig: 128, 128
+  offset: 30, 25
+  index: -1
+images/effect/dun/01
+  rotate: false
+  xy: 3, 465
+  size: 68, 75
+  orig: 128, 128
+  offset: 30, 25
+  index: -1
+images/effect/dun/02
+  rotate: false
+  xy: 3, 388
+  size: 68, 75
+  orig: 128, 128
+  offset: 30, 25
+  index: -1
+images/effect/dun/03
+  rotate: false
+  xy: 3, 311
+  size: 68, 75
+  orig: 128, 128
+  offset: 30, 25
+  index: -1
+images/effect/dun/04
+  rotate: false
+  xy: 3, 234
+  size: 68, 75
+  orig: 128, 128
+  offset: 30, 25
+  index: -1
+images/effect/dun/05
+  rotate: false
+  xy: 3, 157
+  size: 68, 75
+  orig: 128, 128
+  offset: 30, 25
+  index: -1
+images/effect/dun/06
+  rotate: false
+  xy: 3, 80
+  size: 68, 75
+  orig: 128, 128
+  offset: 30, 25
+  index: -1
+images/effect/dun/07
+  rotate: false
+  xy: 3, 3
+  size: 68, 75
+  orig: 128, 128
+  offset: 30, 25
+  index: -1

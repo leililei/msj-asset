@@ -1,0 +1,20 @@
+
+P_shangyun.png
+size: 1706,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 1006, 15
+  size: 698, 468
+  orig: 698, 468
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 2, 2
+  size: 1002, 481
+  orig: 1002, 481
+  offset: 0, 0
+  index: -1

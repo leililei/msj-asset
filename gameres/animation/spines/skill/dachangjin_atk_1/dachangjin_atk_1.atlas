@@ -1,0 +1,160 @@
+
+dachangjin_atk_1.png
+size: 196,1644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_sf00
+  rotate: true
+  xy: 99, 191
+  size: 76, 84
+  orig: 80, 88
+  offset: 2, 2
+  index: -1
+effect/attack_sf01
+  rotate: false
+  xy: 3, 453
+  size: 94, 85
+  orig: 101, 93
+  offset: 3, 4
+  index: -1
+effect/attack_sf02
+  rotate: false
+  xy: 3, 540
+  size: 170, 170
+  orig: 180, 180
+  offset: 5, 5
+  index: -1
+effect/attack_sf03
+  rotate: false
+  xy: 3, 712
+  size: 176, 176
+  orig: 186, 186
+  offset: 5, 5
+  index: -1
+effect/attack_sf04
+  rotate: false
+  xy: 3, 890
+  size: 179, 179
+  orig: 191, 191
+  offset: 6, 6
+  index: -1
+effect/attack_sf05
+  rotate: false
+  xy: 3, 1071
+  size: 185, 185
+  orig: 197, 197
+  offset: 6, 6
+  index: -1
+effect/attack_sf06
+  rotate: false
+  xy: 3, 1451
+  size: 191, 191
+  orig: 197, 197
+  offset: 3, 3
+  index: -1
+effect/attack_sf07
+  rotate: false
+  xy: 3, 1258
+  size: 191, 191
+  orig: 197, 197
+  offset: 3, 3
+  index: -1
+effect/attack_sf08
+  rotate: true
+  xy: 111, 340
+  size: 87, 78
+  orig: 93, 84
+  offset: 3, 3
+  index: -1
+effect/attack_yc00
+  rotate: false
+  xy: 86, 8
+  size: 100, 51
+  orig: 104, 56
+  offset: 2, 3
+  index: -1
+effect/attack_yc01
+  rotate: false
+  xy: 86, 61
+  size: 103, 53
+  orig: 108, 59
+  offset: 2, 3
+  index: -1
+effect/attack_yc02
+  rotate: false
+  xy: 3, 363
+  size: 106, 64
+  orig: 111, 70
+  offset: 3, 3
+  index: -1
+effect/attack_yc03
+  rotate: true
+  xy: 99, 429
+  size: 109, 66
+  orig: 113, 72
+  offset: 2, 3
+  index: -1
+effect/attack_yc04
+  rotate: false
+  xy: 3, 199
+  size: 94, 68
+  orig: 99, 73
+  offset: 2, 3
+  index: -1
+effect/attack_yc05
+  rotate: false
+  xy: 97, 269
+  size: 94, 69
+  orig: 100, 74
+  offset: 2, 3
+  index: -1
+effect/attack_yc06
+  rotate: false
+  xy: 3, 127
+  size: 90, 70
+  orig: 96, 77
+  offset: 3, 4
+  index: -1
+effect/attack_yc07
+  rotate: false
+  xy: 3, 290
+  size: 92, 71
+  orig: 98, 77
+  offset: 3, 3
+  index: -1
+effect/attack_yc08
+  rotate: false
+  xy: 95, 116
+  size: 80, 73
+  orig: 86, 79
+  offset: 3, 4
+  index: -1
+effect/attack_yc09
+  rotate: false
+  xy: 3, 53
+  size: 81, 72
+  orig: 87, 78
+  offset: 2, 4
+  index: -1
+effect/attack_yc10
+  rotate: true
+  xy: 3, 3
+  size: 48, 56
+  orig: 52, 61
+  offset: 2, 3
+  index: -1
+effect/attack_yc11
+  rotate: false
+  xy: 167, 429
+  size: 26, 13
+  orig: 32, 17
+  offset: 3, 2
+  index: -1
+effect/attack_yc12
+  rotate: false
+  xy: 61, 45
+  size: 6, 6
+  orig: 11, 11
+  offset: 2, 3
+  index: -1

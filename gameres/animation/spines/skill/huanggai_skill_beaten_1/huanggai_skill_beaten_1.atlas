@@ -1,0 +1,55 @@
+
+huanggai_skill_beaten_1.png
+size: 764,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill/msg_huanggai_jn_mz/msg_huanggai_jn_mz_00
+  rotate: true
+  xy: 571, 149
+  size: 171, 174
+  orig: 347, 269
+  offset: 84, 47
+  index: -1
+effect/skill/msg_huanggai_jn_mz/msg_huanggai_jn_mz_01
+  rotate: true
+  xy: 2, 2
+  size: 272, 269
+  orig: 347, 269
+  offset: 37, 0
+  index: -1
+effect/skill/msg_huanggai_jn_mz/msg_huanggai_jn_mz_02
+  rotate: false
+  xy: 273, 17
+  size: 296, 269
+  orig: 347, 269
+  offset: 12, 0
+  index: -1
+effect/skill/msg_huanggai_jn_mz/msg_huanggai_jn_mz_04
+  rotate: true
+  xy: 253, 288
+  size: 302, 259
+  orig: 347, 269
+  offset: 13, 5
+  index: -1
+effect/skill/msg_huanggai_jn_mz/msg_huanggai_jn_mz_06
+  rotate: true
+  xy: 2, 276
+  size: 314, 249
+  orig: 347, 269
+  offset: 7, 11
+  index: -1
+effect/skill/msg_huanggai_jn_mz/msg_huanggai_jn_mz_08
+  rotate: true
+  xy: 514, 322
+  size: 268, 248
+  orig: 347, 269
+  offset: 6, 14
+  index: -1
+effect/skill/msg_huanggai_jn_mz/msg_huanggai_jn_mz_10
+  rotate: true
+  xy: 571, 14
+  size: 133, 109
+  orig: 347, 269
+  offset: 90, 107
+  index: -1

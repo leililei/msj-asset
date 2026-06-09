@@ -1,0 +1,83 @@
+
+panfeng_atk_beaten_1.png
+size: 344,1722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/a5/a5_010
+  rotate: true
+  xy: 3, 135
+  size: 198, 227
+  orig: 354, 272
+  offset: 58, 7
+  index: -1
+chutu/attack/a5/a5_011
+  rotate: true
+  xy: 3, 649
+  size: 231, 238
+  orig: 354, 272
+  offset: 45, 5
+  index: -1
+chutu/attack/a5/a5_013
+  rotate: false
+  xy: 3, 1473
+  size: 272, 247
+  orig: 354, 272
+  offset: 30, 8
+  index: -1
+chutu/attack/a5/a5_015
+  rotate: false
+  xy: 3, 1252
+  size: 298, 219
+  orig: 354, 272
+  offset: 21, 38
+  index: -1
+chutu/attack/a5/a5_017
+  rotate: false
+  xy: 3, 1055
+  size: 316, 195
+  orig: 354, 272
+  offset: 14, 49
+  index: -1
+chutu/attack/a5/a5_019
+  rotate: false
+  xy: 3, 882
+  size: 330, 171
+  orig: 354, 272
+  offset: 9, 81
+  index: -1
+chutu/attack/a5/a5_021
+  rotate: false
+  xy: 3, 486
+  size: 339, 161
+  orig: 354, 272
+  offset: 6, 86
+  index: -1
+chutu/attack/a5/a5_023
+  rotate: false
+  xy: 3, 335
+  size: 339, 149
+  orig: 354, 272
+  offset: 10, 99
+  index: -1
+chutu/attack/a5/a5_025
+  rotate: false
+  xy: 3, 3
+  size: 326, 130
+  orig: 354, 272
+  offset: 22, 115
+  index: -1
+chutu/attack/a5/a5_027
+  rotate: true
+  xy: 232, 135
+  size: 173, 82
+  orig: 354, 272
+  offset: 162, 148
+  index: -1
+chutu/attack/a6/a6_010
+  rotate: false
+  xy: 316, 135
+  size: 23, 24
+  orig: 25, 26
+  offset: 1, 1
+  index: -1

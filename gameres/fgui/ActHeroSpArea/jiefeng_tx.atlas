@@ -1,0 +1,125 @@
+
+jiefeng_tx.png
+size: 1950,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/jl10/jl10_00105
+  rotate: false
+  xy: 2, 26
+  size: 312, 316
+  orig: 342, 344
+  offset: 15, 16
+  index: -1
+chutu/jl5/jl5_00107
+  rotate: false
+  xy: 857, 144
+  size: 198, 198
+  orig: 226, 226
+  offset: 14, 13
+  index: -1
+chutu/jl5/jl5_00108
+  rotate: false
+  xy: 629, 116
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+chutu/jl5/jl5_00109
+  rotate: false
+  xy: 1611, 168
+  size: 173, 174
+  orig: 226, 226
+  offset: 25, 24
+  index: -1
+chutu/jl5/jl5_00110
+  rotate: false
+  xy: 1250, 162
+  size: 179, 180
+  orig: 226, 226
+  offset: 21, 20
+  index: -1
+chutu/jl5/jl5_00112
+  rotate: false
+  xy: 1057, 146
+  size: 191, 196
+  orig: 226, 226
+  offset: 15, 12
+  index: -1
+chutu/jl5/jl5_00114
+  rotate: true
+  xy: 1431, 163
+  size: 179, 178
+  orig: 226, 226
+  offset: 26, 21
+  index: -1
+chutu/jl5/jl5_00116
+  rotate: false
+  xy: 1630, 14
+  size: 172, 152
+  orig: 226, 226
+  offset: 31, 34
+  index: -1
+chutu/jl5/jl5_00118
+  rotate: false
+  xy: 887, 9
+  size: 172, 133
+  orig: 226, 226
+  offset: 30, 41
+  index: -1
+chutu/jl6/jl6_00000
+  rotate: true
+  xy: 751, 29
+  size: 85, 134
+  orig: 241, 241
+  offset: 15, 44
+  index: -1
+chutu/jl6/jl6_00001
+  rotate: true
+  xy: 1804, 18
+  size: 159, 144
+  orig: 241, 241
+  offset: 22, 13
+  index: -1
+chutu/jl6/jl6_00002
+  rotate: false
+  xy: 1250, 12
+  size: 195, 148
+  orig: 241, 241
+  offset: 32, 15
+  index: -1
+chutu/jl6/jl6_00004
+  rotate: false
+  xy: 1447, 12
+  size: 181, 149
+  orig: 241, 241
+  offset: 46, 16
+  index: -1
+chutu/jl6/jl6_00006
+  rotate: true
+  xy: 1786, 179
+  size: 163, 148
+  orig: 241, 241
+  offset: 64, 18
+  index: -1
+chutu/jl6/jl6_00008
+  rotate: false
+  xy: 1061, 2
+  size: 136, 142
+  orig: 241, 241
+  offset: 90, 24
+  index: -1
+chutu/jl6/jl6_00010
+  rotate: true
+  xy: 629, 17
+  size: 97, 120
+  orig: 241, 241
+  offset: 124, 41
+  index: -1
+chutu/jl9/jl9_00105
+  rotate: false
+  xy: 316, 31
+  size: 311, 311
+  orig: 331, 328
+  offset: 10, 7
+  index: -1

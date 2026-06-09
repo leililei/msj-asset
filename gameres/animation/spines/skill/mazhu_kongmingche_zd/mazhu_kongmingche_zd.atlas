@@ -1,0 +1,62 @@
+
+mazhu_kongmingche_zd.png
+size: 1176,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/6/6_008
+  rotate: false
+  xy: 342, 6
+  size: 154, 60
+  orig: 179, 77
+  offset: 24, 9
+  index: -1
+chutu/6/6_010
+  rotate: false
+  xy: 173, 2
+  size: 167, 64
+  orig: 179, 77
+  offset: 11, 5
+  index: -1
+chutu/6/6_012
+  rotate: false
+  xy: 2, 2
+  size: 169, 64
+  orig: 179, 77
+  offset: 8, 6
+  index: -1
+chutu/6/6_014
+  rotate: false
+  xy: 498, 3
+  size: 147, 63
+  orig: 179, 77
+  offset: 30, 9
+  index: -1
+chutu/7/7_008
+  rotate: false
+  xy: 647, 3
+  size: 137, 63
+  orig: 173, 93
+  offset: 23, 15
+  index: -1
+chutu/7/7_010
+  rotate: false
+  xy: 786, 5
+  size: 136, 61
+  orig: 173, 93
+  offset: 14, 17
+  index: -1
+chutu/7/7_012
+  rotate: false
+  xy: 924, 4
+  size: 133, 62
+  orig: 173, 93
+  offset: 10, 16
+  index: -1
+chutu/7/7_014
+  rotate: false
+  xy: 1059, 2
+  size: 115, 64
+  orig: 173, 93
+  offset: 40, 15
+  index: -1

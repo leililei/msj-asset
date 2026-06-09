@@ -1,0 +1,657 @@
+
+S_S_simayi_skill_beatan_1.png
+size: 2046,1575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/plot/skill/glow2/glow2_00022
+  rotate: false
+  xy: 1555, 609
+  size: 32, 33
+  orig: 40, 43
+  offset: 3, 5
+  index: -1
+images/plot/skill/glow3/glow3_00029
+  rotate: false
+  xy: 1001, 151
+  size: 58, 57
+  orig: 71, 71
+  offset: 6, 7
+  index: -1
+images/plot/skill/glow4/glow4_00030
+  rotate: false
+  xy: 853, 56
+  size: 57, 58
+  orig: 70, 70
+  offset: 6, 6
+  index: -1
+images/plot/skill/hit/al/al_00031
+  rotate: false
+  xy: 0, 256
+  size: 125, 19
+  orig: 129, 26
+  offset: 2, 0
+  index: -1
+images/plot/skill/hit/al/al_00033
+  rotate: false
+  xy: 474, 617
+  size: 125, 20
+  orig: 129, 26
+  offset: 2, 1
+  index: -1
+images/plot/skill/hit/al/al_00035
+  rotate: false
+  xy: 327, 143
+  size: 126, 16
+  orig: 129, 26
+  offset: 1, 7
+  index: -1
+images/plot/skill/hit/al/al_00037
+  rotate: false
+  xy: 0, 31
+  size: 125, 12
+  orig: 129, 26
+  offset: 2, 11
+  index: -1
+images/plot/skill/hit/al/al_00039
+  rotate: false
+  xy: 0, 248
+  size: 125, 8
+  orig: 129, 26
+  offset: 2, 16
+  index: -1
+images/plot/skill/hit/c1/c1_00029
+  rotate: true
+  xy: 1084, 233
+  size: 111, 90
+  orig: 271, 183
+  offset: 80, 25
+  index: -1
+images/plot/skill/hit/c1/c1_00030
+  rotate: false
+  xy: 151, 246
+  size: 201, 138
+  orig: 271, 183
+  offset: 37, 9
+  index: -1
+images/plot/skill/hit/c1/c1_00032
+  rotate: true
+  xy: 0, 275
+  size: 238, 151
+  orig: 271, 183
+  offset: 19, 13
+  index: -1
+images/plot/skill/hit/c1/c1_00034
+  rotate: false
+  xy: 474, 238
+  size: 220, 147
+  orig: 271, 183
+  offset: 27, 25
+  index: -1
+images/plot/skill/hit/c1/c1_00036
+  rotate: false
+  xy: 0, 106
+  size: 172, 140
+  orig: 271, 183
+  offset: 77, 26
+  index: -1
+images/plot/skill/hit/c1/c1_00038
+  rotate: false
+  xy: 1553, 136
+  size: 174, 141
+  orig: 271, 183
+  offset: 75, 28
+  index: -1
+images/plot/skill/hit/c2/c2_00029
+  rotate: false
+  xy: 793, 16
+  size: 60, 98
+  orig: 333, 298
+  offset: 115, 29
+  index: -1
+images/plot/skill/hit/c2/c2_00030
+  rotate: true
+  xy: 474, 385
+  size: 227, 248
+  orig: 333, 298
+  offset: 66, 6
+  index: -1
+images/plot/skill/hit/c2/c2_00032
+  rotate: false
+  xy: 607, 612
+  size: 301, 263
+  orig: 333, 298
+  offset: 14, 11
+  index: -1
+images/plot/skill/hit/c2/c2_00034
+  rotate: false
+  xy: 1268, 403
+  size: 287, 239
+  orig: 333, 298
+  offset: 11, 45
+  index: -1
+images/plot/skill/hit/c2/c2_00036
+  rotate: true
+  xy: 893, 208
+  size: 136, 191
+  orig: 333, 298
+  offset: 112, 55
+  index: -1
+images/plot/skill/hit/g/g_00031
+  rotate: false
+  xy: 1555, 576
+  size: 32, 33
+  orig: 40, 43
+  offset: 4, 6
+  index: -1
+images/plot/skill/hit/g2/g2_00029
+  rotate: false
+  xy: 607, 880
+  size: 34, 25
+  orig: 40, 32
+  offset: 3, 5
+  index: -1
+images/plot/skill/hit/gz/gz_00033
+  rotate: false
+  xy: 151, 393
+  size: 51, 120
+  orig: 118, 233
+  offset: 30, 7
+  index: -1
+images/plot/skill/hit/gz/gz_00034
+  rotate: true
+  xy: 0, 43
+  size: 63, 151
+  orig: 118, 233
+  offset: 24, 7
+  index: -1
+images/plot/skill/hit/gz/gz_00035
+  rotate: false
+  xy: 1961, 93
+  size: 81, 186
+  orig: 118, 233
+  offset: 19, 7
+  index: -1
+images/plot/skill/hit/gz/gz_00036
+  rotate: true
+  xy: 1522, 38
+  size: 98, 212
+  orig: 118, 233
+  offset: 14, 7
+  index: -1
+images/plot/skill/hit/gz/gz_00037
+  rotate: true
+  xy: 456, 134
+  size: 104, 219
+  orig: 118, 233
+  offset: 10, 7
+  index: -1
+images/plot/skill/hit/gz/gz_00038
+  rotate: true
+  xy: 1084, 124
+  size: 104, 219
+  orig: 118, 233
+  offset: 10, 7
+  index: -1
+images/plot/skill/hit/gz/gz_00039
+  rotate: true
+  xy: 1303, 121
+  size: 104, 219
+  orig: 118, 233
+  offset: 10, 7
+  index: -1
+images/plot/skill/hit/gz/gz_00040
+  rotate: false
+  xy: 352, 159
+  size: 104, 225
+  orig: 118, 233
+  offset: 10, 1
+  index: -1
+images/plot/skill/hit/gz/gz_00051
+  rotate: false
+  xy: 1858, 1356
+  size: 77, 219
+  orig: 118, 233
+  offset: 21, 7
+  index: -1
+images/plot/skill/hit/gz/gz_00053
+  rotate: false
+  xy: 1734, 57
+  size: 66, 220
+  orig: 118, 233
+  offset: 26, 6
+  index: -1
+images/plot/skill/hit/gz/gz_00055
+  rotate: false
+  xy: 1213, 418
+  size: 53, 219
+  orig: 118, 233
+  offset: 32, 7
+  index: -1
+images/plot/skill/hit/gz/gz_00057
+  rotate: true
+  xy: 1285, 28
+  size: 41, 219
+  orig: 118, 233
+  offset: 38, 7
+  index: -1
+images/plot/skill/hit/gz/gz_00059
+  rotate: false
+  xy: 908, 656
+  size: 28, 219
+  orig: 118, 233
+  offset: 44, 7
+  index: -1
+images/plot/skill/hit/gz/gz_00061
+  rotate: false
+  xy: 942, 989
+  size: 16, 226
+  orig: 118, 233
+  offset: 50, 0
+  index: -1
+images/plot/skill/hit/lj/lj_00030
+  rotate: false
+  xy: 327, 43
+  size: 197, 91
+  orig: 296, 326
+  offset: 50, 83
+  index: -1
+images/plot/skill/hit/lj/lj_00031
+  rotate: false
+  xy: 694, 211
+  size: 199, 133
+  orig: 296, 326
+  offset: 49, 78
+  index: -1
+images/plot/skill/hit/lj/lj_00032
+  rotate: false
+  xy: 1176, 228
+  size: 201, 175
+  orig: 296, 326
+  offset: 48, 79
+  index: -1
+images/plot/skill/hit/lj/lj_00033
+  rotate: true
+  xy: 217, 384
+  size: 253, 257
+  orig: 370, 408
+  offset: 58, 61
+  index: -1
+images/plot/skill/hit/lj/lj_00034
+  rotate: true
+  xy: 1282, 942
+  size: 270, 288
+  orig: 370, 408
+  offset: 55, 62
+  index: -1
+images/plot/skill/hit/lj/lj_00036
+  rotate: true
+  xy: 942, 637
+  size: 282, 326
+  orig: 370, 408
+  offset: 31, 67
+  index: -1
+images/plot/skill/hit/lj/lj_00038
+  rotate: false
+  xy: 652, 875
+  size: 290, 340
+  orig: 370, 408
+  offset: 33, 55
+  index: -1
+images/plot/skill/hit/lj/lj_00040
+  rotate: false
+  xy: 962, 1235
+  size: 321, 340
+  orig: 370, 408
+  offset: 3, 20
+  index: -1
+images/plot/skill/hit/lj/lj_00042
+  rotate: false
+  xy: 0, 1212
+  size: 326, 363
+  orig: 370, 408
+  offset: 9, 14
+  index: -1
+images/plot/skill/hit/lj/lj_00044
+  rotate: false
+  xy: 651, 1215
+  size: 311, 360
+  orig: 370, 408
+  offset: 26, 12
+  index: -1
+images/plot/skill/hit/lj/lj_00046
+  rotate: false
+  xy: 326, 1221
+  size: 325, 354
+  orig: 370, 408
+  offset: 39, 11
+  index: -1
+images/plot/skill/hit/lj/lj_00048
+  rotate: false
+  xy: 1283, 1212
+  size: 289, 363
+  orig: 370, 408
+  offset: 37, 10
+  index: -1
+images/plot/skill/hit/lj/lj_00050
+  rotate: true
+  xy: 1572, 940
+  size: 278, 365
+  orig: 370, 408
+  offset: 34, 11
+  index: -1
+images/plot/skill/hit/lj/lj_00052
+  rotate: false
+  xy: 0, 854
+  size: 274, 358
+  orig: 370, 408
+  offset: 49, 13
+  index: -1
+images/plot/skill/hit/lj/lj_00054
+  rotate: false
+  xy: 1572, 1218
+  size: 286, 357
+  orig: 370, 408
+  offset: 30, 14
+  index: -1
+images/plot/skill/hit/lj/lj_00056
+  rotate: true
+  xy: 1594, 646
+  size: 294, 314
+  orig: 370, 408
+  offset: 41, 56
+  index: -1
+images/plot/skill/hit/lj/lj_00058
+  rotate: true
+  xy: 326, 905
+  size: 310, 326
+  orig: 370, 408
+  offset: 27, 51
+  index: -1
+images/plot/skill/hit/lj/lj_00060
+  rotate: true
+  xy: 962, 919
+  size: 316, 320
+  orig: 370, 408
+  offset: 25, 50
+  index: -1
+images/plot/skill/hit/lj/lj_00062
+  rotate: true
+  xy: 274, 637
+  size: 268, 333
+  orig: 370, 408
+  offset: 49, 51
+  index: -1
+images/plot/skill/hit/lj/lj_00064
+  rotate: true
+  xy: 1282, 642
+  size: 298, 312
+  orig: 370, 408
+  offset: 29, 53
+  index: -1
+images/plot/skill/hit/lj/lj_00066
+  rotate: false
+  xy: 0, 513
+  size: 217, 341
+  orig: 370, 408
+  offset: 84, 33
+  index: -1
+images/plot/skill/hit/lj/lj_00068
+  rotate: true
+  xy: 1594, 423
+  size: 223, 331
+  orig: 370, 408
+  offset: 67, 29
+  index: -1
+images/plot/skill/hit/lj/lj_00070
+  rotate: true
+  xy: 908, 444
+  size: 193, 305
+  orig: 370, 408
+  offset: 86, 27
+  index: -1
+images/plot/skill/hit/lj/lj_00072
+  rotate: true
+  xy: 1801, 279
+  size: 144, 245
+  orig: 296, 326
+  offset: 54, 21
+  index: -1
+images/plot/skill/hit/lj/lj_00074
+  rotate: true
+  xy: 1555, 277
+  size: 146, 246
+  orig: 296, 326
+  offset: 49, 20
+  index: -1
+images/plot/skill/hit/long/long_00029
+  rotate: false
+  xy: 1858, 1261
+  size: 68, 95
+  orig: 119, 554
+  offset: 33, 11
+  index: -1
+images/plot/skill/hit/long/long_00030
+  rotate: false
+  xy: 914, 40
+  size: 87, 168
+  orig: 119, 554
+  offset: 29, 11
+  index: -1
+images/plot/skill/hit/long/long_00031
+  rotate: true
+  xy: 675, 114
+  size: 94, 239
+  orig: 119, 554
+  offset: 9, 11
+  index: -1
+images/plot/skill/hit/long/long_00032
+  rotate: false
+  xy: 1937, 804
+  size: 108, 315
+  orig: 119, 554
+  offset: 7, 11
+  index: -1
+images/plot/skill/hit/long/long_00034
+  rotate: true
+  xy: 722, 344
+  size: 100, 454
+  orig: 119, 554
+  offset: 19, 11
+  index: -1
+images/plot/skill/hit/long/long_00036
+  rotate: false
+  xy: 1937, 1119
+  size: 96, 456
+  orig: 119, 554
+  offset: 4, 92
+  index: -1
+images/plot/skill/hit/long/long_00038
+  rotate: false
+  xy: 1925, 487
+  size: 98, 317
+  orig: 119, 554
+  offset: 5, 231
+  index: -1
+images/plot/skill/hit/qc/qc_00029
+  rotate: false
+  xy: 722, 449
+  size: 171, 163
+  orig: 196, 188
+  offset: 2, 12
+  index: -1
+images/plot/skill/hit/qc/qc_00030
+  rotate: false
+  xy: 1377, 225
+  size: 176, 178
+  orig: 196, 188
+  offset: 6, 6
+  index: -1
+images/plot/skill/hit/qc/qc_00032
+  rotate: false
+  xy: 1801, 125
+  size: 160, 154
+  orig: 196, 188
+  offset: 27, 19
+  index: -1
+images/plot/skill/hit/qc/qc_00034
+  rotate: true
+  xy: 172, 95
+  size: 151, 155
+  orig: 196, 188
+  offset: 38, 18
+  index: -1
+images/plot/skill/hit/xx/xx_00033
+  rotate: false
+  xy: 1285, 69
+  size: 207, 52
+  orig: 214, 74
+  offset: 4, 6
+  index: -1
+images/plot/skill/hit/xx/xx_00035
+  rotate: true
+  xy: 274, 1014
+  size: 198, 46
+  orig: 214, 74
+  offset: 13, 4
+  index: -1
+images/plot/skill/hit/xx/xx_00037
+  rotate: true
+  xy: 217, 668
+  size: 186, 47
+  orig: 214, 74
+  offset: 25, 3
+  index: -1
+images/plot/skill/hit/xx/xx_00039
+  rotate: false
+  xy: 151, 43
+  size: 163, 52
+  orig: 214, 74
+  offset: 48, 6
+  index: -1
+images/plot/skill/hit/xx/xx_00041
+  rotate: false
+  xy: 524, 0
+  size: 125, 48
+  orig: 214, 74
+  offset: 86, 9
+  index: -1
+images/plot/skill/hit/xx/xx_00043
+  rotate: false
+  xy: 1734, 24
+  size: 58, 33
+  orig: 214, 74
+  offset: 153, 15
+  index: -1
+images/plot/skill/hit/xx/xx_00045
+  rotate: false
+  xy: 217, 657
+  size: 41, 11
+  orig: 214, 74
+  offset: 168, 26
+  index: -1
+images/plot/skill/hit/xxf/xxf_00033
+  rotate: false
+  xy: 1858, 1220
+  size: 78, 41
+  orig: 146, 102
+  offset: 38, 3
+  index: -1
+images/plot/skill/hit/xxf/xxf_00035
+  rotate: false
+  xy: 664, 31
+  size: 129, 83
+  orig: 146, 102
+  offset: 17, 13
+  index: -1
+images/plot/skill/hit/xxf/xxf_00037
+  rotate: false
+  xy: 1800, 42
+  size: 143, 83
+  orig: 146, 102
+  offset: 3, 15
+  index: -1
+images/plot/skill/hit/xxf/xxf_00039
+  rotate: false
+  xy: 1001, 41
+  size: 143, 83
+  orig: 146, 102
+  offset: 3, 15
+  index: -1
+images/plot/skill/hit/xxf/xxf_00041
+  rotate: false
+  xy: 1144, 44
+  size: 141, 80
+  orig: 146, 102
+  offset: 3, 10
+  index: -1
+images/plot/skill/hit/xxf/xxf_00043
+  rotate: false
+  xy: 524, 48
+  size: 140, 86
+  orig: 146, 102
+  offset: 4, 8
+  index: -1
+images/plot/skill/hit/xxf/xxf_00045
+  rotate: false
+  xy: 1925, 425
+  size: 112, 62
+  orig: 146, 102
+  offset: 34, 32
+  index: -1
+images/plot/skill/hit/xxf/xxf_00047
+  rotate: false
+  xy: 1144, 17
+  size: 84, 27
+  orig: 146, 102
+  offset: 57, 67
+  index: -1
+images/plot/skill/huo1/huo1_00011
+  rotate: false
+  xy: 942, 971
+  size: 17, 18
+  orig: 52, 61
+  offset: 17, 14
+  index: -1
+images/plot/skill/huo1/huo1_00013
+  rotate: false
+  xy: 1555, 542
+  size: 30, 34
+  orig: 52, 61
+  offset: 11, 9
+  index: -1
+images/plot/skill/huo1/huo1_00015
+  rotate: false
+  xy: 1992, 43
+  size: 46, 50
+  orig: 52, 61
+  offset: 3, 3
+  index: -1
+images/plot/skill/huo1/huo1_00017
+  rotate: false
+  xy: 274, 909
+  size: 49, 53
+  orig: 52, 61
+  offset: 2, 2
+  index: -1
+images/plot/skill/huo1/huo1_00019
+  rotate: false
+  xy: 274, 962
+  size: 51, 52
+  orig: 52, 61
+  offset: 0, 2
+  index: -1
+images/plot/skill/huo1/huo1_00021
+  rotate: false
+  xy: 1943, 44
+  size: 49, 49
+  orig: 52, 61
+  offset: 1, 4
+  index: -1
+images/plot/skill/huo1/huo1_00023
+  rotate: false
+  xy: 853, 9
+  size: 39, 47
+  orig: 52, 61
+  offset: 5, 4
+  index: -1

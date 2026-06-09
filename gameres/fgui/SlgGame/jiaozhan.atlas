@@ -1,0 +1,27 @@
+
+jiaozhan.png
+size: 57,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 3, 31
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+jian_000
+  rotate: false
+  xy: 3, 5
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+jian_001
+  rotate: false
+  xy: 29, 5
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

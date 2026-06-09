@@ -1,0 +1,83 @@
+
+S_guanyu_atk_2.png
+size: 153,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_smoke_00
+  rotate: false
+  xy: 2, 9
+  size: 28, 9
+  orig: 30, 9
+  offset: 1, 0
+  index: -1
+effect/attack_smoke_01
+  rotate: true
+  xy: 86, 46
+  size: 96, 26
+  orig: 96, 27
+  offset: 0, 1
+  index: -1
+effect/attack_smoke_02
+  rotate: false
+  xy: 2, 144
+  size: 105, 58
+  orig: 106, 59
+  offset: 1, 0
+  index: -1
+effect/attack_smoke_03
+  rotate: false
+  xy: 2, 204
+  size: 113, 53
+  orig: 115, 55
+  offset: 1, 1
+  index: -1
+effect/attack_smoke_04
+  rotate: true
+  xy: 2, 28
+  size: 114, 47
+  orig: 116, 49
+  offset: 1, 1
+  index: -1
+effect/attack_smoke_05
+  rotate: true
+  xy: 51, 40
+  size: 102, 33
+  orig: 102, 33
+  offset: 0, 0
+  index: -1
+effect/attack_smoke_06
+  rotate: true
+  xy: 114, 84
+  size: 91, 35
+  orig: 91, 35
+  offset: 0, 0
+  index: -1
+effect/attack_smoke_07
+  rotate: true
+  xy: 114, 2
+  size: 80, 35
+  orig: 80, 35
+  offset: 0, 0
+  index: -1
+effect/attack_smoke_08
+  rotate: true
+  xy: 117, 177
+  size: 80, 34
+  orig: 80, 35
+  offset: 0, 0
+  index: -1
+effect/attack_smoke_09
+  rotate: false
+  xy: 56, 3
+  size: 54, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+effect/attack_smoke_10
+  rotate: false
+  xy: 2, 20
+  size: 52, 6
+  orig: 52, 8
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+heiyan.png
+size: 1577,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/hy1/hy1_00000
+  rotate: true
+  xy: 2, 213
+  size: 185, 281
+  orig: 290, 434
+  offset: 58, 37
+  index: -1
+chutu/hy1/hy1_00002
+  rotate: true
+  xy: 590, 205
+  size: 193, 273
+  orig: 290, 434
+  offset: 55, 38
+  index: -1
+chutu/hy1/hy1_00004
+  rotate: true
+  xy: 865, 204
+  size: 194, 282
+  orig: 290, 434
+  offset: 56, 37
+  index: -1
+chutu/hy1/hy1_00006
+  rotate: true
+  xy: 1149, 204
+  size: 194, 291
+  orig: 290, 434
+  offset: 57, 36
+  index: -1
+chutu/hy1/hy1_00008
+  rotate: true
+  xy: 2, 9
+  size: 195, 294
+  orig: 290, 434
+  offset: 54, 34
+  index: -1
+chutu/hy1/hy1_00010
+  rotate: true
+  xy: 285, 206
+  size: 192, 303
+  orig: 290, 434
+  offset: 52, 34
+  index: -1
+chutu/hy1/hy1_00012
+  rotate: true
+  xy: 298, 7
+  size: 196, 311
+  orig: 290, 434
+  offset: 49, 35
+  index: -1
+chutu/hy1/hy1_00014
+  rotate: true
+  xy: 611, 5
+  size: 197, 323
+  orig: 290, 434
+  offset: 46, 36
+  index: -1
+chutu/hy1/hy1_00016
+  rotate: true
+  xy: 1250, 2
+  size: 200, 325
+  orig: 290, 434
+  offset: 43, 36
+  index: -1
+chutu/hy1/hy1_00018
+  rotate: true
+  xy: 936, 4
+  size: 198, 312
+  orig: 290, 434
+  offset: 44, 35
+  index: -1

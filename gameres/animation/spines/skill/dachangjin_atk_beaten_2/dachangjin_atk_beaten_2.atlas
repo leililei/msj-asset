@@ -1,0 +1,90 @@
+
+dachangjin_atk_beaten_2.png
+size: 1859,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_mz00
+  rotate: true
+  xy: 1621, 65
+  size: 139, 84
+  orig: 143, 89
+  offset: 2, 3
+  index: -1
+effect/attack_mz01
+  rotate: true
+  xy: 1423, 23
+  size: 181, 108
+  orig: 190, 116
+  offset: 2, 4
+  index: -1
+effect/attack_mz02
+  rotate: false
+  xy: 510, 12
+  size: 230, 192
+  orig: 238, 201
+  offset: 5, 5
+  index: -1
+effect/attack_mz03
+  rotate: false
+  xy: 260, 25
+  size: 248, 179
+  orig: 257, 191
+  offset: 6, 6
+  index: -1
+effect/attack_mz04
+  rotate: false
+  xy: 3, 8
+  size: 255, 196
+  orig: 265, 205
+  offset: 6, 6
+  index: -1
+effect/attack_mz05
+  rotate: false
+  xy: 969, 13
+  size: 218, 191
+  orig: 228, 207
+  offset: 8, 8
+  index: -1
+effect/attack_mz06
+  rotate: false
+  xy: 742, 13
+  size: 225, 191
+  orig: 237, 211
+  offset: 10, 10
+  index: -1
+effect/attack_mz07
+  rotate: true
+  xy: 1189, 6
+  size: 198, 128
+  orig: 202, 136
+  offset: 2, 6
+  index: -1
+effect/attack_mz08
+  rotate: true
+  xy: 1319, 4
+  size: 200, 102
+  orig: 204, 106
+  offset: 2, 2
+  index: -1
+effect/attack_mz09
+  rotate: true
+  xy: 1533, 3
+  size: 201, 86
+  orig: 205, 90
+  offset: 2, 2
+  index: -1
+effect/attack_mz10
+  rotate: true
+  xy: 1786, 95
+  size: 109, 71
+  orig: 113, 76
+  offset: 2, 3
+  index: -1
+effect/attack_mz11
+  rotate: true
+  xy: 1707, 90
+  size: 114, 77
+  orig: 118, 81
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,160 @@
+
+spcaocao_skill_2.png
+size: 1938,570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_bj_heilan
+  rotate: false
+  xy: 325, 56
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+effect/skill_sf_tuowei_00
+  rotate: false
+  xy: 240, 157
+  size: 196, 411
+  orig: 198, 414
+  offset: 1, 1
+  index: -1
+effect/skill_sf_tuowei_01
+  rotate: false
+  xy: 2, 141
+  size: 236, 427
+  orig: 243, 443
+  offset: 3, 14
+  index: -1
+effect/skill_sf_tuowei_03
+  rotate: false
+  xy: 438, 158
+  size: 238, 410
+  orig: 245, 423
+  offset: 3, 12
+  index: -1
+effect/skill_sf_tuowei_05
+  rotate: false
+  xy: 678, 214
+  size: 232, 354
+  orig: 237, 361
+  offset: 2, 6
+  index: -1
+effect/skill_sf_tuowei_07
+  rotate: false
+  xy: 1693, 2
+  size: 227, 282
+  orig: 230, 291
+  offset: 0, 8
+  index: -1
+effect/skill_sf_tuowei_09
+  rotate: false
+  xy: 912, 9
+  size: 212, 273
+  orig: 214, 276
+  offset: 1, 2
+  index: -1
+effect/skill_sf_tuowei_11
+  rotate: false
+  xy: 266, 5
+  size: 57, 150
+  orig: 63, 155
+  offset: 2, 2
+  index: -1
+effect/skill_sf_tuowei_13
+  rotate: false
+  xy: 2, 2
+  size: 30, 33
+  orig: 34, 37
+  offset: 2, 2
+  index: -1
+effect/skill_sf_tuowei_15
+  rotate: true
+  xy: 34, 4
+  size: 31, 23
+  orig: 36, 28
+  offset: 2, 3
+  index: -1
+effect/skill_sf_tuowei_17
+  rotate: true
+  xy: 59, 6
+  size: 29, 17
+  orig: 34, 22
+  offset: 2, 3
+  index: -1
+effect/skill_sf_tuowei_19
+  rotate: false
+  xy: 240, 146
+  size: 8, 9
+  orig: 13, 13
+  offset: 2, 2
+  index: -1
+effect/skill_star
+  rotate: false
+  xy: 325, 3
+  size: 46, 51
+  orig: 62, 66
+  offset: 8, 7
+  index: -1
+effect/skill_yueliang_54
+  rotate: true
+  xy: 1168, 284
+  size: 284, 252
+  orig: 300, 267
+  offset: 8, 8
+  index: -1
+effect/skill_yueliang_56
+  rotate: true
+  xy: 912, 284
+  size: 284, 254
+  orig: 300, 268
+  offset: 8, 8
+  index: -1
+effect/skill_yueliang_57
+  rotate: true
+  xy: 1681, 286
+  size: 282, 255
+  orig: 300, 272
+  offset: 9, 10
+  index: -1
+effect/skill_yueliang_58
+  rotate: true
+  xy: 1422, 286
+  size: 282, 257
+  orig: 300, 277
+  offset: 9, 12
+  index: -1
+effect/skill_yueliang_59
+  rotate: false
+  xy: 1410, 21
+  size: 281, 261
+  orig: 300, 282
+  offset: 9, 12
+  index: -1
+effect/skill_yueliang_60
+  rotate: false
+  xy: 1126, 17
+  size: 282, 265
+  orig: 300, 288
+  offset: 9, 12
+  index: -1
+effect/skill_yueliang_glow
+  rotate: false
+  xy: 678, 42
+  size: 170, 170
+  orig: 178, 178
+  offset: 4, 4
+  index: -1
+effect/skill_yun1
+  rotate: false
+  xy: 382, 58
+  size: 211, 97
+  orig: 214, 101
+  offset: 1, 2
+  index: -1
+effect/skill_yun2
+  rotate: false
+  xy: 2, 37
+  size: 262, 102
+  orig: 267, 106
+  offset: 2, 3
+  index: -1

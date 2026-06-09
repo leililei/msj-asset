@@ -1,0 +1,69 @@
+
+S_guanyu_idle_1.png
+size: 141,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/idle_smoke_00
+  rotate: false
+  xy: 2, 397
+  size: 106, 34
+  orig: 107, 35
+  offset: 1, 1
+  index: -1
+effect/idle_smoke_01
+  rotate: false
+  xy: 2, 322
+  size: 134, 36
+  orig: 134, 36
+  offset: 0, 0
+  index: -1
+effect/idle_smoke_02
+  rotate: false
+  xy: 2, 122
+  size: 137, 56
+  orig: 139, 58
+  offset: 1, 1
+  index: -1
+effect/idle_smoke_03
+  rotate: false
+  xy: 2, 232
+  size: 131, 50
+  orig: 133, 52
+  offset: 1, 1
+  index: -1
+effect/idle_smoke_04
+  rotate: false
+  xy: 2, 284
+  size: 113, 36
+  orig: 113, 37
+  offset: 0, 1
+  index: -1
+effect/idle_smoke_05
+  rotate: false
+  xy: 2, 360
+  size: 135, 35
+  orig: 136, 36
+  offset: 0, 1
+  index: -1
+effect/idle_smoke_06
+  rotate: false
+  xy: 2, 2
+  size: 133, 60
+  orig: 134, 62
+  offset: 1, 1
+  index: -1
+effect/idle_smoke_07
+  rotate: false
+  xy: 2, 64
+  size: 133, 56
+  orig: 136, 58
+  offset: 1, 1
+  index: -1
+effect/idle_smoke_08
+  rotate: false
+  xy: 2, 180
+  size: 132, 50
+  orig: 133, 52
+  offset: 0, 1
+  index: -1

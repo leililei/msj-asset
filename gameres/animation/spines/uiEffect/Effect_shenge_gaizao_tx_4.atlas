@@ -1,0 +1,153 @@
+
+Effect_shenge_gaizao_tx_4.png
+size: 2044,1048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jn/jj2/jj2_00044
+  rotate: false
+  xy: 2004, 1007
+  size: 36, 39
+  orig: 384, 368
+  offset: 178, 166
+  index: -1
+jn/jj2/jj2_00046
+  rotate: false
+  xy: 1953, 951
+  size: 42, 42
+  orig: 384, 368
+  offset: 175, 165
+  index: -1
+jn/jj2/jj2_00048
+  rotate: true
+  xy: 1953, 995
+  size: 51, 49
+  orig: 384, 368
+  offset: 173, 160
+  index: -1
+jn/jj2/jj2_00050
+  rotate: false
+  xy: 1787, 934
+  size: 105, 112
+  orig: 384, 368
+  offset: 145, 126
+  index: -1
+jn/jj2/jj2_00052
+  rotate: false
+  xy: 1085, 3
+  size: 339, 335
+  orig: 384, 368
+  offset: 40, 6
+  index: -1
+jn/jj2/jj2_00053
+  rotate: false
+  xy: 3, 687
+  size: 371, 359
+  orig: 384, 368
+  offset: 7, 6
+  index: -1
+jn/jj2/jj2_00055
+  rotate: true
+  xy: 376, 682
+  size: 364, 348
+  orig: 384, 368
+  offset: 13, 9
+  index: -1
+jn/jj2/jj2_00057
+  rotate: false
+  xy: 3, 4
+  size: 353, 335
+  orig: 384, 368
+  offset: 20, 13
+  index: -1
+jn/jj2/jj2_00059
+  rotate: false
+  xy: 1426, 16
+  size: 260, 319
+  orig: 384, 368
+  offset: 27, 20
+  index: -1
+jn/jj2/jj2_00061
+  rotate: true
+  xy: 1688, 80
+  size: 255, 311
+  orig: 384, 368
+  offset: 35, 19
+  index: -1
+jn/jj3/jj3_00052
+  rotate: false
+  xy: 358, 66
+  size: 269, 268
+  orig: 284, 291
+  offset: 7, 13
+  index: -1
+jn/jn16/jn16_00049
+  rotate: false
+  xy: 1894, 987
+  size: 57, 59
+  orig: 63, 68
+  offset: 3, 4
+  index: -1
+jn/jn17/jn17_00051
+  rotate: false
+  xy: 723, 48
+  size: 307, 289
+  orig: 363, 379
+  offset: 28, 51
+  index: -1
+jn/jn17/jn17_00053
+  rotate: false
+  xy: 1435, 689
+  size: 350, 357
+  orig: 363, 379
+  offset: 2, 13
+  index: -1
+jn/jn17/jn17_00057
+  rotate: true
+  xy: 3, 341
+  size: 344, 358
+  orig: 363, 379
+  offset: 4, 12
+  index: -1
+jn/jn17/jn17_00061
+  rotate: true
+  xy: 363, 336
+  size: 344, 358
+  orig: 363, 379
+  offset: 5, 12
+  index: -1
+jn/jn17/jn17_00065
+  rotate: true
+  xy: 1085, 340
+  size: 347, 358
+  orig: 363, 379
+  offset: 6, 12
+  index: -1
+jn/jn17/jn17_00069
+  rotate: true
+  xy: 726, 339
+  size: 348, 357
+  orig: 363, 379
+  offset: 7, 13
+  index: -1
+jn/jn17/jn17_00073
+  rotate: true
+  xy: 1445, 337
+  size: 350, 354
+  orig: 363, 379
+  offset: 6, 16
+  index: -1
+jn/jn17/jn17_00077
+  rotate: false
+  xy: 726, 690
+  size: 353, 356
+  orig: 363, 379
+  offset: 3, 14
+  index: -1
+jn/jn17/jn17_00081
+  rotate: false
+  xy: 1081, 689
+  size: 352, 357
+  orig: 363, 379
+  offset: 2, 13
+  index: -1

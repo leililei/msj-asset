@@ -1,0 +1,153 @@
+
+luxun_atk_tx_1.png
+size: 752,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/ashui/ashui_12
+  rotate: false
+  xy: 660, 3
+  size: 40, 66
+  orig: 178, 102
+  offset: 136, 35
+  index: -1
+images/chutu/ashui/ashui_13
+  rotate: true
+  xy: 438, 128
+  size: 154, 89
+  orig: 178, 102
+  offset: 23, 3
+  index: -1
+images/chutu/ashui/ashui_14
+  rotate: true
+  xy: 354, 113
+  size: 169, 81
+  orig: 178, 102
+  offset: 8, 3
+  index: -1
+images/chutu/ashui/ashui_15
+  rotate: true
+  xy: 1, 110
+  size: 172, 79
+  orig: 178, 102
+  offset: 5, 3
+  index: -1
+images/chutu/ashui/ashui_16
+  rotate: true
+  xy: 175, 111
+  size: 171, 81
+  orig: 178, 102
+  offset: 4, 2
+  index: -1
+images/chutu/ashui/ashui_17
+  rotate: true
+  xy: 83, 111
+  size: 171, 89
+  orig: 178, 102
+  offset: 2, 1
+  index: -1
+images/chutu/ashui/ashui_18
+  rotate: true
+  xy: 259, 112
+  size: 170, 92
+  orig: 178, 102
+  offset: 2, 0
+  index: -1
+images/chutu/ashui/ashui_19
+  rotate: false
+  xy: 184, 15
+  size: 143, 93
+  orig: 178, 102
+  offset: 0, 0
+  index: -1
+images/chutu/ashui/ashui_20
+  rotate: true
+  xy: 1, 4
+  size: 103, 93
+  orig: 178, 102
+  offset: 0, 1
+  index: -1
+images/chutu/ashui/ashui_21
+  rotate: false
+  xy: 401, 19
+  size: 59, 91
+  orig: 178, 102
+  offset: 3, 4
+  index: -1
+images/chutu/ashui/ashui_22
+  rotate: false
+  xy: 703, 6
+  size: 47, 63
+  orig: 178, 102
+  offset: 1, 31
+  index: -1
+images/chutu/spiao/spiao_09
+  rotate: false
+  xy: 681, 198
+  size: 62, 84
+  orig: 148, 106
+  offset: 76, 16
+  index: -1
+images/chutu/spiao/spiao_10
+  rotate: false
+  xy: 660, 72
+  size: 78, 87
+  orig: 148, 106
+  offset: 58, 8
+  index: -1
+images/chutu/spiao/spiao_11
+  rotate: true
+  xy: 97, 8
+  size: 100, 84
+  orig: 148, 106
+  offset: 35, 2
+  index: -1
+images/chutu/spiao/spiao_12
+  rotate: true
+  xy: 603, 162
+  size: 120, 75
+  orig: 148, 106
+  offset: 14, 0
+  index: -1
+images/chutu/spiao/spiao_13
+  rotate: true
+  xy: 530, 160
+  size: 122, 70
+  orig: 148, 106
+  offset: 11, 2
+  index: -1
+images/chutu/spiao/spiao_14
+  rotate: true
+  xy: 591, 35
+  size: 122, 66
+  orig: 148, 106
+  offset: 10, 4
+  index: -1
+images/chutu/spiao/spiao_15
+  rotate: true
+  xy: 463, 1
+  size: 124, 63
+  orig: 148, 106
+  offset: 8, 5
+  index: -1
+images/chutu/spiao/spiao_16
+  rotate: true
+  xy: 529, 2
+  size: 123, 59
+  orig: 148, 106
+  offset: 7, 5
+  index: -1
+images/chutu/spiao/spiao_17
+  rotate: true
+  xy: 330, 1
+  size: 108, 34
+  orig: 148, 106
+  offset: 4, 7
+  index: -1
+images/chutu/spiao/spiao_18
+  rotate: true
+  xy: 367, 1
+  size: 109, 31
+  orig: 148, 106
+  offset: 1, 8
+  index: -1

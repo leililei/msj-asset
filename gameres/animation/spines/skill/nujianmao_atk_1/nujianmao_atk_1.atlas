@@ -1,0 +1,83 @@
+
+nujianmao_atk_1.png
+size: 720,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/sf_00
+  rotate: false
+  xy: 604, 25
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+effect/sf_01
+  rotate: true
+  xy: 381, 8
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+effect/sf_02
+  rotate: false
+  xy: 3, 8
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+effect/sf_03
+  rotate: true
+  xy: 104, 4
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+effect/sf_04
+  rotate: false
+  xy: 202, 4
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+effect/sf_05
+  rotate: false
+  xy: 296, 5
+  size: 83, 93
+  orig: 83, 93
+  offset: 0, 0
+  index: -1
+effect/sf_06
+  rotate: false
+  xy: 467, 8
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+effect/sf_08
+  rotate: false
+  xy: 542, 13
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+effect/sf_10
+  rotate: false
+  xy: 659, 35
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+effect/sf_12
+  rotate: false
+  xy: 659, 14
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+effect/sf_14
+  rotate: false
+  xy: 542, 8
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

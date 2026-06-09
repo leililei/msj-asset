@@ -1,0 +1,55 @@
+
+Effect_CJZC_Killed.png
+size: 92,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z/z_000
+  rotate: false
+  xy: 5, 5
+  size: 50, 49
+  orig: 85, 74
+  offset: 4, 21
+  index: -1
+z/z_001
+  rotate: false
+  xy: 5, 407
+  size: 81, 68
+  orig: 85, 74
+  offset: 2, 3
+  index: -1
+z/z_002
+  rotate: false
+  xy: 5, 335
+  size: 81, 68
+  orig: 85, 74
+  offset: 2, 3
+  index: -1
+z/z_003
+  rotate: false
+  xy: 5, 264
+  size: 79, 67
+  orig: 85, 74
+  offset: 3, 4
+  index: -1
+z/z_004
+  rotate: false
+  xy: 5, 194
+  size: 79, 66
+  orig: 85, 74
+  offset: 3, 4
+  index: -1
+z/z_005
+  rotate: false
+  xy: 5, 125
+  size: 77, 65
+  orig: 85, 74
+  offset: 4, 5
+  index: -1
+z/z_006
+  rotate: false
+  xy: 5, 58
+  size: 75, 63
+  orig: 85, 74
+  offset: 5, 6
+  index: -1

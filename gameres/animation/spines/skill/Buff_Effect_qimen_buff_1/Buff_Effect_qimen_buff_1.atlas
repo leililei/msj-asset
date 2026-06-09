@@ -1,0 +1,118 @@
+
+Buff_Effect_qimen_buff_1.png
+size: 1508,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/dg/dg_00007
+  rotate: true
+  xy: 1032, 10
+  size: 28, 47
+  orig: 252, 221
+  offset: 134, 60
+  index: -1
+images/chutu/dg/dg_00008
+  rotate: false
+  xy: 1460, 47
+  size: 43, 83
+  orig: 252, 221
+  offset: 134, 46
+  index: -1
+images/chutu/dg/dg_00009
+  rotate: false
+  xy: 1186, 8
+  size: 57, 122
+  orig: 252, 221
+  offset: 122, 34
+  index: -1
+images/chutu/dg/dg_00011
+  rotate: true
+  xy: 1117, 20
+  size: 110, 67
+  orig: 252, 221
+  offset: 72, 20
+  index: -1
+images/chutu/dg/dg_00012
+  rotate: false
+  xy: 465, 30
+  size: 148, 100
+  orig: 252, 221
+  offset: 51, 12
+  index: -1
+images/chutu/dg/dg_00013
+  rotate: false
+  xy: 3, 3
+  size: 155, 127
+  orig: 252, 221
+  offset: 48, 11
+  index: -1
+images/chutu/dg/dg_00014
+  rotate: false
+  xy: 1245, 33
+  size: 71, 97
+  orig: 252, 221
+  offset: 89, 41
+  index: -1
+images/chutu/dg/dg_00016
+  rotate: false
+  xy: 1395, 37
+  size: 63, 93
+  orig: 252, 221
+  offset: 124, 56
+  index: -1
+images/chutu/dg/dg_00018
+  rotate: false
+  xy: 931, 31
+  size: 99, 99
+  orig: 252, 221
+  offset: 106, 63
+  index: -1
+images/chutu/dg/dg_00020
+  rotate: true
+  xy: 831, 17
+  size: 113, 98
+  orig: 252, 221
+  offset: 95, 63
+  index: -1
+images/chutu/dg/dg_00032
+  rotate: false
+  xy: 1318, 47
+  size: 75, 83
+  orig: 252, 221
+  offset: 57, 34
+  index: -1
+images/chutu/dg/dg_00033
+  rotate: false
+  xy: 731, 5
+  size: 98, 125
+  orig: 252, 221
+  offset: 47, 33
+  index: -1
+images/chutu/dg/dg_00036
+  rotate: false
+  xy: 313, 5
+  size: 150, 125
+  orig: 252, 221
+  offset: 40, 47
+  index: -1
+images/chutu/dg/dg_00037
+  rotate: false
+  xy: 160, 3
+  size: 151, 127
+  orig: 252, 221
+  offset: 42, 80
+  index: -1
+images/chutu/dg/dg_00039
+  rotate: true
+  xy: 615, 3
+  size: 127, 114
+  orig: 252, 221
+  offset: 58, 93
+  index: -1
+images/chutu/dg/dg_00041
+  rotate: false
+  xy: 1032, 40
+  size: 83, 90
+  orig: 252, 221
+  offset: 97, 115
+  index: -1

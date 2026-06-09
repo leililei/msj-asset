@@ -1,0 +1,160 @@
+
+caocao_atk_beaten_1.png
+size: 429,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/g1/g1_00000
+  rotate: false
+  xy: 339, 199
+  size: 64, 66
+  orig: 73, 76
+  offset: 4, 5
+  index: -1
+chutu/attack/hit1/hit1_00000
+  rotate: false
+  xy: 241, 4
+  size: 40, 31
+  orig: 177, 90
+  offset: 72, 31
+  index: -1
+chutu/attack/hit1/hit1_00001
+  rotate: false
+  xy: 173, 142
+  size: 138, 55
+  orig: 177, 90
+  offset: 18, 19
+  index: -1
+chutu/attack/hit1/hit1_00003
+  rotate: false
+  xy: 196, 333
+  size: 155, 67
+  orig: 177, 90
+  offset: 12, 11
+  index: -1
+chutu/attack/hit1/hit1_00005
+  rotate: false
+  xy: 2, 51
+  size: 166, 80
+  orig: 177, 90
+  offset: 6, 4
+  index: -1
+chutu/attack/hit1/hit1_00007
+  rotate: false
+  xy: 170, 37
+  size: 122, 81
+  orig: 177, 90
+  offset: 29, 3
+  index: -1
+chutu/attack/hit2/hit2_00000
+  rotate: false
+  xy: 356, 6
+  size: 63, 56
+  orig: 198, 132
+  offset: 68, 41
+  index: -1
+chutu/attack/hit2/hit2_00001
+  rotate: false
+  xy: 2, 133
+  size: 169, 99
+  orig: 198, 132
+  offset: 8, 25
+  index: -1
+chutu/attack/hit2/hit2_00002
+  rotate: false
+  xy: 2, 234
+  size: 185, 121
+  orig: 198, 132
+  offset: 6, 3
+  index: -1
+chutu/attack/hit2/hit2_00003
+  rotate: false
+  xy: 196, 402
+  size: 171, 120
+  orig: 198, 132
+  offset: 6, 4
+  index: -1
+chutu/attack/hit3/hit3_00000
+  rotate: true
+  xy: 353, 280
+  size: 120, 65
+  orig: 194, 88
+  offset: 14, 12
+  index: -1
+chutu/attack/hit3/hit3_00001
+  rotate: false
+  xy: 189, 199
+  size: 148, 66
+  orig: 194, 88
+  offset: 14, 12
+  index: -1
+chutu/attack/hit3/hit3_00003
+  rotate: false
+  xy: 189, 267
+  size: 151, 64
+  orig: 194, 88
+  offset: 22, 13
+  index: -1
+chutu/attack/hit3/hit3_00005
+  rotate: false
+  xy: 2, 3
+  size: 156, 46
+  orig: 194, 88
+  offset: 18, 24
+  index: -1
+chutu/attack/hit3/hit3_00007
+  rotate: false
+  xy: 173, 120
+  size: 141, 20
+  orig: 194, 88
+  offset: 18, 37
+  index: -1
+chutu/attack/hit3/hit3_00009
+  rotate: false
+  xy: 160, 17
+  size: 79, 18
+  orig: 194, 88
+  offset: 78, 38
+  index: -1
+chutu/attack/hit4/hit4_00001
+  rotate: false
+  xy: 356, 64
+  size: 71, 78
+  orig: 155, 99
+  offset: 40, 11
+  index: -1
+chutu/attack/hit4/hit4_00002
+  rotate: true
+  xy: 294, 2
+  size: 116, 60
+  orig: 155, 99
+  offset: 21, 19
+  index: -1
+chutu/attack/hit4/hit4_00003
+  rotate: true
+  xy: 369, 428
+  size: 94, 58
+  orig: 155, 99
+  offset: 26, 22
+  index: -1
+chutu/attack/hit4/hit4_00004
+  rotate: false
+  xy: 313, 144
+  size: 60, 53
+  orig: 155, 99
+  offset: 42, 25
+  index: -1
+chutu/attack/hit4/hit4_00005
+  rotate: false
+  xy: 375, 154
+  size: 42, 43
+  orig: 155, 99
+  offset: 57, 30
+  index: -1
+chutu/attack/hit5/hit5_00002
+  rotate: false
+  xy: 2, 357
+  size: 192, 165
+  orig: 218, 206
+  offset: 15, 19
+  index: -1

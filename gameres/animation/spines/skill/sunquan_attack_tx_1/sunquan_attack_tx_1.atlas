@@ -1,0 +1,48 @@
+
+sunquan_attack_tx_1.png
+size: 424,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/dao/dao_000
+  rotate: true
+  xy: 222, 10
+  size: 190, 197
+  orig: 265, 244
+  offset: 5, 44
+  index: -1
+chutu/attack/dao/dao_001
+  rotate: false
+  xy: 1, 414
+  size: 243, 192
+  orig: 265, 244
+  offset: 12, 48
+  index: -1
+chutu/attack/dao/dao_002
+  rotate: false
+  xy: 1, 199
+  size: 218, 212
+  orig: 265, 244
+  offset: 35, 10
+  index: -1
+chutu/attack/dao/dao_006
+  rotate: true
+  xy: 222, 203
+  size: 208, 200
+  orig: 265, 244
+  offset: 26, 12
+  index: -1
+chutu/attack/dao/dao_007
+  rotate: false
+  xy: 1, 1
+  size: 205, 195
+  orig: 265, 244
+  offset: 23, 14
+  index: -1
+chutu/attack/dao/dao_008
+  rotate: true
+  xy: 247, 414
+  size: 192, 173
+  orig: 265, 244
+  offset: 31, 26
+  index: -1

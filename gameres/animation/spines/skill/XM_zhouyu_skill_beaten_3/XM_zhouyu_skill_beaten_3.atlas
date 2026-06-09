@@ -1,0 +1,153 @@
+
+XM_zhouyu_skill_beaten_3.png
+size: 1983,1410
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skl_bj01
+  rotate: true
+  xy: 1534, 14
+  size: 63, 111
+  orig: 63, 111
+  offset: 0, 0
+  index: -1
+effect/skl_bj02
+  rotate: false
+  xy: 2, 294
+  size: 626, 1114
+  orig: 626, 1114
+  offset: 0, 0
+  index: -1
+effect/skl_bj03
+  rotate: false
+  xy: 630, 310
+  size: 309, 443
+  orig: 309, 443
+  offset: 0, 0
+  index: -1
+effect/skl_bj04
+  rotate: false
+  xy: 630, 755
+  size: 354, 653
+  orig: 354, 653
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_00
+  rotate: true
+  xy: 766, 13
+  size: 295, 233
+  orig: 295, 233
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_02
+  rotate: false
+  xy: 1655, 793
+  size: 310, 239
+  orig: 310, 239
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_04
+  rotate: false
+  xy: 1324, 772
+  size: 329, 246
+  orig: 329, 246
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_06
+  rotate: false
+  xy: 986, 758
+  size: 336, 251
+  orig: 336, 251
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_08
+  rotate: true
+  xy: 1001, 5
+  size: 343, 259
+  orig: 343, 259
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_10
+  rotate: true
+  xy: 1694, 79
+  size: 349, 265
+  orig: 349, 265
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_12
+  rotate: true
+  xy: 1262, 2
+  size: 369, 270
+  orig: 369, 270
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_14
+  rotate: true
+  xy: 1694, 430
+  size: 361, 275
+  orig: 361, 275
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_16
+  rotate: true
+  xy: 1414, 402
+  size: 368, 278
+  orig: 368, 278
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_18
+  rotate: true
+  xy: 1521, 1034
+  size: 374, 283
+  orig: 374, 283
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_20
+  rotate: false
+  xy: 386, 6
+  size: 378, 286
+  orig: 378, 286
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_22
+  rotate: false
+  xy: 2, 5
+  size: 382, 287
+  orig: 382, 287
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_24
+  rotate: true
+  xy: 986, 1011
+  size: 397, 284
+  orig: 397, 284
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_26
+  rotate: true
+  xy: 941, 350
+  size: 403, 281
+  orig: 403, 281
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_28
+  rotate: true
+  xy: 1272, 1020
+  size: 388, 247
+  orig: 388, 247
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_30
+  rotate: true
+  xy: 1224, 373
+  size: 383, 188
+  orig: 383, 188
+  offset: 0, 0
+  index: -1
+effect/skl_dm_hd_32
+  rotate: true
+  xy: 1806, 1058
+  size: 350, 175
+  orig: 350, 175
+  offset: 0, 0
+  index: -1

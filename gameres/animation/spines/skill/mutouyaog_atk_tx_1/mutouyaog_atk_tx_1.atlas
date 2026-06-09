@@ -1,0 +1,41 @@
+
+mutouyaog_atk_tx_1.png
+size: 1020,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/dg/dg_011
+  rotate: false
+  xy: 3, 3
+  size: 272, 249
+  orig: 311, 275
+  offset: 25, 15
+  index: -1
+chutu/dg/dg_012
+  rotate: false
+  xy: 277, 4
+  size: 244, 248
+  orig: 311, 275
+  offset: 55, 14
+  index: -1
+chutu/dg/dg_013
+  rotate: false
+  xy: 523, 5
+  size: 209, 247
+  orig: 311, 275
+  offset: 92, 13
+  index: -1
+chutu/dg/dg_014
+  rotate: false
+  xy: 734, 20
+  size: 156, 232
+  orig: 311, 275
+  offset: 139, 13
+  index: -1
+chutu/dg/dg_015
+  rotate: false
+  xy: 892, 28
+  size: 125, 224
+  orig: 311, 275
+  offset: 167, 15
+  index: -1

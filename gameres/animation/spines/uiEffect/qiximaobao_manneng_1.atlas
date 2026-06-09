@@ -1,0 +1,90 @@
+
+qiximaobao_manneng_1.png
+size: 1263,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu2/10/10_00002
+  rotate: false
+  xy: 542, 18
+  size: 144, 55
+  orig: 144, 72
+  offset: 0, 17
+  index: -1
+chutu2/10/10_00004
+  rotate: false
+  xy: 3, 6
+  size: 144, 67
+  orig: 144, 72
+  offset: 0, 5
+  index: -1
+chutu2/10/10_00006
+  rotate: false
+  xy: 149, 6
+  size: 133, 67
+  orig: 144, 72
+  offset: 7, 1
+  index: -1
+chutu2/10/10_00008
+  rotate: false
+  xy: 284, 4
+  size: 129, 69
+  orig: 144, 72
+  offset: 8, 0
+  index: -1
+chutu2/10/10_00010
+  rotate: false
+  xy: 415, 3
+  size: 125, 70
+  orig: 144, 72
+  offset: 10, 0
+  index: -1
+chutu2/10/10_00012
+  rotate: false
+  xy: 688, 8
+  size: 117, 65
+  orig: 144, 72
+  offset: 16, 3
+  index: -1
+chutu2/10/10_00014
+  rotate: false
+  xy: 807, 16
+  size: 108, 57
+  orig: 144, 72
+  offset: 21, 7
+  index: -1
+chutu2/10/10_00016
+  rotate: false
+  xy: 917, 19
+  size: 102, 54
+  orig: 144, 72
+  offset: 24, 9
+  index: -1
+chutu2/10/10_00018
+  rotate: true
+  xy: 1156, 10
+  size: 63, 52
+  orig: 144, 72
+  offset: 61, 10
+  index: -1
+chutu2/10/10_00019
+  rotate: true
+  xy: 1210, 12
+  size: 61, 51
+  orig: 144, 72
+  offset: 62, 10
+  index: -1
+chutu2/8/8_00000
+  rotate: false
+  xy: 1021, 13
+  size: 129, 27
+  orig: 151, 37
+  offset: 11, 5
+  index: -1
+chutu2/9/9_00000
+  rotate: false
+  xy: 1021, 42
+  size: 133, 31
+  orig: 142, 54
+  offset: 6, 11
+  index: -1

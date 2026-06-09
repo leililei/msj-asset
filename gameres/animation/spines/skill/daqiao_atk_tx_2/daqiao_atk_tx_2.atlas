@@ -1,0 +1,69 @@
+
+daqiao_atk_tx_2.png
+size: 1198,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/a1/a1_016
+  rotate: true
+  xy: 856, 19
+  size: 92, 148
+  orig: 122, 188
+  offset: 25, 3
+  index: -1
+chutu/attack/a1/a1_017
+  rotate: true
+  xy: 2, 2
+  size: 109, 181
+  orig: 122, 188
+  offset: 8, 1
+  index: -1
+chutu/attack/a1/a1_019
+  rotate: true
+  xy: 525, 6
+  size: 105, 179
+  orig: 122, 188
+  offset: 5, 4
+  index: -1
+chutu/attack/a1/a1_021
+  rotate: true
+  xy: 349, 5
+  size: 106, 174
+  orig: 122, 188
+  offset: 7, 9
+  index: -1
+chutu/attack/a1/a1_023
+  rotate: true
+  xy: 185, 4
+  size: 107, 162
+  orig: 122, 188
+  offset: 7, 21
+  index: -1
+chutu/attack/a1/a1_025
+  rotate: true
+  xy: 706, 11
+  size: 100, 148
+  orig: 122, 188
+  offset: 14, 34
+  index: -1
+chutu/attack/a1/a1_027
+  rotate: true
+  xy: 1006, 21
+  size: 90, 133
+  orig: 122, 188
+  offset: 16, 48
+  index: -1
+chutu/attack/a1/a1_029
+  rotate: true
+  xy: 1141, 34
+  size: 77, 55
+  orig: 122, 188
+  offset: 17, 125
+  index: -1
+chutu/attack/a1/a1_031
+  rotate: false
+  xy: 1141, 28
+  size: 32, 4
+  orig: 122, 188
+  offset: 59, 174
+  index: -1

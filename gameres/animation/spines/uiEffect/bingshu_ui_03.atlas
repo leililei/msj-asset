@@ -1,0 +1,272 @@
+
+bingshu_ui_03.png
+size: 1982,1983
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J6_fenmian1
+  rotate: true
+  xy: 1328, 907
+  size: 290, 355
+  orig: 290, 355
+  offset: 0, 0
+  index: -1
+J6_fenmian1sg_00003
+  rotate: false
+  xy: 2, 1504
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian1sg_00004
+  rotate: false
+  xy: 2, 1025
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian1sg_00005
+  rotate: false
+  xy: 2, 546
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian1sg_00006
+  rotate: false
+  xy: 2, 67
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian1sg_00007
+  rotate: true
+  xy: 394, 1591
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian1sg_00008
+  rotate: true
+  xy: 873, 1591
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian1sg_00009
+  rotate: true
+  xy: 1352, 1591
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian1sg_00010
+  rotate: true
+  xy: 394, 1199
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian1sg_00011
+  rotate: true
+  xy: 873, 1199
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian1sg_00012
+  rotate: true
+  xy: 1352, 1199
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian1sg_00013
+  rotate: false
+  xy: 394, 604
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian1sg_00014
+  rotate: false
+  xy: 394, 125
+  size: 390, 477
+  orig: 405, 496
+  offset: 15, 2
+  index: -1
+J6_fenmian2
+  rotate: true
+  xy: 557, 1127
+  size: 70, 189
+  orig: 70, 189
+  offset: 0, 0
+  index: -1
+J6_fenmian2sg_00000
+  rotate: false
+  xy: 1831, 1571
+  size: 120, 242
+  orig: 120, 324
+  offset: 0, 39
+  index: -1
+J6_fenmian2sg_00001
+  rotate: false
+  xy: 1831, 1327
+  size: 120, 242
+  orig: 120, 324
+  offset: 0, 39
+  index: -1
+J6_fenmian2sg_00002
+  rotate: false
+  xy: 1831, 1083
+  size: 120, 242
+  orig: 120, 324
+  offset: 0, 39
+  index: -1
+J6_fenmian2sg_00003
+  rotate: true
+  xy: 394, 3
+  size: 120, 242
+  orig: 120, 324
+  offset: 0, 39
+  index: -1
+J6_fenmian2sg_00004
+  rotate: true
+  xy: 638, 3
+  size: 120, 242
+  orig: 120, 324
+  offset: 0, 39
+  index: -1
+J6_neiye1
+  rotate: false
+  xy: 1831, 1815
+  size: 141, 166
+  orig: 141, 166
+  offset: 0, 0
+  index: -1
+J6_neiye2
+  rotate: false
+  xy: 882, 2
+  size: 120, 162
+  orig: 120, 162
+  offset: 0, 0
+  index: -1
+J6_shenjie1
+  rotate: false
+  xy: 394, 1107
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+J6_shenjie2
+  rotate: true
+  xy: 174, 23
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+J6_shuji
+  rotate: true
+  xy: 1081, 377
+  size: 250, 208
+  orig: 250, 372
+  offset: 0, 0
+  index: -1
+J6_shujisg_00000
+  rotate: true
+  xy: 1685, 772
+  size: 309, 293
+  orig: 320, 476
+  offset: 11, 10
+  index: -1
+J6_shujisg_00001
+  rotate: false
+  xy: 1328, 612
+  size: 309, 293
+  orig: 320, 476
+  offset: 11, 10
+  index: -1
+J6_shujisg_00002
+  rotate: false
+  xy: 1639, 477
+  size: 309, 293
+  orig: 320, 476
+  offset: 11, 10
+  index: -1
+J6_shujisg_00003
+  rotate: true
+  xy: 786, 166
+  size: 309, 293
+  orig: 320, 476
+  offset: 11, 10
+  index: -1
+J6_shujisg_00004
+  rotate: true
+  xy: 786, 543
+  size: 309, 293
+  orig: 320, 476
+  offset: 11, 10
+  index: -1
+J6_shujisg_00005
+  rotate: false
+  xy: 1291, 317
+  size: 309, 293
+  orig: 320, 476
+  offset: 11, 10
+  index: -1
+J6_shujisg_00006
+  rotate: true
+  xy: 1081, 6
+  size: 309, 293
+  orig: 320, 476
+  offset: 11, 10
+  index: -1
+J6_shujisg_00007
+  rotate: true
+  xy: 1376, 6
+  size: 309, 293
+  orig: 320, 476
+  offset: 11, 10
+  index: -1
+J6_shujisg_00008
+  rotate: false
+  xy: 1671, 182
+  size: 309, 293
+  orig: 320, 476
+  offset: 11, 10
+  index: -1
+J6_shuqian
+  rotate: false
+  xy: 2, 12
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+J6_waiguang1
+  rotate: false
+  xy: 882, 854
+  size: 444, 343
+  orig: 444, 343
+  offset: 0, 0
+  index: -1
+J6_waiguang2
+  rotate: false
+  xy: 51, 15
+  size: 121, 50
+  orig: 121, 50
+  offset: 0, 0
+  index: -1
+glow_00113
+  rotate: true
+  xy: 1081, 629
+  size: 223, 225
+  orig: 256, 256
+  offset: 14, 18
+  index: -1
+start_00
+  rotate: true
+  xy: 480, 1121
+  size: 76, 75
+  orig: 80, 80
+  offset: 2, 2
+  index: -1

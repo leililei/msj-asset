@@ -1,0 +1,90 @@
+
+liushan_skill_beaten_2.png
+size: 463,971
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/3bdd/3bdd_0052
+  rotate: false
+  xy: 286, 30
+  size: 137, 76
+  orig: 333, 160
+  offset: 102, 34
+  index: -1
+chutu/skill/3bdd/3bdd_0053
+  rotate: false
+  xy: 159, 696
+  size: 270, 131
+  orig: 333, 160
+  offset: 35, 9
+  index: -1
+chutu/skill/3bdd/3bdd_0055
+  rotate: true
+  xy: 308, 108
+  size: 289, 136
+  orig: 333, 160
+  offset: 23, 7
+  index: -1
+chutu/skill/3bdd/3bdd_0057
+  rotate: false
+  xy: 159, 829
+  size: 298, 140
+  orig: 333, 160
+  offset: 21, 6
+  index: -1
+chutu/skill/3bdd/3bdd_0059
+  rotate: false
+  xy: 157, 549
+  size: 304, 142
+  orig: 333, 160
+  offset: 15, 7
+  index: -1
+chutu/skill/3bdd/3bdd_0061
+  rotate: false
+  xy: 2, 250
+  size: 304, 146
+  orig: 333, 160
+  offset: 13, 7
+  index: -1
+chutu/skill/3bdd/3bdd_0063
+  rotate: false
+  xy: 157, 399
+  size: 281, 148
+  orig: 333, 160
+  offset: 32, 8
+  index: -1
+chutu/skill/3bdd/3bdd_0065
+  rotate: true
+  xy: 2, 398
+  size: 293, 153
+  orig: 333, 160
+  offset: 27, 6
+  index: -1
+chutu/skill/3bdd/3bdd_0067
+  rotate: true
+  xy: 2, 693
+  size: 276, 155
+  orig: 333, 160
+  offset: 47, 4
+  index: -1
+chutu/skill/3bdd/3bdd_0069
+  rotate: true
+  xy: 2, 2
+  size: 246, 100
+  orig: 333, 160
+  offset: 52, 13
+  index: -1
+chutu/skill/3bdd/3bdd_0070
+  rotate: true
+  xy: 104, 5
+  size: 243, 101
+  orig: 333, 160
+  offset: 55, 13
+  index: -1
+chutu/skill/3bdd/3bdd_0071
+  rotate: true
+  xy: 207, 16
+  size: 232, 77
+  orig: 333, 160
+  offset: 66, 13
+  index: -1

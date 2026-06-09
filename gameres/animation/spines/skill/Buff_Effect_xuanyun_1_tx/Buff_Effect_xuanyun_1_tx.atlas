@@ -1,0 +1,160 @@
+
+Buff_Effect_xuanyun_1_tx.png
+size: 132,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/x1/x1_00000
+  rotate: false
+  xy: 3, 677
+  size: 114, 51
+  orig: 145, 77
+  offset: 17, 14
+  index: -1
+chutu/x1/x1_00002
+  rotate: false
+  xy: 3, 572
+  size: 110, 51
+  orig: 145, 77
+  offset: 19, 13
+  index: -1
+chutu/x1/x1_00004
+  rotate: false
+  xy: 3, 276
+  size: 103, 49
+  orig: 145, 77
+  offset: 21, 14
+  index: -1
+chutu/x1/x1_00006
+  rotate: false
+  xy: 3, 373
+  size: 113, 45
+  orig: 145, 77
+  offset: 18, 16
+  index: -1
+chutu/x1/x1_00008
+  rotate: false
+  xy: 3, 327
+  size: 115, 44
+  orig: 145, 77
+  offset: 17, 16
+  index: -1
+chutu/x1/x1_00010
+  rotate: false
+  xy: 3, 521
+  size: 113, 49
+  orig: 145, 77
+  offset: 19, 10
+  index: -1
+chutu/x1/x1_00012
+  rotate: false
+  xy: 3, 420
+  size: 106, 50
+  orig: 145, 77
+  offset: 25, 9
+  index: -1
+chutu/x1/x1_00014
+  rotate: false
+  xy: 3, 625
+  size: 114, 50
+  orig: 145, 77
+  offset: 17, 9
+  index: -1
+chutu/x1/x1_00016
+  rotate: false
+  xy: 3, 472
+  size: 115, 47
+  orig: 145, 77
+  offset: 16, 10
+  index: -1
+chutu/x1/x1_00018
+  rotate: false
+  xy: 3, 730
+  size: 116, 52
+  orig: 145, 77
+  offset: 16, 12
+  index: -1
+chutu/x2/x2_00000
+  rotate: false
+  xy: 3, 161
+  size: 94, 25
+  orig: 145, 77
+  offset: 30, 23
+  index: -1
+chutu/x2/x2_00002
+  rotate: false
+  xy: 3, 217
+  size: 93, 27
+  orig: 145, 77
+  offset: 31, 22
+  index: -1
+chutu/x2/x2_00004
+  rotate: false
+  xy: 3, 102
+  size: 84, 28
+  orig: 145, 77
+  offset: 27, 22
+  index: -1
+chutu/x2/x2_00006
+  rotate: false
+  xy: 3, 188
+  size: 93, 27
+  orig: 145, 77
+  offset: 25, 23
+  index: -1
+chutu/x2/x2_00008
+  rotate: false
+  xy: 3, 71
+  size: 94, 23
+  orig: 145, 77
+  offset: 25, 26
+  index: -1
+chutu/x2/x2_00010
+  rotate: true
+  xy: 99, 180
+  size: 94, 25
+  orig: 145, 77
+  offset: 25, 25
+  index: -1
+chutu/x2/x2_00012
+  rotate: false
+  xy: 3, 132
+  size: 87, 27
+  orig: 145, 77
+  offset: 32, 24
+  index: -1
+chutu/x2/x2_00014
+  rotate: true
+  xy: 99, 96
+  size: 82, 28
+  orig: 145, 77
+  offset: 40, 23
+  index: -1
+chutu/x2/x2_00016
+  rotate: false
+  xy: 3, 246
+  size: 93, 28
+  orig: 145, 77
+  offset: 31, 22
+  index: -1
+chutu/x2/x2_00018
+  rotate: false
+  xy: 3, 46
+  size: 93, 23
+  orig: 145, 77
+  offset: 31, 23
+  index: -1
+chutu/x3/x3_00000
+  rotate: false
+  xy: 3, 3
+  size: 41, 41
+  orig: 59, 60
+  offset: 9, 10
+  index: -1
+chutu/x4/x4_00000
+  rotate: false
+  xy: 46, 16
+  size: 29, 28
+  orig: 59, 60
+  offset: 15, 17
+  index: -1

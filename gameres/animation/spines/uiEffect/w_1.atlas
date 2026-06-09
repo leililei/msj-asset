@@ -1,0 +1,146 @@
+
+w_1.png
+size: 1115,628
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beam
+  rotate: false
+  xy: 2, 4
+  size: 622, 622
+  orig: 640, 640
+  offset: 9, 9
+  index: -1
+shield_w_01
+  rotate: true
+  xy: 1056, 98
+  size: 28, 55
+  orig: 99, 99
+  offset: 1, 11
+  index: -1
+shield_w_02
+  rotate: true
+  xy: 1019, 293
+  size: 48, 85
+  orig: 99, 99
+  offset: 0, 2
+  index: -1
+shield_w_03
+  rotate: true
+  xy: 1019, 411
+  size: 60, 90
+  orig: 99, 99
+  offset: 1, 1
+  index: -1
+shield_w_04
+  rotate: true
+  xy: 1019, 473
+  size: 73, 90
+  orig: 99, 99
+  offset: 2, 1
+  index: -1
+shield_w_05
+  rotate: true
+  xy: 1019, 548
+  size: 78, 94
+  orig: 99, 99
+  offset: 9, 4
+  index: -1
+shield_w_06
+  rotate: true
+  xy: 1019, 343
+  size: 66, 87
+  orig: 99, 99
+  offset: 30, 11
+  index: -1
+shield_w_07
+  rotate: true
+  xy: 1019, 237
+  size: 54, 81
+  orig: 99, 99
+  offset: 44, 17
+  index: -1
+shield_w_08
+  rotate: false
+  xy: 1019, 35
+  size: 26, 61
+  orig: 99, 99
+  offset: 73, 30
+  index: -1
+star_01
+  rotate: true
+  xy: 1047, 38
+  size: 58, 59
+  orig: 64, 64
+  offset: 3, 2
+  index: -1
+sword_w_01
+  rotate: true
+  xy: 990, 98
+  size: 30, 64
+  orig: 56, 92
+  offset: 0, 1
+  index: -1
+sword_w_02
+  rotate: true
+  xy: 990, 168
+  size: 34, 74
+  orig: 56, 92
+  offset: 0, 1
+  index: -1
+sword_w_03
+  rotate: false
+  xy: 1073, 161
+  size: 36, 74
+  orig: 56, 92
+  offset: 1, 1
+  index: -1
+sword_w_04
+  rotate: true
+  xy: 990, 130
+  size: 36, 73
+  orig: 56, 92
+  offset: 2, 2
+  index: -1
+sword_w_05
+  rotate: true
+  xy: 990, 204
+  size: 31, 81
+  orig: 56, 92
+  offset: 9, 7
+  index: -1
+sword_w_06
+  rotate: false
+  xy: 990, 35
+  size: 27, 61
+  orig: 56, 92
+  offset: 19, 30
+  index: -1
+sword_w_07
+  rotate: true
+  xy: 990, 2
+  size: 31, 50
+  orig: 56, 92
+  offset: 21, 42
+  index: -1
+sword_w_08
+  rotate: true
+  xy: 1065, 128
+  size: 31, 42
+  orig: 56, 92
+  offset: 24, 49
+  index: -1
+w_1
+  rotate: true
+  xy: 626, 13
+  size: 222, 362
+  orig: 224, 364
+  offset: 1, 1
+  index: -1
+w_2
+  rotate: false
+  xy: 626, 237
+  size: 391, 389
+  orig: 393, 391
+  offset: 1, 1
+  index: -1

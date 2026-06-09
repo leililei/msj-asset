@@ -1,0 +1,104 @@
+
+Dc_lishunchen_atk_beaten_1.png
+size: 1870,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_mz_00
+  rotate: false
+  xy: 2, 11
+  size: 306, 199
+  orig: 349, 349
+  offset: 22, 140
+  index: -1
+effect/attack_mz_02
+  rotate: true
+  xy: 1084, 5
+  size: 205, 178
+  orig: 215, 191
+  offset: 6, 6
+  index: -1
+effect/attack_mz_04
+  rotate: false
+  xy: 840, 3
+  size: 242, 207
+  orig: 252, 220
+  offset: 6, 6
+  index: -1
+effect/attack_mz_06
+  rotate: false
+  xy: 577, 11
+  size: 261, 199
+  orig: 270, 214
+  offset: 6, 6
+  index: -1
+effect/attack_mz_08
+  rotate: false
+  xy: 310, 2
+  size: 265, 208
+  orig: 277, 218
+  offset: 8, 6
+  index: -1
+effect/attack_mz_10
+  rotate: true
+  xy: 1507, 13
+  size: 197, 71
+  orig: 234, 125
+  offset: 28, 5
+  index: -1
+effect/attack_mz_yw_00
+  rotate: true
+  xy: 1264, 20
+  size: 190, 83
+  orig: 196, 90
+  offset: 3, 4
+  index: -1
+effect/attack_mz_yw_02
+  rotate: true
+  xy: 1349, 20
+  size: 190, 79
+  orig: 198, 86
+  offset: 3, 4
+  index: -1
+effect/attack_mz_yw_04
+  rotate: true
+  xy: 1430, 22
+  size: 188, 75
+  orig: 199, 82
+  offset: 6, 4
+  index: -1
+effect/attack_mz_yw_06
+  rotate: true
+  xy: 1580, 27
+  size: 183, 74
+  orig: 193, 81
+  offset: 5, 4
+  index: -1
+effect/attack_mz_yw_08
+  rotate: true
+  xy: 1656, 36
+  size: 174, 73
+  orig: 186, 81
+  offset: 6, 5
+  index: -1
+effect/attack_mz_yw_10
+  rotate: true
+  xy: 1794, 51
+  size: 159, 74
+  orig: 175, 81
+  offset: 7, 4
+  index: -1
+effect/attack_mz_yw_12
+  rotate: true
+  xy: 1731, 91
+  size: 119, 54
+  orig: 148, 62
+  offset: 3, 5
+  index: -1
+effect/attack_mz_yw_14
+  rotate: false
+  xy: 1656, 7
+  size: 136, 27
+  orig: 142, 34
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,153 @@
+
+yujin_atk_1.png
+size: 1699,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_dg_00
+  rotate: false
+  xy: 1132, 28
+  size: 117, 142
+  orig: 117, 142
+  offset: 0, 0
+  index: -1
+effect/atk_dg_01
+  rotate: false
+  xy: 685, 3
+  size: 180, 167
+  orig: 180, 167
+  offset: 0, 0
+  index: -1
+effect/atk_dg_02
+  rotate: false
+  xy: 230, 2
+  size: 225, 168
+  orig: 225, 168
+  offset: 0, 0
+  index: -1
+effect/atk_dg_03
+  rotate: false
+  xy: 2, 2
+  size: 226, 168
+  orig: 226, 168
+  offset: 0, 0
+  index: -1
+effect/atk_dg_04
+  rotate: false
+  xy: 457, 3
+  size: 226, 167
+  orig: 226, 167
+  offset: 0, 0
+  index: -1
+effect/atk_dg_05
+  rotate: false
+  xy: 867, 6
+  size: 223, 164
+  orig: 223, 164
+  offset: 0, 0
+  index: -1
+effect/atk_dg_07
+  rotate: false
+  xy: 1291, 40
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+effect/atk_dg_09
+  rotate: true
+  xy: 1591, 44
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+effect/atk_dg_11
+  rotate: true
+  xy: 1542, 8
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_00
+  rotate: false
+  xy: 1189, 16
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_01
+  rotate: false
+  xy: 1591, 130
+  size: 106, 40
+  orig: 106, 40
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_02
+  rotate: true
+  xy: 1464, 57
+  size: 113, 39
+  orig: 113, 39
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_03
+  rotate: false
+  xy: 1291, 3
+  size: 119, 35
+  orig: 119, 35
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_04
+  rotate: true
+  xy: 1421, 49
+  size: 121, 41
+  orig: 121, 41
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_06
+  rotate: false
+  xy: 1421, 7
+  size: 119, 40
+  orig: 119, 40
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_09
+  rotate: true
+  xy: 1251, 29
+  size: 141, 38
+  orig: 141, 38
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_11
+  rotate: true
+  xy: 1092, 26
+  size: 144, 38
+  orig: 144, 38
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_13
+  rotate: true
+  xy: 1546, 58
+  size: 112, 38
+  orig: 112, 38
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_15
+  rotate: true
+  xy: 1505, 58
+  size: 112, 39
+  orig: 112, 39
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_17
+  rotate: false
+  xy: 1092, 6
+  size: 86, 18
+  orig: 86, 18
+  offset: 0, 0
+  index: -1
+effect/skill_smoke_19
+  rotate: true
+  xy: 1180, 8
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1

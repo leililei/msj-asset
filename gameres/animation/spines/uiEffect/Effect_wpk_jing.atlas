@@ -1,0 +1,13 @@
+
+Effect_wpk_jing.png
+size: 48,47
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lz1_00000
+  rotate: false
+  xy: 2, 2
+  size: 44, 43
+  orig: 55, 55
+  offset: 6, 6
+  index: -1

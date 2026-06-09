@@ -1,0 +1,27 @@
+
+Effect_Guaji_rigui.png
+size: 108,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/tb/tb_-0001
+  rotate: false
+  xy: 3, 17
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+chutu/tb2/tb2_-0001
+  rotate: true
+  xy: 59, 8
+  size: 7, 45
+  orig: 19, 55
+  offset: 6, 6
+  index: -1
+chutu/tx1/tx1_00000
+  rotate: true
+  xy: 3, 3
+  size: 12, 54
+  orig: 19, 58
+  offset: 3, 2
+  index: -1

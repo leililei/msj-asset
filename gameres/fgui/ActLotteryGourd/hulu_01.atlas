@@ -1,0 +1,41 @@
+
+hulu_01.png
+size: 483,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hl1_lianyun
+  rotate: false
+  xy: 181, 6
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+hl1_shenti
+  rotate: false
+  xy: 181, 40
+  size: 149, 232
+  orig: 151, 234
+  offset: 1, 1
+  index: -1
+hl1_shentiA
+  rotate: false
+  xy: 0, 13
+  size: 177, 259
+  orig: 183, 266
+  offset: 3, 3
+  index: -1
+hl1_shentiB
+  rotate: false
+  xy: 334, 40
+  size: 149, 232
+  orig: 151, 234
+  offset: 1, 1
+  index: -1
+hl1_yanjing
+  rotate: false
+  xy: 254, 0
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1

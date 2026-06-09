@@ -1,0 +1,1700 @@
+
+S_lvbu_skill_beaten_2.png
+size: 2017,1953
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill/b1/b1_00033
+  rotate: false
+  xy: 1308, 223
+  size: 66, 120
+  orig: 74, 130
+  offset: 6, 9
+  index: -1
+images/chutu/skill/b1/b1_00034
+  rotate: true
+  xy: 777, 202
+  size: 64, 115
+  orig: 74, 130
+  offset: 8, 12
+  index: -1
+images/chutu/skill/b1/b1_00035
+  rotate: false
+  xy: 244, 2
+  size: 65, 112
+  orig: 74, 130
+  offset: 8, 13
+  index: -1
+images/chutu/skill/b1/b1_00037
+  rotate: true
+  xy: 909, 137
+  size: 63, 107
+  orig: 74, 130
+  offset: 8, 14
+  index: -1
+images/chutu/skill/b1/b1_00038
+  rotate: false
+  xy: 199, 414
+  size: 61, 109
+  orig: 74, 130
+  offset: 6, 11
+  index: -1
+images/chutu/skill/b1/b1_00039
+  rotate: false
+  xy: 1492, 232
+  size: 58, 115
+  orig: 74, 130
+  offset: 4, 6
+  index: -1
+images/chutu/skill/b1/b1_00040
+  rotate: true
+  xy: 1866, 389
+  size: 62, 118
+  orig: 74, 130
+  offset: 2, 3
+  index: -1
+images/chutu/skill/b1/b1_00042
+  rotate: false
+  xy: 782, 13
+  size: 64, 122
+  orig: 74, 130
+  offset: 0, 1
+  index: -1
+images/chutu/skill/b1/b1_00043
+  rotate: false
+  xy: 1552, 234
+  size: 62, 115
+  orig: 74, 130
+  offset: 0, 1
+  index: -1
+images/chutu/skill/b1/b1_00044
+  rotate: true
+  xy: 106, 418
+  size: 36, 83
+  orig: 74, 130
+  offset: 22, 34
+  index: -1
+images/chutu/skill/b10/b10_00032
+  rotate: false
+  xy: 1539, 816
+  size: 11, 17
+  orig: 172, 165
+  offset: 85, 12
+  index: -1
+images/chutu/skill/b10/b10_00033
+  rotate: false
+  xy: 1685, 183
+  size: 22, 30
+  orig: 172, 165
+  offset: 76, 12
+  index: -1
+images/chutu/skill/b10/b10_00034
+  rotate: true
+  xy: 387, 2
+  size: 35, 44
+  orig: 172, 165
+  offset: 72, 10
+  index: -1
+images/chutu/skill/b10/b10_00036
+  rotate: false
+  xy: 1639, 99
+  size: 52, 59
+  orig: 172, 165
+  offset: 67, 13
+  index: -1
+images/chutu/skill/b10/b10_00038
+  rotate: true
+  xy: 286, 1201
+  size: 65, 68
+  orig: 172, 165
+  offset: 63, 17
+  index: -1
+images/chutu/skill/b10/b10_00040
+  rotate: false
+  xy: 1940, 213
+  size: 75, 78
+  orig: 172, 165
+  offset: 58, 23
+  index: -1
+images/chutu/skill/b10/b10_00042
+  rotate: false
+  xy: 316, 182
+  size: 79, 84
+  orig: 172, 165
+  offset: 54, 28
+  index: -1
+images/chutu/skill/b10/b10_00044
+  rotate: false
+  xy: 563, 2
+  size: 64, 110
+  orig: 172, 165
+  offset: 52, 26
+  index: -1
+images/chutu/skill/b10/b10_00046
+  rotate: true
+  xy: 1875, 779
+  size: 71, 140
+  orig: 172, 165
+  offset: 47, 12
+  index: -1
+images/chutu/skill/b10/b10_00048
+  rotate: false
+  xy: 1103, 1667
+  size: 88, 150
+  orig: 172, 165
+  offset: 42, 11
+  index: -1
+images/chutu/skill/b10/b10_00050
+  rotate: true
+  xy: 1877, 938
+  size: 99, 138
+  orig: 172, 165
+  offset: 39, 15
+  index: -1
+images/chutu/skill/b10/b10_00052
+  rotate: true
+  xy: 1716, 827
+  size: 103, 153
+  orig: 172, 165
+  offset: 39, 7
+  index: -1
+images/chutu/skill/b10/b10_00054
+  rotate: true
+  xy: 113, 2
+  size: 112, 129
+  orig: 172, 165
+  offset: 38, 6
+  index: -1
+images/chutu/skill/b10/b10_00056
+  rotate: true
+  xy: 397, 306
+  size: 140, 129
+  orig: 172, 165
+  offset: 19, 11
+  index: -1
+images/chutu/skill/b10/b10_00058
+  rotate: true
+  xy: 1877, 1198
+  size: 160, 138
+  orig: 172, 165
+  offset: 7, 13
+  index: -1
+images/chutu/skill/b11/b11_00030
+  rotate: false
+  xy: 776, 137
+  size: 131, 63
+  orig: 180, 95
+  offset: 30, 8
+  index: -1
+images/chutu/skill/b11/b11_00031
+  rotate: false
+  xy: 397, 167
+  size: 145, 68
+  orig: 180, 95
+  offset: 20, 6
+  index: -1
+images/chutu/skill/b11/b11_00032
+  rotate: false
+  xy: 1552, 755
+  size: 162, 80
+  orig: 180, 95
+  offset: 13, 7
+  index: -1
+images/chutu/skill/b11/b11_00033
+  rotate: true
+  xy: 794, 420
+  size: 162, 82
+  orig: 180, 95
+  offset: 11, 7
+  index: -1
+images/chutu/skill/b11/b11_00034
+  rotate: false
+  xy: 1551, 921
+  size: 162, 70
+  orig: 180, 95
+  offset: 7, 10
+  index: -1
+images/chutu/skill/b11/b11_00035
+  rotate: true
+  xy: 1197, 662
+  size: 165, 67
+  orig: 180, 95
+  offset: 6, 13
+  index: -1
+images/chutu/skill/b12/b12_00030
+  rotate: false
+  xy: 873, 1166
+  size: 198, 127
+  orig: 241, 207
+  offset: 22, 4
+  index: -1
+images/chutu/skill/b12/b12_00031
+  rotate: false
+  xy: 1439, 1322
+  size: 211, 138
+  orig: 241, 207
+  offset: 16, 8
+  index: -1
+images/chutu/skill/b12/b12_00032
+  rotate: true
+  xy: 713, 1472
+  size: 220, 147
+  orig: 241, 207
+  offset: 11, 12
+  index: -1
+images/chutu/skill/b12/b12_00034
+  rotate: true
+  xy: 2, 690
+  size: 232, 163
+  orig: 241, 207
+  offset: 6, 17
+  index: -1
+images/chutu/skill/b12/b12_00036
+  rotate: false
+  xy: 1193, 1666
+  size: 208, 171
+  orig: 241, 207
+  offset: 4, 22
+  index: -1
+images/chutu/skill/b12/b12_00038
+  rotate: false
+  xy: 356, 1303
+  size: 200, 174
+  orig: 241, 207
+  offset: 14, 26
+  index: -1
+images/chutu/skill/b12/b12_00040
+  rotate: false
+  xy: 1688, 1676
+  size: 198, 176
+  orig: 241, 207
+  offset: 14, 28
+  index: -1
+images/chutu/skill/b13/b13_00030
+  rotate: false
+  xy: 631, 143
+  size: 143, 65
+  orig: 151, 125
+  offset: 5, 2
+  index: -1
+images/chutu/skill/b13/b13_00031
+  rotate: false
+  xy: 1853, 644
+  size: 145, 65
+  orig: 151, 125
+  offset: 4, 5
+  index: -1
+images/chutu/skill/b13/b13_00032
+  rotate: false
+  xy: 632, 369
+  size: 150, 86
+  orig: 151, 125
+  offset: 0, 11
+  index: -1
+images/chutu/skill/b13/b13_00033
+  rotate: false
+  xy: 632, 276
+  size: 150, 91
+  orig: 151, 125
+  offset: 0, 18
+  index: -1
+images/chutu/skill/b13/b13_00034
+  rotate: true
+  xy: 784, 268
+  size: 150, 91
+  orig: 151, 125
+  offset: 0, 24
+  index: -1
+images/chutu/skill/b13/b13_00035
+  rotate: false
+  xy: 1726, 1006
+  size: 149, 87
+  orig: 151, 125
+  offset: 0, 29
+  index: -1
+images/chutu/skill/b13/b13_00036
+  rotate: true
+  xy: 311, 34
+  size: 146, 74
+  orig: 151, 125
+  offset: 0, 45
+  index: -1
+images/chutu/skill/b13/b13_00037
+  rotate: true
+  xy: 1114, 244
+  size: 144, 72
+  orig: 151, 125
+  offset: 1, 48
+  index: -1
+images/chutu/skill/b13/b13_00038
+  rotate: false
+  xy: 1875, 711
+  size: 140, 66
+  orig: 151, 125
+  offset: 3, 56
+  index: -1
+images/chutu/skill/b13/b13_00039
+  rotate: false
+  xy: 989, 216
+  size: 123, 59
+  orig: 151, 125
+  offset: 15, 65
+  index: -1
+images/chutu/skill/b14/b14_00031
+  rotate: false
+  xy: 1866, 453
+  size: 117, 92
+  orig: 215, 126
+  offset: 16, 5
+  index: -1
+images/chutu/skill/b14/b14_00032
+  rotate: false
+  xy: 1854, 547
+  size: 145, 95
+  orig: 215, 126
+  offset: 20, 5
+  index: -1
+images/chutu/skill/b14/b14_00033
+  rotate: true
+  xy: 535, 452
+  size: 151, 95
+  orig: 215, 126
+  offset: 39, 6
+  index: -1
+images/chutu/skill/b14/b14_00035
+  rotate: false
+  xy: 1704, 541
+  size: 148, 101
+  orig: 215, 126
+  offset: 53, 7
+  index: -1
+images/chutu/skill/b14/b14_00037
+  rotate: true
+  xy: 146, 116
+  size: 123, 105
+  orig: 215, 126
+  offset: 82, 11
+  index: -1
+images/chutu/skill/b14/b14_00039
+  rotate: false
+  xy: 1188, 243
+  size: 118, 100
+  orig: 215, 126
+  offset: 92, 16
+  index: -1
+images/chutu/skill/b14/b14_00041
+  rotate: false
+  xy: 1934, 36
+  size: 81, 85
+  orig: 215, 126
+  offset: 125, 22
+  index: -1
+images/chutu/skill/b15/b15_00030
+  rotate: false
+  xy: 1018, 138
+  size: 95, 76
+  orig: 116, 100
+  offset: 6, 20
+  index: -1
+images/chutu/skill/b15/b15_00031
+  rotate: true
+  xy: 1115, 146
+  size: 96, 67
+  orig: 116, 100
+  offset: 6, 18
+  index: -1
+images/chutu/skill/b15/b15_00032
+  rotate: false
+  xy: 532, 238
+  size: 97, 63
+  orig: 116, 100
+  offset: 5, 14
+  index: -1
+images/chutu/skill/b15/b15_00034
+  rotate: false
+  xy: 1273, 163
+  size: 101, 58
+  orig: 116, 100
+  offset: 4, 12
+  index: -1
+images/chutu/skill/b15/b15_00036
+  rotate: true
+  xy: 805, 1694
+  size: 103, 52
+  orig: 116, 100
+  offset: 4, 8
+  index: -1
+images/chutu/skill/b15/b15_00038
+  rotate: false
+  xy: 262, 414
+  size: 50, 35
+  orig: 116, 100
+  offset: 6, 8
+  index: -1
+images/chutu/skill/b16/b16_00001
+  rotate: true
+  xy: 96, 211
+  size: 198, 48
+  orig: 217, 57
+  offset: 10, 6
+  index: -1
+images/chutu/skill/b17/b17_00001
+  rotate: true
+  xy: 253, 216
+  size: 196, 61
+  orig: 217, 81
+  offset: 12, 10
+  index: -1
+images/chutu/skill/b18/b18_00001
+  rotate: false
+  xy: 1138, 1839
+  size: 272, 112
+  orig: 316, 115
+  offset: 3, 3
+  index: -1
+images/chutu/skill/b18/b18_00002
+  rotate: true
+  xy: 2, 128
+  size: 281, 92
+  orig: 316, 115
+  offset: 34, 3
+  index: -1
+images/chutu/skill/b18/b18_00003
+  rotate: true
+  xy: 289, 1439
+  size: 231, 65
+  orig: 316, 115
+  offset: 82, 19
+  index: -1
+images/chutu/skill/b18/b18_00004
+  rotate: false
+  xy: 1646, 1246
+  size: 203, 52
+  orig: 316, 115
+  offset: 104, 22
+  index: -1
+images/chutu/skill/b18/b18_00005
+  rotate: false
+  xy: 1708, 320
+  size: 131, 45
+  orig: 316, 115
+  offset: 157, 24
+  index: -1
+images/chutu/skill/b19/b19_00000
+  rotate: true
+  xy: 535, 303
+  size: 147, 95
+  orig: 172, 108
+  offset: 3, 7
+  index: -1
+images/chutu/skill/b19/b19_00001
+  rotate: false
+  xy: 1552, 837
+  size: 162, 82
+  orig: 172, 108
+  offset: 6, 11
+  index: -1
+images/chutu/skill/b19/b19_00002
+  rotate: false
+  xy: 1726, 932
+  size: 149, 72
+  orig: 172, 108
+  offset: 18, 12
+  index: -1
+images/chutu/skill/b19/b19_00003
+  rotate: true
+  xy: 563, 114
+  size: 122, 66
+  orig: 172, 108
+  offset: 43, 15
+  index: -1
+images/chutu/skill/b19/b19_00004
+  rotate: false
+  xy: 1376, 91
+  size: 105, 56
+  orig: 172, 108
+  offset: 56, 19
+  index: -1
+images/chutu/skill/b19/b19_00005
+  rotate: true
+  xy: 1888, 1783
+  size: 69, 42
+  orig: 172, 108
+  offset: 81, 27
+  index: -1
+images/chutu/skill/b2/b2_00033
+  rotate: true
+  xy: 1798, 224
+  size: 94, 42
+  orig: 100, 85
+  offset: 2, 3
+  index: -1
+images/chutu/skill/b2/b2_00034
+  rotate: true
+  xy: 1796, 127
+  size: 95, 43
+  orig: 100, 85
+  offset: 2, 4
+  index: -1
+images/chutu/skill/b2/b2_00035
+  rotate: true
+  xy: 253, 116
+  size: 98, 56
+  orig: 100, 85
+  offset: 1, 9
+  index: -1
+images/chutu/skill/b2/b2_00036
+  rotate: true
+  xy: 990, 36
+  size: 99, 60
+  orig: 100, 85
+  offset: 1, 13
+  index: -1
+images/chutu/skill/b2/b2_00037
+  rotate: true
+  xy: 1052, 37
+  size: 99, 60
+  orig: 100, 85
+  offset: 1, 17
+  index: -1
+images/chutu/skill/b2/b2_00038
+  rotate: false
+  xy: 1841, 330
+  size: 97, 57
+  orig: 100, 85
+  offset: 2, 21
+  index: -1
+images/chutu/skill/b2/b2_00039
+  rotate: false
+  xy: 1842, 280
+  size: 96, 48
+  orig: 100, 85
+  offset: 3, 31
+  index: -1
+images/chutu/skill/b2/b2_00040
+  rotate: true
+  xy: 1217, 58
+  size: 95, 47
+  orig: 100, 85
+  offset: 4, 33
+  index: -1
+images/chutu/skill/b2/b2_00041
+  rotate: false
+  xy: 1841, 121
+  size: 91, 43
+  orig: 100, 85
+  offset: 6, 39
+  index: -1
+images/chutu/skill/b2/b2_00042
+  rotate: true
+  xy: 96, 128
+  size: 81, 39
+  orig: 100, 85
+  offset: 9, 44
+  index: -1
+images/chutu/skill/b20/b20_00044
+  rotate: false
+  xy: 1483, 91
+  size: 80, 56
+  orig: 164, 240
+  offset: 36, 2
+  index: -1
+images/chutu/skill/b20/b20_00045
+  rotate: true
+  xy: 1940, 293
+  size: 94, 75
+  orig: 164, 240
+  offset: 30, 2
+  index: -1
+images/chutu/skill/b20/b20_00046
+  rotate: false
+  xy: 1708, 406
+  size: 126, 133
+  orig: 164, 240
+  offset: 14, 2
+  index: -1
+images/chutu/skill/b20/b20_00047
+  rotate: false
+  xy: 638, 769
+  size: 129, 197
+  orig: 164, 240
+  offset: 14, 2
+  index: -1
+images/chutu/skill/b20/b20_00049
+  rotate: true
+  xy: 1671, 1406
+  size: 133, 214
+  orig: 164, 240
+  offset: 12, 2
+  index: -1
+images/chutu/skill/b20/b20_00051
+  rotate: true
+  xy: 556, 1166
+  size: 132, 207
+  orig: 164, 240
+  offset: 15, 2
+  index: -1
+images/chutu/skill/b20/b20_00053
+  rotate: false
+  xy: 1888, 1360
+  size: 127, 207
+  orig: 164, 240
+  offset: 19, 2
+  index: -1
+images/chutu/skill/b20/b20_00055
+  rotate: false
+  xy: 1888, 1569
+  size: 127, 209
+  orig: 164, 240
+  offset: 19, 2
+  index: -1
+images/chutu/skill/b20/b20_00057
+  rotate: false
+  xy: 259, 761
+  size: 122, 209
+  orig: 164, 240
+  offset: 20, 2
+  index: -1
+images/chutu/skill/b20/b20_00059
+  rotate: false
+  xy: 383, 763
+  size: 114, 209
+  orig: 164, 240
+  offset: 31, 2
+  index: -1
+images/chutu/skill/b20/b20_00061
+  rotate: true
+  xy: 613, 1694
+  size: 103, 190
+  orig: 164, 240
+  offset: 39, 2
+  index: -1
+images/chutu/skill/b20/b20_00063
+  rotate: false
+  xy: 769, 777
+  size: 101, 189
+  orig: 164, 240
+  offset: 39, 2
+  index: -1
+images/chutu/skill/b20/b20_00065
+  rotate: true
+  xy: 1704, 644
+  size: 103, 147
+  orig: 164, 240
+  offset: 42, 2
+  index: -1
+images/chutu/skill/b20/b20_00067
+  rotate: false
+  xy: 1606, 386
+  size: 100, 147
+  orig: 164, 240
+  offset: 46, 2
+  index: -1
+images/chutu/skill/b20/b20_00069
+  rotate: false
+  xy: 1842, 209
+  size: 91, 69
+  orig: 164, 240
+  offset: 55, 2
+  index: -1
+images/chutu/skill/b20/b20_00071
+  rotate: false
+  xy: 1684, 6
+  size: 79, 62
+  orig: 164, 240
+  offset: 61, 2
+  index: -1
+images/chutu/skill/b20/b20_00073
+  rotate: false
+  xy: 1613, 160
+  size: 70, 53
+  orig: 164, 240
+  offset: 61, 3
+  index: -1
+images/chutu/skill/b20/b20_00075
+  rotate: false
+  xy: 1498, 150
+  size: 56, 42
+  orig: 164, 240
+  offset: 62, 3
+  index: -1
+images/chutu/skill/b21/b21_00001
+  rotate: true
+  xy: 499, 779
+  size: 204, 137
+  orig: 221, 154
+  offset: 9, 9
+  index: -1
+images/chutu/skill/b22/b22_00001
+  rotate: false
+  xy: 877, 1667
+  size: 224, 150
+  orig: 257, 181
+  offset: 17, 17
+  index: -1
+images/chutu/skill/b23/b23_00044
+  rotate: false
+  xy: 69, 2
+  size: 42, 124
+  orig: 130, 247
+  offset: 34, 114
+  index: -1
+images/chutu/skill/b23/b23_00045
+  rotate: false
+  xy: 162, 951
+  size: 58, 221
+  orig: 130, 247
+  offset: 32, 14
+  index: -1
+images/chutu/skill/b23/b23_00046
+  rotate: false
+  xy: 167, 731
+  size: 90, 218
+  orig: 130, 247
+  offset: 19, 9
+  index: -1
+images/chutu/skill/b23/b23_00047
+  rotate: false
+  xy: 167, 731
+  size: 90, 218
+  orig: 130, 247
+  offset: 19, 9
+  index: -1
+images/chutu/skill/b23/b23_00048
+  rotate: false
+  xy: 177, 1194
+  size: 107, 229
+  orig: 130, 247
+  offset: 16, 7
+  index: -1
+images/chutu/skill/b23/b23_00049
+  rotate: false
+  xy: 222, 972
+  size: 96, 220
+  orig: 130, 247
+  offset: 21, 10
+  index: -1
+images/chutu/skill/b23/b23_00050
+  rotate: false
+  xy: 222, 972
+  size: 96, 220
+  orig: 130, 247
+  offset: 21, 10
+  index: -1
+images/chutu/skill/b23/b23_00052
+  rotate: true
+  xy: 1652, 1300
+  size: 104, 223
+  orig: 130, 247
+  offset: 7, 10
+  index: -1
+images/chutu/skill/b23/b23_00053
+  rotate: true
+  xy: 1652, 1300
+  size: 104, 223
+  orig: 130, 247
+  offset: 7, 10
+  index: -1
+images/chutu/skill/b23/b23_00057
+  rotate: false
+  xy: 1709, 230
+  size: 87, 88
+  orig: 130, 247
+  offset: 14, 37
+  index: -1
+images/chutu/skill/b24/b24_00046
+  rotate: true
+  xy: 1368, 634
+  size: 196, 41
+  orig: 198, 45
+  offset: 1, 1
+  index: -1
+images/chutu/skill/b27/b27_00044
+  rotate: true
+  xy: 1565, 91
+  size: 66, 72
+  orig: 73, 81
+  offset: 4, 5
+  index: -1
+images/chutu/skill/b28/b28_00046
+  rotate: false
+  xy: 387, 39
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+images/chutu/skill/b29/b29_00045
+  rotate: false
+  xy: 2, 1425
+  size: 285, 245
+  orig: 306, 261
+  offset: 11, 6
+  index: -1
+images/chutu/skill/b3/b3_00031
+  rotate: true
+  xy: 1777, 46
+  size: 73, 77
+  orig: 102, 101
+  offset: 23, 5
+  index: -1
+images/chutu/skill/b3/b3_00033
+  rotate: false
+  xy: 1453, 6
+  size: 78, 83
+  orig: 102, 101
+  offset: 15, 6
+  index: -1
+images/chutu/skill/b3/b3_00034
+  rotate: true
+  xy: 1616, 303
+  size: 81, 90
+  orig: 102, 101
+  offset: 11, 6
+  index: -1
+images/chutu/skill/b3/b3_00035
+  rotate: false
+  xy: 1184, 155
+  size: 87, 86
+  orig: 102, 101
+  offset: 5, 7
+  index: -1
+images/chutu/skill/b3/b3_00036
+  rotate: true
+  xy: 1616, 215
+  size: 86, 91
+  orig: 102, 101
+  offset: 5, 8
+  index: -1
+images/chutu/skill/b3/b3_00037
+  rotate: true
+  xy: 1363, 7
+  size: 82, 88
+  orig: 102, 101
+  offset: 7, 10
+  index: -1
+images/chutu/skill/b3/b3_00039
+  rotate: false
+  xy: 1935, 123
+  size: 80, 88
+  orig: 102, 101
+  offset: 7, 10
+  index: -1
+images/chutu/skill/b3/b3_00040
+  rotate: true
+  xy: 1709, 150
+  size: 78, 85
+  orig: 102, 101
+  offset: 6, 13
+  index: -1
+images/chutu/skill/b3/b3_00041
+  rotate: false
+  xy: 1533, 6
+  size: 71, 83
+  orig: 102, 101
+  offset: 6, 14
+  index: -1
+images/chutu/skill/b3/b3_00042
+  rotate: false
+  xy: 1556, 159
+  size: 55, 73
+  orig: 102, 101
+  offset: 19, 19
+  index: -1
+images/chutu/skill/b3/b3_00043
+  rotate: true
+  xy: 1487, 194
+  size: 36, 61
+  orig: 102, 101
+  offset: 26, 25
+  index: -1
+images/chutu/skill/b3/b3_00044
+  rotate: true
+  xy: 1487, 194
+  size: 36, 61
+  orig: 102, 101
+  offset: 26, 25
+  index: -1
+images/chutu/skill/b3/b3_00045
+  rotate: true
+  xy: 904, 8
+  size: 27, 47
+  orig: 102, 101
+  offset: 33, 29
+  index: -1
+images/chutu/skill/b30/b30_00047
+  rotate: false
+  xy: 2, 1672
+  size: 337, 279
+  orig: 354, 295
+  offset: 16, 6
+  index: -1
+images/chutu/skill/b32/b32_00024
+  rotate: true
+  xy: 262, 451
+  size: 133, 137
+  orig: 174, 195
+  offset: 23, 4
+  index: -1
+images/chutu/skill/b32/b32_00025
+  rotate: false
+  xy: 1035, 390
+  size: 153, 147
+  orig: 174, 195
+  offset: 9, 15
+  index: -1
+images/chutu/skill/b32/b32_00026
+  rotate: true
+  xy: 1418, 1108
+  size: 157, 165
+  orig: 174, 195
+  offset: 7, 14
+  index: -1
+images/chutu/skill/b32/b32_00027
+  rotate: false
+  xy: 490, 985
+  size: 164, 179
+  orig: 174, 195
+  offset: 3, 12
+  index: -1
+images/chutu/skill/b32/b32_00028
+  rotate: false
+  xy: 1585, 1097
+  size: 163, 147
+  orig: 174, 195
+  offset: 5, 16
+  index: -1
+images/chutu/skill/b32/b32_00029
+  rotate: true
+  xy: 1871, 852
+  size: 78, 144
+  orig: 174, 195
+  offset: 93, 18
+  index: -1
+images/chutu/skill/b4/b4_00031
+  rotate: true
+  xy: 712, 1300
+  size: 170, 161
+  orig: 177, 179
+  offset: 4, 16
+  index: -1
+images/chutu/skill/b4/b4_00032
+  rotate: false
+  xy: 875, 1295
+  size: 172, 175
+  orig: 177, 179
+  offset: 2, 2
+  index: -1
+images/chutu/skill/b4/b4_00033
+  rotate: false
+  xy: 1073, 1144
+  size: 169, 149
+  orig: 177, 179
+  offset: 2, 1
+  index: -1
+images/chutu/skill/b4/b4_00034
+  rotate: false
+  xy: 632, 604
+  size: 161, 163
+  orig: 177, 179
+  offset: 6, 2
+  index: -1
+images/chutu/skill/b4/b4_00035
+  rotate: false
+  xy: 558, 1300
+  size: 152, 172
+  orig: 177, 179
+  offset: 13, 2
+  index: -1
+images/chutu/skill/b4/b4_00036
+  rotate: false
+  xy: 858, 991
+  size: 167, 173
+  orig: 177, 179
+  offset: 5, 5
+  index: -1
+images/chutu/skill/b4/b4_00037
+  rotate: false
+  xy: 1030, 829
+  size: 170, 164
+  orig: 177, 179
+  offset: 4, 14
+  index: -1
+images/chutu/skill/b4/b4_00038
+  rotate: false
+  xy: 1049, 1295
+  size: 172, 175
+  orig: 177, 179
+  offset: 2, 2
+  index: -1
+images/chutu/skill/b4/b4_00039
+  rotate: true
+  xy: 881, 644
+  size: 169, 152
+  orig: 177, 179
+  offset: 2, 1
+  index: -1
+images/chutu/skill/b4/b4_00040
+  rotate: false
+  xy: 1035, 662
+  size: 160, 165
+  orig: 177, 179
+  offset: 6, 2
+  index: -1
+images/chutu/skill/b4/b4_00041
+  rotate: true
+  xy: 1204, 995
+  size: 145, 173
+  orig: 177, 179
+  offset: 16, 2
+  index: -1
+images/chutu/skill/b4/b4_00042
+  rotate: true
+  xy: 1244, 1142
+  size: 162, 172
+  orig: 177, 179
+  offset: 8, 5
+  index: -1
+images/chutu/skill/b4/b4_00043
+  rotate: false
+  xy: 1202, 832
+  size: 168, 161
+  orig: 177, 179
+  offset: 5, 16
+  index: -1
+images/chutu/skill/b5/b5_00036
+  rotate: true
+  xy: 511, 605
+  size: 172, 119
+  orig: 294, 276
+  offset: 70, 144
+  index: -1
+images/chutu/skill/b5/b5_00037
+  rotate: true
+  xy: 1750, 1095
+  size: 149, 125
+  orig: 294, 276
+  offset: 68, 134
+  index: -1
+images/chutu/skill/b5/b5_00038
+  rotate: false
+  xy: 1411, 600
+  size: 141, 91
+  orig: 294, 276
+  offset: 73, 164
+  index: -1
+images/chutu/skill/b5/b5_00039
+  rotate: false
+  xy: 341, 1795
+  size: 270, 156
+  orig: 294, 276
+  offset: 13, 67
+  index: -1
+images/chutu/skill/b5/b5_00040
+  rotate: false
+  xy: 613, 1799
+  size: 262, 152
+  orig: 294, 276
+  offset: 17, 62
+  index: -1
+images/chutu/skill/b5/b5_00041
+  rotate: false
+  xy: 877, 1819
+  size: 259, 132
+  orig: 294, 276
+  offset: 18, 69
+  index: -1
+images/chutu/skill/b5/b5_00042
+  rotate: false
+  xy: 881, 550
+  size: 165, 92
+  orig: 294, 276
+  offset: 20, 95
+  index: -1
+images/chutu/skill/b5/b5_00043
+  rotate: false
+  xy: 2, 1174
+  size: 173, 249
+  orig: 294, 276
+  offset: 23, 13
+  index: -1
+images/chutu/skill/b5/b5_00044
+  rotate: false
+  xy: 558, 1474
+  size: 153, 218
+  orig: 294, 276
+  offset: 26, 35
+  index: -1
+images/chutu/skill/b5/b5_00045
+  rotate: true
+  xy: 1027, 995
+  size: 147, 175
+  orig: 294, 276
+  offset: 27, 70
+  index: -1
+images/chutu/skill/b5/b5_00046
+  rotate: false
+  xy: 356, 1479
+  size: 200, 213
+  orig: 294, 276
+  offset: 75, 30
+  index: -1
+images/chutu/skill/b5/b5_00047
+  rotate: false
+  xy: 1320, 1467
+  size: 174, 197
+  orig: 294, 276
+  offset: 104, 43
+  index: -1
+images/chutu/skill/b5/b5_00048
+  rotate: false
+  xy: 262, 586
+  size: 137, 173
+  orig: 294, 276
+  offset: 134, 50
+  index: -1
+images/chutu/skill/b5/b5_00049
+  rotate: true
+  xy: 2, 924
+  size: 248, 158
+  orig: 294, 276
+  offset: 22, 57
+  index: -1
+images/chutu/skill/b5/b5_00050
+  rotate: false
+  xy: 1223, 1306
+  size: 214, 159
+  orig: 294, 276
+  offset: 24, 60
+  index: -1
+images/chutu/skill/b5/b5_00051
+  rotate: true
+  xy: 1403, 1666
+  size: 171, 135
+  orig: 294, 276
+  offset: 28, 100
+  index: -1
+images/chutu/skill/b6/b6_00032
+  rotate: false
+  xy: 1376, 246
+  size: 114, 101
+  orig: 214, 153
+  offset: 7, 46
+  index: -1
+images/chutu/skill/b6/b6_00033
+  rotate: true
+  xy: 894, 202
+  size: 83, 93
+  orig: 214, 153
+  offset: 1, 47
+  index: -1
+images/chutu/skill/b6/b6_00034
+  rotate: false
+  xy: 1693, 70
+  size: 82, 78
+  orig: 214, 153
+  offset: 1, 60
+  index: -1
+images/chutu/skill/b6/b6_00035
+  rotate: true
+  xy: 1540, 1660
+  size: 188, 146
+  orig: 214, 153
+  offset: 7, 6
+  index: -1
+images/chutu/skill/b6/b6_00036
+  rotate: true
+  xy: 1175, 1472
+  size: 192, 143
+  orig: 214, 153
+  offset: 12, 6
+  index: -1
+images/chutu/skill/b6/b6_00037
+  rotate: false
+  xy: 1688, 1541
+  size: 198, 133
+  orig: 214, 153
+  offset: 6, 8
+  index: -1
+images/chutu/skill/b6/b6_00038
+  rotate: false
+  xy: 397, 237
+  size: 133, 67
+  orig: 214, 153
+  offset: 11, 8
+  index: -1
+images/chutu/skill/b6/b6_00039
+  rotate: false
+  xy: 356, 1166
+  size: 198, 135
+  orig: 214, 153
+  offset: 16, 2
+  index: -1
+images/chutu/skill/b6/b6_00040
+  rotate: false
+  xy: 1048, 539
+  size: 164, 121
+  orig: 214, 153
+  offset: 17, 1
+  index: -1
+images/chutu/skill/b6/b6_00041
+  rotate: true
+  xy: 765, 1172
+  size: 126, 106
+  orig: 214, 153
+  offset: 12, 3
+  index: -1
+images/chutu/skill/b6/b6_00042
+  rotate: true
+  xy: 656, 968
+  size: 196, 115
+  orig: 214, 153
+  offset: 14, 27
+  index: -1
+images/chutu/skill/b6/b6_00043
+  rotate: true
+  xy: 401, 577
+  size: 184, 108
+  orig: 214, 153
+  offset: 29, 36
+  index: -1
+images/chutu/skill/b6/b6_00044
+  rotate: false
+  xy: 1554, 535
+  size: 148, 100
+  orig: 214, 153
+  offset: 60, 39
+  index: -1
+images/chutu/skill/b6/b6_00045
+  rotate: true
+  xy: 1038, 1472
+  size: 193, 135
+  orig: 214, 153
+  offset: 12, 4
+  index: -1
+images/chutu/skill/b6/b6_00046
+  rotate: true
+  xy: 795, 584
+  size: 191, 84
+  orig: 214, 153
+  offset: 13, 14
+  index: -1
+images/chutu/skill/b6/b6_00047
+  rotate: false
+  xy: 904, 37
+  size: 84, 98
+  orig: 214, 153
+  offset: 13, 16
+  index: -1
+images/chutu/skill/b7/b7_00031
+  rotate: false
+  xy: 877, 287
+  size: 113, 118
+  orig: 149, 171
+  offset: 16, 4
+  index: -1
+images/chutu/skill/b7/b7_00032
+  rotate: false
+  xy: 401, 448
+  size: 132, 127
+  orig: 149, 171
+  offset: 10, 14
+  index: -1
+images/chutu/skill/b7/b7_00033
+  rotate: true
+  xy: 1214, 525
+  size: 135, 143
+  orig: 149, 171
+  offset: 9, 13
+  index: -1
+images/chutu/skill/b7/b7_00034
+  rotate: true
+  xy: 878, 407
+  size: 141, 155
+  orig: 149, 171
+  offset: 6, 12
+  index: -1
+images/chutu/skill/b7/b7_00035
+  rotate: true
+  xy: 1411, 693
+  size: 140, 126
+  orig: 149, 171
+  offset: 5, 15
+  index: -1
+images/chutu/skill/b7/b7_00036
+  rotate: false
+  xy: 2, 2
+  size: 65, 124
+  orig: 149, 171
+  offset: 2, 17
+  index: -1
+images/chutu/skill/b8/b8_00030
+  rotate: true
+  xy: 1190, 345
+  size: 65, 182
+  orig: 78, 215
+  offset: 7, 11
+  index: -1
+images/chutu/skill/b8/b8_00031
+  rotate: false
+  xy: 199, 525
+  size: 61, 204
+  orig: 78, 215
+  offset: 4, 2
+  index: -1
+images/chutu/skill/b8/b8_00032
+  rotate: true
+  xy: 1439, 1267
+  size: 53, 205
+  orig: 78, 215
+  offset: 7, 2
+  index: -1
+images/chutu/skill/b8/b8_00033
+  rotate: false
+  xy: 515, 16
+  size: 46, 149
+  orig: 78, 215
+  offset: 8, 2
+  index: -1
+images/chutu/skill/b8/b8_00034
+  rotate: true
+  xy: 1376, 149
+  size: 43, 120
+  orig: 78, 215
+  offset: 9, 2
+  index: -1
+images/chutu/skill/b8/b8_00035
+  rotate: true
+  xy: 1708, 367
+  size: 37, 125
+  orig: 78, 215
+  offset: 10, 2
+  index: -1
+images/chutu/skill/b8/b8_00036
+  rotate: false
+  xy: 1836, 402
+  size: 28, 137
+  orig: 78, 215
+  offset: 16, 2
+  index: -1
+images/chutu/skill/b8/b8_00037
+  rotate: true
+  xy: 631, 121
+  size: 20, 143
+  orig: 78, 215
+  offset: 21, 2
+  index: -1
+images/chutu/skill/b9/b9_00030
+  rotate: false
+  xy: 311, 3
+  size: 53, 29
+  orig: 112, 53
+  offset: 31, 11
+  index: -1
+images/chutu/skill/b9/b9_00031
+  rotate: false
+  xy: 1266, 64
+  size: 95, 47
+  orig: 112, 53
+  offset: 9, 3
+  index: -1
+images/chutu/skill/b9/b9_00032
+  rotate: false
+  xy: 1273, 113
+  size: 101, 48
+  orig: 112, 53
+  offset: 6, 2
+  index: -1
+images/chutu/skill/b9/b9_00034
+  rotate: true
+  xy: 1114, 35
+  size: 101, 49
+  orig: 112, 53
+  offset: 6, 1
+  index: -1
+images/chutu/skill/b9/b9_00036
+  rotate: true
+  xy: 1165, 40
+  size: 104, 50
+  orig: 112, 53
+  offset: 4, 1
+  index: -1
+images/chutu/skill/b9/b9_00038
+  rotate: false
+  xy: 1376, 194
+  size: 109, 50
+  orig: 112, 53
+  offset: 1, 2
+  index: -1
+images/chutu/skill/b9/b9_00040
+  rotate: true
+  xy: 629, 2
+  size: 110, 49
+  orig: 112, 53
+  offset: 1, 3
+  index: -1
+images/chutu/skill/s17/s17_00001
+  rotate: false
+  xy: 1374, 349
+  size: 155, 89
+  orig: 237, 132
+  offset: 18, 19
+  index: -1
+images/chutu/skill/s17/s17_00002
+  rotate: true
+  xy: 146, 241
+  size: 171, 105
+  orig: 237, 132
+  offset: 38, 13
+  index: -1
+images/chutu/skill/s17/s17_00003
+  rotate: false
+  xy: 1379, 996
+  size: 171, 110
+  orig: 237, 132
+  offset: 57, 9
+  index: -1
+images/chutu/skill/s17/s17_00004
+  rotate: false
+  xy: 1190, 412
+  size: 162, 111
+  orig: 237, 132
+  offset: 66, 9
+  index: -1
+images/chutu/skill/s17/s17_00005
+  rotate: false
+  xy: 1554, 637
+  size: 148, 116
+  orig: 237, 132
+  offset: 78, 8
+  index: -1
+images/chutu/skill/s17/s17_00006
+  rotate: false
+  xy: 992, 277
+  size: 120, 111
+  orig: 237, 132
+  offset: 105, 12
+  index: -1
+images/chutu/skill/s17/s17_00007
+  rotate: true
+  xy: 680, 10
+  size: 109, 100
+  orig: 237, 132
+  offset: 116, 23
+  index: -1
+images/chutu/skill/s17/s17_00008
+  rotate: true
+  xy: 1606, 4
+  size: 85, 76
+  orig: 237, 132
+  offset: 133, 37
+  index: -1
+images/chutu/skill/s18/s18_00025
+  rotate: false
+  xy: 1716, 749
+  size: 157, 76
+  orig: 280, 150
+  offset: 65, 1
+  index: -1
+images/chutu/skill/s18/s18_00026
+  rotate: true
+  xy: 316, 268
+  size: 181, 79
+  orig: 280, 150
+  offset: 52, 13
+  index: -1
+images/chutu/skill/s18/s18_00027
+  rotate: true
+  xy: 773, 968
+  size: 202, 83
+  orig: 280, 150
+  offset: 41, 21
+  index: -1
+images/chutu/skill/s18/s18_00029
+  rotate: true
+  xy: 106, 456
+  size: 232, 91
+  orig: 280, 150
+  offset: 25, 31
+  index: -1
+images/chutu/skill/s18/s18_00031
+  rotate: false
+  xy: 1687, 1854
+  size: 251, 97
+  orig: 280, 150
+  offset: 15, 37
+  index: -1
+images/chutu/skill/s18/s18_00033
+  rotate: false
+  xy: 341, 1694
+  size: 265, 99
+  orig: 280, 150
+  offset: 8, 42
+  index: -1
+images/chutu/skill/s18/s18_00035
+  rotate: false
+  xy: 1412, 1850
+  size: 273, 101
+  orig: 280, 150
+  offset: 4, 45
+  index: -1
+images/chutu/skill/s18/s18_00037
+  rotate: true
+  xy: 2, 411
+  size: 277, 102
+  orig: 280, 150
+  offset: 2, 47
+  index: -1
+images/chutu/skill/s38/s38_00044
+  rotate: true
+  xy: 1851, 1251
+  size: 47, 21
+  orig: 191, 86
+  offset: 75, 35
+  index: -1
+images/chutu/skill/s38/s38_00045
+  rotate: false
+  xy: 1841, 166
+  size: 92, 41
+  orig: 191, 86
+  offset: 54, 25
+  index: -1
+images/chutu/skill/s38/s38_00047
+  rotate: true
+  xy: 848, 7
+  size: 128, 54
+  orig: 191, 86
+  offset: 35, 19
+  index: -1
+images/chutu/skill/s38/s38_00048
+  rotate: false
+  xy: 631, 210
+  size: 144, 64
+  orig: 191, 86
+  offset: 25, 15
+  index: -1
+images/chutu/skill/s38/s38_00050
+  rotate: true
+  xy: 286, 1268
+  size: 155, 68
+  orig: 191, 86
+  offset: 19, 12
+  index: -1
+images/chutu/skill/s38/s38_00051
+  rotate: true
+  xy: 1531, 351
+  size: 167, 73
+  orig: 191, 86
+  offset: 11, 9
+  index: -1
+images/chutu/skill/s38/s38_00054
+  rotate: false
+  xy: 1379, 919
+  size: 170, 75
+  orig: 191, 86
+  offset: 9, 7
+  index: -1
+images/chutu/skill/s38/s38_00055
+  rotate: true
+  xy: 1940, 1780
+  size: 171, 75
+  orig: 191, 86
+  offset: 10, 7
+  index: -1
+images/chutu/skill/s38/s38_00056
+  rotate: true
+  xy: 1940, 1780
+  size: 171, 75
+  orig: 191, 86
+  offset: 10, 7
+  index: -1
+images/chutu/skill/s38/s38_00058
+  rotate: false
+  xy: 1359, 520
+  size: 182, 78
+  orig: 191, 86
+  offset: 5, 5
+  index: -1
+images/chutu/skill/s38/s38_00059
+  rotate: false
+  xy: 1359, 520
+  size: 182, 78
+  orig: 191, 86
+  offset: 5, 5
+  index: -1
+images/chutu/skill/s38/s38_00061
+  rotate: false
+  xy: 1372, 835
+  size: 178, 82
+  orig: 191, 86
+  offset: 6, 2
+  index: -1
+images/chutu/skill/s38/s38_00062
+  rotate: false
+  xy: 1372, 835
+  size: 178, 82
+  orig: 191, 86
+  offset: 6, 2
+  index: -1
+images/chutu/skill/s39/s39_00046
+  rotate: true
+  xy: 1266, 662
+  size: 168, 100
+  orig: 185, 202
+  offset: 17, 83
+  index: -1
+images/chutu/skill/s39/s39_00047
+  rotate: false
+  xy: 1877, 1039
+  size: 138, 157
+  orig: 185, 202
+  offset: 18, 31
+  index: -1
+images/chutu/skill/s39/s39_00048
+  rotate: true
+  xy: 632, 457
+  size: 145, 160
+  orig: 185, 202
+  offset: 17, 30
+  index: -1
+images/chutu/skill/s39/s39_00050
+  rotate: false
+  xy: 872, 815
+  size: 156, 174
+  orig: 185, 202
+  offset: 13, 19
+  index: -1
+images/chutu/skill/s39/s39_00052
+  rotate: false
+  xy: 320, 974
+  size: 168, 190
+  orig: 185, 202
+  offset: 12, 9
+  index: -1
+images/chutu/skill/s39/s39_00054
+  rotate: false
+  xy: 862, 1472
+  size: 174, 193
+  orig: 185, 202
+  offset: 9, 7
+  index: -1
+images/chutu/skill/s39/s39_00056
+  rotate: false
+  xy: 1496, 1462
+  size: 173, 196
+  orig: 185, 202
+  offset: 6, 5
+  index: -1
+images/chutu/skill/s39/s39_00058
+  rotate: false
+  xy: 1552, 993
+  size: 172, 102
+  orig: 185, 202
+  offset: 4, 2
+  index: -1
+images/chutu/skill/s39/s39_00060
+  rotate: false
+  xy: 1354, 440
+  size: 175, 78
+  orig: 185, 202
+  offset: 1, 27
+  index: -1

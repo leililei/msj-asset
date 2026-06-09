@@ -1,0 +1,76 @@
+
+feiting2_logo.png
+size: 692,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo
+  rotate: false
+  xy: 625, 6
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+logo1
+  rotate: false
+  xy: 4, 4
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+logo2
+  rotate: false
+  xy: 73, 4
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+logo3
+  rotate: false
+  xy: 142, 4
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+logo4
+  rotate: false
+  xy: 211, 4
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+logo5
+  rotate: false
+  xy: 280, 4
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+logo6
+  rotate: false
+  xy: 349, 4
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+logo7
+  rotate: false
+  xy: 418, 4
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+logo8
+  rotate: false
+  xy: 487, 4
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+logo9
+  rotate: false
+  xy: 556, 4
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1

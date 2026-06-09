@@ -1,0 +1,20 @@
+
+huanxiang_shu.png
+size: 195,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu
+  rotate: true
+  xy: 2, 2
+  size: 97, 124
+  orig: 97, 124
+  offset: 0, 0
+  index: -1
+shuzhuang
+  rotate: true
+  xy: 128, 11
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+guanyinping_skill_beaten_1.png
+size: 1220,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skl_mz_00
+  rotate: false
+  xy: 535, 12
+  size: 229, 245
+  orig: 229, 245
+  offset: 0, 0
+  index: -1
+effect/skl_mz_01
+  rotate: false
+  xy: 969, 307
+  size: 222, 214
+  orig: 222, 214
+  offset: 0, 0
+  index: -1
+effect/skl_mz_02
+  rotate: false
+  xy: 269, 23
+  size: 264, 231
+  orig: 264, 231
+  offset: 0, 0
+  index: -1
+effect/skl_mz_03
+  rotate: false
+  xy: 255, 285
+  size: 267, 236
+  orig: 267, 236
+  offset: 0, 0
+  index: -1
+effect/skl_mz_04
+  rotate: false
+  xy: 2, 2
+  size: 265, 251
+  orig: 265, 251
+  offset: 0, 0
+  index: -1
+effect/skl_mz_05
+  rotate: true
+  xy: 2, 255
+  size: 266, 251
+  orig: 266, 251
+  offset: 0, 0
+  index: -1
+effect/skl_mz_07
+  rotate: true
+  xy: 748, 266
+  size: 255, 219
+  orig: 255, 219
+  offset: 0, 0
+  index: -1
+effect/skl_mz_08
+  rotate: true
+  xy: 524, 259
+  size: 262, 222
+  orig: 262, 222
+  offset: 0, 0
+  index: -1
+effect/skl_mz_10
+  rotate: false
+  xy: 766, 84
+  size: 264, 180
+  orig: 264, 180
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_00
+  rotate: false
+  xy: 255, 264
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_01
+  rotate: false
+  xy: 1080, 14
+  size: 92, 29
+  orig: 92, 29
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_02
+  rotate: true
+  xy: 1032, 169
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_03
+  rotate: false
+  xy: 876, 2
+  size: 101, 80
+  orig: 101, 80
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_04
+  rotate: false
+  xy: 766, 2
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_05
+  rotate: false
+  xy: 1032, 96
+  size: 96, 71
+  orig: 96, 71
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_06
+  rotate: false
+  xy: 979, 11
+  size: 99, 71
+  orig: 99, 71
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_07
+  rotate: false
+  xy: 1080, 45
+  size: 110, 49
+  orig: 110, 49
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_09
+  rotate: false
+  xy: 1119, 227
+  size: 99, 43
+  orig: 99, 43
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_11
+  rotate: false
+  xy: 969, 272
+  size: 90, 33
+  orig: 90, 33
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_13
+  rotate: false
+  xy: 1119, 192
+  size: 89, 33
+  orig: 89, 33
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_15
+  rotate: false
+  xy: 1061, 272
+  size: 90, 33
+  orig: 90, 33
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_17
+  rotate: false
+  xy: 255, 275
+  size: 50, 8
+  orig: 50, 8
+  offset: 0, 0
+  index: -1
+effect/skl_smoke03_19
+  rotate: false
+  xy: 255, 256
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1

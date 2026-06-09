@@ -1,0 +1,69 @@
+
+zhouyu_atk_1.png
+size: 188,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/dg1/dg1_00000
+  rotate: false
+  xy: 2, 698
+  size: 184, 158
+  orig: 202, 190
+  offset: 8, 5
+  index: -1
+atk/dg1/dg1_00002
+  rotate: false
+  xy: 2, 858
+  size: 180, 170
+  orig: 202, 190
+  offset: 6, 4
+  index: -1
+atk/dg1/dg1_00004
+  rotate: false
+  xy: 2, 532
+  size: 172, 164
+  orig: 202, 190
+  offset: 6, 8
+  index: -1
+atk/dg1/dg1_00006
+  rotate: false
+  xy: 2, 379
+  size: 163, 151
+  orig: 202, 190
+  offset: 7, 17
+  index: -1
+atk/dg1/dg1_00008
+  rotate: false
+  xy: 2, 245
+  size: 161, 132
+  orig: 202, 190
+  offset: 8, 31
+  index: -1
+atk/dg1/dg1_00010
+  rotate: false
+  xy: 2, 122
+  size: 157, 121
+  orig: 202, 190
+  offset: 9, 39
+  index: -1
+atk/dg1/dg1_00012
+  rotate: false
+  xy: 2, 4
+  size: 104, 116
+  orig: 202, 190
+  offset: 10, 42
+  index: -1
+atk/dg1/dg1_00014
+  rotate: true
+  xy: 108, 68
+  size: 52, 73
+  orig: 202, 190
+  offset: 11, 57
+  index: -1
+atk/dg1/dg1_00016
+  rotate: false
+  xy: 108, 2
+  size: 48, 64
+  orig: 202, 190
+  offset: 13, 59
+  index: -1

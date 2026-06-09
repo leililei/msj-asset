@@ -1,0 +1,139 @@
+
+mazhu_kongmingche_atk_tx_1.png
+size: 287,729
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/1/1_005
+  rotate: false
+  xy: 99, 79
+  size: 90, 52
+  orig: 101, 60
+  offset: 0, 3
+  index: -1
+chutu/1/1_006
+  rotate: false
+  xy: 2, 132
+  size: 95, 55
+  orig: 101, 60
+  offset: 0, 2
+  index: -1
+chutu/1/1_008
+  rotate: false
+  xy: 2, 73
+  size: 86, 57
+  orig: 101, 60
+  offset: 13, 1
+  index: -1
+chutu/1/1_010
+  rotate: false
+  xy: 2, 14
+  size: 82, 57
+  orig: 101, 60
+  offset: 17, 2
+  index: -1
+chutu/1/1_012
+  rotate: true
+  xy: 242, 180
+  size: 64, 39
+  orig: 101, 60
+  offset: 34, 3
+  index: -1
+chutu/2/2_004
+  rotate: true
+  xy: 191, 7
+  size: 78, 86
+  orig: 120, 140
+  offset: 9, 28
+  index: -1
+chutu/2/2_005
+  rotate: true
+  xy: 2, 189
+  size: 103, 122
+  orig: 120, 140
+  offset: 6, 9
+  index: -1
+chutu/2/2_006
+  rotate: true
+  xy: 150, 358
+  size: 113, 131
+  orig: 120, 140
+  offset: 3, 4
+  index: -1
+chutu/3/3_004
+  rotate: true
+  xy: 90, 2
+  size: 75, 85
+  orig: 120, 140
+  offset: 10, 29
+  index: -1
+chutu/3/3_005
+  rotate: true
+  xy: 164, 627
+  size: 100, 121
+  orig: 120, 140
+  offset: 8, 10
+  index: -1
+chutu/3/3_006
+  rotate: true
+  xy: 149, 246
+  size: 110, 131
+  orig: 120, 140
+  offset: 5, 4
+  index: -1
+chutu/4/4_004
+  rotate: true
+  xy: 2, 410
+  size: 80, 146
+  orig: 132, 188
+  offset: 6, 19
+  index: -1
+chutu/4/4_005
+  rotate: false
+  xy: 164, 473
+  size: 120, 152
+  orig: 132, 188
+  offset: 4, 16
+  index: -1
+chutu/4/4_007
+  rotate: true
+  xy: 2, 492
+  size: 119, 157
+  orig: 132, 188
+  offset: 3, 14
+  index: -1
+chutu/4/4_009
+  rotate: true
+  xy: 2, 613
+  size: 114, 160
+  orig: 132, 188
+  offset: 4, 15
+  index: -1
+chutu/4/4_011
+  rotate: true
+  xy: 2, 294
+  size: 114, 145
+  orig: 132, 188
+  offset: 5, 28
+  index: -1
+chutu/4/4_013
+  rotate: true
+  xy: 126, 133
+  size: 111, 114
+  orig: 132, 188
+  offset: 8, 42
+  index: -1
+chutu/4/4_015
+  rotate: false
+  xy: 242, 121
+  size: 37, 57
+  orig: 132, 188
+  offset: 52, 44
+  index: -1
+chutu/5/5_003
+  rotate: false
+  xy: 191, 87
+  size: 44, 44
+  orig: 48, 50
+  offset: 2, 3
+  index: -1

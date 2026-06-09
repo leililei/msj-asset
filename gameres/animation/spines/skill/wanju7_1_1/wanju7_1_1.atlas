@@ -1,0 +1,300 @@
+
+wanju7_1_1.png
+size: 676,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/fazhen_00
+  rotate: true
+  xy: 516, 277
+  size: 240, 86
+  orig: 248, 89
+  offset: 4, 2
+  index: -1
+effect/fazhen_02
+  rotate: false
+  xy: 254, 5
+  size: 244, 86
+  orig: 250, 89
+  offset: 3, 2
+  index: -1
+effect/fazhen_04
+  rotate: true
+  xy: 454, 1801
+  size: 243, 86
+  orig: 251, 89
+  offset: 4, 2
+  index: -1
+effect/fazhen_06
+  rotate: true
+  xy: 454, 1554
+  size: 243, 86
+  orig: 251, 89
+  offset: 4, 2
+  index: -1
+effect/fazhen_08
+  rotate: true
+  xy: 426, 493
+  size: 244, 86
+  orig: 250, 89
+  offset: 3, 2
+  index: -1
+effect/fazhen_10
+  rotate: true
+  xy: 361, 1540
+  size: 248, 89
+  orig: 252, 90
+  offset: 2, 1
+  index: -1
+effect/fazhen_12
+  rotate: true
+  xy: 266, 1015
+  size: 253, 89
+  orig: 258, 92
+  offset: 3, 2
+  index: -1
+effect/fazhen_14
+  rotate: true
+  xy: 266, 1789
+  size: 255, 91
+  orig: 262, 94
+  offset: 4, 2
+  index: -1
+effect/fazhen_16
+  rotate: true
+  xy: 516, 521
+  size: 242, 86
+  orig: 250, 89
+  offset: 4, 2
+  index: -1
+effect/fazhen_18
+  rotate: true
+  xy: 426, 245
+  size: 244, 86
+  orig: 250, 89
+  offset: 3, 2
+  index: -1
+effect/fazhen_20
+  rotate: true
+  xy: 454, 1307
+  size: 243, 86
+  orig: 251, 89
+  offset: 4, 2
+  index: -1
+effect/fazhen_22
+  rotate: true
+  xy: 427, 767
+  size: 244, 86
+  orig: 250, 89
+  offset: 3, 2
+  index: -1
+effect/fazhen_24
+  rotate: false
+  xy: 4, 4
+  size: 246, 87
+  orig: 248, 89
+  offset: 1, 1
+  index: -1
+effect/fazhen_26
+  rotate: true
+  xy: 361, 1792
+  size: 252, 89
+  orig: 256, 92
+  offset: 2, 2
+  index: -1
+effect/fazhen_28
+  rotate: true
+  xy: 266, 1272
+  size: 254, 91
+  orig: 260, 94
+  offset: 3, 2
+  index: -1
+effect/glow
+  rotate: false
+  xy: 544, 1455
+  size: 128, 129
+  orig: 132, 133
+  offset: 2, 2
+  index: -1
+effect/ke_posui_fazhen_00
+  rotate: true
+  xy: 606, 910
+  size: 152, 53
+  orig: 156, 56
+  offset: 2, 2
+  index: -1
+effect/ke_posui_fazhen_02
+  rotate: true
+  xy: 605, 87
+  size: 186, 67
+  orig: 194, 70
+  offset: 4, 2
+  index: -1
+effect/ke_posui_fazhen_04
+  rotate: true
+  xy: 544, 1588
+  size: 220, 78
+  orig: 226, 81
+  offset: 3, 2
+  index: -1
+effect/ke_posui_fazhen_06
+  rotate: true
+  xy: 517, 797
+  size: 239, 85
+  orig: 247, 88
+  offset: 4, 2
+  index: -1
+effect/ke_posui_fazhen_08
+  rotate: true
+  xy: 452, 1040
+  size: 244, 86
+  orig: 250, 89
+  offset: 3, 2
+  index: -1
+effect/ke_posui_fazhen_10
+  rotate: true
+  xy: 361, 1288
+  size: 248, 89
+  orig: 252, 90
+  offset: 2, 1
+  index: -1
+effect/ke_posui_fazhen_12
+  rotate: true
+  xy: 359, 1015
+  size: 253, 89
+  orig: 258, 92
+  offset: 3, 2
+  index: -1
+effect/ke_posui_fazhen_14
+  rotate: true
+  xy: 266, 1530
+  size: 255, 91
+  orig: 262, 94
+  offset: 4, 2
+  index: -1
+effect/ke_posui_fazhen_16
+  rotate: true
+  xy: 516, 33
+  size: 240, 85
+  orig: 250, 89
+  offset: 5, 3
+  index: -1
+effect/ke_posui_fazhen_18
+  rotate: true
+  xy: 542, 1066
+  size: 237, 85
+  orig: 245, 88
+  offset: 4, 2
+  index: -1
+effect/ke_posui_fazhen_20
+  rotate: true
+  xy: 544, 1812
+  size: 232, 82
+  orig: 240, 85
+  offset: 4, 2
+  index: -1
+effect/qiliu2_00
+  rotate: false
+  xy: 4, 256
+  size: 258, 157
+  orig: 259, 159
+  offset: 1, 1
+  index: -1
+effect/qiliu2_02
+  rotate: false
+  xy: 4, 741
+  size: 257, 159
+  orig: 258, 162
+  offset: 1, 1
+  index: -1
+effect/qiliu2_04
+  rotate: false
+  xy: 4, 1884
+  size: 258, 160
+  orig: 258, 162
+  offset: 0, 1
+  index: -1
+effect/qiliu2_06
+  rotate: false
+  xy: 4, 1720
+  size: 258, 160
+  orig: 259, 162
+  offset: 1, 1
+  index: -1
+effect/qiliu2_08
+  rotate: false
+  xy: 4, 1393
+  size: 258, 159
+  orig: 259, 161
+  offset: 1, 1
+  index: -1
+effect/qiliu2_10
+  rotate: false
+  xy: 4, 1230
+  size: 258, 159
+  orig: 259, 160
+  offset: 1, 1
+  index: -1
+effect/qiliu2_12
+  rotate: false
+  xy: 4, 95
+  size: 257, 157
+  orig: 259, 159
+  offset: 1, 1
+  index: -1
+effect/qiliu2_14
+  rotate: true
+  xy: 266, 156
+  size: 257, 156
+  orig: 258, 158
+  offset: 0, 1
+  index: -1
+effect/qiliu2_16
+  rotate: true
+  xy: 266, 417
+  size: 258, 156
+  orig: 259, 158
+  offset: 1, 1
+  index: -1
+effect/qiliu2_18
+  rotate: false
+  xy: 4, 1067
+  size: 258, 159
+  orig: 258, 160
+  offset: 0, 1
+  index: -1
+effect/qiliu2_20
+  rotate: false
+  xy: 4, 1556
+  size: 258, 160
+  orig: 258, 161
+  offset: 0, 1
+  index: -1
+effect/qiliu2_22
+  rotate: false
+  xy: 4, 904
+  size: 258, 159
+  orig: 258, 161
+  offset: 0, 1
+  index: -1
+effect/qiliu2_24
+  rotate: false
+  xy: 4, 579
+  size: 258, 158
+  orig: 258, 160
+  offset: 0, 1
+  index: -1
+effect/qiliu2_26
+  rotate: false
+  xy: 4, 417
+  size: 257, 158
+  orig: 259, 160
+  offset: 1, 1
+  index: -1
+effect/qiliu2_28
+  rotate: true
+  xy: 266, 741
+  size: 257, 157
+  orig: 259, 159
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,398 @@
+
+Effect_jvlebu2_1_tx.png
+size: 2032,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/1/1_00000
+  rotate: false
+  xy: 420, 45
+  size: 100, 100
+  orig: 123, 123
+  offset: 12, 12
+  index: -1
+chutu/2/2_00005
+  rotate: false
+  xy: 1556, 92
+  size: 33, 52
+  orig: 175, 404
+  offset: 83, 27
+  index: -1
+chutu/2/2_00006
+  rotate: true
+  xy: 762, 16
+  size: 56, 93
+  orig: 175, 404
+  offset: 82, 33
+  index: -1
+chutu/2/2_00007
+  rotate: true
+  xy: 524, 69
+  size: 63, 156
+  orig: 175, 404
+  offset: 85, 35
+  index: -1
+chutu/2/2_00008
+  rotate: true
+  xy: 1784, 133
+  size: 65, 230
+  orig: 175, 404
+  offset: 84, 29
+  index: -1
+chutu/2/2_00009
+  rotate: true
+  xy: 1322, 148
+  size: 68, 289
+  orig: 175, 404
+  offset: 82, 35
+  index: -1
+chutu/2/2_00010
+  rotate: false
+  xy: 1884, 202
+  size: 72, 337
+  orig: 175, 404
+  offset: 74, 38
+  index: -1
+chutu/2/2_00011
+  rotate: false
+  xy: 1677, 189
+  size: 103, 350
+  orig: 175, 404
+  offset: 43, 37
+  index: -1
+chutu/2/2_00012
+  rotate: false
+  xy: 854, 193
+  size: 109, 346
+  orig: 175, 404
+  offset: 39, 36
+  index: -1
+chutu/2/2_00013
+  rotate: false
+  xy: 732, 198
+  size: 118, 341
+  orig: 175, 404
+  offset: 33, 36
+  index: -1
+chutu/2/2_00014
+  rotate: false
+  xy: 604, 198
+  size: 124, 341
+  orig: 175, 404
+  offset: 28, 36
+  index: -1
+chutu/2/2_00015
+  rotate: false
+  xy: 470, 206
+  size: 130, 333
+  orig: 175, 404
+  offset: 22, 37
+  index: -1
+chutu/2/2_00016
+  rotate: false
+  xy: 330, 217
+  size: 136, 322
+  orig: 175, 404
+  offset: 17, 38
+  index: -1
+chutu/2/2_00017
+  rotate: false
+  xy: 1440, 221
+  size: 114, 318
+  orig: 175, 404
+  offset: 39, 38
+  index: -1
+chutu/2/2_00019
+  rotate: false
+  xy: 1322, 220
+  size: 114, 319
+  orig: 175, 404
+  offset: 39, 38
+  index: -1
+chutu/2/2_00021
+  rotate: false
+  xy: 1085, 220
+  size: 115, 319
+  orig: 175, 404
+  offset: 39, 38
+  index: -1
+chutu/2/2_00023
+  rotate: false
+  xy: 1204, 218
+  size: 114, 321
+  orig: 175, 404
+  offset: 39, 37
+  index: -1
+chutu/2/2_00025
+  rotate: false
+  xy: 967, 217
+  size: 114, 322
+  orig: 175, 404
+  offset: 39, 36
+  index: -1
+chutu/2/2_00027
+  rotate: false
+  xy: 1558, 224
+  size: 115, 315
+  orig: 175, 404
+  offset: 39, 42
+  index: -1
+chutu/2/2_00029
+  rotate: false
+  xy: 1784, 223
+  size: 96, 316
+  orig: 175, 404
+  offset: 40, 42
+  index: -1
+chutu/2/2_00031
+  rotate: true
+  xy: 5, 114
+  size: 99, 193
+  orig: 175, 404
+  offset: 38, 164
+  index: -1
+chutu/3/3_00005
+  rotate: false
+  xy: 1085, 74
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+chutu/3/3_00006
+  rotate: false
+  xy: 763, 76
+  size: 116, 113
+  orig: 140, 140
+  offset: 12, 13
+  index: -1
+chutu/4/4_00016
+  rotate: false
+  xy: 1905, 46
+  size: 81, 83
+  orig: 140, 140
+  offset: 31, 30
+  index: -1
+chutu/4/4_00018
+  rotate: false
+  xy: 1817, 46
+  size: 84, 83
+  orig: 140, 140
+  offset: 29, 29
+  index: -1
+chutu/4/4_00020
+  rotate: true
+  xy: 883, 21
+  size: 75, 84
+  orig: 140, 140
+  offset: 29, 28
+  index: -1
+chutu/4/4_00022
+  rotate: false
+  xy: 883, 103
+  size: 77, 86
+  orig: 140, 140
+  offset: 28, 27
+  index: -1
+chutu/4/4_00024
+  rotate: false
+  xy: 684, 57
+  size: 74, 75
+  orig: 140, 140
+  offset: 30, 30
+  index: -1
+chutu/4/4_00026
+  rotate: false
+  xy: 971, 22
+  size: 74, 74
+  orig: 140, 140
+  offset: 30, 29
+  index: -1
+chutu/4/4_00028
+  rotate: false
+  xy: 1556, 5
+  size: 75, 67
+  orig: 140, 140
+  offset: 29, 34
+  index: -1
+chutu/4/4_00030
+  rotate: true
+  xy: 332, 20
+  size: 71, 75
+  orig: 140, 140
+  offset: 33, 32
+  index: -1
+chutu/4/4_00032
+  rotate: true
+  xy: 1229, 158
+  size: 56, 79
+  orig: 140, 140
+  offset: 49, 31
+  index: -1
+chutu/5/5_00016
+  rotate: false
+  xy: 1615, 76
+  size: 110, 109
+  orig: 120, 120
+  offset: 5, 6
+  index: -1
+chutu/5/6_00016
+  rotate: false
+  xy: 5, 217
+  size: 321, 322
+  orig: 467, 467
+  offset: 72, 73
+  index: -1
+chutu/5/7_00016
+  rotate: false
+  xy: 967, 100
+  size: 113, 113
+  orig: 118, 118
+  offset: 3, 3
+  index: -1
+chutu/ts/ts_00019
+  rotate: false
+  xy: 1615, 202
+  size: 49, 18
+  orig: 360, 84
+  offset: 76, 32
+  index: -1
+chutu/ts/ts_00020
+  rotate: false
+  xy: 1635, 53
+  size: 83, 19
+  orig: 360, 84
+  offset: 76, 32
+  index: -1
+chutu/ts/ts_00021
+  rotate: false
+  xy: 596, 10
+  size: 116, 20
+  orig: 360, 84
+  offset: 76, 32
+  index: -1
+chutu/ts/ts_00022
+  rotate: false
+  xy: 1635, 22
+  size: 149, 19
+  orig: 360, 84
+  offset: 76, 32
+  index: -1
+chutu/ts/ts_00023
+  rotate: false
+  xy: 411, 11
+  size: 181, 19
+  orig: 360, 84
+  offset: 76, 32
+  index: -1
+chutu/ts/ts_00024
+  rotate: false
+  xy: 1258, 51
+  size: 208, 19
+  orig: 360, 84
+  offset: 75, 32
+  index: -1
+chutu/ts/ts_00025
+  rotate: false
+  xy: 5, 49
+  size: 205, 19
+  orig: 360, 84
+  offset: 76, 32
+  index: -1
+chutu/ts/ts_00026
+  rotate: false
+  xy: 524, 34
+  size: 205, 19
+  orig: 360, 84
+  offset: 76, 32
+  index: -1
+chutu/ts/ts_00027
+  rotate: false
+  xy: 1258, 28
+  size: 205, 19
+  orig: 360, 84
+  offset: 76, 32
+  index: -1
+chutu/ts/ts_00028
+  rotate: false
+  xy: 1049, 50
+  size: 205, 20
+  orig: 360, 84
+  offset: 76, 31
+  index: -1
+chutu/ts/ts_00029
+  rotate: false
+  xy: 5, 26
+  size: 205, 19
+  orig: 360, 84
+  offset: 76, 32
+  index: -1
+chutu/ts/ts_00030
+  rotate: false
+  xy: 202, 95
+  size: 214, 50
+  orig: 360, 84
+  offset: 72, 17
+  index: -1
+chutu/ts/ts_00031
+  rotate: false
+  xy: 529, 136
+  size: 230, 58
+  orig: 360, 84
+  offset: 64, 13
+  index: -1
+chutu/ts/ts_00032
+  rotate: true
+  xy: 1960, 216
+  size: 323, 66
+  orig: 360, 84
+  offset: 17, 9
+  index: -1
+chutu/ts/ts_00033
+  rotate: false
+  xy: 202, 149
+  size: 323, 53
+  orig: 360, 84
+  offset: 17, 15
+  index: -1
+chutu/ts/ts_00034
+  rotate: false
+  xy: 1229, 105
+  size: 323, 39
+  orig: 360, 84
+  offset: 17, 22
+  index: -1
+chutu/ts/ts_00035
+  rotate: false
+  xy: 1229, 74
+  size: 323, 27
+  orig: 360, 84
+  offset: 17, 28
+  index: -1
+chutu/ts/ts_00036
+  rotate: false
+  xy: 5, 72
+  size: 323, 19
+  orig: 360, 84
+  offset: 17, 32
+  index: -1
+chutu/ts/ts_00037
+  rotate: false
+  xy: 1049, 27
+  size: 202, 19
+  orig: 360, 84
+  offset: 79, 32
+  index: -1
+chutu/ts/ts_00038
+  rotate: false
+  xy: 1817, 24
+  size: 202, 18
+  orig: 360, 84
+  offset: 79, 33
+  index: -1
+chutu/xx/xx_00039
+  rotate: false
+  xy: 1729, 45
+  size: 84, 84
+  orig: 131, 114
+  offset: 24, 15
+  index: -1

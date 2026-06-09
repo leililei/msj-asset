@@ -1,0 +1,69 @@
+
+zhangjiao_atk_tx_1.png
+size: 128,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/atk/c1/c1_13
+  rotate: true
+  xy: 65, 28
+  size: 18, 30
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+chutu/atk/c1/c1_14
+  rotate: true
+  xy: 98, 28
+  size: 18, 25
+  orig: 18, 35
+  offset: 0, 8
+  index: -1
+chutu/atk/c1/c1_15
+  rotate: false
+  xy: 65, 1
+  size: 18, 24
+  orig: 18, 35
+  offset: 0, 10
+  index: -1
+chutu/atk/c1/c1_16
+  rotate: false
+  xy: 86, 4
+  size: 18, 21
+  orig: 18, 35
+  offset: 0, 14
+  index: -1
+chutu/atk/c1/c1_17
+  rotate: false
+  xy: 107, 4
+  size: 18, 21
+  orig: 18, 35
+  offset: 0, 14
+  index: -1
+chutu/atk/c1/c1_18
+  rotate: false
+  xy: 36, 4
+  size: 18, 14
+  orig: 18, 35
+  offset: 0, 21
+  index: -1
+chutu/atk/c1/c1_19
+  rotate: false
+  xy: 36, 4
+  size: 18, 14
+  orig: 18, 35
+  offset: 0, 21
+  index: -1
+chutu/atk/glow1_08
+  rotate: false
+  xy: 36, 21
+  size: 26, 25
+  orig: 26, 27
+  offset: 0, 1
+  index: -1
+chutu/atk/glow2_08
+  rotate: false
+  xy: 1, 13
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1

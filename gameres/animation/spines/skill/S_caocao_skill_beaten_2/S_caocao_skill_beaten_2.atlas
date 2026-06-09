@@ -1,0 +1,34 @@
+
+S_caocao_skill_beaten_2.png
+size: 535,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/bg/bg_00018
+  rotate: true
+  xy: 2, 170
+  size: 138, 241
+  orig: 180, 304
+  offset: 38, 34
+  index: -1
+chutu/bg/bg_00020
+  rotate: true
+  xy: 267, 2
+  size: 166, 266
+  orig: 180, 304
+  offset: 10, 18
+  index: -1
+chutu/bg/bg_00022
+  rotate: true
+  xy: 2, 6
+  size: 162, 263
+  orig: 180, 304
+  offset: 14, 25
+  index: -1
+chutu/bg/bg_00024
+  rotate: true
+  xy: 245, 170
+  size: 138, 268
+  orig: 180, 304
+  offset: 38, 21
+  index: -1

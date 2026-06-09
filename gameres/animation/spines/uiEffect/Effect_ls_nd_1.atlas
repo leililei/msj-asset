@@ -1,0 +1,118 @@
+
+Effect_ls_nd_1.png
+size: 183,694
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cs/cs_00000
+  rotate: false
+  xy: 2, 145
+  size: 89, 89
+  orig: 103, 105
+  offset: 6, 9
+  index: -1
+cs/cs_00002
+  rotate: false
+  xy: 2, 417
+  size: 91, 90
+  orig: 103, 105
+  offset: 6, 6
+  index: -1
+cs/cs_00004
+  rotate: true
+  xy: 95, 174
+  size: 88, 81
+  orig: 103, 105
+  offset: 9, 6
+  index: -1
+cs/cs_00006
+  rotate: true
+  xy: 96, 606
+  size: 86, 84
+  orig: 103, 105
+  offset: 11, 6
+  index: -1
+cs/cs_00008
+  rotate: true
+  xy: 2, 56
+  size: 87, 88
+  orig: 103, 105
+  offset: 10, 6
+  index: -1
+cs/cs_00010
+  rotate: false
+  xy: 93, 83
+  size: 88, 89
+  orig: 103, 105
+  offset: 9, 6
+  index: -1
+cs/cs_00012
+  rotate: true
+  xy: 2, 236
+  size: 88, 91
+  orig: 103, 105
+  offset: 9, 6
+  index: -1
+cs/cs_00014
+  rotate: true
+  xy: 2, 509
+  size: 89, 92
+  orig: 103, 105
+  offset: 8, 6
+  index: -1
+cs/cs_00016
+  rotate: false
+  xy: 2, 600
+  size: 92, 92
+  orig: 103, 105
+  offset: 5, 6
+  index: -1
+cs/cs_00018
+  rotate: false
+  xy: 2, 326
+  size: 91, 89
+  orig: 103, 105
+  offset: 6, 9
+  index: -1
+cs/cs_00020
+  rotate: true
+  xy: 96, 432
+  size: 91, 83
+  orig: 103, 105
+  offset: 5, 15
+  index: -1
+cs/cs_00022
+  rotate: false
+  xy: 95, 264
+  size: 86, 78
+  orig: 103, 105
+  offset: 5, 20
+  index: -1
+cs/cs_00024
+  rotate: false
+  xy: 92, 2
+  size: 87, 79
+  orig: 103, 105
+  offset: 5, 19
+  index: -1
+cs/cs_00026
+  rotate: false
+  xy: 96, 525
+  size: 84, 79
+  orig: 103, 105
+  offset: 6, 17
+  index: -1
+cs/cs_00028
+  rotate: false
+  xy: 95, 344
+  size: 86, 86
+  orig: 103, 105
+  offset: 7, 12
+  index: -1
+lz2_00000
+  rotate: false
+  xy: 2, 11
+  size: 44, 43
+  orig: 55, 55
+  offset: 6, 6
+  index: -1

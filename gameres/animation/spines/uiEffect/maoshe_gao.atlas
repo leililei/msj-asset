@@ -1,0 +1,146 @@
+
+maoshe_gao.png
+size: 839,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_di
+  rotate: false
+  xy: 161, 17
+  size: 158, 123
+  orig: 158, 135
+  offset: 0, 0
+  index: -1
+G_ganz2
+  rotate: true
+  xy: 584, 6
+  size: 64, 166
+  orig: 64, 166
+  offset: 0, 0
+  index: -1
+G_ganzi
+  rotate: true
+  xy: 407, 53
+  size: 87, 167
+  orig: 87, 167
+  offset: 0, 0
+  index: -1
+G_hudiejie
+  rotate: true
+  xy: 386, 24
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+G_qian
+  rotate: true
+  xy: 65, 16
+  size: 124, 94
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+G_qiu
+  rotate: true
+  xy: 386, 2
+  size: 20, 67
+  orig: 20, 67
+  offset: 0, 0
+  index: -1
+G_qiu2
+  rotate: false
+  xy: 78, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+G_xian2
+  rotate: true
+  xy: 2, 5
+  size: 4, 42
+  orig: 4, 42
+  offset: 0, 0
+  index: -1
+G_xianb1
+  rotate: true
+  xy: 46, 5
+  size: 4, 30
+  orig: 4, 30
+  offset: 0, 0
+  index: -1
+G_ye1
+  rotate: false
+  xy: 752, 8
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+G_ye2
+  rotate: false
+  xy: 455, 4
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+G_ye3
+  rotate: true
+  xy: 2, 11
+  size: 129, 61
+  orig: 129, 61
+  offset: 0, 0
+  index: -1
+G_ye3_Y
+  rotate: false
+  xy: 321, 7
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+aaaa
+  rotate: true
+  xy: 576, 72
+  size: 68, 261
+  orig: 68, 261
+  offset: 0, 0
+  index: -1
+dan
+  rotate: false
+  xy: 359, 3
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+piyan
+  rotate: false
+  xy: 92, 6
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 321, 50
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 359, 20
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 411, 28
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 526, 4
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1

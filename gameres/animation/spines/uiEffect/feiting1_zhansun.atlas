@@ -1,0 +1,125 @@
+
+feiting1_zhansun.png
+size: 504,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S_chuanjiang_1
+  rotate: true
+  xy: 292, 9
+  size: 116, 75
+  orig: 116, 75
+  offset: 0, 0
+  index: -1
+S_chuanjiang_2
+  rotate: false
+  xy: 410, 15
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+S_chuanjiang_3
+  rotate: false
+  xy: 333, 131
+  size: 119, 79
+  orig: 119, 79
+  offset: 0, 0
+  index: -1
+S_chuanshen
+  rotate: false
+  xy: 2, 222
+  size: 269, 102
+  orig: 269, 102
+  offset: 0, 0
+  index: -1
+S_chuanwei
+  rotate: false
+  xy: 361, 212
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+S_daqiqiu
+  rotate: false
+  xy: 2, 326
+  size: 312, 201
+  orig: 312, 201
+  offset: 0, 0
+  index: -1
+S_erduo_1
+  rotate: false
+  xy: 449, 333
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+S_erduo_2
+  rotate: false
+  xy: 410, 55
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+S_fangzi
+  rotate: true
+  xy: 207, 23
+  size: 197, 83
+  orig: 197, 83
+  offset: 0, 0
+  index: -1
+S_lanshen_1
+  rotate: true
+  xy: 2, 8
+  size: 44, 108
+  orig: 44, 108
+  offset: 0, 0
+  index: -1
+S_lanshen_2
+  rotate: false
+  xy: 449, 419
+  size: 45, 108
+  orig: 45, 108
+  offset: 0, 0
+  index: -1
+S_lanshen_3
+  rotate: false
+  xy: 292, 127
+  size: 39, 109
+  orig: 39, 109
+  offset: 0, 0
+  index: -1
+S_lanshen_4
+  rotate: false
+  xy: 369, 20
+  size: 39, 109
+  orig: 39, 109
+  offset: 0, 0
+  index: -1
+S_qiqiu_1
+  rotate: false
+  xy: 2, 54
+  size: 203, 166
+  orig: 203, 166
+  offset: 0, 0
+  index: -1
+S_qiqiu_2
+  rotate: true
+  xy: 316, 333
+  size: 194, 131
+  orig: 194, 131
+  offset: 0, 0
+  index: -1
+S_qiqiuduo
+  rotate: false
+  xy: 112, 2
+  size: 78, 50
+  orig: 78, 50
+  offset: 0, 0
+  index: -1
+S_qiqiuwei
+  rotate: false
+  xy: 273, 238
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1

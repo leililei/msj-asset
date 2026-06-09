@@ -1,0 +1,153 @@
+
+Effect_tiaozhanchenggong.png
+size: 1472,748
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dtguang_00
+  rotate: false
+  xy: 3, 149
+  size: 615, 597
+  orig: 658, 614
+  offset: 20, 14
+  index: -1
+glow_00
+  rotate: false
+  xy: 1085, 52
+  size: 306, 306
+  orig: 312, 311
+  offset: 2, 1
+  index: -1
+guangtiao_00
+  rotate: false
+  xy: 3, 102
+  size: 485, 45
+  orig: 488, 53
+  offset: 2, 4
+  index: -1
+guangzhu_00
+  rotate: false
+  xy: 3, 32
+  size: 226, 68
+  orig: 235, 73
+  offset: 3, 2
+  index: -1
+huang_12
+  rotate: false
+  xy: 392, 5
+  size: 33, 31
+  orig: 34, 32
+  offset: 1, 0
+  index: -1
+huangt_00
+  rotate: false
+  xy: 452, 20
+  size: 80, 80
+  orig: 80, 81
+  offset: 0, 1
+  index: -1
+lan_12
+  rotate: false
+  xy: 57, 11
+  size: 17, 19
+  orig: 19, 20
+  offset: 1, 0
+  index: -1
+lans_04
+  rotate: false
+  xy: 534, 18
+  size: 43, 55
+  orig: 43, 56
+  offset: 0, 1
+  index: -1
+lizi_19
+  rotate: false
+  xy: 900, 190
+  size: 42, 42
+  orig: 52, 52
+  offset: 5, 5
+  index: -1
+lv'_12
+  rotate: false
+  xy: 31, 5
+  size: 24, 25
+  orig: 34, 32
+  offset: 4, 3
+  index: -1
+quan1_04
+  rotate: false
+  xy: 620, 283
+  size: 463, 463
+  orig: 476, 475
+  offset: 6, 6
+  index: -1
+quan2_00
+  rotate: false
+  xy: 620, 3
+  size: 278, 278
+  orig: 282, 282
+  offset: 2, 2
+  index: -1
+quan_10
+  rotate: false
+  xy: 1085, 360
+  size: 385, 386
+  orig: 392, 394
+  offset: 5, 4
+  index: -1
+tiao/tiao_08
+  rotate: false
+  xy: 579, 7
+  size: 27, 33
+  orig: 151, 118
+  offset: 122, 3
+  index: -1
+tiao/tiao_10
+  rotate: false
+  xy: 534, 75
+  size: 53, 72
+  orig: 151, 118
+  offset: 92, 17
+  index: -1
+tiao/tiao_12
+  rotate: false
+  xy: 231, 24
+  size: 99, 76
+  orig: 151, 118
+  offset: 37, 36
+  index: -1
+tiao/tiao_14
+  rotate: false
+  xy: 332, 38
+  size: 118, 62
+  orig: 151, 118
+  offset: 9, 53
+  index: -1
+tiao/tiao_16
+  rotate: false
+  xy: 900, 234
+  size: 106, 47
+  orig: 151, 118
+  offset: 9, 68
+  index: -1
+tiao/tiao_18
+  rotate: false
+  xy: 332, 5
+  size: 58, 31
+  orig: 151, 118
+  offset: 6, 84
+  index: -1
+yuan_04
+  rotate: false
+  xy: 579, 42
+  size: 31, 31
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+zi_18
+  rotate: false
+  xy: 3, 4
+  size: 26, 26
+  orig: 28, 27
+  offset: 1, 1
+  index: -1

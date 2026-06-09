@@ -1,0 +1,62 @@
+
+longhun_5681_mz.png
+size: 1159,670
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/mz/00
+  rotate: true
+  xy: 320, 27
+  size: 250, 273
+  orig: 378, 495
+  offset: 43, 111
+  index: -1
+images/effect/mz/01
+  rotate: false
+  xy: 910, 408
+  size: 245, 260
+  orig: 378, 495
+  offset: 66, 122
+  index: -1
+images/effect/mz/02
+  rotate: false
+  xy: 320, 279
+  size: 301, 389
+  orig: 378, 495
+  offset: 31, 84
+  index: -1
+images/effect/mz/03
+  rotate: false
+  xy: 2, 276
+  size: 316, 392
+  orig: 378, 495
+  offset: 17, 80
+  index: -1
+images/effect/mz/05
+  rotate: false
+  xy: 623, 339
+  size: 285, 329
+  orig: 378, 495
+  offset: 43, 71
+  index: -1
+images/effect/mz/07
+  rotate: true
+  xy: 2, 2
+  size: 272, 314
+  orig: 378, 495
+  offset: 53, 68
+  index: -1
+images/effect/mz/09
+  rotate: true
+  xy: 623, 68
+  size: 269, 277
+  orig: 378, 495
+  offset: 49, 112
+  index: -1
+images/effect/mz/11
+  rotate: false
+  xy: 910, 154
+  size: 247, 252
+  orig: 378, 495
+  offset: 46, 134
+  index: -1

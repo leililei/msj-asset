@@ -1,0 +1,104 @@
+
+huatuo_atk_beaten_1.png
+size: 417,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/atk/gx1/gx1_00013
+  rotate: true
+  xy: 324, 298
+  size: 100, 91
+  orig: 113, 109
+  offset: 10, 14
+  index: -1
+images/chutu/atk/gx2/gx2_00013
+  rotate: false
+  xy: 313, 113
+  size: 91, 91
+  orig: 100, 100
+  offset: 5, 4
+  index: -1
+images/chutu/atk/gx4/gx4_00000
+  rotate: false
+  xy: 111, 36
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+images/chutu/atk/xg1/xg1_00013
+  rotate: false
+  xy: 111, 64
+  size: 42, 42
+  orig: 44, 43
+  offset: 2, 1
+  index: -1
+images/chutu/atk/xg2/xg2_00023
+  rotate: false
+  xy: 313, 206
+  size: 97, 90
+  orig: 99, 92
+  offset: 1, 1
+  index: -1
+images/chutu/atk/xg3/xg3_00023
+  rotate: true
+  xy: 324, 400
+  size: 110, 85
+  orig: 116, 88
+  offset: 4, 2
+  index: -1
+images/chutu/atk/xg4/xg4_00023
+  rotate: false
+  xy: 2, 4
+  size: 107, 102
+  orig: 181, 211
+  offset: 2, 55
+  index: -1
+images/chutu/atk/xg4/xg4_00024
+  rotate: false
+  xy: 168, 2
+  size: 143, 146
+  orig: 181, 211
+  offset: 2, 44
+  index: -1
+images/chutu/atk/xg4/xg4_00025
+  rotate: false
+  xy: 168, 150
+  size: 143, 155
+  orig: 181, 211
+  offset: 5, 31
+  index: -1
+images/chutu/atk/xg4/xg4_00026
+  rotate: false
+  xy: 168, 150
+  size: 143, 155
+  orig: 181, 211
+  offset: 5, 31
+  index: -1
+images/chutu/atk/xg4/xg4_00027
+  rotate: false
+  xy: 2, 108
+  size: 164, 197
+  orig: 181, 211
+  offset: 6, 5
+  index: -1
+images/chutu/atk/xg4/xg4_00028
+  rotate: false
+  xy: 2, 307
+  size: 170, 203
+  orig: 181, 211
+  offset: 7, 4
+  index: -1
+images/chutu/atk/xg4/xg4_00029
+  rotate: false
+  xy: 174, 317
+  size: 148, 193
+  orig: 181, 211
+  offset: 26, 8
+  index: -1
+images/chutu/atk/xg5/xg5_00026
+  rotate: false
+  xy: 313, 72
+  size: 45, 39
+  orig: 61, 55
+  offset: 8, 8
+  index: -1

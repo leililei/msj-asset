@@ -1,0 +1,370 @@
+
+zhangliao_atk_beaten_1.png
+size: 2047,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/a10/a10_009
+  rotate: false
+  xy: 3, 23
+  size: 97, 47
+  orig: 212, 170
+  offset: 50, 54
+  index: -1
+chutu/attack/a10/a10_010
+  rotate: false
+  xy: 220, 286
+  size: 209, 162
+  orig: 212, 170
+  offset: 2, 1
+  index: -1
+chutu/attack/a10/a10_012
+  rotate: false
+  xy: 982, 288
+  size: 185, 160
+  orig: 212, 170
+  offset: 12, 8
+  index: -1
+chutu/attack/a10/a10_014
+  rotate: true
+  xy: 891, 11
+  size: 118, 142
+  orig: 212, 170
+  offset: 58, 23
+  index: -1
+chutu/attack/a11/a11_009
+  rotate: false
+  xy: 909, 135
+  size: 70, 62
+  orig: 195, 148
+  offset: 74, 67
+  index: -1
+chutu/attack/a11/a11_010
+  rotate: false
+  xy: 729, 26
+  size: 160, 117
+  orig: 195, 148
+  offset: 21, 22
+  index: -1
+chutu/attack/a11/a11_012
+  rotate: false
+  xy: 387, 147
+  size: 180, 133
+  orig: 195, 148
+  offset: 10, 10
+  index: -1
+chutu/attack/a11/a11_014
+  rotate: true
+  xy: 1903, 262
+  size: 186, 142
+  orig: 195, 148
+  offset: 7, 3
+  index: -1
+chutu/attack/a11/a11_016
+  rotate: false
+  xy: 1954, 43
+  size: 58, 45
+  orig: 195, 148
+  offset: 2, 83
+  index: -1
+chutu/attack/a11/a11_018
+  rotate: false
+  xy: 1954, 43
+  size: 58, 45
+  orig: 195, 148
+  offset: 2, 83
+  index: -1
+chutu/attack/a12/a12_009
+  rotate: false
+  xy: 1875, 19
+  size: 77, 69
+  orig: 207, 162
+  offset: 76, 71
+  index: -1
+chutu/attack/a12/a12_010
+  rotate: true
+  xy: 1894, 90
+  size: 170, 129
+  orig: 207, 162
+  offset: 22, 24
+  index: -1
+chutu/attack/a12/a12_012
+  rotate: false
+  xy: 1366, 302
+  size: 190, 146
+  orig: 207, 162
+  offset: 11, 11
+  index: -1
+chutu/attack/a12/a12_014
+  rotate: false
+  xy: 1169, 297
+  size: 195, 151
+  orig: 207, 162
+  offset: 7, 6
+  index: -1
+chutu/attack/a12/a12_016
+  rotate: false
+  xy: 2014, 50
+  size: 31, 38
+  orig: 207, 162
+  offset: 4, 104
+  index: -1
+chutu/attack/a12/a12_018
+  rotate: false
+  xy: 2014, 50
+  size: 31, 38
+  orig: 207, 162
+  offset: 4, 104
+  index: -1
+chutu/attack/a13/a13_009
+  rotate: false
+  xy: 310, 71
+  size: 70, 61
+  orig: 195, 148
+  offset: 75, 68
+  index: -1
+chutu/attack/a13/a13_010
+  rotate: false
+  xy: 1303, 26
+  size: 158, 115
+  orig: 195, 148
+  offset: 23, 24
+  index: -1
+chutu/attack/a13/a13_012
+  rotate: false
+  xy: 729, 145
+  size: 178, 132
+  orig: 195, 148
+  offset: 12, 11
+  index: -1
+chutu/attack/a13/a13_014
+  rotate: false
+  xy: 1169, 154
+  size: 184, 141
+  orig: 195, 148
+  offset: 9, 4
+  index: -1
+chutu/attack/a13/a13_016
+  rotate: false
+  xy: 102, 30
+  size: 47, 40
+  orig: 195, 148
+  offset: 4, 87
+  index: -1
+chutu/attack/a13/a13_018
+  rotate: false
+  xy: 102, 30
+  size: 47, 40
+  orig: 195, 148
+  offset: 4, 87
+  index: -1
+chutu/attack/a14/a14_009
+  rotate: false
+  xy: 162, 180
+  size: 46, 45
+  orig: 195, 173
+  offset: 45, 64
+  index: -1
+chutu/attack/a14/a14_010
+  rotate: false
+  xy: 1463, 3
+  size: 135, 130
+  orig: 195, 173
+  offset: 13, 22
+  index: -1
+chutu/attack/a14/a14_012
+  rotate: false
+  xy: 569, 131
+  size: 158, 149
+  orig: 195, 173
+  offset: 5, 11
+  index: -1
+chutu/attack/a14/a14_014
+  rotate: false
+  xy: 1366, 143
+  size: 166, 157
+  orig: 195, 173
+  offset: 10, 6
+  index: -1
+chutu/attack/a14/a14_016
+  rotate: false
+  xy: 1558, 285
+  size: 170, 163
+  orig: 195, 173
+  offset: 14, 3
+  index: -1
+chutu/attack/a14/a14_018
+  rotate: false
+  xy: 1730, 288
+  size: 171, 160
+  orig: 195, 173
+  offset: 18, 5
+  index: -1
+chutu/attack/a15/a15_009
+  rotate: false
+  xy: 115, 81
+  size: 42, 41
+  orig: 44, 45
+  offset: 1, 2
+  index: -1
+chutu/attack/a16/a16_010
+  rotate: false
+  xy: 162, 135
+  size: 44, 43
+  orig: 46, 46
+  offset: 1, 1
+  index: -1
+chutu/attack/a3/a3_009
+  rotate: false
+  xy: 1702, 263
+  size: 21, 20
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+chutu/attack/a4/a4_009
+  rotate: false
+  xy: 909, 199
+  size: 66, 78
+  orig: 68, 80
+  offset: 1, 1
+  index: -1
+chutu/attack/a5/a5_010
+  rotate: false
+  xy: 1600, 15
+  size: 110, 118
+  orig: 161, 168
+  offset: 23, 17
+  index: -1
+chutu/attack/a5/a5_011
+  rotate: true
+  xy: 1151, 12
+  size: 140, 150
+  orig: 161, 168
+  offset: 10, 5
+  index: -1
+chutu/attack/a5/a5_013
+  rotate: true
+  xy: 1730, 128
+  size: 158, 162
+  orig: 161, 168
+  offset: 2, 3
+  index: -1
+chutu/attack/a5/a5_015
+  rotate: true
+  xy: 220, 134
+  size: 150, 165
+  orig: 161, 168
+  offset: 5, 2
+  index: -1
+chutu/attack/a6/a6_009
+  rotate: false
+  xy: 538, 31
+  size: 90, 98
+  orig: 182, 193
+  offset: 42, 37
+  index: -1
+chutu/attack/a6/a6_010
+  rotate: true
+  xy: 982, 131
+  size: 155, 167
+  orig: 182, 193
+  offset: 14, 9
+  index: -1
+chutu/attack/a6/a6_011
+  rotate: true
+  xy: 804, 279
+  size: 169, 176
+  orig: 182, 193
+  offset: 7, 6
+  index: -1
+chutu/attack/a6/a6_013
+  rotate: true
+  xy: 620, 282
+  size: 166, 182
+  orig: 182, 193
+  offset: 9, 6
+  index: -1
+chutu/attack/a7/a7_009
+  rotate: false
+  xy: 1712, 43
+  size: 77, 83
+  orig: 161, 171
+  offset: 36, 33
+  index: -1
+chutu/attack/a7/a7_010
+  rotate: true
+  xy: 387, 5
+  size: 140, 149
+  orig: 161, 171
+  offset: 9, 7
+  index: -1
+chutu/attack/a7/a7_011
+  rotate: true
+  xy: 3, 124
+  size: 156, 157
+  orig: 161, 171
+  offset: 3, 5
+  index: -1
+chutu/attack/a7/a7_013
+  rotate: true
+  xy: 1534, 135
+  size: 148, 166
+  orig: 161, 171
+  offset: 5, 3
+  index: -1
+chutu/attack/a8/a8_009
+  rotate: false
+  xy: 3, 72
+  size: 110, 50
+  orig: 218, 176
+  offset: 49, 55
+  index: -1
+chutu/attack/a8/a8_010
+  rotate: false
+  xy: 3, 282
+  size: 215, 166
+  orig: 218, 176
+  offset: 2, 2
+  index: -1
+chutu/attack/a8/a8_012
+  rotate: false
+  xy: 431, 282
+  size: 187, 166
+  orig: 218, 176
+  offset: 15, 7
+  index: -1
+chutu/attack/a8/a8_014
+  rotate: true
+  xy: 162, 12
+  size: 120, 146
+  orig: 218, 176
+  offset: 61, 23
+  index: -1
+chutu/attack/a9/a9_009
+  rotate: false
+  xy: 1791, 61
+  size: 82, 65
+  orig: 114, 118
+  offset: 8, 17
+  index: -1
+chutu/attack/a9/a9_010
+  rotate: false
+  xy: 1035, 28
+  size: 101, 101
+  orig: 114, 118
+  offset: 4, 7
+  index: -1
+chutu/attack/a9/a9_012
+  rotate: false
+  xy: 630, 45
+  size: 79, 84
+  orig: 114, 118
+  offset: 12, 10
+  index: -1
+chutu/attack/a9/a9_014
+  rotate: false
+  xy: 162, 227
+  size: 52, 53
+  orig: 114, 118
+  offset: 27, 23
+  index: -1

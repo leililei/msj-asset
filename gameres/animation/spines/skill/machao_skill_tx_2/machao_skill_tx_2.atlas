@@ -1,0 +1,76 @@
+
+machao_skill_tx_2.png
+size: 300,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/s2/s2_036
+  rotate: false
+  xy: 2, 322
+  size: 177, 93
+  orig: 217, 117
+  offset: 38, 1
+  index: -1
+chutu/skill/s2/s2_037
+  rotate: false
+  xy: 2, 417
+  size: 185, 101
+  orig: 217, 117
+  offset: 22, 2
+  index: -1
+chutu/skill/s2/s2_039
+  rotate: true
+  xy: 189, 338
+  size: 180, 109
+  orig: 217, 117
+  offset: 2, 4
+  index: -1
+chutu/skill/s2/s2_041
+  rotate: false
+  xy: 2, 137
+  size: 165, 111
+  orig: 217, 117
+  offset: 5, 4
+  index: -1
+chutu/skill/s2/s2_043
+  rotate: false
+  xy: 109, 24
+  size: 158, 111
+  orig: 217, 117
+  offset: 3, 4
+  index: -1
+chutu/skill/s2/s2_045
+  rotate: false
+  xy: 181, 226
+  size: 117, 110
+  orig: 217, 117
+  offset: 5, 4
+  index: -1
+chutu/skill/s2/s2_047
+  rotate: true
+  xy: 2, 2
+  size: 133, 105
+  orig: 217, 117
+  offset: 8, 6
+  index: -1
+chutu/skill/s2/s2_049
+  rotate: false
+  xy: 169, 150
+  size: 120, 74
+  orig: 217, 117
+  offset: 12, 6
+  index: -1
+chutu/skill/s2/s2_051
+  rotate: true
+  xy: 172, 307
+  size: 13, 7
+  orig: 217, 117
+  offset: 48, 63
+  index: -1
+chutu/skill/s3/s3_035
+  rotate: false
+  xy: 2, 250
+  size: 168, 70
+  orig: 177, 110
+  offset: 4, 20
+  index: -1

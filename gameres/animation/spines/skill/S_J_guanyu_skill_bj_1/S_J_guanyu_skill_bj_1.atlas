@@ -1,0 +1,20 @@
+
+S_J_guanyu_skill_bj_1.png
+size: 425,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/s1/s1_33
+  rotate: false
+  xy: 2, 2
+  size: 272, 272
+  orig: 286, 286
+  offset: 8, 7
+  index: -1
+chutu/skill/s2/s2_34
+  rotate: true
+  xy: 276, 108
+  size: 166, 147
+  orig: 176, 155
+  offset: 5, 4
+  index: -1

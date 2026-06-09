@@ -1,0 +1,41 @@
+
+hulu_06.png
+size: 555,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hl6_lianyun
+  rotate: false
+  xy: 207, 10
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1
+hl6_shenti
+  rotate: false
+  xy: 207, 43
+  size: 172, 322
+  orig: 174, 324
+  offset: 1, 1
+  index: -1
+hl6_shentiA
+  rotate: false
+  xy: 0, 12
+  size: 203, 353
+  orig: 209, 359
+  offset: 3, 3
+  index: -1
+hl6_shentiB
+  rotate: false
+  xy: 383, 43
+  size: 172, 322
+  orig: 174, 324
+  offset: 1, 1
+  index: -1
+hl6_yanjing
+  rotate: false
+  xy: 282, 0
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1

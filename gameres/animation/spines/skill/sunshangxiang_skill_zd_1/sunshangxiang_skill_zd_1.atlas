@@ -1,0 +1,27 @@
+
+sunshangxiang_skill_zd_1.png
+size: 248,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/8j1/8j1_0026
+  rotate: true
+  xy: 2, 32
+  size: 32, 153
+  orig: 40, 165
+  offset: 4, 7
+  index: -1
+chutu/skill/8j2/8j2_0026
+  rotate: true
+  xy: 2, 2
+  size: 28, 151
+  orig: 40, 165
+  offset: 6, 8
+  index: -1
+chutu/skill/9gs/9gs_0014
+  rotate: false
+  xy: 157, 9
+  size: 89, 55
+  orig: 91, 67
+  offset: 1, 6
+  index: -1

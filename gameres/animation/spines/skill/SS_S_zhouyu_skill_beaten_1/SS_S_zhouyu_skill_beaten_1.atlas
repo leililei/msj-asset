@@ -1,0 +1,258 @@
+
+SS_S_zhouyu_skill_beaten_1.png
+size: 1800,1053
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_baozha_guang
+  rotate: true
+  xy: 1596, 625
+  size: 176, 180
+  orig: 199, 199
+  offset: 11, 12
+  index: -1
+effect/skill_dikeng
+  rotate: true
+  xy: 1639, 240
+  size: 383, 145
+  orig: 385, 148
+  offset: 1, 1
+  index: -1
+effect/skill_fenghuang_00
+  rotate: false
+  xy: 2, 695
+  size: 229, 356
+  orig: 244, 371
+  offset: 7, 7
+  index: -1
+effect/skill_fenghuang_01
+  rotate: true
+  xy: 2, 107
+  size: 228, 357
+  orig: 243, 372
+  offset: 7, 7
+  index: -1
+effect/skill_fenghuang_02
+  rotate: false
+  xy: 233, 338
+  size: 227, 356
+  orig: 241, 372
+  offset: 6, 8
+  index: -1
+effect/skill_fenghuang_03
+  rotate: true
+  xy: 361, 109
+  size: 227, 356
+  orig: 241, 371
+  offset: 6, 7
+  index: -1
+effect/skill_fenghuang_04
+  rotate: false
+  xy: 462, 339
+  size: 227, 355
+  orig: 242, 371
+  offset: 7, 8
+  index: -1
+effect/skill_fenghuang_05
+  rotate: false
+  xy: 464, 696
+  size: 226, 355
+  orig: 241, 370
+  offset: 7, 7
+  index: -1
+effect/skill_fenghuang_06
+  rotate: false
+  xy: 233, 696
+  size: 229, 355
+  orig: 244, 370
+  offset: 7, 7
+  index: -1
+effect/skill_fenghuang_07
+  rotate: false
+  xy: 2, 337
+  size: 229, 356
+  orig: 244, 371
+  offset: 7, 7
+  index: -1
+effect/skill_fenghuang_guiji_00
+  rotate: false
+  xy: 1222, 315
+  size: 412, 108
+  orig: 422, 119
+  offset: 0, 5
+  index: -1
+effect/skill_fenghuang_guiji_01
+  rotate: false
+  xy: 1026, 15
+  size: 450, 108
+  orig: 466, 135
+  offset: 6, 21
+  index: -1
+effect/skill_fenghuang_guiji_02
+  rotate: false
+  xy: 1222, 132
+  size: 451, 106
+  orig: 467, 133
+  offset: 3, 19
+  index: -1
+effect/skill_fenghuang_guiji_03
+  rotate: false
+  xy: 2, 2
+  size: 521, 103
+  orig: 535, 130
+  offset: 1, 19
+  index: -1
+effect/skill_fenghuang_guiji_04
+  rotate: false
+  xy: 525, 7
+  size: 499, 100
+  orig: 520, 129
+  offset: 5, 21
+  index: -1
+effect/skill_fenghuang_guiji_05
+  rotate: false
+  xy: 1171, 425
+  size: 415, 95
+  orig: 438, 119
+  offset: 9, 15
+  index: -1
+effect/skill_fenghuang_guiji_06
+  rotate: false
+  xy: 1478, 43
+  size: 292, 87
+  orig: 344, 109
+  offset: 36, 6
+  index: -1
+effect/skill_fenghuang_guiji_07
+  rotate: true
+  xy: 1666, 835
+  size: 216, 69
+  orig: 234, 86
+  offset: 1, 10
+  index: -1
+effect/skill_huoyan_kuosan01_00
+  rotate: true
+  xy: 1675, 132
+  size: 106, 99
+  orig: 108, 101
+  offset: 1, 1
+  index: -1
+effect/skill_huoyan_kuosan01_01
+  rotate: true
+  xy: 1421, 586
+  size: 215, 173
+  orig: 217, 175
+  offset: 1, 1
+  index: -1
+effect/skill_huoyan_kuosan01_02
+  rotate: true
+  xy: 1004, 125
+  size: 298, 216
+  orig: 300, 218
+  offset: 1, 1
+  index: -1
+effect/skill_huoyan_kuosan01_03
+  rotate: true
+  xy: 938, 425
+  size: 309, 231
+  orig: 311, 233
+  offset: 1, 1
+  index: -1
+effect/skill_huoyan_kuosan01_04
+  rotate: true
+  xy: 692, 736
+  size: 315, 237
+  orig: 317, 239
+  offset: 1, 1
+  index: -1
+effect/skill_huoyan_kuosan01_05
+  rotate: true
+  xy: 931, 736
+  size: 315, 237
+  orig: 317, 239
+  offset: 1, 1
+  index: -1
+effect/skill_huoyan_kuosan01_06
+  rotate: true
+  xy: 691, 381
+  size: 313, 245
+  orig: 315, 248
+  offset: 1, 2
+  index: -1
+effect/skill_huoyan_kuosan01_07
+  rotate: true
+  xy: 1170, 776
+  size: 275, 247
+  orig: 277, 249
+  offset: 1, 1
+  index: -1
+effect/skill_huoyan_kuosan01_08
+  rotate: true
+  xy: 1170, 776
+  size: 275, 247
+  orig: 277, 249
+  offset: 1, 1
+  index: -1
+effect/skill_huoyan_kuosan01_09
+  rotate: true
+  xy: 1171, 522
+  size: 252, 248
+  orig: 255, 251
+  offset: 2, 2
+  index: -1
+effect/skill_huoyan_kuosan01_10
+  rotate: false
+  xy: 1419, 803
+  size: 245, 248
+  orig: 248, 251
+  offset: 2, 2
+  index: -1
+effect/skill_pingmu_se_00
+  rotate: true
+  xy: 1421, 523
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+effect/skill_pingmu_se_01
+  rotate: true
+  xy: 1530, 523
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+effect/skill_pingmu_se_02
+  rotate: false
+  xy: 1737, 944
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+effect/skill_pingmu_se_03
+  rotate: false
+  xy: 1737, 835
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+effect/skill_pingmu_se_04
+  rotate: true
+  xy: 1222, 252
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+effect/skill_pingmu_se_05
+  rotate: true
+  xy: 1331, 252
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+effect/skill_pm_baozha
+  rotate: false
+  xy: 719, 113
+  size: 283, 266
+  orig: 284, 283
+  offset: 1, 16
+  index: -1

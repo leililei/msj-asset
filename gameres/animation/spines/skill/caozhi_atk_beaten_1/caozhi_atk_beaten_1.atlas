@@ -1,0 +1,97 @@
+
+caozhi_atk_beaten_1.png
+size: 1406,829
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/mz_00
+  rotate: true
+  xy: 1220, 2
+  size: 83, 142
+  orig: 91, 152
+  offset: 4, 5
+  index: -1
+effect/mz_01
+  rotate: true
+  xy: 1205, 565
+  size: 262, 199
+  orig: 284, 212
+  offset: 11, 10
+  index: -1
+effect/mz_02
+  rotate: true
+  xy: 335, 420
+  size: 407, 266
+  orig: 413, 274
+  offset: 3, 5
+  index: -1
+effect/mz_03
+  rotate: true
+  xy: 328, 11
+  size: 407, 310
+  orig: 413, 316
+  offset: 3, 3
+  index: -1
+effect/mz_04
+  rotate: true
+  xy: 2, 11
+  size: 407, 324
+  orig: 413, 331
+  offset: 3, 4
+  index: -1
+effect/mz_05
+  rotate: true
+  xy: 2, 420
+  size: 407, 331
+  orig: 413, 337
+  offset: 3, 3
+  index: -1
+effect/mz_06
+  rotate: true
+  xy: 603, 422
+  size: 405, 335
+  orig: 413, 342
+  offset: 4, 3
+  index: -1
+effect/mz_07
+  rotate: true
+  xy: 640, 17
+  size: 403, 311
+  orig: 413, 324
+  offset: 5, 10
+  index: -1
+effect/mz_08
+  rotate: true
+  xy: 940, 424
+  size: 403, 263
+  orig: 413, 284
+  offset: 5, 10
+  index: -1
+effect/mz_09
+  rotate: true
+  xy: 953, 8
+  size: 399, 265
+  orig: 413, 286
+  offset: 7, 10
+  index: -1
+effect/mz_10
+  rotate: true
+  xy: 1220, 250
+  size: 157, 181
+  orig: 163, 186
+  offset: 3, 3
+  index: -1
+effect/mz_11
+  rotate: true
+  xy: 1205, 409
+  size: 154, 182
+  orig: 160, 188
+  offset: 3, 3
+  index: -1
+effect/mz_12
+  rotate: true
+  xy: 1220, 87
+  size: 161, 168
+  orig: 167, 173
+  offset: 3, 2
+  index: -1

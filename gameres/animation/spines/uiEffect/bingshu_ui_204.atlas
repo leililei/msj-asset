@@ -1,0 +1,34 @@
+
+bingshu_ui_204.png
+size: 504,323
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D1
+  rotate: false
+  xy: 2, 2
+  size: 342, 319
+  orig: 342, 319
+  offset: 0, 0
+  index: -1
+D2
+  rotate: true
+  xy: 346, 74
+  size: 247, 156
+  orig: 247, 156
+  offset: 0, 0
+  index: -1
+D3
+  rotate: false
+  xy: 445, 40
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+D4
+  rotate: true
+  xy: 346, 8
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+maoshe.png
+size: 599,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aaaa
+  rotate: true
+  xy: 158, 69
+  size: 68, 261
+  orig: 68, 261
+  offset: 0, 0
+  index: -1
+dan
+  rotate: false
+  xy: 2, 2
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 19
+  size: 154, 118
+  orig: 158, 118
+  offset: 2, 0
+  index: -1
+mian1
+  rotate: true
+  xy: 421, 15
+  size: 122, 90
+  orig: 125, 90
+  offset: 0, 0
+  index: -1
+piyan
+  rotate: true
+  xy: 27, 4
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 513, 47
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 387, 42
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 387, 19
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 338, 11
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: true
+  xy: 282, 12
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 513, 6
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: false
+  xy: 158, 14
+  size: 122, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,384 @@
+
+yaofamao.png
+size: 348,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 2, 34
+  size: 134, 63
+  orig: 134, 63
+  offset: 0, 0
+  index: -1
+yaofamao__0
+  rotate: false
+  xy: 315, 91
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+yaofamao__1
+  rotate: true
+  xy: 328, 205
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+yaofamao__10
+  rotate: false
+  xy: 2, 170
+  size: 119, 97
+  orig: 119, 97
+  offset: 0, 0
+  index: -1
+yaofamao__11
+  rotate: true
+  xy: 309, 131
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+yaofamao__12
+  rotate: false
+  xy: 270, 2
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+yaofamao__13
+  rotate: false
+  xy: 123, 161
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+yaofamao__14
+  rotate: false
+  xy: 130, 34
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+yaofamao__15
+  rotate: false
+  xy: 315, 81
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+yaofamao__16
+  rotate: false
+  xy: 142, 161
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+yaofamao__17
+  rotate: false
+  xy: 319, 2
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+yaofamao__18
+  rotate: true
+  xy: 336, 116
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+yaofamao__19
+  rotate: false
+  xy: 324, 180
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+yaofamao__2
+  rotate: false
+  xy: 262, 163
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+yaofamao__20
+  rotate: false
+  xy: 326, 63
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+yaofamao__21
+  rotate: false
+  xy: 67, 34
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+yaofamao__22
+  rotate: true
+  xy: 228, 34
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+yaofamao__23
+  rotate: false
+  xy: 153, 2
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+yaofamao__24
+  rotate: false
+  xy: 268, 216
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+yaofamao__25
+  rotate: true
+  xy: 188, 158
+  size: 14, 70
+  orig: 14, 70
+  offset: 0, 0
+  index: -1
+yaofamao__26
+  rotate: false
+  xy: 275, 127
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+yaofamao__27
+  rotate: false
+  xy: 226, 3
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+yaofamao__28
+  rotate: false
+  xy: 324, 14
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+yaofamao__29
+  rotate: false
+  xy: 328, 220
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+yaofamao__3
+  rotate: false
+  xy: 182, 4
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+yaofamao__30
+  rotate: false
+  xy: 318, 109
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+yaofamao__31
+  rotate: false
+  xy: 330, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+yaofamao__32
+  rotate: false
+  xy: 330, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+yaofamao__33
+  rotate: false
+  xy: 280, 81
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+yaofamao__34
+  rotate: false
+  xy: 181, 108
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+yaofamao__35
+  rotate: false
+  xy: 122, 89
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+yaofamao__36
+  rotate: true
+  xy: 298, 12
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+yaofamao__37
+  rotate: false
+  xy: 2, 2
+  size: 102, 30
+  orig: 102, 30
+  offset: 0, 0
+  index: -1
+yaofamao__38
+  rotate: false
+  xy: 186, 57
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+yaofamao__39
+  rotate: false
+  xy: 296, 2
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+yaofamao__4
+  rotate: false
+  xy: 153, 101
+  size: 26, 69
+  orig: 26, 69
+  offset: 0, 0
+  index: -1
+yaofamao__40
+  rotate: false
+  xy: 181, 164
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+yaofamao__41
+  rotate: true
+  xy: 67, 89
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+yaofamao__42
+  rotate: false
+  xy: 280, 67
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+yaofamao__43
+  rotate: true
+  xy: 153, 41
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+yaofamao__44
+  rotate: true
+  xy: 228, 65
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+yaofamao__45
+  rotate: false
+  xy: 270, 13
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+yaofamao__46
+  rotate: false
+  xy: 324, 189
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+yaofamao__47
+  rotate: false
+  xy: 275, 108
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+yaofamao__48
+  rotate: true
+  xy: 282, 48
+  size: 17, 42
+  orig: 17, 42
+  offset: 0, 0
+  index: -1
+yaofamao__49
+  rotate: false
+  xy: 268, 180
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+yaofamao__5
+  rotate: true
+  xy: 186, 31
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+yaofamao__50
+  rotate: false
+  xy: 188, 212
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+yaofamao__51
+  rotate: false
+  xy: 123, 172
+  size: 63, 95
+  orig: 63, 95
+  offset: 0, 0
+  index: -1
+yaofamao__52
+  rotate: false
+  xy: 282, 34
+  size: 46, 12
+  orig: 46, 12
+  offset: 0, 0
+  index: -1
+yaofamao__6
+  rotate: true
+  xy: 328, 241
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+yaofamao__7
+  rotate: true
+  xy: 188, 174
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+yaofamao__8
+  rotate: true
+  xy: 106, 2
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+yaofamao__9
+  rotate: false
+  xy: 239, 102
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+atk_beaten_2.png
+size: 368,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/6atk_mz_00
+  rotate: true
+  xy: 103, 6
+  size: 88, 100
+  orig: 135, 135
+  offset: 20, 15
+  index: -1
+effect/6atk_mz_01
+  rotate: true
+  xy: 2, 2
+  size: 92, 99
+  orig: 135, 135
+  offset: 16, 15
+  index: -1
+effect/6atk_mz_02
+  rotate: true
+  xy: 205, 7
+  size: 87, 95
+  orig: 135, 135
+  offset: 18, 17
+  index: -1
+effect/6atk_mz_03
+  rotate: true
+  xy: 302, 52
+  size: 42, 36
+  orig: 135, 135
+  offset: 48, 51
+  index: -1
+effect/6atk_mz_04
+  rotate: true
+  xy: 302, 10
+  size: 40, 33
+  orig: 135, 135
+  offset: 47, 53
+  index: -1
+effect/6atk_mz_05
+  rotate: true
+  xy: 337, 11
+  size: 39, 29
+  orig: 135, 135
+  offset: 39, 56
+  index: -1
+effect/6atk_mz_06
+  rotate: true
+  xy: 340, 74
+  size: 20, 19
+  orig: 135, 135
+  offset: 53, 56
+  index: -1

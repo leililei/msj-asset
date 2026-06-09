@@ -1,0 +1,69 @@
+
+longhun4_sh_2.png
+size: 2020,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/ks/ks_00006
+  rotate: false
+  xy: 1218, 3
+  size: 183, 66
+  orig: 362, 126
+  offset: 94, 32
+  index: -1
+chutu/ks/ks_00007
+  rotate: false
+  xy: 1789, 82
+  size: 226, 81
+  orig: 362, 126
+  offset: 68, 25
+  index: -1
+chutu/ks/ks_00008
+  rotate: false
+  xy: 1532, 71
+  size: 255, 92
+  orig: 362, 126
+  offset: 55, 19
+  index: -1
+chutu/ks/ks_00009
+  rotate: false
+  xy: 305, 57
+  size: 296, 106
+  orig: 362, 126
+  offset: 33, 12
+  index: -1
+chutu/ks/ks_00010
+  rotate: false
+  xy: 3, 58
+  size: 300, 105
+  orig: 362, 126
+  offset: 34, 10
+  index: -1
+chutu/ks/ks_00011
+  rotate: false
+  xy: 915, 66
+  size: 301, 97
+  orig: 362, 126
+  offset: 36, 12
+  index: -1
+chutu/ks/ks_00012
+  rotate: false
+  xy: 603, 67
+  size: 310, 96
+  orig: 362, 126
+  offset: 31, 12
+  index: -1
+chutu/ks/ks_00013
+  rotate: false
+  xy: 1218, 71
+  size: 312, 92
+  orig: 362, 126
+  offset: 28, 11
+  index: -1
+chutu/ks/ks_00014
+  rotate: false
+  xy: 1789, 8
+  size: 200, 72
+  orig: 362, 126
+  offset: 114, 21
+  index: -1

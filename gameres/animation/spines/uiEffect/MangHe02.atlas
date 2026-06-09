@@ -1,0 +1,125 @@
+
+MangHe02.png
+size: 1958,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hou2
+  rotate: false
+  xy: 1121, 17
+  size: 260, 124
+  orig: 260, 124
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 46, 7
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+chutu/fsg1
+  rotate: true
+  xy: 1682, 217
+  size: 335, 274
+  orig: 403, 397
+  offset: 34, 33
+  index: -1
+chutu/fsg2
+  rotate: false
+  xy: 902, 143
+  size: 405, 409
+  orig: 433, 465
+  offset: 13, 10
+  index: -1
+chutu/fsg3
+  rotate: true
+  xy: 1309, 179
+  size: 373, 338
+  orig: 401, 402
+  offset: 14, 17
+  index: -1
+chutu/g1
+  rotate: false
+  xy: 2, 38
+  size: 514, 514
+  orig: 552, 552
+  offset: 19, 19
+  index: -1
+chutu/g2
+  rotate: true
+  xy: 518, 112
+  size: 440, 190
+  orig: 468, 204
+  offset: 14, 7
+  index: -1
+chutu/g3
+  rotate: true
+  xy: 710, 112
+  size: 440, 190
+  orig: 468, 204
+  offset: 14, 7
+  index: -1
+chutu/lz
+  rotate: true
+  xy: 518, 2
+  size: 108, 111
+  orig: 132, 139
+  offset: 12, 14
+  index: -1
+lan_di
+  rotate: false
+  xy: 631, 11
+  size: 249, 99
+  orig: 249, 99
+  offset: 0, 0
+  index: -1
+lan_hou1
+  rotate: false
+  xy: 882, 58
+  size: 237, 52
+  orig: 247, 52
+  offset: 5, 0
+  index: -1
+lan_shenti
+  rotate: true
+  xy: 1383, 10
+  size: 167, 119
+  orig: 169, 119
+  offset: 1, 0
+  index: -1
+lan_tou
+  rotate: false
+  xy: 1682, 35
+  size: 264, 180
+  orig: 264, 180
+  offset: 0, 0
+  index: -1
+lan_weiba
+  rotate: true
+  xy: 1504, 35
+  size: 142, 176
+  orig: 142, 176
+  offset: 0, 0
+  index: -1
+lan_yan1
+  rotate: true
+  xy: 55, 8
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+lan_yan2
+  rotate: true
+  xy: 2, 5
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+lan_zhua
+  rotate: false
+  xy: 882, 17
+  size: 143, 39
+  orig: 143, 39
+  offset: 0, 0
+  index: -1

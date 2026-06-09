@@ -1,0 +1,237 @@
+
+longhun6_sh_2.png
+size: 244,2021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/sf2/00
+  rotate: true
+  xy: 161, 963
+  size: 128, 64
+  orig: 153, 202
+  offset: 10, 43
+  index: -1
+images/effect/sf2/01
+  rotate: true
+  xy: 126, 371
+  size: 128, 95
+  orig: 153, 202
+  offset: 10, 43
+  index: -1
+images/effect/sf2/02
+  rotate: false
+  xy: 3, 203
+  size: 131, 96
+  orig: 153, 202
+  offset: 9, 43
+  index: -1
+images/effect/sf2/03
+  rotate: false
+  xy: 3, 726
+  size: 131, 99
+  orig: 153, 202
+  offset: 9, 43
+  index: -1
+images/effect/sf2/04
+  rotate: false
+  xy: 3, 827
+  size: 131, 100
+  orig: 153, 202
+  offset: 9, 43
+  index: -1
+images/effect/sf2/05
+  rotate: false
+  xy: 3, 1225
+  size: 131, 102
+  orig: 153, 202
+  offset: 9, 43
+  index: -1
+images/effect/sf2/06
+  rotate: false
+  xy: 3, 1120
+  size: 129, 103
+  orig: 153, 202
+  offset: 10, 44
+  index: -1
+images/effect/sf2/07
+  rotate: false
+  xy: 3, 1015
+  size: 129, 103
+  orig: 153, 202
+  offset: 10, 44
+  index: -1
+images/effect/sf2/08
+  rotate: false
+  xy: 3, 1329
+  size: 129, 104
+  orig: 153, 202
+  offset: 10, 43
+  index: -1
+images/effect/sf2/09
+  rotate: false
+  xy: 3, 624
+  size: 129, 100
+  orig: 153, 202
+  offset: 10, 43
+  index: -1
+images/effect/sf2/10
+  rotate: true
+  xy: 136, 239
+  size: 130, 86
+  orig: 153, 202
+  offset: 9, 43
+  index: -1
+images/effect/sf2/11
+  rotate: true
+  xy: 134, 1093
+  size: 130, 89
+  orig: 153, 202
+  offset: 9, 43
+  index: -1
+images/effect/sf2/12
+  rotate: true
+  xy: 136, 801
+  size: 126, 91
+  orig: 153, 202
+  offset: 12, 44
+  index: -1
+images/effect/sf2/13
+  rotate: true
+  xy: 131, 75
+  size: 126, 96
+  orig: 153, 202
+  offset: 12, 43
+  index: -1
+images/effect/sf2/14
+  rotate: false
+  xy: 3, 103
+  size: 126, 98
+  orig: 153, 202
+  offset: 12, 44
+  index: -1
+images/effect/sf2/15
+  rotate: false
+  xy: 3, 3
+  size: 126, 98
+  orig: 153, 202
+  offset: 12, 44
+  index: -1
+images/effect/sf2/16
+  rotate: true
+  xy: 124, 501
+  size: 121, 101
+  orig: 153, 202
+  offset: 11, 44
+  index: -1
+images/effect/sf2/17
+  rotate: false
+  xy: 3, 301
+  size: 121, 104
+  orig: 153, 202
+  offset: 11, 44
+  index: -1
+images/effect/sf2/18
+  rotate: false
+  xy: 3, 407
+  size: 119, 106
+  orig: 153, 202
+  offset: 11, 44
+  index: -1
+images/effect/sf2/19
+  rotate: false
+  xy: 3, 515
+  size: 119, 107
+  orig: 153, 202
+  offset: 11, 44
+  index: -1
+images/effect/sf2/20
+  rotate: true
+  xy: 136, 1322
+  size: 111, 104
+  orig: 153, 202
+  offset: 19, 46
+  index: -1
+images/effect/sf2/21
+  rotate: true
+  xy: 167, 1488
+  size: 111, 48
+  orig: 153, 202
+  offset: 19, 46
+  index: -1
+images/effect/sf2/22
+  rotate: false
+  xy: 131, 27
+  size: 111, 46
+  orig: 153, 202
+  offset: 18, 47
+  index: -1
+images/effect/sf2/23
+  rotate: false
+  xy: 131, 27
+  size: 111, 46
+  orig: 153, 202
+  offset: 18, 47
+  index: -1
+images/effect/sf3/00
+  rotate: false
+  xy: 3, 1893
+  size: 162, 126
+  orig: 200, 160
+  offset: 19, 17
+  index: -1
+images/effect/sf3/01
+  rotate: false
+  xy: 3, 1765
+  size: 162, 126
+  orig: 200, 160
+  offset: 19, 17
+  index: -1
+images/effect/sf3/02
+  rotate: false
+  xy: 3, 1639
+  size: 158, 124
+  orig: 200, 160
+  offset: 21, 18
+  index: -1
+images/effect/sf3/03
+  rotate: false
+  xy: 3, 1521
+  size: 142, 116
+  orig: 200, 160
+  offset: 29, 22
+  index: -1
+images/effect/sf3/04
+  rotate: false
+  xy: 3, 929
+  size: 156, 84
+  orig: 200, 160
+  offset: 22, 38
+  index: -1
+images/effect/sf3/05
+  rotate: false
+  xy: 3, 1435
+  size: 162, 84
+  orig: 200, 160
+  offset: 19, 38
+  index: -1
+images/effect/sf3/06
+  rotate: true
+  xy: 136, 637
+  size: 162, 70
+  orig: 200, 160
+  offset: 19, 45
+  index: -1
+images/effect/sf3/07
+  rotate: true
+  xy: 163, 1601
+  size: 162, 56
+  orig: 200, 160
+  offset: 19, 52
+  index: -1
+images/effect/sf3/08
+  rotate: true
+  xy: 167, 1861
+  size: 158, 44
+  orig: 200, 160
+  offset: 21, 58
+  index: -1

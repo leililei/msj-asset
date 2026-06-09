@@ -1,0 +1,139 @@
+
+Dc_shizongdawang_skill_beaten_2.png
+size: 596,2007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_huan_00
+  rotate: true
+  xy: 343, 9
+  size: 60, 116
+  orig: 62, 120
+  offset: 2, 2
+  index: -1
+effect/skill_huan_01
+  rotate: false
+  xy: 480, 1409
+  size: 104, 185
+  orig: 106, 189
+  offset: 2, 1
+  index: -1
+effect/skill_huan_02
+  rotate: false
+  xy: 365, 1153
+  size: 109, 214
+  orig: 112, 219
+  offset: 2, 3
+  index: -1
+effect/skill_huan_04
+  rotate: false
+  xy: 356, 1609
+  size: 113, 230
+  orig: 116, 234
+  offset: 2, 3
+  index: -1
+effect/skill_huan_06
+  rotate: false
+  xy: 365, 1371
+  size: 111, 234
+  orig: 116, 239
+  offset: 2, 4
+  index: -1
+effect/skill_huan_08
+  rotate: false
+  xy: 480, 1598
+  size: 107, 241
+  orig: 110, 244
+  offset: 2, 2
+  index: -1
+effect/skill_huan_10
+  rotate: false
+  xy: 525, 696
+  size: 57, 172
+  orig: 62, 176
+  offset: 2, 2
+  index: -1
+effect/skill_mz_00
+  rotate: false
+  xy: 343, 73
+  size: 219, 220
+  orig: 294, 312
+  offset: 56, 72
+  index: -1
+effect/skill_mz_01
+  rotate: false
+  xy: 0, 297
+  size: 340, 403
+  orig: 406, 466
+  offset: 33, 32
+  index: -1
+effect/skill_mz_03
+  rotate: false
+  xy: 0, 1566
+  size: 352, 441
+  orig: 416, 503
+  offset: 32, 31
+  index: -1
+effect/skill_mz_05
+  rotate: false
+  xy: 0, 1134
+  size: 361, 428
+  orig: 421, 494
+  offset: 30, 33
+  index: -1
+effect/skill_mz_07
+  rotate: false
+  xy: 0, 704
+  size: 330, 426
+  orig: 421, 501
+  offset: 46, 37
+  index: -1
+effect/skill_mz_09
+  rotate: true
+  xy: 0, 0
+  size: 293, 339
+  orig: 410, 505
+  offset: 59, 83
+  index: -1
+effect/skill_mz_11
+  rotate: true
+  xy: 334, 872
+  size: 258, 209
+  orig: 338, 338
+  offset: 40, 70
+  index: -1
+effect/skill_mz_13
+  rotate: true
+  xy: 344, 638
+  size: 230, 177
+  orig: 248, 188
+  offset: 9, 6
+  index: -1
+effect/skill_mz_15
+  rotate: false
+  xy: 344, 464
+  size: 200, 170
+  orig: 219, 177
+  offset: 10, 4
+  index: -1
+effect/skill_mz_17
+  rotate: false
+  xy: 344, 300
+  size: 198, 160
+  orig: 219, 172
+  offset: 10, 6
+  index: -1
+effect/skill_mz_19
+  rotate: false
+  xy: 356, 1843
+  size: 188, 164
+  orig: 219, 172
+  offset: 15, 4
+  index: -1
+effect/skill_mz_21
+  rotate: true
+  xy: 478, 1187
+  size: 180, 118
+  orig: 192, 126
+  offset: 6, 4
+  index: -1

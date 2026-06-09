@@ -1,0 +1,20 @@
+
+caocao_skill_tx_3.png
+size: 543,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/qp1/qp1_00026
+  rotate: true
+  xy: 2, 2
+  size: 266, 337
+  orig: 296, 358
+  offset: 13, 9
+  index: -1
+chutu/skill/qp2/qp2_00026
+  rotate: true
+  xy: 341, 62
+  size: 206, 200
+  orig: 236, 232
+  offset: 20, 17
+  index: -1

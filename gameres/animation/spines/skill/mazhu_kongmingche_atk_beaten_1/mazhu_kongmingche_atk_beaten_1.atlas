@@ -1,0 +1,230 @@
+
+mazhu_kongmingche_atk_beaten_1.png
+size: 1588,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11/11_021
+  rotate: true
+  xy: 1548, 124
+  size: 36, 38
+  orig: 40, 42
+  offset: 2, 2
+  index: -1
+12/12_020
+  rotate: true
+  xy: 1453, 125
+  size: 74, 93
+  orig: 122, 139
+  offset: 14, 9
+  index: -1
+12/12_021
+  rotate: true
+  xy: 357, 3
+  size: 101, 121
+  orig: 122, 139
+  offset: 6, 3
+  index: -1
+12/12_023
+  rotate: false
+  xy: 630, 2
+  size: 116, 127
+  orig: 122, 139
+  offset: 3, 3
+  index: -1
+12/12_025
+  rotate: true
+  xy: 219, 3
+  size: 96, 136
+  orig: 122, 139
+  offset: 14, 1
+  index: -1
+13/13_020
+  rotate: false
+  xy: 1344, 86
+  size: 75, 58
+  orig: 154, 132
+  offset: 43, 36
+  index: -1
+13/13_021
+  rotate: true
+  xy: 890, 5
+  size: 132, 109
+  orig: 154, 132
+  offset: 11, 9
+  index: -1
+13/13_022
+  rotate: true
+  xy: 1333, 146
+  size: 140, 118
+  orig: 154, 132
+  offset: 8, 5
+  index: -1
+13/13_024
+  rotate: true
+  xy: 828, 139
+  size: 147, 126
+  orig: 154, 132
+  offset: 4, 2
+  index: -1
+14/14_020
+  rotate: true
+  xy: 1344, 9
+  size: 75, 58
+  orig: 154, 132
+  offset: 43, 36
+  index: -1
+14/14_021
+  rotate: true
+  xy: 1001, 5
+  size: 132, 109
+  orig: 154, 132
+  offset: 11, 9
+  index: -1
+14/14_022
+  rotate: true
+  xy: 1212, 146
+  size: 140, 119
+  orig: 154, 132
+  offset: 8, 4
+  index: -1
+14/14_024
+  rotate: true
+  xy: 956, 139
+  size: 147, 126
+  orig: 154, 132
+  offset: 4, 2
+  index: -1
+15/15_020
+  rotate: true
+  xy: 1404, 9
+  size: 75, 58
+  orig: 154, 132
+  offset: 43, 36
+  index: -1
+15/15_021
+  rotate: true
+  xy: 1112, 5
+  size: 132, 109
+  orig: 154, 132
+  offset: 11, 9
+  index: -1
+15/15_022
+  rotate: true
+  xy: 1223, 4
+  size: 140, 119
+  orig: 154, 132
+  offset: 8, 4
+  index: -1
+15/15_024
+  rotate: true
+  xy: 1084, 139
+  size: 147, 126
+  orig: 154, 132
+  offset: 4, 2
+  index: -1
+16/16_020
+  rotate: false
+  xy: 1464, 11
+  size: 71, 61
+  orig: 202, 140
+  offset: 56, 29
+  index: -1
+16/16_021
+  rotate: false
+  xy: 480, 4
+  size: 148, 106
+  orig: 202, 140
+  offset: 21, 11
+  index: -1
+16/16_022
+  rotate: true
+  xy: 502, 124
+  size: 162, 113
+  orig: 202, 140
+  offset: 15, 10
+  index: -1
+16/16_023
+  rotate: true
+  xy: 382, 112
+  size: 174, 118
+  orig: 202, 140
+  offset: 10, 10
+  index: -1
+16/16_024
+  rotate: true
+  xy: 259, 106
+  size: 180, 121
+  orig: 202, 140
+  offset: 8, 9
+  index: -1
+16/16_025
+  rotate: true
+  xy: 132, 101
+  size: 185, 125
+  orig: 202, 140
+  offset: 7, 8
+  index: -1
+16/16_027
+  rotate: true
+  xy: 2, 93
+  size: 193, 128
+  orig: 202, 140
+  offset: 3, 9
+  index: -1
+16/16_029
+  rotate: false
+  xy: 748, 3
+  size: 140, 128
+  orig: 202, 140
+  offset: 56, 9
+  index: -1
+16/16_031
+  rotate: true
+  xy: 1453, 201
+  size: 85, 128
+  orig: 202, 140
+  offset: 63, 10
+  index: -1
+17/17_020
+  rotate: true
+  xy: 1548, 162
+  size: 37, 38
+  orig: 41, 44
+  offset: 2, 3
+  index: -1
+18/18_020
+  rotate: true
+  xy: 2, 2
+  size: 89, 47
+  orig: 179, 116
+  offset: 33, 22
+  index: -1
+18/18_021
+  rotate: true
+  xy: 723, 133
+  size: 153, 103
+  orig: 179, 116
+  offset: 9, 3
+  index: -1
+18/18_023
+  rotate: true
+  xy: 617, 131
+  size: 155, 104
+  orig: 179, 116
+  offset: 14, 7
+  index: -1
+18/18_025
+  rotate: false
+  xy: 51, 3
+  size: 166, 88
+  orig: 179, 116
+  offset: 8, 26
+  index: -1
+18/18_027
+  rotate: false
+  xy: 1464, 74
+  size: 73, 49
+  orig: 179, 116
+  offset: 3, 36
+  index: -1

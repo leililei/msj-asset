@@ -1,0 +1,174 @@
+
+longhun_5671_shifa_1.png
+size: 564,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/sf2/00
+  rotate: true
+  xy: 392, 408
+  size: 133, 65
+  orig: 162, 214
+  offset: 12, 46
+  index: -1
+images/effect/sf2/01
+  rotate: true
+  xy: 310, 273
+  size: 133, 97
+  orig: 162, 214
+  offset: 12, 46
+  index: -1
+images/effect/sf2/02
+  rotate: true
+  xy: 2, 267
+  size: 136, 100
+  orig: 162, 214
+  offset: 11, 46
+  index: -1
+images/effect/sf2/03
+  rotate: true
+  xy: 2, 405
+  size: 136, 101
+  orig: 162, 214
+  offset: 11, 46
+  index: -1
+images/effect/sf2/04
+  rotate: true
+  xy: 104, 268
+  size: 135, 103
+  orig: 162, 214
+  offset: 11, 46
+  index: -1
+images/effect/sf2/05
+  rotate: true
+  xy: 2, 130
+  size: 135, 104
+  orig: 162, 214
+  offset: 11, 46
+  index: -1
+images/effect/sf2/06
+  rotate: true
+  xy: 287, 408
+  size: 133, 103
+  orig: 162, 214
+  offset: 13, 47
+  index: -1
+images/effect/sf2/07
+  rotate: true
+  xy: 213, 135
+  size: 133, 103
+  orig: 162, 214
+  offset: 13, 47
+  index: -1
+images/effect/sf2/08
+  rotate: true
+  xy: 108, 132
+  size: 134, 103
+  orig: 162, 214
+  offset: 12, 46
+  index: -1
+images/effect/sf2/09
+  rotate: true
+  xy: 209, 270
+  size: 134, 99
+  orig: 162, 214
+  offset: 12, 46
+  index: -1
+images/effect/sf2/10
+  rotate: true
+  xy: 198, 406
+  size: 135, 87
+  orig: 162, 214
+  offset: 10, 46
+  index: -1
+images/effect/sf2/11
+  rotate: true
+  xy: 105, 406
+  size: 135, 91
+  orig: 162, 214
+  offset: 10, 46
+  index: -1
+images/effect/sf2/12
+  rotate: true
+  xy: 300, 6
+  size: 127, 92
+  orig: 162, 214
+  offset: 17, 48
+  index: -1
+images/effect/sf2/13
+  rotate: true
+  xy: 203, 2
+  size: 128, 95
+  orig: 162, 214
+  offset: 16, 48
+  index: -1
+images/effect/sf2/14
+  rotate: true
+  xy: 104, 4
+  size: 124, 97
+  orig: 162, 214
+  offset: 15, 48
+  index: -1
+images/effect/sf2/15
+  rotate: true
+  xy: 2, 4
+  size: 124, 100
+  orig: 162, 214
+  offset: 15, 48
+  index: -1
+images/effect/sf2/16
+  rotate: true
+  xy: 459, 418
+  size: 123, 103
+  orig: 162, 214
+  offset: 13, 47
+  index: -1
+images/effect/sf2/17
+  rotate: true
+  xy: 318, 148
+  size: 123, 106
+  orig: 162, 214
+  offset: 13, 47
+  index: -1
+images/effect/sf2/18
+  rotate: true
+  xy: 394, 13
+  size: 113, 107
+  orig: 162, 214
+  offset: 23, 47
+  index: -1
+images/effect/sf2/19
+  rotate: false
+  xy: 426, 128
+  size: 113, 108
+  orig: 162, 214
+  offset: 23, 47
+  index: -1
+images/effect/sf2/20
+  rotate: true
+  xy: 409, 289
+  size: 117, 104
+  orig: 162, 214
+  offset: 20, 49
+  index: -1
+images/effect/sf2/21
+  rotate: false
+  xy: 426, 238
+  size: 117, 49
+  orig: 162, 214
+  offset: 20, 49
+  index: -1
+images/effect/sf2/22
+  rotate: true
+  xy: 515, 304
+  size: 112, 42
+  orig: 162, 214
+  offset: 23, 52
+  index: -1
+images/effect/sf2/23
+  rotate: true
+  xy: 515, 304
+  size: 112, 42
+  orig: 162, 214
+  offset: 23, 52
+  index: -1

@@ -1,0 +1,13 @@
+
+mazhu_fuyun_zidan.png
+size: 47,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_qiandai
+  rotate: false
+  xy: 2, 2
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1

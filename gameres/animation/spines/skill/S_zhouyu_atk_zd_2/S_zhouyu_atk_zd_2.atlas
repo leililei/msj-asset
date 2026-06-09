@@ -1,0 +1,13 @@
+
+S_zhouyu_atk_zd_2.png
+size: 75,31
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/a3/a3_00022
+  rotate: false
+  xy: 2, 2
+  size: 71, 27
+  orig: 80, 33
+  offset: 5, 3
+  index: -1

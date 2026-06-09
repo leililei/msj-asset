@@ -1,0 +1,83 @@
+
+duizhan_baozha.png
+size: 1643,733
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mz_00
+  rotate: true
+  xy: 1395, 85
+  size: 143, 141
+  orig: 153, 151
+  offset: 5, 5
+  index: -1
+mz_02
+  rotate: true
+  xy: 1376, 456
+  size: 275, 265
+  orig: 309, 297
+  offset: 17, 16
+  index: -1
+mz_04
+  rotate: true
+  xy: 1079, 48
+  size: 328, 314
+  orig: 358, 346
+  offset: 15, 16
+  index: -1
+mz_06
+  rotate: false
+  xy: 368, 6
+  size: 362, 347
+  orig: 392, 381
+  offset: 15, 17
+  index: -1
+mz_08
+  rotate: true
+  xy: 2, 355
+  size: 376, 369
+  orig: 406, 399
+  offset: 15, 15
+  index: -1
+mz_10
+  rotate: true
+  xy: 373, 361
+  size: 370, 365
+  orig: 400, 395
+  offset: 15, 15
+  index: -1
+mz_12
+  rotate: false
+  xy: 2, 2
+  size: 364, 351
+  orig: 396, 381
+  offset: 16, 15
+  index: -1
+mz_14
+  rotate: false
+  xy: 732, 5
+  size: 345, 354
+  orig: 377, 384
+  offset: 16, 15
+  index: -1
+mz_16
+  rotate: false
+  xy: 740, 374
+  size: 324, 357
+  orig: 354, 389
+  offset: 15, 16
+  index: -1
+mz_18
+  rotate: false
+  xy: 1066, 378
+  size: 308, 353
+  orig: 336, 381
+  offset: 14, 14
+  index: -1
+mz_glow
+  rotate: true
+  xy: 1395, 230
+  size: 224, 225
+  orig: 239, 239
+  offset: 8, 7
+  index: -1

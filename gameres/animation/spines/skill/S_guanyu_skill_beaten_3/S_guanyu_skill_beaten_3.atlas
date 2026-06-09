@@ -1,0 +1,188 @@
+
+S_guanyu_skill_beaten_3.png
+size: 1962,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_gj_jianshe01_00
+  rotate: true
+  xy: 1859, 8
+  size: 127, 101
+  orig: 129, 102
+  offset: 0, 1
+  index: -1
+effect/skill_gj_jianshe01_01
+  rotate: false
+  xy: 1035, 4
+  size: 142, 103
+  orig: 144, 109
+  offset: 0, 1
+  index: -1
+effect/skill_gj_jianshe01_02
+  rotate: true
+  xy: 1035, 109
+  size: 156, 117
+  orig: 161, 123
+  offset: 4, 1
+  index: -1
+effect/skill_gj_jianshe01_03
+  rotate: true
+  xy: 1154, 119
+  size: 146, 137
+  orig: 152, 138
+  offset: 5, 1
+  index: -1
+effect/skill_gj_jianshe01_04
+  rotate: true
+  xy: 945, 12
+  size: 90, 50
+  orig: 92, 51
+  offset: 1, 1
+  index: -1
+effect/skill_shandian_00
+  rotate: true
+  xy: 320, 22
+  size: 243, 45
+  orig: 247, 55
+  offset: 4, 5
+  index: -1
+effect/skill_shandian_01
+  rotate: true
+  xy: 592, 34
+  size: 231, 57
+  orig: 240, 67
+  offset: 4, 5
+  index: -1
+effect/skill_shandian_02
+  rotate: true
+  xy: 232, 16
+  size: 249, 36
+  orig: 255, 42
+  offset: 3, 3
+  index: -1
+effect/skill_shandian_03
+  rotate: true
+  xy: 270, 20
+  size: 245, 48
+  orig: 253, 54
+  offset: 5, 4
+  index: -1
+effect/skill_shandian_04
+  rotate: true
+  xy: 651, 38
+  size: 227, 44
+  orig: 238, 54
+  offset: 5, 5
+  index: -1
+effect/skill_shandian_05
+  rotate: true
+  xy: 411, 27
+  size: 238, 35
+  orig: 244, 41
+  offset: 3, 3
+  index: -1
+effect/skill_shandian_06
+  rotate: true
+  xy: 367, 25
+  size: 240, 42
+  orig: 248, 52
+  offset: 5, 5
+  index: -1
+effect/skill_shandian_07
+  rotate: false
+  xy: 792, 39
+  size: 151, 42
+  orig: 161, 52
+  offset: 5, 5
+  index: -1
+effect/skill_shandian_08
+  rotate: false
+  xy: 651, 4
+  size: 153, 32
+  orig: 159, 38
+  offset: 3, 3
+  index: -1
+effect/skill_shouwei02_01
+  rotate: true
+  xy: 792, 83
+  size: 182, 145
+  orig: 197, 167
+  offset: 6, 11
+  index: -1
+effect/skill_shouwei02_02
+  rotate: true
+  xy: 448, 33
+  size: 232, 142
+  orig: 240, 162
+  offset: 7, 10
+  index: -1
+effect/skill_shouwei02_03
+  rotate: false
+  xy: 1293, 128
+  size: 305, 137
+  orig: 316, 153
+  offset: 11, 10
+  index: -1
+effect/skill_shouwei02_04
+  rotate: false
+  xy: 1600, 137
+  size: 345, 128
+  orig: 354, 149
+  offset: 9, 11
+  index: -1
+effect/skill_shouwei02_05
+  rotate: false
+  xy: 1502, 4
+  size: 355, 122
+  orig: 365, 142
+  offset: 10, 10
+  index: -1
+effect/skill_shouwei02_06
+  rotate: false
+  xy: 1179, 5
+  size: 321, 112
+  orig: 335, 132
+  offset: 13, 10
+  index: -1
+effect/skill_shouwei02_07
+  rotate: true
+  xy: 2, 2
+  size: 263, 114
+  orig: 278, 134
+  offset: 14, 10
+  index: -1
+effect/skill_shouwei02_08
+  rotate: true
+  xy: 118, 13
+  size: 252, 112
+  orig: 275, 132
+  offset: 23, 11
+  index: -1
+effect/skill_shouwei02_09
+  rotate: true
+  xy: 939, 104
+  size: 161, 94
+  orig: 177, 128
+  offset: 16, 21
+  index: -1
+effect/skill_shouwei02_10
+  rotate: true
+  xy: 697, 42
+  size: 37, 63
+  orig: 39, 72
+  offset: 1, 0
+  index: -1
+effect/skill_shouwei02_11
+  rotate: true
+  xy: 448, 2
+  size: 29, 64
+  orig: 29, 65
+  offset: 0, 0
+  index: -1
+effect/skill_xuying
+  rotate: true
+  xy: 697, 81
+  size: 184, 93
+  orig: 184, 93
+  offset: 0, 0
+  index: -1

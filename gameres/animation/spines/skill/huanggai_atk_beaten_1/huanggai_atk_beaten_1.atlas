@@ -1,0 +1,97 @@
+
+huanggai_atk_beaten_1.png
+size: 1706,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk/msg_huanggai_pg_bz/msg_huanggai_pg_bz_00
+  rotate: true
+  xy: 307, 3
+  size: 222, 139
+  orig: 372, 310
+  offset: 73, 50
+  index: -1
+effect/atk/msg_huanggai_pg_bz/msg_huanggai_pg_bz_02
+  rotate: false
+  xy: 690, 245
+  size: 345, 249
+  orig: 372, 310
+  offset: 20, 30
+  index: -1
+effect/atk/msg_huanggai_pg_bz/msg_huanggai_pg_bz_04
+  rotate: false
+  xy: 345, 237
+  size: 343, 257
+  orig: 372, 310
+  offset: 21, 30
+  index: -1
+effect/atk/msg_huanggai_pg_bz/msg_huanggai_pg_bz_06
+  rotate: false
+  xy: 2, 227
+  size: 341, 267
+  orig: 372, 310
+  offset: 22, 28
+  index: -1
+effect/atk/msg_huanggai_pg_bz/msg_huanggai_pg_bz_08
+  rotate: false
+  xy: 690, 2
+  size: 337, 241
+  orig: 372, 310
+  offset: 24, 46
+  index: -1
+effect/atk/msg_huanggai_pg_bz/msg_huanggai_pg_bz_10
+  rotate: false
+  xy: 1372, 252
+  size: 332, 242
+  orig: 372, 310
+  offset: 27, 48
+  index: -1
+effect/atk/msg_huanggai_pg_bz/msg_huanggai_pg_bz_12
+  rotate: false
+  xy: 1372, 9
+  size: 321, 241
+  orig: 372, 310
+  offset: 32, 51
+  index: -1
+effect/atk/msg_huanggai_pg_bz/msg_huanggai_pg_bz_14
+  rotate: false
+  xy: 1029, 77
+  size: 280, 164
+  orig: 372, 310
+  offset: 53, 59
+  index: -1
+effect/atk/msg_huanggai_pg_bz/msg_huanggai_pg_bz_16
+  rotate: true
+  xy: 1311, 165
+  size: 76, 22
+  orig: 372, 310
+  offset: 118, 96
+  index: -1
+effect/atk/msg_huanggai_pg_dg/msg_huanggai_pg_dg_00
+  rotate: false
+  xy: 1037, 243
+  size: 333, 251
+  orig: 372, 273
+  offset: 24, 5
+  index: -1
+effect/atk/msg_huanggai_pg_dg/msg_huanggai_pg_dg_02
+  rotate: false
+  xy: 2, 21
+  size: 303, 204
+  orig: 372, 273
+  offset: 50, 34
+  index: -1
+effect/atk/msg_huanggai_pg_dg/msg_huanggai_pg_dg_04
+  rotate: false
+  xy: 448, 43
+  size: 165, 192
+  orig: 372, 273
+  offset: 179, 34
+  index: -1
+effect/atk/msg_huanggai_pg_dl
+  rotate: false
+  xy: 1029, 12
+  size: 240, 63
+  orig: 242, 64
+  offset: 1, 1
+  index: -1

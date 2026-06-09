@@ -1,0 +1,195 @@
+
+S_S_simayi_attact_tx_1.png
+size: 1984,679
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/plot/attack/dg/dg_00015
+  rotate: true
+  xy: 1555, 356
+  size: 295, 200
+  orig: 563, 635
+  offset: 145, 320
+  index: -1
+images/plot/attack/dg/dg_00016
+  rotate: false
+  xy: 0, 272
+  size: 365, 407
+  orig: 563, 635
+  offset: 113, 82
+  index: -1
+images/plot/attack/dg/dg_00017
+  rotate: false
+  xy: 365, 285
+  size: 315, 394
+  orig: 563, 635
+  offset: 117, 92
+  index: -1
+images/plot/attack/dg/dg_00019
+  rotate: false
+  xy: 680, 305
+  size: 315, 374
+  orig: 563, 635
+  offset: 103, 112
+  index: -1
+images/plot/attack/dg/dg_00021
+  rotate: false
+  xy: 995, 364
+  size: 315, 315
+  orig: 563, 635
+  offset: 103, 167
+  index: -1
+images/plot/attack/dg/dg_00023
+  rotate: true
+  xy: 1310, 364
+  size: 287, 245
+  orig: 563, 635
+  offset: 120, 172
+  index: -1
+images/plot/attack/dg/dg_00025
+  rotate: false
+  xy: 0, 66
+  size: 240, 91
+  orig: 563, 635
+  offset: 122, 181
+  index: -1
+images/plot/attack/dg/dg_00027
+  rotate: false
+  xy: 1524, 0
+  size: 187, 91
+  orig: 563, 635
+  offset: 122, 181
+  index: -1
+images/plot/attack/dh/dh_00017
+  rotate: false
+  xy: 747, 67
+  size: 122, 87
+  orig: 360, 214
+  offset: 215, 91
+  index: -1
+images/plot/attack/dh/dh_00018
+  rotate: false
+  xy: 602, 9
+  size: 145, 145
+  orig: 360, 214
+  offset: 199, 37
+  index: -1
+images/plot/attack/dh/dh_00019
+  rotate: false
+  xy: 920, 68
+  size: 216, 146
+  orig: 360, 214
+  offset: 130, 34
+  index: -1
+images/plot/attack/dh/dh_00020
+  rotate: false
+  xy: 1587, 196
+  size: 249, 153
+  orig: 360, 214
+  offset: 97, 26
+  index: -1
+images/plot/attack/dh/dh_00022
+  rotate: false
+  xy: 995, 214
+  size: 293, 150
+  orig: 360, 214
+  offset: 50, 23
+  index: -1
+images/plot/attack/dh/dh_00024
+  rotate: true
+  xy: 1755, 349
+  size: 302, 151
+  orig: 360, 214
+  offset: 36, 19
+  index: -1
+images/plot/attack/dh/dh_00026
+  rotate: false
+  xy: 1288, 224
+  size: 299, 132
+  orig: 360, 214
+  offset: 25, 16
+  index: -1
+images/plot/attack/dh/dh_00028
+  rotate: false
+  xy: 0, 157
+  size: 296, 115
+  orig: 360, 214
+  offset: 15, 17
+  index: -1
+images/plot/attack/dh/dh_00030
+  rotate: false
+  xy: 1515, 91
+  size: 274, 105
+  orig: 360, 214
+  offset: 13, 23
+  index: -1
+images/plot/attack/dh/dh_00032
+  rotate: false
+  xy: 1276, 9
+  size: 248, 73
+  orig: 360, 214
+  offset: 20, 31
+  index: -1
+images/plot/attack/lizi/lizi_00015
+  rotate: false
+  xy: 0, 13
+  size: 117, 53
+  orig: 282, 195
+  offset: 130, 121
+  index: -1
+images/plot/attack/lizi/lizi_00016
+  rotate: true
+  xy: 1836, 122
+  size: 227, 148
+  orig: 282, 195
+  offset: 38, 23
+  index: -1
+images/plot/attack/lizi/lizi_00017
+  rotate: false
+  xy: 680, 154
+  size: 240, 151
+  orig: 282, 195
+  offset: 24, 21
+  index: -1
+images/plot/attack/lizi/lizi_00019
+  rotate: false
+  xy: 365, 141
+  size: 237, 144
+  orig: 282, 195
+  offset: 23, 21
+  index: -1
+images/plot/attack/lizi/lizi_00021
+  rotate: false
+  xy: 1288, 82
+  size: 227, 142
+  orig: 282, 195
+  offset: 29, 23
+  index: -1
+images/plot/attack/lizi/lizi_00023
+  rotate: true
+  xy: 1136, 38
+  size: 176, 140
+  orig: 282, 195
+  offset: 77, 25
+  index: -1
+images/plot/attack/lizi/lizi_00025
+  rotate: false
+  xy: 240, 19
+  size: 168, 122
+  orig: 282, 195
+  offset: 85, 28
+  index: -1
+images/plot/attack/lizi/lizi_00027
+  rotate: false
+  xy: 408, 25
+  size: 172, 116
+  orig: 282, 195
+  offset: 81, 29
+  index: -1
+images/plot/attack/lizi/lizi_00029
+  rotate: false
+  xy: 1789, 7
+  size: 173, 115
+  orig: 282, 195
+  offset: 87, 29
+  index: -1

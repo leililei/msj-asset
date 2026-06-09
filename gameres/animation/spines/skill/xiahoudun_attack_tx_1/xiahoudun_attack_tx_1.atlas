@@ -1,0 +1,62 @@
+
+xiahoudun_attack_tx_1.png
+size: 1210,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/dao1/dao1_000
+  rotate: true
+  xy: 762, 20
+  size: 226, 134
+  orig: 273, 263
+  offset: 7, 122
+  index: -1
+chutu/dao1/dao1_001
+  rotate: false
+  xy: 2, 20
+  size: 252, 226
+  orig: 273, 263
+  offset: 12, 29
+  index: -1
+chutu/dao1/dao1_002
+  rotate: false
+  xy: 256, 2
+  size: 218, 244
+  orig: 273, 263
+  offset: 42, 11
+  index: -1
+chutu/dao1/dao1_003
+  rotate: false
+  xy: 476, 2
+  size: 152, 244
+  orig: 273, 263
+  offset: 106, 9
+  index: -1
+chutu/dao1/dao1_004
+  rotate: false
+  xy: 630, 7
+  size: 130, 239
+  orig: 273, 263
+  offset: 126, 11
+  index: -1
+chutu/dao1/dao1_005
+  rotate: false
+  xy: 898, 52
+  size: 128, 194
+  orig: 273, 263
+  offset: 126, 19
+  index: -1
+chutu/dao1/dao1_007
+  rotate: true
+  xy: 1028, 119
+  size: 127, 180
+  orig: 273, 263
+  offset: 126, 21
+  index: -1
+chutu/dao1/dao1_008
+  rotate: true
+  xy: 1028, 5
+  size: 112, 144
+  orig: 273, 263
+  offset: 134, 28
+  index: -1

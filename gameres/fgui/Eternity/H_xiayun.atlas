@@ -1,0 +1,20 @@
+
+H_xiayun.png
+size: 1746,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_x1
+  rotate: false
+  xy: 2, 2
+  size: 1002, 468
+  orig: 1002, 468
+  offset: 0, 0
+  index: -1
+H_x2
+  rotate: false
+  xy: 1006, 18
+  size: 738, 452
+  orig: 750, 454
+  offset: 6, 1
+  index: -1

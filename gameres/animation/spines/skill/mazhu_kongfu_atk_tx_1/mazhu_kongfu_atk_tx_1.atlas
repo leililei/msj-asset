@@ -1,0 +1,104 @@
+
+mazhu_kongfu_atk_tx_1.png
+size: 332,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/2/2_004
+  rotate: true
+  xy: 2, 3
+  size: 77, 86
+  orig: 118, 138
+  offset: 8, 27
+  index: -1
+chutu/2/2_005
+  rotate: false
+  xy: 229, 269
+  size: 101, 121
+  orig: 118, 138
+  offset: 6, 9
+  index: -1
+chutu/2/2_006
+  rotate: false
+  xy: 116, 255
+  size: 111, 130
+  orig: 118, 138
+  offset: 3, 3
+  index: -1
+chutu/3/3_004
+  rotate: true
+  xy: 229, 193
+  size: 74, 84
+  orig: 118, 138
+  offset: 10, 28
+  index: -1
+chutu/3/3_005
+  rotate: false
+  xy: 116, 2
+  size: 98, 120
+  orig: 118, 138
+  offset: 8, 9
+  index: -1
+chutu/3/3_006
+  rotate: false
+  xy: 116, 124
+  size: 108, 129
+  orig: 118, 138
+  offset: 5, 4
+  index: -1
+chutu/4/4_004
+  rotate: false
+  xy: 241, 397
+  size: 79, 145
+  orig: 130, 186
+  offset: 6, 19
+  index: -1
+chutu/4/4_005
+  rotate: false
+  xy: 121, 392
+  size: 118, 150
+  orig: 130, 186
+  offset: 4, 16
+  index: -1
+chutu/4/4_007
+  rotate: false
+  xy: 2, 387
+  size: 117, 155
+  orig: 130, 186
+  offset: 3, 14
+  index: -1
+chutu/4/4_009
+  rotate: false
+  xy: 2, 227
+  size: 112, 158
+  orig: 130, 186
+  offset: 4, 15
+  index: -1
+chutu/4/4_011
+  rotate: false
+  xy: 2, 82
+  size: 112, 143
+  orig: 130, 186
+  offset: 5, 28
+  index: -1
+chutu/4/4_013
+  rotate: false
+  xy: 216, 10
+  size: 109, 112
+  orig: 130, 186
+  offset: 8, 42
+  index: -1
+chutu/4/4_015
+  rotate: false
+  xy: 226, 135
+  size: 37, 56
+  orig: 130, 186
+  offset: 51, 44
+  index: -1
+chutu/5/5_003
+  rotate: false
+  xy: 265, 147
+  size: 43, 44
+  orig: 47, 50
+  offset: 2, 3
+  index: -1

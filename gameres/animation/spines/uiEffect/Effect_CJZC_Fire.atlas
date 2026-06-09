@@ -1,0 +1,230 @@
+
+Effect_CJZC_Fire.png
+size: 196,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h/h_000
+  rotate: false
+  xy: 57, 243
+  size: 46, 49
+  orig: 55, 58
+  offset: 5, 2
+  index: -1
+h/h_001
+  rotate: true
+  xy: 5, 5
+  size: 47, 52
+  orig: 55, 58
+  offset: 4, 2
+  index: -1
+h/h_002
+  rotate: false
+  xy: 57, 452
+  size: 46, 52
+  orig: 55, 58
+  offset: 4, 2
+  index: -1
+h/h_003
+  rotate: false
+  xy: 56, 167
+  size: 47, 52
+  orig: 55, 58
+  offset: 3, 2
+  index: -1
+h/h_004
+  rotate: false
+  xy: 5, 111
+  size: 48, 51
+  orig: 55, 58
+  offset: 3, 2
+  index: -1
+h/h_005
+  rotate: false
+  xy: 5, 56
+  size: 48, 51
+  orig: 55, 58
+  offset: 3, 2
+  index: -1
+h/h_006
+  rotate: false
+  xy: 5, 223
+  size: 48, 52
+  orig: 55, 58
+  offset: 4, 2
+  index: -1
+h/h_007
+  rotate: false
+  xy: 5, 166
+  size: 47, 53
+  orig: 55, 58
+  offset: 4, 2
+  index: -1
+h/h_008
+  rotate: false
+  xy: 5, 393
+  size: 48, 53
+  orig: 55, 58
+  offset: 3, 2
+  index: -1
+h/h_009
+  rotate: false
+  xy: 5, 450
+  size: 48, 54
+  orig: 55, 58
+  offset: 4, 2
+  index: -1
+h/h_010
+  rotate: false
+  xy: 5, 336
+  size: 48, 53
+  orig: 55, 58
+  offset: 4, 2
+  index: -1
+h/h_011
+  rotate: false
+  xy: 5, 279
+  size: 48, 53
+  orig: 55, 58
+  offset: 4, 2
+  index: -1
+h/h_012
+  rotate: false
+  xy: 57, 296
+  size: 48, 47
+  orig: 55, 58
+  offset: 4, 2
+  index: -1
+h/h_013
+  rotate: false
+  xy: 57, 400
+  size: 48, 48
+  orig: 55, 58
+  offset: 4, 2
+  index: -1
+h/h_014
+  rotate: false
+  xy: 57, 347
+  size: 47, 49
+  orig: 55, 58
+  offset: 4, 2
+  index: -1
+h/h_015
+  rotate: false
+  xy: 57, 114
+  size: 46, 49
+  orig: 55, 58
+  offset: 5, 2
+  index: -1
+h2/h2_000
+  rotate: false
+  xy: 153, 253
+  size: 39, 43
+  orig: 51, 51
+  offset: 5, 2
+  index: -1
+h2/h2_001
+  rotate: false
+  xy: 109, 300
+  size: 41, 46
+  orig: 51, 51
+  offset: 5, 2
+  index: -1
+h2/h2_002
+  rotate: false
+  xy: 108, 12
+  size: 42, 47
+  orig: 51, 51
+  offset: 4, 2
+  index: -1
+h2/h2_003
+  rotate: false
+  xy: 61, 10
+  size: 43, 48
+  orig: 51, 51
+  offset: 4, 1
+  index: -1
+h2/h2_004
+  rotate: false
+  xy: 57, 62
+  size: 44, 48
+  orig: 51, 51
+  offset: 3, 1
+  index: -1
+h2/h2_005
+  rotate: false
+  xy: 108, 350
+  size: 43, 46
+  orig: 51, 51
+  offset: 5, 1
+  index: -1
+h2/h2_006
+  rotate: false
+  xy: 109, 406
+  size: 42, 47
+  orig: 51, 51
+  offset: 5, 2
+  index: -1
+h2/h2_007
+  rotate: false
+  xy: 105, 63
+  size: 43, 47
+  orig: 51, 51
+  offset: 4, 2
+  index: -1
+h2/h2_008
+  rotate: false
+  xy: 107, 457
+  size: 43, 47
+  orig: 51, 51
+  offset: 4, 2
+  index: -1
+h2/h2_009
+  rotate: false
+  xy: 107, 244
+  size: 42, 48
+  orig: 51, 51
+  offset: 4, 2
+  index: -1
+h2/h2_010
+  rotate: false
+  xy: 107, 192
+  size: 42, 48
+  orig: 51, 51
+  offset: 4, 2
+  index: -1
+h2/h2_011
+  rotate: false
+  xy: 107, 139
+  size: 41, 49
+  orig: 51, 51
+  offset: 4, 1
+  index: -1
+h2/h2_012
+  rotate: false
+  xy: 152, 145
+  size: 40, 43
+  orig: 51, 51
+  offset: 6, 1
+  index: -1
+h2/h2_013
+  rotate: false
+  xy: 153, 206
+  size: 39, 43
+  orig: 51, 51
+  offset: 6, 1
+  index: -1
+h2/h2_014
+  rotate: false
+  xy: 152, 97
+  size: 39, 44
+  orig: 51, 51
+  offset: 5, 1
+  index: -1
+h2/h2_015
+  rotate: false
+  xy: 154, 461
+  size: 37, 43
+  orig: 51, 51
+  offset: 6, 2
+  index: -1

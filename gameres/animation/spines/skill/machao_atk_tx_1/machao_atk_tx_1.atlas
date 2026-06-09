@@ -1,0 +1,104 @@
+
+machao_atk_tx_1.png
+size: 250,1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/a1/a1_012
+  rotate: false
+  xy: 2, 828
+  size: 205, 131
+  orig: 219, 163
+  offset: 10, 28
+  index: -1
+chutu/attack/a1/a1_013
+  rotate: false
+  xy: 2, 681
+  size: 188, 145
+  orig: 219, 163
+  offset: 26, 10
+  index: -1
+chutu/attack/a1/a1_015
+  rotate: false
+  xy: 2, 536
+  size: 176, 143
+  orig: 219, 163
+  offset: 37, 8
+  index: -1
+chutu/attack/a1/a1_017
+  rotate: true
+  xy: 2, 407
+  size: 127, 143
+  orig: 219, 163
+  offset: 82, 7
+  index: -1
+chutu/attack/a1/a1_019
+  rotate: false
+  xy: 147, 351
+  size: 101, 142
+  orig: 219, 163
+  offset: 99, 6
+  index: -1
+chutu/attack/a4/a4_020
+  rotate: true
+  xy: 212, 966
+  size: 43, 26
+  orig: 45, 28
+  offset: 1, 1
+  index: -1
+chutu/attack/a5/a5_020
+  rotate: true
+  xy: 192, 663
+  size: 163, 52
+  orig: 358, 87
+  offset: 0, 17
+  index: -1
+chutu/attack/a5/a5_021
+  rotate: false
+  xy: 2, 961
+  size: 208, 53
+  orig: 358, 87
+  offset: 2, 16
+  index: -1
+chutu/attack/a5/a5_022
+  rotate: true
+  xy: 2, 2
+  size: 347, 70
+  orig: 358, 87
+  offset: 3, 9
+  index: -1
+chutu/attack/a5/a5_024
+  rotate: true
+  xy: 74, 4
+  size: 345, 79
+  orig: 358, 87
+  offset: 5, 4
+  index: -1
+chutu/attack/a5/a5_026
+  rotate: true
+  xy: 155, 12
+  size: 337, 84
+  orig: 358, 87
+  offset: 9, 1
+  index: -1
+chutu/attack/a5/a5_028
+  rotate: true
+  xy: 180, 495
+  size: 166, 51
+  orig: 358, 87
+  offset: 64, 15
+  index: -1
+chutu/attack/a5/a5_030
+  rotate: false
+  xy: 2, 364
+  size: 119, 41
+  orig: 358, 87
+  offset: 64, 23
+  index: -1
+chutu/attack/a5/a5_032
+  rotate: false
+  xy: 212, 1011
+  size: 31, 3
+  orig: 358, 87
+  offset: 66, 26
+  index: -1

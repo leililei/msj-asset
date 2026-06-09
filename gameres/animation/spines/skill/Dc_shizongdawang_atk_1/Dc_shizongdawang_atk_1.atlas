@@ -1,0 +1,104 @@
+
+Dc_shizongdawang_atk_1.png
+size: 192,1575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_glow
+  rotate: false
+  xy: 0, 1402
+  size: 173, 173
+  orig: 197, 197
+  offset: 12, 12
+  index: -1
+effect/attack_sf_00
+  rotate: false
+  xy: 0, 165
+  size: 121, 86
+  orig: 129, 94
+  offset: 4, 4
+  index: -1
+effect/attack_sf_01
+  rotate: false
+  xy: 0, 344
+  size: 184, 137
+  orig: 196, 148
+  offset: 6, 6
+  index: -1
+effect/attack_sf_02
+  rotate: false
+  xy: 0, 787
+  size: 192, 148
+  orig: 202, 160
+  offset: 5, 6
+  index: -1
+effect/attack_sf_04
+  rotate: false
+  xy: 0, 1093
+  size: 192, 150
+  orig: 202, 162
+  offset: 5, 6
+  index: -1
+effect/attack_sf_06
+  rotate: false
+  xy: 0, 1247
+  size: 192, 151
+  orig: 200, 161
+  offset: 4, 5
+  index: -1
+effect/attack_sf_08
+  rotate: false
+  xy: 0, 939
+  size: 191, 150
+  orig: 199, 160
+  offset: 4, 5
+  index: -1
+effect/attack_sf_10
+  rotate: false
+  xy: 0, 635
+  size: 188, 148
+  orig: 196, 158
+  offset: 4, 5
+  index: -1
+effect/attack_sf_12
+  rotate: false
+  xy: 0, 485
+  size: 188, 146
+  orig: 196, 154
+  offset: 4, 4
+  index: -1
+effect/skill_szg_00
+  rotate: false
+  xy: 114, 0
+  size: 55, 95
+  orig: 60, 103
+  offset: 2, 4
+  index: -1
+effect/skill_szg_01
+  rotate: true
+  xy: 0, 12
+  size: 83, 110
+  orig: 89, 117
+  offset: 3, 4
+  index: -1
+effect/skill_szg_02
+  rotate: false
+  xy: 0, 255
+  size: 138, 85
+  orig: 145, 92
+  offset: 5, 3
+  index: -1
+effect/skill_szg_04
+  rotate: false
+  xy: 0, 99
+  size: 152, 62
+  orig: 156, 71
+  offset: 2, 4
+  index: -1
+effect/skill_szg_05
+  rotate: false
+  xy: 125, 165
+  size: 55, 13
+  orig: 108, 25
+  offset: 4, 7
+  index: -1

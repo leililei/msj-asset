@@ -1,0 +1,139 @@
+
+sunquan_skill_tx_2.png
+size: 384,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill/g_000
+  rotate: true
+  xy: 356, 382
+  size: 55, 24
+  orig: 138, 64
+  offset: 41, 20
+  index: -1
+chutu/skill/g_001
+  rotate: true
+  xy: 126, 1
+  size: 134, 57
+  orig: 138, 64
+  offset: 2, 3
+  index: -1
+chutu/skill/gz_000
+  rotate: true
+  xy: 179, 300
+  size: 137, 174
+  orig: 148, 188
+  offset: 5, 4
+  index: -1
+chutu/skill/ks1_000
+  rotate: false
+  xy: 1, 913
+  size: 223, 118
+  orig: 227, 124
+  offset: 0, 2
+  index: -1
+chutu/skill/ks_000
+  rotate: false
+  xy: 1, 808
+  size: 211, 102
+  orig: 222, 110
+  offset: 6, 6
+  index: -1
+chutu/skill/ql/ql_000
+  rotate: false
+  xy: 175, 138
+  size: 169, 159
+  orig: 184, 182
+  offset: 0, 12
+  index: -1
+chutu/skill/ql/ql_002
+  rotate: false
+  xy: 227, 869
+  size: 149, 162
+  orig: 184, 182
+  offset: 23, 10
+  index: -1
+chutu/skill/ql/ql_004
+  rotate: true
+  xy: 1, 253
+  size: 143, 171
+  orig: 184, 182
+  offset: 30, 5
+  index: -1
+chutu/skill/ql/ql_006
+  rotate: true
+  xy: 192, 440
+  size: 125, 175
+  orig: 184, 182
+  offset: 51, 4
+  index: -1
+chutu/skill/ql/ql_008
+  rotate: true
+  xy: 215, 772
+  size: 94, 165
+  orig: 184, 182
+  offset: 84, 16
+  index: -1
+chutu/skill/quan2_000
+  rotate: false
+  xy: 1, 729
+  size: 200, 76
+  orig: 212, 88
+  offset: 6, 5
+  index: -1
+chutu/skill/quan_000
+  rotate: true
+  xy: 1, 1
+  size: 134, 122
+  orig: 144, 147
+  offset: 6, 17
+  index: -1
+chutu/skill/ss/ss_000
+  rotate: true
+  xy: 1, 399
+  size: 107, 175
+  orig: 114, 199
+  offset: 7, 9
+  index: -1
+chutu/skill/ss/ss_001
+  rotate: true
+  xy: 1, 620
+  size: 106, 191
+  orig: 114, 199
+  offset: 6, 8
+  index: -1
+chutu/skill/ss/ss_003
+  rotate: true
+  xy: 1, 509
+  size: 108, 188
+  orig: 114, 199
+  offset: 6, 11
+  index: -1
+chutu/skill/ss/ss_005
+  rotate: true
+  xy: 186, 28
+  size: 107, 156
+  orig: 114, 199
+  offset: 7, 9
+  index: -1
+chutu/skill/ss/ss_007
+  rotate: true
+  xy: 1, 143
+  size: 107, 169
+  orig: 114, 199
+  offset: 6, 11
+  index: -1
+chutu/skill/ss/ss_008
+  rotate: true
+  xy: 195, 568
+  size: 96, 176
+  orig: 114, 199
+  offset: 5, 8
+  index: -1
+chutu/skill/ss/ss_010
+  rotate: true
+  xy: 204, 667
+  size: 102, 177
+  orig: 114, 199
+  offset: 6, 9
+  index: -1

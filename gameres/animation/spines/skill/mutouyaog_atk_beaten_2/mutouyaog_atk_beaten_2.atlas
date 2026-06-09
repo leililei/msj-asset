@@ -1,0 +1,41 @@
+
+mutouyaog_atk_beaten_2.png
+size: 288,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/dl1_000
+  rotate: false
+  xy: 3, 65
+  size: 197, 65
+  orig: 197, 65
+  offset: 0, 0
+  index: -1
+chutu/dl2_000
+  rotate: true
+  xy: 202, 16
+  size: 114, 41
+  orig: 114, 41
+  offset: 0, 0
+  index: -1
+chutu/dl3_000
+  rotate: false
+  xy: 3, 3
+  size: 187, 60
+  orig: 188, 61
+  offset: 0, 1
+  index: -1
+chutu/dl4_000
+  rotate: true
+  xy: 245, 34
+  size: 96, 38
+  orig: 101, 38
+  offset: 0, 0
+  index: -1
+chutu/g2_014
+  rotate: false
+  xy: 245, 19
+  size: 32, 13
+  orig: 34, 13
+  offset: 1, 0
+  index: -1

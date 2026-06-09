@@ -1,0 +1,41 @@
+
+gonghuijianzhu.png
+size: 1015,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houshan
+  rotate: false
+  xy: 2, 3
+  size: 476, 329
+  orig: 479, 359
+  offset: 2, 29
+  index: -1
+jianzhu1
+  rotate: false
+  xy: 480, 2
+  size: 395, 330
+  orig: 404, 332
+  offset: 8, 1
+  index: -1
+zhuan1
+  rotate: false
+  xy: 877, 192
+  size: 136, 140
+  orig: 138, 142
+  offset: 1, 1
+  index: -1
+zhuan2
+  rotate: false
+  xy: 877, 146
+  size: 43, 44
+  orig: 45, 46
+  offset: 1, 1
+  index: -1
+zhuan3
+  rotate: false
+  xy: 877, 102
+  size: 43, 42
+  orig: 46, 44
+  offset: 2, 1
+  index: -1

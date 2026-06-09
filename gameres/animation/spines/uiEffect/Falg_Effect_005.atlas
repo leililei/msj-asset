@@ -1,0 +1,62 @@
+
+Falg_Effect_005.png
+size: 464,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuzia5
+  rotate: false
+  xy: 3, 724
+  size: 413, 283
+  orig: 415, 285
+  offset: 1, 1
+  index: -1
+fuzib5
+  rotate: false
+  xy: 3, 439
+  size: 413, 283
+  orig: 415, 285
+  offset: 1, 1
+  index: -1
+guntoua5
+  rotate: false
+  xy: 344, 29
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+guntoub5
+  rotate: false
+  xy: 3, 3
+  size: 69, 65
+  orig: 71, 67
+  offset: 1, 1
+  index: -1
+gunzi5
+  rotate: true
+  xy: 418, 439
+  size: 353, 43
+  orig: 355, 45
+  offset: 1, 1
+  index: -1
+piaodaia5
+  rotate: true
+  xy: 3, 70
+  size: 101, 339
+  orig: 101, 339
+  offset: 0, 0
+  index: -1
+piaodaib5
+  rotate: false
+  xy: 344, 98
+  size: 101, 339
+  orig: 101, 339
+  offset: 0, 0
+  index: -1
+qizi5
+  rotate: true
+  xy: 3, 173
+  size: 264, 330
+  orig: 264, 330
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+Effect_shenge_gaizao_tx_7.png
+size: 88,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jn/lz1/lz1_00092
+  rotate: false
+  xy: 3, 3
+  size: 26, 26
+  orig: 30, 30
+  offset: 2, 2
+  index: -1
+jn/lz2/lz2_00097
+  rotate: false
+  xy: 3, 31
+  size: 81, 81
+  orig: 85, 85
+  offset: 2, 2
+  index: -1

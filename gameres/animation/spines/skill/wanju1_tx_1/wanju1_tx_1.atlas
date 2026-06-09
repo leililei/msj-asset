@@ -1,0 +1,41 @@
+
+wanju1_tx_1.png
+size: 181,207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow4_02
+  rotate: false
+  xy: 87, 4
+  size: 74, 76
+  orig: 80, 84
+  offset: 3, 4
+  index: -1
+images/m1_02
+  rotate: true
+  xy: 2, 2
+  size: 78, 83
+  orig: 84, 87
+  offset: 3, 2
+  index: -1
+images/qiu_02
+  rotate: false
+  xy: 127, 153
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+images/quan1_03
+  rotate: false
+  xy: 2, 82
+  size: 123, 123
+  orig: 125, 124
+  offset: 1, 1
+  index: -1
+images/xx_07
+  rotate: false
+  xy: 127, 126
+  size: 26, 25
+  orig: 35, 33
+  offset: 5, 4
+  index: -1

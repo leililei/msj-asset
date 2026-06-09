@@ -1,0 +1,62 @@
+
+Effect_jtbh1.png
+size: 123,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baohuz/DL/0001
+  rotate: false
+  xy: 2, 2
+  size: 104, 90
+  orig: 128, 128
+  offset: 12, 19
+  index: -1
+baohuz/DL/0002
+  rotate: false
+  xy: 2, 94
+  size: 107, 106
+  orig: 128, 128
+  offset: 11, 11
+  index: -1
+baohuz/DL/0003
+  rotate: false
+  xy: 2, 439
+  size: 117, 117
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+baohuz/DL/0004
+  rotate: false
+  xy: 2, 801
+  size: 119, 120
+  orig: 128, 128
+  offset: 5, 5
+  index: -1
+baohuz/DL/0005
+  rotate: false
+  xy: 2, 680
+  size: 119, 119
+  orig: 128, 128
+  offset: 5, 5
+  index: -1
+baohuz/DL/0006
+  rotate: false
+  xy: 2, 558
+  size: 117, 120
+  orig: 128, 128
+  offset: 6, 3
+  index: -1
+baohuz/DL/0007
+  rotate: false
+  xy: 2, 320
+  size: 116, 117
+  orig: 128, 128
+  offset: 6, 5
+  index: -1
+baohuz/DL/0008
+  rotate: false
+  xy: 2, 202
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1

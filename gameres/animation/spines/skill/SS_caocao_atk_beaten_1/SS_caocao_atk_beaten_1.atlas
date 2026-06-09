@@ -1,0 +1,139 @@
+
+SS_caocao_atk_beaten_1.png
+size: 1829,669
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_mz1_00
+  rotate: false
+  xy: 197, 163
+  size: 171, 173
+  orig: 218, 231
+  offset: 33, 44
+  index: -1
+effect/attack_mz1_01
+  rotate: true
+  xy: 1269, 55
+  size: 307, 206
+  orig: 345, 230
+  offset: 19, 18
+  index: -1
+effect/attack_mz1_02
+  rotate: false
+  xy: 948, 364
+  size: 586, 303
+  orig: 599, 337
+  offset: 7, 17
+  index: -1
+effect/attack_mz1_03
+  rotate: false
+  xy: 2, 338
+  size: 489, 329
+  orig: 502, 363
+  offset: 7, 17
+  index: -1
+effect/attack_mz1_04
+  rotate: false
+  xy: 493, 339
+  size: 453, 328
+  orig: 467, 348
+  offset: 7, 10
+  index: -1
+effect/attack_mz1_05
+  rotate: true
+  xy: 948, 60
+  size: 302, 319
+  orig: 334, 345
+  offset: 16, 13
+  index: -1
+effect/attack_mz1_06
+  rotate: false
+  xy: 1536, 354
+  size: 291, 313
+  orig: 317, 333
+  offset: 13, 10
+  index: -1
+effect/attack_mz1_07
+  rotate: false
+  xy: 493, 161
+  size: 286, 176
+  orig: 312, 202
+  offset: 13, 13
+  index: -1
+effect/attack_mz2_00
+  rotate: true
+  xy: 2, 15
+  size: 141, 154
+  orig: 179, 171
+  offset: 5, 4
+  index: -1
+effect/attack_mz2_01
+  rotate: false
+  xy: 746, 2
+  size: 142, 140
+  orig: 157, 166
+  offset: 4, 23
+  index: -1
+effect/attack_mz2_02
+  rotate: false
+  xy: 589, 11
+  size: 155, 148
+  orig: 163, 166
+  offset: 4, 15
+  index: -1
+effect/attack_mz2_03
+  rotate: true
+  xy: 781, 144
+  size: 193, 159
+  orig: 200, 169
+  offset: 3, 5
+  index: -1
+effect/attack_mz2_04
+  rotate: false
+  xy: 2, 158
+  size: 193, 178
+  orig: 200, 186
+  offset: 4, 4
+  index: -1
+effect/attack_mz2_05
+  rotate: false
+  xy: 1477, 199
+  size: 194, 153
+  orig: 200, 169
+  offset: 3, 8
+  index: -1
+effect/attack_mz2_06
+  rotate: true
+  xy: 1673, 158
+  size: 194, 153
+  orig: 200, 169
+  offset: 3, 8
+  index: -1
+effect/attack_mz2_07
+  rotate: true
+  xy: 1477, 3
+  size: 194, 153
+  orig: 200, 169
+  offset: 3, 8
+  index: -1
+effect/attack_mz2_08
+  rotate: false
+  xy: 1632, 3
+  size: 194, 153
+  orig: 200, 169
+  offset: 3, 8
+  index: -1
+effect/attack_mz2_09
+  rotate: false
+  xy: 197, 8
+  size: 194, 153
+  orig: 200, 169
+  offset: 3, 8
+  index: -1
+effect/attack_mz2_10
+  rotate: false
+  xy: 393, 6
+  size: 194, 153
+  orig: 200, 169
+  offset: 3, 8
+  index: -1

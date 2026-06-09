@@ -1,0 +1,62 @@
+
+shayumao_atk_1.png
+size: 818,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/gj01/gj01_00
+  rotate: false
+  xy: 205, 6
+  size: 160, 72
+  orig: 280, 100
+  offset: 44, 14
+  index: -1
+effect/gj01/gj01_01
+  rotate: false
+  xy: 367, 6
+  size: 244, 72
+  orig: 280, 100
+  offset: 6, 14
+  index: -1
+effect/gj01/gj01_02
+  rotate: false
+  xy: 613, 2
+  size: 203, 76
+  orig: 280, 100
+  offset: 63, 12
+  index: -1
+effect/gj01/gj01_03
+  rotate: false
+  xy: 163, 80
+  size: 193, 66
+  orig: 280, 100
+  offset: 62, 17
+  index: -1
+effect/gj02/gj02_00
+  rotate: false
+  xy: 2, 81
+  size: 159, 65
+  orig: 280, 100
+  offset: 44, 18
+  index: -1
+effect/gj02/gj02_01
+  rotate: false
+  xy: 358, 80
+  size: 243, 66
+  orig: 280, 100
+  offset: 6, 17
+  index: -1
+effect/gj02/gj02_02
+  rotate: false
+  xy: 2, 8
+  size: 201, 70
+  orig: 280, 100
+  offset: 63, 15
+  index: -1
+effect/gj02/gj02_03
+  rotate: false
+  xy: 603, 80
+  size: 192, 66
+  orig: 280, 100
+  offset: 62, 17
+  index: -1

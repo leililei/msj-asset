@@ -1,0 +1,104 @@
+
+M_dongzhuo_skill_beaten_3.png
+size: 2032,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/jn/di1/di1_56
+  rotate: false
+  xy: 280, 6
+  size: 138, 49
+  orig: 148, 53
+  offset: 4, 2
+  index: -1
+images/chutu/jn/di1/di1_58
+  rotate: false
+  xy: 422, 6
+  size: 138, 49
+  orig: 148, 53
+  offset: 4, 2
+  index: -1
+images/chutu/jn/dilie1_49
+  rotate: false
+  xy: 1365, 4
+  size: 175, 65
+  orig: 175, 66
+  offset: 0, 0
+  index: -1
+images/chutu/jn/dilie2_50
+  rotate: false
+  xy: 501, 64
+  size: 226, 87
+  orig: 232, 91
+  offset: 3, 2
+  index: -1
+images/chutu/jn/dilie3_56
+  rotate: false
+  xy: 949, 64
+  size: 203, 87
+  orig: 205, 87
+  offset: 1, 0
+  index: -1
+images/chutu/jn/glow2_58
+  rotate: false
+  xy: 4, 8
+  size: 131, 40
+  orig: 137, 43
+  offset: 3, 1
+  index: -1
+images/chutu/jn/ks1/ks1_59
+  rotate: false
+  xy: 731, 60
+  size: 214, 91
+  orig: 218, 94
+  offset: 1, 1
+  index: -1
+images/chutu/jn/ks1/ks1_61
+  rotate: false
+  xy: 280, 59
+  size: 217, 92
+  orig: 218, 94
+  offset: 1, 1
+  index: -1
+images/chutu/jn/ks1/ks1_63
+  rotate: false
+  xy: 1156, 71
+  size: 205, 80
+  orig: 218, 94
+  offset: 7, 4
+  index: -1
+images/chutu/jn/ks1/ks1_65
+  rotate: false
+  xy: 1365, 73
+  size: 207, 78
+  orig: 218, 94
+  offset: 6, 3
+  index: -1
+images/chutu/jn/ks1/ks1_67
+  rotate: false
+  xy: 1576, 8
+  size: 212, 75
+  orig: 218, 94
+  offset: 3, 8
+  index: -1
+images/chutu/jn/ks1/ks1_69
+  rotate: false
+  xy: 1829, 69
+  size: 196, 82
+  orig: 218, 94
+  offset: 18, 6
+  index: -1
+images/chutu/jn/quan1_61
+  rotate: false
+  xy: 4, 52
+  size: 272, 99
+  orig: 272, 99
+  offset: 0, 0
+  index: -1
+images/chutu/jn/shitou1_49
+  rotate: false
+  xy: 1576, 87
+  size: 249, 64
+  orig: 249, 65
+  offset: 0, 0
+  index: -1

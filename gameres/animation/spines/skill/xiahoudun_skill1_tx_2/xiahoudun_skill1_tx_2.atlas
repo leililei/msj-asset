@@ -1,0 +1,27 @@
+
+xiahoudun_skill1_tx_2.png
+size: 411,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/g2_000
+  rotate: false
+  xy: 264, 33
+  size: 70, 26
+  orig: 81, 30
+  offset: 6, 2
+  index: -1
+chutu/g3_000
+  rotate: false
+  xy: 2, 2
+  size: 260, 260
+  orig: 274, 277
+  offset: 8, 9
+  index: -1
+chutu/ql3_000
+  rotate: true
+  xy: 264, 61
+  size: 201, 145
+  orig: 241, 170
+  offset: 15, 16
+  index: -1

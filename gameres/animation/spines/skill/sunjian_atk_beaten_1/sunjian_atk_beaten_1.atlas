@@ -1,0 +1,83 @@
+
+sunjian_atk_beaten_1.png
+size: 1100,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/cc_beaten_1_00016
+  rotate: false
+  xy: 539, 24
+  size: 115, 108
+  orig: 174, 174
+  offset: 27, 34
+  index: -1
+chutu/attack/cc_beaten_1_00018
+  rotate: false
+  xy: 413, 13
+  size: 124, 119
+  orig: 174, 174
+  offset: 22, 26
+  index: -1
+chutu/attack/cc_beaten_1_00020
+  rotate: false
+  xy: 277, 8
+  size: 134, 124
+  orig: 174, 174
+  offset: 16, 22
+  index: -1
+chutu/attack/cc_beaten_1_00022
+  rotate: false
+  xy: 2, 2
+  size: 136, 130
+  orig: 174, 174
+  offset: 12, 19
+  index: -1
+chutu/attack/cc_beaten_1_00024
+  rotate: true
+  xy: 140, 6
+  size: 126, 135
+  orig: 174, 174
+  offset: 26, 18
+  index: -1
+chutu/attack/cc_beaten_1_00026
+  rotate: false
+  xy: 656, 25
+  size: 110, 107
+  orig: 174, 174
+  offset: 43, 47
+  index: -1
+chutu/attack/cc_beaten_1_00028
+  rotate: false
+  xy: 768, 2
+  size: 106, 73
+  orig: 174, 174
+  offset: 48, 59
+  index: -1
+chutu/attack/cc_beaten_1_00030
+  rotate: false
+  xy: 876, 6
+  size: 95, 69
+  orig: 174, 174
+  offset: 59, 62
+  index: -1
+chutu/attack/cc_beaten_1_00032
+  rotate: false
+  xy: 973, 8
+  size: 89, 67
+  orig: 174, 174
+  offset: 63, 63
+  index: -1
+chutu/skill/cc_skill_sj1_00000
+  rotate: false
+  xy: 768, 77
+  size: 294, 55
+  orig: 313, 92
+  offset: 0, 21
+  index: -1
+chutu/skill/fx_e_glow_001_cl
+  rotate: true
+  xy: 1064, 97
+  size: 35, 34
+  orig: 44, 44
+  offset: 4, 5
+  index: -1

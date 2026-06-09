@@ -1,0 +1,195 @@
+
+caiwenji_atk_zd_1.png
+size: 1042,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/dandao1/dandao1_00
+  rotate: false
+  xy: 515, 209
+  size: 250, 62
+  orig: 281, 85
+  offset: 30, 11
+  index: -1
+images/chutu/dandao1/dandao1_02
+  rotate: false
+  xy: 2, 68
+  size: 253, 61
+  orig: 281, 85
+  offset: 27, 10
+  index: -1
+images/chutu/dandao1/dandao1_04
+  rotate: false
+  xy: 2, 201
+  size: 258, 70
+  orig: 281, 85
+  offset: 22, 13
+  index: -1
+images/chutu/dandao1/dandao1_06
+  rotate: false
+  xy: 2, 131
+  size: 257, 68
+  orig: 281, 85
+  offset: 22, 12
+  index: -1
+images/chutu/dandao1/dandao1_08
+  rotate: false
+  xy: 512, 78
+  size: 234, 68
+  orig: 281, 85
+  offset: 45, 10
+  index: -1
+images/chutu/dandao1/dandao1_10
+  rotate: false
+  xy: 515, 148
+  size: 242, 59
+  orig: 281, 85
+  offset: 37, 14
+  index: -1
+images/chutu/dandao1/dandao1_12
+  rotate: false
+  xy: 262, 206
+  size: 251, 65
+  orig: 281, 85
+  offset: 28, 10
+  index: -1
+images/chutu/dandao1/dandao1_14
+  rotate: false
+  xy: 261, 80
+  size: 245, 63
+  orig: 281, 85
+  offset: 35, 11
+  index: -1
+images/chutu/dandao1/dandao1_16
+  rotate: false
+  xy: 767, 145
+  size: 242, 65
+  orig: 281, 85
+  offset: 38, 7
+  index: -1
+images/chutu/dandao1/dandao1_18
+  rotate: false
+  xy: 767, 212
+  size: 249, 59
+  orig: 281, 85
+  offset: 31, 7
+  index: -1
+images/chutu/dandao1/dandao1_20
+  rotate: false
+  xy: 262, 145
+  size: 248, 59
+  orig: 281, 85
+  offset: 32, 9
+  index: -1
+images/chutu/dandao1/dandao1_22
+  rotate: false
+  xy: 257, 12
+  size: 244, 66
+  orig: 281, 85
+  offset: 35, 8
+  index: -1
+images/chutu/dandao1/dandao1_24
+  rotate: false
+  xy: 2, 3
+  size: 247, 63
+  orig: 281, 85
+  offset: 33, 10
+  index: -1
+images/chutu/dandao2/dandao2_00
+  rotate: false
+  xy: 748, 112
+  size: 137, 31
+  orig: 150, 36
+  offset: 7, 2
+  index: -1
+images/chutu/dandao2/dandao2_02
+  rotate: false
+  xy: 592, 9
+  size: 139, 32
+  orig: 150, 36
+  offset: 6, 2
+  index: -1
+images/chutu/dandao2/dandao2_04
+  rotate: false
+  xy: 887, 114
+  size: 125, 29
+  orig: 150, 36
+  offset: 18, 4
+  index: -1
+images/chutu/dandao2/dandao2_06
+  rotate: false
+  xy: 887, 85
+  size: 131, 27
+  orig: 150, 36
+  offset: 15, 5
+  index: -1
+images/chutu/dandao2/dandao2_08
+  rotate: false
+  xy: 888, 57
+  size: 130, 26
+  orig: 150, 36
+  offset: 16, 7
+  index: -1
+images/chutu/dandao2/dandao2_10
+  rotate: false
+  xy: 733, 29
+  size: 135, 27
+  orig: 150, 36
+  offset: 10, 7
+  index: -1
+images/chutu/dandao2/dandao2_12
+  rotate: false
+  xy: 748, 84
+  size: 137, 26
+  orig: 150, 36
+  offset: 9, 7
+  index: -1
+images/chutu/dandao2/dandao2_14
+  rotate: false
+  xy: 870, 34
+  size: 136, 21
+  orig: 150, 36
+  offset: 8, 9
+  index: -1
+images/chutu/dandao2/dandao2_16
+  rotate: false
+  xy: 748, 58
+  size: 138, 24
+  orig: 150, 36
+  offset: 8, 9
+  index: -1
+images/chutu/dandao2/dandao2_18
+  rotate: false
+  xy: 870, 9
+  size: 134, 23
+  orig: 150, 36
+  offset: 12, 8
+  index: -1
+images/chutu/dandao2/dandao2_20
+  rotate: true
+  xy: 1018, 139
+  size: 132, 22
+  orig: 150, 36
+  offset: 14, 9
+  index: -1
+images/chutu/dandao2/dandao2_22
+  rotate: false
+  xy: 733, 2
+  size: 125, 25
+  orig: 150, 36
+  offset: 21, 4
+  index: -1
+images/chutu/dandao2/dandao2_24
+  rotate: false
+  xy: 592, 43
+  size: 138, 33
+  orig: 150, 36
+  offset: 7, 2
+  index: -1
+images/chutu/yinfu_08
+  rotate: true
+  xy: 503, 2
+  size: 74, 87
+  orig: 86, 99
+  offset: 6, 6
+  index: -1

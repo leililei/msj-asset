@@ -1,0 +1,97 @@
+
+yupao_atk_beaten_1.png
+size: 442,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/5/5_00011
+  rotate: false
+  xy: 2, 5
+  size: 90, 76
+  orig: 407, 411
+  offset: 159, 166
+  index: -1
+images/chutu/5/5_00012
+  rotate: false
+  xy: 213, 2
+  size: 143, 128
+  orig: 407, 411
+  offset: 137, 146
+  index: -1
+images/chutu/5/5_00013
+  rotate: false
+  xy: 227, 308
+  size: 213, 149
+  orig: 407, 411
+  offset: 99, 136
+  index: -1
+images/chutu/5/5_00014
+  rotate: true
+  xy: 278, 807
+  size: 213, 157
+  orig: 407, 411
+  offset: 99, 134
+  index: -1
+images/chutu/5/5_00016
+  rotate: false
+  xy: 2, 852
+  size: 274, 168
+  orig: 407, 411
+  offset: 69, 130
+  index: -1
+images/chutu/5/5_00018
+  rotate: false
+  xy: 230, 638
+  size: 196, 167
+  orig: 407, 411
+  offset: 116, 124
+  index: -1
+images/chutu/5/5_00020
+  rotate: false
+  xy: 2, 83
+  size: 209, 181
+  orig: 407, 411
+  offset: 107, 119
+  index: -1
+images/chutu/5/5_00022
+  rotate: false
+  xy: 2, 266
+  size: 218, 190
+  orig: 407, 411
+  offset: 101, 115
+  index: -1
+images/chutu/5/5_00024
+  rotate: false
+  xy: 2, 458
+  size: 223, 193
+  orig: 407, 411
+  offset: 97, 116
+  index: -1
+images/chutu/5/5_00026
+  rotate: false
+  xy: 2, 653
+  size: 226, 197
+  orig: 407, 411
+  offset: 94, 113
+  index: -1
+images/chutu/5/5_00028
+  rotate: false
+  xy: 227, 459
+  size: 196, 177
+  orig: 407, 411
+  offset: 93, 133
+  index: -1
+images/chutu/5/5_00030
+  rotate: false
+  xy: 222, 132
+  size: 195, 174
+  orig: 407, 411
+  offset: 94, 134
+  index: -1
+images/chutu/6/6_00011
+  rotate: true
+  xy: 94, 6
+  size: 75, 77
+  orig: 204, 206
+  offset: 64, 65
+  index: -1

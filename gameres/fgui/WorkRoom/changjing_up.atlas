@@ -1,0 +1,48 @@
+
+changjing_up.png
+size: 741,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changjing1
+  rotate: true
+  xy: 2, 2
+  size: 304, 229
+  orig: 304, 229
+  offset: 0, 0
+  index: -1
+changjing1a
+  rotate: true
+  xy: 233, 7
+  size: 16, 70
+  orig: 16, 70
+  offset: 0, 0
+  index: -1
+changjing2
+  rotate: true
+  xy: 474, 52
+  size: 254, 265
+  orig: 254, 265
+  offset: 0, 0
+  index: -1
+changjing2a
+  rotate: true
+  xy: 474, 8
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+changjing3
+  rotate: false
+  xy: 233, 25
+  size: 239, 281
+  orig: 239, 281
+  offset: 0, 0
+  index: -1
+changjing3a
+  rotate: true
+  xy: 538, 13
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1

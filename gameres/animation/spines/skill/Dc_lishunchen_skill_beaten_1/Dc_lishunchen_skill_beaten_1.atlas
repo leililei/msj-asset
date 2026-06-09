@@ -1,0 +1,69 @@
+
+Dc_lishunchen_skill_beaten_1.png
+size: 457,1041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_mz1_00
+  rotate: true
+  xy: 338, 662
+  size: 69, 117
+  orig: 85, 131
+  offset: 9, 7
+  index: -1
+effect/skill_mz1_01
+  rotate: false
+  xy: 251, 733
+  size: 170, 306
+  orig: 182, 320
+  offset: 6, 7
+  index: -1
+effect/skill_mz1_03
+  rotate: false
+  xy: 2, 245
+  size: 236, 401
+  orig: 250, 422
+  offset: 7, 9
+  index: -1
+effect/skill_mz1_05
+  rotate: false
+  xy: 2, 648
+  size: 247, 391
+  orig: 260, 413
+  offset: 6, 11
+  index: -1
+effect/skill_mz1_07
+  rotate: true
+  xy: 2, 25
+  size: 218, 255
+  orig: 233, 266
+  offset: 8, 4
+  index: -1
+effect/skill_mz1_09
+  rotate: false
+  xy: 259, 2
+  size: 196, 261
+  orig: 206, 273
+  offset: 5, 5
+  index: -1
+effect/skill_mz1_11
+  rotate: true
+  xy: 240, 265
+  size: 172, 200
+  orig: 210, 230
+  offset: 14, 24
+  index: -1
+effect/skill_mz1_13
+  rotate: true
+  xy: 251, 648
+  size: 83, 85
+  orig: 158, 158
+  offset: 37, 36
+  index: -1
+effect/skill_xuehua1
+  rotate: true
+  xy: 240, 439
+  size: 207, 206
+  orig: 219, 218
+  offset: 6, 6
+  index: -1

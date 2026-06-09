@@ -1,0 +1,139 @@
+
+longhun2_buff_jian.png
+size: 2020,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/buff/00
+  rotate: false
+  xy: 1079, 15
+  size: 105, 108
+  orig: 120, 160
+  offset: 7, 31
+  index: -1
+images/effect/buff/02
+  rotate: false
+  xy: 652, 12
+  size: 107, 111
+  orig: 120, 160
+  offset: 6, 32
+  index: -1
+images/effect/buff/04
+  rotate: false
+  xy: 113, 9
+  size: 109, 114
+  orig: 120, 160
+  offset: 4, 30
+  index: -1
+images/effect/buff/06
+  rotate: false
+  xy: 3, 7
+  size: 108, 116
+  orig: 120, 160
+  offset: 4, 29
+  index: -1
+images/effect/buff/08
+  rotate: true
+  xy: 971, 15
+  size: 108, 106
+  orig: 120, 160
+  offset: 3, 28
+  index: -1
+images/effect/buff/10
+  rotate: false
+  xy: 328, 11
+  size: 108, 112
+  orig: 120, 160
+  offset: 3, 28
+  index: -1
+images/effect/buff/12
+  rotate: false
+  xy: 438, 10
+  size: 107, 113
+  orig: 120, 160
+  offset: 4, 29
+  index: -1
+images/effect/buff/14
+  rotate: true
+  xy: 1815, 18
+  size: 105, 101
+  orig: 120, 160
+  offset: 7, 30
+  index: -1
+images/effect/buff/16
+  rotate: false
+  xy: 1502, 18
+  size: 103, 105
+  orig: 120, 160
+  offset: 10, 31
+  index: -1
+images/effect/buff/18
+  rotate: false
+  xy: 1291, 14
+  size: 103, 109
+  orig: 120, 160
+  offset: 10, 31
+  index: -1
+images/effect/buff/20
+  rotate: false
+  xy: 1607, 16
+  size: 101, 107
+  orig: 120, 160
+  offset: 10, 33
+  index: -1
+images/effect/buff/22
+  rotate: false
+  xy: 1186, 13
+  size: 103, 110
+  orig: 120, 160
+  offset: 9, 32
+  index: -1
+images/effect/buff/24
+  rotate: false
+  xy: 761, 11
+  size: 104, 112
+  orig: 120, 160
+  offset: 8, 31
+  index: -1
+images/effect/buff/26
+  rotate: false
+  xy: 867, 9
+  size: 102, 114
+  orig: 120, 160
+  offset: 10, 32
+  index: -1
+images/effect/buff/28
+  rotate: false
+  xy: 547, 6
+  size: 103, 117
+  orig: 120, 160
+  offset: 10, 32
+  index: -1
+images/effect/buff/30
+  rotate: false
+  xy: 224, 3
+  size: 102, 120
+  orig: 120, 160
+  offset: 10, 31
+  index: -1
+images/effect/buff/32
+  rotate: true
+  xy: 1918, 21
+  size: 102, 100
+  orig: 120, 160
+  offset: 10, 32
+  index: -1
+images/effect/buff/34
+  rotate: false
+  xy: 1710, 19
+  size: 103, 104
+  orig: 120, 160
+  offset: 8, 33
+  index: -1
+images/effect/buff/36
+  rotate: false
+  xy: 1396, 18
+  size: 104, 105
+  orig: 120, 160
+  offset: 8, 32
+  index: -1

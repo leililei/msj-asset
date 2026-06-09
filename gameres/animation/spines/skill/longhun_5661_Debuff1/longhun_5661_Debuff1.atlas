@@ -1,0 +1,41 @@
+
+longhun_5661_Debuff1.png
+size: 545,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/tielian_buff1/00
+  rotate: true
+  xy: 2, 2
+  size: 213, 107
+  orig: 287, 205
+  offset: 32, 46
+  index: -1
+images/effect/tielian_buff1/02
+  rotate: true
+  xy: 329, 2
+  size: 213, 106
+  orig: 287, 205
+  offset: 32, 46
+  index: -1
+images/effect/tielian_buff1/04
+  rotate: true
+  xy: 111, 2
+  size: 213, 107
+  orig: 287, 205
+  offset: 32, 46
+  index: -1
+images/effect/tielian_buff1/06
+  rotate: true
+  xy: 220, 2
+  size: 213, 107
+  orig: 287, 205
+  offset: 32, 46
+  index: -1
+images/effect/tielian_buff1/08
+  rotate: true
+  xy: 437, 2
+  size: 213, 106
+  orig: 287, 205
+  offset: 32, 47
+  index: -1

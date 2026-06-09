@@ -1,0 +1,132 @@
+
+longhun_5661_Debuff2.png
+size: 1967,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/tielian_buff2/00
+  rotate: false
+  xy: 1362, 3
+  size: 193, 99
+  orig: 287, 205
+  offset: 51, 92
+  index: -1
+images/effect/tielian_buff2/01
+  rotate: false
+  xy: 1557, 3
+  size: 193, 99
+  orig: 287, 205
+  offset: 51, 92
+  index: -1
+images/effect/tielian_buff2/02
+  rotate: false
+  xy: 390, 6
+  size: 193, 98
+  orig: 287, 205
+  offset: 51, 92
+  index: -1
+images/effect/tielian_buff2/03
+  rotate: false
+  xy: 779, 5
+  size: 193, 98
+  orig: 287, 205
+  offset: 51, 92
+  index: -1
+images/effect/tielian_buff2/04
+  rotate: false
+  xy: 1752, 2
+  size: 193, 99
+  orig: 287, 205
+  offset: 51, 92
+  index: -1
+images/effect/tielian_buff2/05
+  rotate: false
+  xy: 585, 6
+  size: 192, 98
+  orig: 287, 205
+  offset: 52, 92
+  index: -1
+images/effect/tielian_buff2/06
+  rotate: false
+  xy: 974, 5
+  size: 192, 98
+  orig: 287, 205
+  offset: 52, 92
+  index: -1
+images/effect/tielian_buff2/07
+  rotate: false
+  xy: 1168, 5
+  size: 192, 98
+  orig: 287, 205
+  offset: 52, 92
+  index: -1
+images/effect/tielian_buff2/08
+  rotate: false
+  xy: 2, 8
+  size: 192, 97
+  orig: 287, 205
+  offset: 52, 92
+  index: -1
+images/effect/tielian_buff2/09
+  rotate: false
+  xy: 196, 7
+  size: 192, 97
+  orig: 287, 205
+  offset: 52, 92
+  index: -1
+images/effect/tielian_buff3/02
+  rotate: false
+  xy: 779, 105
+  size: 254, 77
+  orig: 287, 205
+  offset: 14, 22
+  index: -1
+images/effect/tielian_buff3/04
+  rotate: false
+  xy: 1035, 105
+  size: 239, 77
+  orig: 287, 205
+  offset: 21, 22
+  index: -1
+images/effect/tielian_buff3/06
+  rotate: false
+  xy: 1276, 105
+  size: 235, 77
+  orig: 287, 205
+  offset: 20, 22
+  index: -1
+images/effect/tielian_buff3/08
+  rotate: false
+  xy: 1752, 103
+  size: 213, 79
+  orig: 287, 205
+  offset: 33, 20
+  index: -1
+images/effect/tielian_buff3/10
+  rotate: false
+  xy: 1513, 104
+  size: 237, 78
+  orig: 287, 205
+  offset: 21, 20
+  index: -1
+images/effect/tielian_buff3/14
+  rotate: false
+  xy: 260, 106
+  size: 257, 76
+  orig: 287, 205
+  offset: 14, 22
+  index: -1
+images/effect/tielian_buff3/16
+  rotate: false
+  xy: 519, 106
+  size: 258, 76
+  orig: 287, 205
+  offset: 14, 22
+  index: -1
+images/effect/tielian_buff3/18
+  rotate: false
+  xy: 2, 107
+  size: 256, 75
+  orig: 287, 205
+  offset: 14, 22
+  index: -1

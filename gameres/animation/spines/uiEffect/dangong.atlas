@@ -1,0 +1,41 @@
+
+dangong.png
+size: 124,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hou
+  rotate: true
+  xy: 66, 5
+  size: 60, 54
+  orig: 62, 56
+  offset: 1, 1
+  index: -1
+xian1
+  rotate: true
+  xy: 3, 67
+  size: 54, 100
+  orig: 56, 102
+  offset: 1, 1
+  index: -1
+xian2
+  rotate: false
+  xy: 3, 4
+  size: 61, 61
+  orig: 63, 63
+  offset: 1, 1
+  index: -1
+zhuti
+  rotate: false
+  xy: 3, 123
+  size: 103, 161
+  orig: 103, 161
+  offset: 0, 0
+  index: -1
+zidan
+  rotate: false
+  xy: 55, 238
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1

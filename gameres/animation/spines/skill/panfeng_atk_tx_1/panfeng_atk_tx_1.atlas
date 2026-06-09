@@ -1,0 +1,41 @@
+
+panfeng_atk_tx_1.png
+size: 1391,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/a4/a4_009
+  rotate: false
+  xy: 722, 3
+  size: 246, 313
+  orig: 431, 338
+  offset: 4, 12
+  index: -1
+chutu/attack/a4/a4_010
+  rotate: false
+  xy: 3, 20
+  size: 365, 296
+  orig: 431, 338
+  offset: 59, 38
+  index: -1
+chutu/attack/a4/a4_012
+  rotate: false
+  xy: 370, 13
+  size: 350, 303
+  orig: 431, 338
+  offset: 71, 30
+  index: -1
+chutu/attack/a4/a4_014
+  rotate: true
+  xy: 970, 3
+  size: 285, 230
+  orig: 431, 338
+  offset: 132, 74
+  index: -1
+chutu/attack/a4/a4_016
+  rotate: true
+  xy: 1202, 3
+  size: 253, 187
+  orig: 431, 338
+  offset: 141, 115
+  index: -1

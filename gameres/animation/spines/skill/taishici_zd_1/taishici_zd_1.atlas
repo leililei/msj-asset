@@ -1,0 +1,69 @@
+
+taishici_zd_1.png
+size: 412,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_dd_00
+  rotate: false
+  xy: 329, 168
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+effect/atk_dd_01
+  rotate: false
+  xy: 2, 12
+  size: 148, 58
+  orig: 148, 58
+  offset: 0, 0
+  index: -1
+effect/atk_dd_02
+  rotate: false
+  xy: 152, 2
+  size: 210, 59
+  orig: 210, 59
+  offset: 0, 0
+  index: -1
+effect/atk_dd_03
+  rotate: false
+  xy: 204, 63
+  size: 206, 57
+  orig: 206, 57
+  offset: 0, 0
+  index: -1
+effect/atk_dd_04
+  rotate: false
+  xy: 2, 72
+  size: 200, 48
+  orig: 200, 48
+  offset: 0, 0
+  index: -1
+effect/atk_dd_05
+  rotate: false
+  xy: 2, 126
+  size: 191, 44
+  orig: 191, 44
+  offset: 0, 0
+  index: -1
+effect/atk_dd_06
+  rotate: false
+  xy: 195, 122
+  size: 168, 44
+  orig: 168, 44
+  offset: 0, 0
+  index: -1
+effect/atk_dd_07
+  rotate: false
+  xy: 158, 172
+  size: 169, 37
+  orig: 169, 37
+  offset: 0, 0
+  index: -1
+effect/atk_dd_09
+  rotate: false
+  xy: 2, 178
+  size: 154, 31
+  orig: 154, 31
+  offset: 0, 0
+  index: -1

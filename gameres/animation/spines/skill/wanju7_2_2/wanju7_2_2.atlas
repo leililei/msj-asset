@@ -1,0 +1,195 @@
+
+wanju7_2_2.png
+size: 2041,699
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/glow
+  rotate: false
+  xy: 1713, 110
+  size: 128, 129
+  orig: 132, 133
+  offset: 2, 2
+  index: -1
+effect/ke_00
+  rotate: false
+  xy: 4, 471
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_02
+  rotate: false
+  xy: 295, 471
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_04
+  rotate: false
+  xy: 586, 471
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_06
+  rotate: false
+  xy: 877, 471
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_08
+  rotate: false
+  xy: 1168, 471
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_10
+  rotate: false
+  xy: 1459, 471
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_12
+  rotate: false
+  xy: 1750, 471
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_14
+  rotate: false
+  xy: 4, 243
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_16
+  rotate: false
+  xy: 295, 243
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_18
+  rotate: false
+  xy: 586, 243
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_20
+  rotate: false
+  xy: 877, 243
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_22
+  rotate: false
+  xy: 1168, 243
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_24
+  rotate: false
+  xy: 1459, 243
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_26
+  rotate: false
+  xy: 1750, 243
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_28
+  rotate: false
+  xy: 4, 15
+  size: 287, 224
+  orig: 292, 229
+  offset: 3, 1
+  index: -1
+effect/ke_shouji_00
+  rotate: true
+  xy: 1713, 4
+  size: 102, 110
+  orig: 106, 114
+  offset: 2, 2
+  index: -1
+effect/ke_shouji_01
+  rotate: false
+  xy: 1845, 110
+  size: 117, 129
+  orig: 121, 133
+  offset: 2, 2
+  index: -1
+effect/ke_shouji_02
+  rotate: false
+  xy: 1435, 93
+  size: 136, 146
+  orig: 140, 150
+  offset: 2, 2
+  index: -1
+effect/ke_shouji_03
+  rotate: false
+  xy: 1128, 80
+  size: 152, 159
+  orig: 156, 163
+  offset: 2, 2
+  index: -1
+effect/ke_shouji_04
+  rotate: false
+  xy: 968, 74
+  size: 156, 165
+  orig: 160, 169
+  offset: 2, 2
+  index: -1
+effect/ke_shouji_06
+  rotate: false
+  xy: 638, 62
+  size: 162, 177
+  orig: 167, 181
+  offset: 2, 2
+  index: -1
+effect/ke_shouji_08
+  rotate: false
+  xy: 466, 55
+  size: 168, 184
+  orig: 173, 189
+  offset: 3, 3
+  index: -1
+effect/ke_shouji_10
+  rotate: false
+  xy: 295, 53
+  size: 167, 186
+  orig: 173, 193
+  offset: 4, 4
+  index: -1
+effect/ke_shouji_12
+  rotate: false
+  xy: 804, 61
+  size: 160, 178
+  orig: 168, 188
+  offset: 5, 6
+  index: -1
+effect/ke_shouji_14
+  rotate: false
+  xy: 1284, 87
+  size: 147, 152
+  orig: 155, 160
+  offset: 4, 4
+  index: -1
+effect/ke_shouji_16
+  rotate: false
+  xy: 1575, 99
+  size: 134, 140
+  orig: 145, 151
+  offset: 5, 6
+  index: -1

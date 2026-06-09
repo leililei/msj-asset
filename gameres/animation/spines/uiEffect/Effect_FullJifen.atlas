@@ -1,0 +1,111 @@
+
+Effect_FullJifen.png
+size: 272,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/3_000
+  rotate: false
+  xy: 3, 315
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_002
+  rotate: false
+  xy: 3, 289
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_004
+  rotate: false
+  xy: 3, 263
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_006
+  rotate: false
+  xy: 3, 237
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_008
+  rotate: false
+  xy: 3, 211
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_010
+  rotate: false
+  xy: 3, 185
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_012
+  rotate: false
+  xy: 3, 159
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_014
+  rotate: false
+  xy: 3, 133
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_016
+  rotate: false
+  xy: 3, 107
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_018
+  rotate: false
+  xy: 3, 81
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_020
+  rotate: false
+  xy: 3, 55
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_022
+  rotate: false
+  xy: 3, 29
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_024
+  rotate: false
+  xy: 3, 368
+  size: 267, 25
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_026
+  rotate: false
+  xy: 3, 341
+  size: 267, 25
+  orig: 270, 26
+  offset: 2, 1
+  index: -1
+3/3_028
+  rotate: false
+  xy: 3, 3
+  size: 267, 24
+  orig: 270, 26
+  offset: 2, 1
+  index: -1

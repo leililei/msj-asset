@@ -1,0 +1,153 @@
+
+Effect_CJZC_FightSmoke.png
+size: 1020,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao/bao_000
+  rotate: true
+  xy: 5, 27
+  size: 69, 83
+  orig: 92, 88
+  offset: 11, 3
+  index: -1
+bao/bao_001
+  rotate: false
+  xy: 653, 150
+  size: 86, 79
+  orig: 92, 88
+  offset: 2, 1
+  index: -1
+bao/bao_002
+  rotate: false
+  xy: 128, 84
+  size: 86, 70
+  orig: 92, 88
+  offset: 1, 12
+  index: -1
+bao/bao_003
+  rotate: false
+  xy: 653, 77
+  size: 86, 69
+  orig: 92, 88
+  offset: 0, 12
+  index: -1
+glow2_00000
+  rotate: false
+  xy: 5, 356
+  size: 322, 322
+  orig: 338, 344
+  offset: 7, 9
+  index: -1
+gt_000
+  rotate: false
+  xy: 92, 28
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+jian_000
+  rotate: false
+  xy: 983, 598
+  size: 31, 80
+  orig: 38, 88
+  offset: 4, 4
+  index: -1
+tg_000
+  rotate: false
+  xy: 653, 5
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+x_000
+  rotate: false
+  xy: 938, 497
+  size: 41, 181
+  orig: 51, 192
+  offset: 4, 6
+  index: -1
+xx_000
+  rotate: false
+  xy: 231, 265
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+yan/yan_000
+  rotate: false
+  xy: 5, 158
+  size: 222, 194
+  orig: 244, 221
+  offset: 21, 7
+  index: -1
+yan/yan_001
+  rotate: true
+  xy: 536, 450
+  size: 228, 199
+  orig: 244, 221
+  offset: 16, 5
+  index: -1
+yan/yan_002
+  rotate: true
+  xy: 739, 446
+  size: 232, 195
+  orig: 244, 221
+  offset: 12, 9
+  index: -1
+yan/yan_003
+  rotate: false
+  xy: 770, 42
+  size: 216, 193
+  orig: 244, 221
+  offset: 10, 7
+  index: -1
+yan/yan_004
+  rotate: false
+  xy: 331, 247
+  size: 221, 199
+  orig: 244, 221
+  offset: 7, 6
+  index: -1
+yan/yan_005
+  rotate: true
+  xy: 331, 452
+  size: 226, 201
+  orig: 244, 221
+  offset: 5, 7
+  index: -1
+yan/yan_006
+  rotate: true
+  xy: 443, 28
+  size: 201, 206
+  orig: 244, 221
+  offset: 32, 6
+  index: -1
+yan/yan_007
+  rotate: true
+  xy: 230, 39
+  size: 204, 208
+  orig: 244, 221
+  offset: 30, 6
+  index: -1
+yan/yan_008
+  rotate: false
+  xy: 556, 233
+  size: 210, 209
+  orig: 244, 221
+  offset: 27, 6
+  index: -1
+yan/yan_009
+  rotate: false
+  xy: 770, 239
+  size: 215, 203
+  orig: 244, 221
+  offset: 25, 7
+  index: -1
+yt_000
+  rotate: false
+  xy: 5, 100
+  size: 119, 54
+  orig: 119, 54
+  offset: 0, 0
+  index: -1

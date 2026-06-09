@@ -1,0 +1,55 @@
+
+longhun2_mz.png
+size: 1804,715
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/mz/00
+  rotate: true
+  xy: 392, 3
+  size: 312, 333
+  orig: 420, 420
+  offset: 31, 43
+  index: -1
+images/effect/mz/01
+  rotate: false
+  xy: 3, 304
+  size: 387, 409
+  orig: 420, 420
+  offset: 27, 11
+  index: -1
+images/effect/mz/02
+  rotate: false
+  xy: 775, 328
+  size: 366, 385
+  orig: 420, 420
+  offset: 36, 22
+  index: -1
+images/effect/mz/03
+  rotate: false
+  xy: 392, 317
+  size: 381, 396
+  orig: 420, 420
+  offset: 36, 11
+  index: -1
+images/effect/mz/05
+  rotate: false
+  xy: 1143, 306
+  size: 345, 407
+  orig: 420, 420
+  offset: 40, 0
+  index: -1
+images/effect/mz/07
+  rotate: false
+  xy: 1490, 306
+  size: 312, 407
+  orig: 420, 420
+  offset: 48, 0
+  index: -1
+images/effect/mz/09
+  rotate: true
+  xy: 775, 26
+  size: 300, 360
+  orig: 420, 420
+  offset: 55, 47
+  index: -1

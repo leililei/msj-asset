@@ -1,0 +1,188 @@
+
+mazhu_wukong_attack_mz.png
+size: 327,1971
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack/glow
+  rotate: false
+  xy: 3, 1550
+  size: 190, 190
+  orig: 216, 216
+  offset: 13, 13
+  index: -1
+effect/attack/mz/00
+  rotate: false
+  xy: 3, 1742
+  size: 208, 227
+  orig: 259, 259
+  offset: 9, 16
+  index: -1
+effect/attack/mz/01
+  rotate: false
+  xy: 3, 3
+  size: 197, 155
+  orig: 259, 259
+  offset: 25, 52
+  index: -1
+effect/attack/mz/02
+  rotate: false
+  xy: 3, 1190
+  size: 187, 171
+  orig: 259, 259
+  offset: 36, 40
+  index: -1
+effect/attack/mz/03
+  rotate: false
+  xy: 3, 1363
+  size: 194, 185
+  orig: 259, 259
+  offset: 29, 28
+  index: -1
+effect/attack/mz/04
+  rotate: false
+  xy: 3, 160
+  size: 187, 167
+  orig: 259, 259
+  offset: 36, 46
+  index: -1
+effect/attack/mz/05
+  rotate: false
+  xy: 3, 500
+  size: 187, 169
+  orig: 259, 259
+  offset: 36, 45
+  index: -1
+effect/attack/mz/06
+  rotate: false
+  xy: 3, 329
+  size: 187, 169
+  orig: 259, 259
+  offset: 36, 45
+  index: -1
+effect/attack/mz/07
+  rotate: false
+  xy: 3, 1017
+  size: 187, 171
+  orig: 259, 259
+  offset: 36, 44
+  index: -1
+effect/attack/mz/08
+  rotate: false
+  xy: 3, 844
+  size: 187, 171
+  orig: 259, 259
+  offset: 36, 44
+  index: -1
+effect/attack/mz/09
+  rotate: false
+  xy: 3, 671
+  size: 187, 171
+  orig: 259, 259
+  offset: 36, 44
+  index: -1
+effect/attack/mz_sd/00
+  rotate: true
+  xy: 192, 1215
+  size: 146, 127
+  orig: 187, 187
+  offset: 12, 40
+  index: -1
+effect/attack/mz_sd/02
+  rotate: true
+  xy: 192, 935
+  size: 137, 119
+  orig: 187, 187
+  offset: 17, 44
+  index: -1
+effect/attack/mz_sd/03
+  rotate: true
+  xy: 192, 796
+  size: 137, 119
+  orig: 187, 187
+  offset: 17, 44
+  index: -1
+effect/attack/mz_sd/04
+  rotate: false
+  xy: 192, 1074
+  size: 133, 139
+  orig: 187, 187
+  offset: 21, 36
+  index: -1
+effect/attack/mz_sd/06
+  rotate: false
+  xy: 192, 665
+  size: 124, 129
+  orig: 187, 187
+  offset: 26, 41
+  index: -1
+effect/attack/mz_sd/07
+  rotate: false
+  xy: 192, 534
+  size: 124, 129
+  orig: 187, 187
+  offset: 26, 41
+  index: -1
+effect/attack/mz_sd/08
+  rotate: false
+  xy: 192, 415
+  size: 108, 117
+  orig: 187, 187
+  offset: 39, 27
+  index: -1
+effect/attack/mz_sd/10
+  rotate: false
+  xy: 199, 1527
+  size: 98, 107
+  orig: 187, 187
+  offset: 44, 32
+  index: -1
+effect/attack/mz_sd/11
+  rotate: false
+  xy: 199, 1418
+  size: 98, 107
+  orig: 187, 187
+  offset: 44, 32
+  index: -1
+effect/attack/mz_sd/12
+  rotate: false
+  xy: 192, 299
+  size: 110, 114
+  orig: 187, 187
+  offset: 45, 43
+  index: -1
+effect/attack/mz_sd/14
+  rotate: false
+  xy: 192, 193
+  size: 101, 104
+  orig: 187, 187
+  offset: 49, 48
+  index: -1
+effect/attack/mz_sd/15
+  rotate: false
+  xy: 195, 1636
+  size: 101, 104
+  orig: 187, 187
+  offset: 49, 48
+  index: -1
+effect/attack/mz_sd/16
+  rotate: false
+  xy: 202, 114
+  size: 96, 77
+  orig: 187, 187
+  offset: 50, 53
+  index: -1
+effect/attack/mz_sd/18
+  rotate: false
+  xy: 202, 44
+  size: 86, 68
+  orig: 187, 187
+  offset: 55, 58
+  index: -1
+effect/attack/mz_sd/19
+  rotate: false
+  xy: 213, 1742
+  size: 86, 68
+  orig: 187, 187
+  offset: 55, 58
+  index: -1

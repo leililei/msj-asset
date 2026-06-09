@@ -1,0 +1,13 @@
+
+atk_zd_3.png
+size: 59,38
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/6atk_zidan_00
+  rotate: false
+  xy: 2, 2
+  size: 55, 34
+  orig: 72, 42
+  offset: 10, 4
+  index: -1

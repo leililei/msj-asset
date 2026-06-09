@@ -1,0 +1,76 @@
+
+wanju3_tx_1.png
+size: 407,680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/glow_002
+  rotate: true
+  xy: 2, 479
+  size: 199, 204
+  orig: 220, 225
+  offset: 10, 11
+  index: -1
+1/lz/lz_002
+  rotate: false
+  xy: 300, 51
+  size: 95, 86
+  orig: 204, 200
+  offset: 52, 59
+  index: -1
+1/lz/lz_003
+  rotate: false
+  xy: 2, 2
+  size: 171, 146
+  orig: 204, 200
+  offset: 18, 34
+  index: -1
+1/lz/lz_005
+  rotate: false
+  xy: 2, 150
+  size: 180, 153
+  orig: 204, 200
+  offset: 12, 30
+  index: -1
+1/y/y_002
+  rotate: false
+  xy: 348, 244
+  size: 57, 56
+  orig: 196, 200
+  offset: 69, 72
+  index: -1
+1/y/y_003
+  rotate: true
+  xy: 184, 139
+  size: 161, 162
+  orig: 196, 200
+  offset: 17, 19
+  index: -1
+1/y/y_004
+  rotate: false
+  xy: 2, 305
+  size: 172, 172
+  orig: 196, 200
+  offset: 12, 14
+  index: -1
+1/y/y_005
+  rotate: false
+  xy: 208, 302
+  size: 183, 182
+  orig: 196, 200
+  offset: 6, 9
+  index: -1
+1/y/y_006
+  rotate: false
+  xy: 208, 486
+  size: 193, 192
+  orig: 196, 200
+  offset: 1, 4
+  index: -1
+1/yg_002
+  rotate: false
+  xy: 175, 19
+  size: 123, 118
+  orig: 125, 125
+  offset: 1, 5
+  index: -1

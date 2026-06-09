@@ -1,0 +1,132 @@
+
+yanliang_atk_tx_1.png
+size: 480,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/atk/c1/c1_13
+  rotate: true
+  xy: 251, 382
+  size: 226, 135
+  orig: 272, 146
+  offset: 33, 1
+  index: -1
+chutu/atk/c1/c1_15
+  rotate: false
+  xy: 251, 258
+  size: 199, 122
+  orig: 272, 146
+  offset: 24, 10
+  index: -1
+chutu/atk/c1/c1_17
+  rotate: true
+  xy: 104, 26
+  size: 160, 112
+  orig: 272, 146
+  offset: 20, 15
+  index: -1
+chutu/atk/c2/c2_11
+  rotate: true
+  xy: 104, 188
+  size: 343, 71
+  orig: 546, 128
+  offset: 25, 37
+  index: -1
+chutu/atk/c2/c2_13
+  rotate: true
+  xy: 2, 34
+  size: 497, 100
+  orig: 546, 128
+  offset: 37, 13
+  index: -1
+chutu/atk/c2/c2_15
+  rotate: true
+  xy: 2, 533
+  size: 493, 110
+  orig: 546, 128
+  offset: 37, 9
+  index: -1
+chutu/atk/c2/c2_17
+  rotate: true
+  xy: 114, 567
+  size: 459, 111
+  orig: 546, 128
+  offset: 71, 8
+  index: -1
+chutu/atk/c2/c2_19
+  rotate: true
+  xy: 227, 610
+  size: 416, 95
+  orig: 546, 128
+  offset: 111, 9
+  index: -1
+chutu/atk/c2/c2_21
+  rotate: true
+  xy: 324, 627
+  size: 399, 90
+  orig: 546, 128
+  offset: 118, 12
+  index: -1
+chutu/atk/c2/c2_23
+  rotate: true
+  xy: 177, 291
+  size: 274, 72
+  orig: 546, 128
+  offset: 243, 16
+  index: -1
+chutu/atk/c2/c2_25
+  rotate: false
+  xy: 2, 2
+  size: 63, 30
+  orig: 546, 128
+  offset: 451, 39
+  index: -1
+chutu/atk/y1/y1_13
+  rotate: true
+  xy: 416, 724
+  size: 108, 36
+  orig: 257, 90
+  offset: 3, 20
+  index: -1
+chutu/atk/y1/y1_14
+  rotate: true
+  xy: 388, 401
+  size: 224, 68
+  orig: 257, 90
+  offset: 7, 17
+  index: -1
+chutu/atk/y1/y1_15
+  rotate: false
+  xy: 218, 181
+  size: 216, 75
+  orig: 257, 90
+  offset: 21, 8
+  index: -1
+chutu/atk/y1/y1_16
+  rotate: false
+  xy: 218, 104
+  size: 213, 75
+  orig: 257, 90
+  offset: 27, 8
+  index: -1
+chutu/atk/y1/y1_17
+  rotate: false
+  xy: 218, 30
+  size: 209, 72
+  orig: 257, 90
+  offset: 33, 11
+  index: -1
+chutu/atk/y1/y1_18
+  rotate: true
+  xy: 416, 834
+  size: 192, 61
+  orig: 257, 90
+  offset: 47, 15
+  index: -1
+chutu/atk/y1/y1_19
+  rotate: true
+  xy: 433, 40
+  size: 139, 45
+  orig: 257, 90
+  offset: 85, 20
+  index: -1

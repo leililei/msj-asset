@@ -1,0 +1,48 @@
+
+lihuajiabai_atk_1.png
+size: 351,402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dg_00
+  rotate: false
+  xy: 2, 262
+  size: 271, 138
+  orig: 285, 149
+  offset: 9, 6
+  index: -1
+effect/dg_01
+  rotate: true
+  xy: 206, 38
+  size: 172, 143
+  orig: 185, 155
+  offset: 8, 5
+  index: -1
+effect/dg_02
+  rotate: false
+  xy: 2, 31
+  size: 192, 133
+  orig: 206, 147
+  offset: 9, 5
+  index: -1
+effect/dg_03
+  rotate: false
+  xy: 2, 166
+  size: 202, 94
+  orig: 215, 109
+  offset: 8, 5
+  index: -1
+effect/dg_05
+  rotate: true
+  xy: 275, 212
+  size: 188, 68
+  orig: 202, 81
+  offset: 7, 4
+  index: -1
+effect/dg_07
+  rotate: false
+  xy: 196, 2
+  size: 119, 34
+  orig: 137, 48
+  offset: 9, 7
+  index: -1

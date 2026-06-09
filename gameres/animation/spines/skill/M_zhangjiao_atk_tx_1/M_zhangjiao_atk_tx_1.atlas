@@ -1,0 +1,146 @@
+
+M_zhangjiao_atk_tx_1.png
+size: 2032,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/sf1/sf1_00019
+  rotate: false
+  xy: 1509, 9
+  size: 52, 51
+  orig: 194, 144
+  offset: 67, 9
+  index: -1
+chutu/attack/sf1/sf1_00020
+  rotate: true
+  xy: 1838, 95
+  size: 98, 86
+  orig: 194, 144
+  offset: 74, 9
+  index: -1
+chutu/attack/sf1/sf1_00021
+  rotate: false
+  xy: 1741, 9
+  size: 92, 76
+  orig: 194, 144
+  offset: 85, 25
+  index: -1
+chutu/attack/sf1/sf1_00023
+  rotate: true
+  xy: 1550, 64
+  size: 129, 104
+  orig: 194, 144
+  offset: 54, 8
+  index: -1
+chutu/attack/sf1/sf1_00024
+  rotate: false
+  xy: 1741, 89
+  size: 93, 104
+  orig: 194, 144
+  offset: 13, 13
+  index: -1
+chutu/attack/sf1/sf1_00025
+  rotate: true
+  xy: 1057, 19
+  size: 174, 107
+  orig: 194, 144
+  offset: 8, 19
+  index: -1
+chutu/attack/sf1/sf1_00028
+  rotate: true
+  xy: 1423, 13
+  size: 52, 82
+  orig: 194, 144
+  offset: 9, 45
+  index: -1
+chutu/attack/sf2/sf2_00023
+  rotate: true
+  xy: 747, 25
+  size: 168, 167
+  orig: 215, 217
+  offset: 35, 22
+  index: -1
+chutu/attack/sf3/sf3_00019
+  rotate: true
+  xy: 1838, 4
+  size: 87, 77
+  orig: 210, 194
+  offset: 53, 42
+  index: -1
+chutu/attack/sf3/sf3_00020
+  rotate: true
+  xy: 1423, 69
+  size: 124, 123
+  orig: 210, 194
+  offset: 39, 29
+  index: -1
+chutu/attack/sf3/sf3_00021
+  rotate: false
+  xy: 578, 20
+  size: 165, 173
+  orig: 210, 194
+  offset: 27, 17
+  index: -1
+chutu/attack/sf3/sf3_00023
+  rotate: false
+  xy: 205, 16
+  size: 194, 177
+  orig: 210, 194
+  offset: 9, 14
+  index: -1
+chutu/attack/sf3/sf3_00025
+  rotate: false
+  xy: 4, 8
+  size: 197, 185
+  orig: 210, 194
+  offset: 10, 6
+  index: -1
+chutu/attack/sf3/sf3_00027
+  rotate: false
+  xy: 403, 12
+  size: 171, 181
+  orig: 210, 194
+  offset: 36, 7
+  index: -1
+chutu/attack/sf4/sf4_00020
+  rotate: false
+  xy: 1928, 98
+  size: 83, 95
+  orig: 211, 178
+  offset: 17, 9
+  index: -1
+chutu/attack/sf4/sf4_00021
+  rotate: false
+  xy: 1168, 52
+  size: 130, 141
+  orig: 211, 178
+  offset: 9, 8
+  index: -1
+chutu/attack/sf4/sf4_00024
+  rotate: true
+  xy: 918, 5
+  size: 188, 135
+  orig: 211, 178
+  offset: 9, 28
+  index: -1
+chutu/attack/sf4/sf4_00025
+  rotate: true
+  xy: 1658, 41
+  size: 152, 79
+  orig: 211, 178
+  offset: 39, 69
+  index: -1
+chutu/attack/sf4/sf4_00027
+  rotate: true
+  xy: 1302, 49
+  size: 144, 117
+  orig: 211, 178
+  offset: 58, 54
+  index: -1
+chutu/attack/sf4/sf4_00029
+  rotate: false
+  xy: 1928, 18
+  size: 97, 76
+  orig: 211, 178
+  offset: 94, 85
+  index: -1

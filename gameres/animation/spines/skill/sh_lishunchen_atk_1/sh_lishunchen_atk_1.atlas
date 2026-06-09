@@ -1,0 +1,279 @@
+
+sh_lishunchen_atk_1.png
+size: 2036,457
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_dg_00
+  rotate: false
+  xy: 291, 118
+  size: 267, 124
+  orig: 274, 129
+  offset: 4, 3
+  index: -1
+effect/attack_dg_01
+  rotate: false
+  xy: 1469, 66
+  size: 311, 173
+  orig: 321, 175
+  offset: 6, 0
+  index: -1
+effect/attack_dg_02
+  rotate: false
+  xy: 291, 246
+  size: 301, 211
+  orig: 312, 213
+  offset: 7, 0
+  index: -1
+effect/attack_dg_04
+  rotate: false
+  xy: 888, 236
+  size: 286, 221
+  orig: 294, 224
+  offset: 4, 1
+  index: -1
+effect/attack_dg_06
+  rotate: false
+  xy: 0, 235
+  size: 287, 222
+  orig: 295, 225
+  offset: 4, 0
+  index: -1
+effect/attack_dg_08
+  rotate: false
+  xy: 596, 237
+  size: 288, 220
+  orig: 295, 225
+  offset: 3, 1
+  index: -1
+effect/attack_dg_10
+  rotate: false
+  xy: 1178, 239
+  size: 287, 218
+  orig: 295, 221
+  offset: 4, 1
+  index: -1
+effect/attack_dg_12
+  rotate: false
+  xy: 1469, 243
+  size: 282, 214
+  orig: 292, 219
+  offset: 6, 1
+  index: -1
+effect/attack_dg_14
+  rotate: false
+  xy: 1755, 253
+  size: 281, 204
+  orig: 290, 206
+  offset: 5, 0
+  index: -1
+effect/attack_dg_16
+  rotate: true
+  xy: 1784, 72
+  size: 177, 202
+  orig: 181, 206
+  offset: 1, 0
+  index: -1
+effect/attack_sh_00
+  rotate: false
+  xy: 559, 50
+  size: 140, 36
+  orig: 166, 62
+  offset: 14, 13
+  index: -1
+effect/attack_sh_01
+  rotate: false
+  xy: 1137, 97
+  size: 162, 57
+  orig: 190, 84
+  offset: 14, 14
+  index: -1
+effect/attack_sh_03
+  rotate: false
+  xy: 763, 89
+  size: 184, 66
+  orig: 212, 90
+  offset: 14, 13
+  index: -1
+effect/attack_sh_05
+  rotate: false
+  xy: 0, 163
+  size: 188, 68
+  orig: 216, 92
+  offset: 14, 12
+  index: -1
+effect/attack_sh_07
+  rotate: false
+  xy: 966, 158
+  size: 188, 74
+  orig: 214, 100
+  offset: 12, 13
+  index: -1
+effect/attack_sh_09
+  rotate: false
+  xy: 1178, 158
+  size: 193, 77
+  orig: 220, 103
+  offset: 13, 13
+  index: -1
+effect/attack_sh_11
+  rotate: false
+  xy: 562, 158
+  size: 197, 75
+  orig: 222, 100
+  offset: 11, 13
+  index: -1
+effect/attack_sh_13
+  rotate: false
+  xy: 763, 159
+  size: 199, 73
+  orig: 220, 99
+  offset: 7, 13
+  index: -1
+effect/attack_sh_15
+  rotate: false
+  xy: 0, 91
+  size: 187, 68
+  orig: 214, 95
+  offset: 15, 13
+  index: -1
+effect/attack_sh_17
+  rotate: false
+  xy: 562, 90
+  size: 185, 64
+  orig: 213, 90
+  offset: 15, 13
+  index: -1
+effect/attack_sh_19
+  rotate: false
+  xy: 951, 99
+  size: 182, 55
+  orig: 207, 77
+  offset: 14, 12
+  index: -1
+effect/attack_sh_21
+  rotate: false
+  xy: 191, 67
+  size: 177, 47
+  orig: 187, 63
+  offset: 5, 5
+  index: -1
+effect/skill_sf_dmsh_00
+  rotate: false
+  xy: 372, 41
+  size: 138, 32
+  orig: 150, 54
+  offset: 6, 11
+  index: -1
+effect/skill_sf_dmsh_01
+  rotate: false
+  xy: 0, 52
+  size: 161, 35
+  orig: 181, 55
+  offset: 10, 11
+  index: -1
+effect/skill_sf_dmsh_03
+  rotate: true
+  xy: 1416, 67
+  size: 168, 38
+  orig: 188, 55
+  offset: 10, 10
+  index: -1
+effect/skill_sf_dmsh_05
+  rotate: true
+  xy: 1375, 59
+  size: 176, 37
+  orig: 196, 55
+  offset: 10, 10
+  index: -1
+effect/skill_sf_dmsh_07
+  rotate: false
+  xy: 372, 77
+  size: 183, 37
+  orig: 203, 55
+  offset: 10, 10
+  index: -1
+effect/skill_sf_dmsh_09
+  rotate: true
+  xy: 1990, 62
+  size: 187, 36
+  orig: 207, 55
+  offset: 10, 10
+  index: -1
+effect/skill_sf_dmsh_11
+  rotate: false
+  xy: 951, 60
+  size: 188, 33
+  orig: 208, 52
+  offset: 10, 9
+  index: -1
+effect/skill_sf_dmsh_13
+  rotate: false
+  xy: 1143, 63
+  size: 188, 30
+  orig: 206, 47
+  offset: 9, 8
+  index: -1
+effect/skill_sf_dmsh_15
+  rotate: false
+  xy: 1784, 44
+  size: 188, 24
+  orig: 196, 32
+  offset: 4, 4
+  index: -1
+effect/skill_sf_sh2_00
+  rotate: false
+  xy: 236, 12
+  size: 52, 51
+  orig: 72, 70
+  offset: 5, 5
+  index: -1
+effect/skill_sf_sh2_02
+  rotate: false
+  xy: 165, 0
+  size: 67, 63
+  orig: 83, 82
+  offset: 3, 5
+  index: -1
+effect/skill_sf_sh2_04
+  rotate: false
+  xy: 778, 18
+  size: 70, 67
+  orig: 86, 86
+  offset: 3, 5
+  index: -1
+effect/skill_sf_sh2_06
+  rotate: false
+  xy: 192, 159
+  size: 76, 72
+  orig: 93, 89
+  offset: 3, 3
+  index: -1
+effect/skill_sf_sh2_08
+  rotate: false
+  xy: 852, 17
+  size: 66, 68
+  orig: 88, 90
+  offset: 8, 8
+  index: -1
+effect/skill_sf_sh2_10
+  rotate: false
+  xy: 703, 15
+  size: 71, 70
+  orig: 87, 86
+  offset: 1, 1
+  index: -1
+effect/skill_sf_sh2_12
+  rotate: false
+  xy: 1303, 101
+  size: 57, 53
+  orig: 85, 79
+  offset: 13, 11
+  index: -1
+effect/skill_sf_sh2_14
+  rotate: false
+  xy: 292, 19
+  size: 55, 44
+  orig: 77, 72
+  offset: 9, 14
+  index: -1

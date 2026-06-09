@@ -1,0 +1,76 @@
+
+p_shuijing_attack_zidan.png
+size: 441,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/atk/dd/dd_00
+  rotate: true
+  xy: 265, 10
+  size: 137, 78
+  orig: 212, 115
+  offset: 18, 22
+  index: -1
+chutu/atk/dd/dd_02
+  rotate: false
+  xy: 297, 228
+  size: 142, 74
+  orig: 212, 115
+  offset: 12, 24
+  index: -1
+chutu/atk/dd/dd_04
+  rotate: true
+  xy: 78, 155
+  size: 147, 70
+  orig: 212, 115
+  offset: 8, 26
+  index: -1
+chutu/atk/dd/dd_06
+  rotate: true
+  xy: 190, 8
+  size: 145, 73
+  orig: 212, 115
+  offset: 10, 24
+  index: -1
+chutu/atk/dd/dd_08
+  rotate: false
+  xy: 297, 149
+  size: 139, 77
+  orig: 212, 115
+  offset: 17, 23
+  index: -1
+chutu/atk/dd/dd_10
+  rotate: false
+  xy: 2, 2
+  size: 186, 101
+  orig: 212, 115
+  offset: 18, 8
+  index: -1
+chutu/atk/dd/dd_12
+  rotate: true
+  xy: 2, 105
+  size: 197, 74
+  orig: 212, 115
+  offset: 12, 24
+  index: -1
+chutu/atk/dd/dd_14
+  rotate: true
+  xy: 150, 155
+  size: 147, 70
+  orig: 212, 115
+  offset: 8, 26
+  index: -1
+chutu/atk/dd/dd_16
+  rotate: true
+  xy: 222, 157
+  size: 145, 73
+  orig: 212, 115
+  offset: 10, 24
+  index: -1
+chutu/atk/dd/dd_18
+  rotate: true
+  xy: 345, 14
+  size: 133, 77
+  orig: 212, 115
+  offset: 21, 23
+  index: -1

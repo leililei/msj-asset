@@ -1,0 +1,76 @@
+
+zhoutai_atk_tx_2.png
+size: 443,967
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/atk/as1/as1_00014
+  rotate: false
+  xy: 2, 817
+  size: 352, 148
+  orig: 378, 173
+  offset: 13, 6
+  index: -1
+images/chutu/atk/as1/as1_00015
+  rotate: false
+  xy: 2, 104
+  size: 337, 155
+  orig: 378, 173
+  offset: 28, 9
+  index: -1
+images/chutu/atk/as1/as1_00017
+  rotate: false
+  xy: 2, 662
+  size: 347, 153
+  orig: 378, 173
+  offset: 21, 12
+  index: -1
+images/chutu/atk/as1/as1_00019
+  rotate: false
+  xy: 2, 514
+  size: 344, 146
+  orig: 378, 173
+  offset: 19, 23
+  index: -1
+images/chutu/atk/as1/as1_00021
+  rotate: false
+  xy: 2, 374
+  size: 340, 138
+  orig: 378, 173
+  offset: 19, 31
+  index: -1
+images/chutu/atk/as1/as1_00023
+  rotate: false
+  xy: 2, 261
+  size: 339, 111
+  orig: 378, 173
+  offset: 19, 54
+  index: -1
+images/chutu/atk/as1/as1_00025
+  rotate: false
+  xy: 2, 2
+  size: 325, 100
+  orig: 378, 173
+  offset: 25, 64
+  index: -1
+images/chutu/atk/as1/as1_00027
+  rotate: true
+  xy: 343, 43
+  size: 319, 98
+  orig: 378, 173
+  offset: 32, 65
+  index: -1
+images/chutu/atk/as1/as1_00029
+  rotate: true
+  xy: 348, 364
+  size: 296, 93
+  orig: 378, 173
+  offset: 47, 67
+  index: -1
+images/chutu/atk/as1/as1_00031
+  rotate: true
+  xy: 356, 949
+  size: 16, 37
+  orig: 378, 173
+  offset: 59, 72
+  index: -1

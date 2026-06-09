@@ -1,0 +1,307 @@
+
+sh_caocao_skill_2.png
+size: 2048,1611
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skl3_bz_kuosan_00
+  rotate: false
+  xy: 907, 96
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_kuosan_02
+  rotate: false
+  xy: 1854, 487
+  size: 192, 190
+  orig: 192, 190
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_kuosan_04
+  rotate: false
+  xy: 1398, 182
+  size: 226, 222
+  orig: 226, 222
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_kuosan_06
+  rotate: false
+  xy: 1790, 967
+  size: 256, 260
+  orig: 256, 260
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_kuosan_08
+  rotate: false
+  xy: 3, 337
+  size: 278, 286
+  orig: 278, 286
+  offset: 0, 0
+  index: -1
+effect/skl3_bz_kuosan_10
+  rotate: 270
+  xy: 1564, 456
+  size: 292, 297
+  orig: 292, 297
+  offset: 0, 0
+  index: -1
+effect/skl3_cj_00
+  rotate: true
+  xy: 150, 699
+  size: 300, 516
+  orig: 300, 516
+  offset: 0, 0
+  index: -1
+effect/skl3_cj_01
+  rotate: 270
+  xy: 1454, 708
+  size: 316, 552
+  orig: 316, 553
+  offset: 0, 0
+  index: -1
+effect/skl3_cj_02
+  rotate: false
+  xy: 1036, 1029
+  size: 367, 581
+  orig: 367, 582
+  offset: 0, 0
+  index: -1
+effect/skl3_cj_03
+  rotate: false
+  xy: 284, 998
+  size: 382, 612
+  orig: 382, 613
+  offset: 0, 0
+  index: -1
+effect/skl3_cj_04
+  rotate: false
+  xy: 3, 977
+  size: 392, 633
+  orig: 392, 634
+  offset: 0, 0
+  index: -1
+effect/skl3_cj_06
+  rotate: false
+  xy: 537, 962
+  size: 377, 648
+  orig: 378, 649
+  offset: 1, 0
+  index: -1
+effect/skl3_cj_07
+  rotate: 270
+  xy: 970, 708
+  size: 326, 640
+  orig: 326, 642
+  offset: 0, 1
+  index: -1
+effect/skl3_cj_08
+  rotate: false
+  xy: 760, 969
+  size: 392, 641
+  orig: 392, 642
+  offset: 0, 0
+  index: -1
+effect/skl3_cj_09
+  rotate: false
+  xy: 1290, 1024
+  size: 359, 586
+  orig: 359, 587
+  offset: 0, 0
+  index: -1
+effect/skl3_cj_10
+  rotate: false
+  xy: 1544, 1024
+  size: 345, 586
+  orig: 346, 587
+  offset: 1, 0
+  index: -1
+effect/skl3_cj_11
+  rotate: true
+  xy: 3, 560
+  size: 312, 448
+  orig: 312, 449
+  offset: 0, 0
+  index: -1
+effect/skl3_cj_12
+  rotate: true
+  xy: 784, 366
+  size: 304, 408
+  orig: 304, 410
+  offset: 0, 1
+  index: -1
+effect/skl3_cj_14
+  rotate: true
+  xy: 994, 167
+  size: 228, 319
+  orig: 228, 321
+  offset: 0, 1
+  index: -1
+effect/skl3_cj_16
+  rotate: true
+  xy: 3, 117
+  size: 228, 269
+  orig: 228, 269
+  offset: 0, 0
+  index: -1
+effect/skl3_cj_18
+  rotate: 270
+  xy: 1141, 5
+  size: 187, 263
+  orig: 187, 263
+  offset: 0, 0
+  index: -1
+effect/skl3_dikeng1
+  rotate: true
+  xy: 1882, 1260
+  size: 350, 136
+  orig: 350, 136
+  offset: 0, 0
+  index: -1
+effect/skl3_dikeng2
+  rotate: false
+  xy: 1011, 568
+  size: 514, 192
+  orig: 514, 192
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_guangci_00
+  rotate: false
+  xy: 289, 80
+  size: 181, 200
+  orig: 181, 201
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_guangci_01
+  rotate: false
+  xy: 1213, 298
+  size: 294, 315
+  orig: 294, 316
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_guangci_02
+  rotate: 270
+  xy: 671, 651
+  size: 326, 342
+  orig: 327, 344
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_guangci_03
+  rotate: false
+  xy: 453, 371
+  size: 330, 323
+  orig: 330, 323
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_guangci_04
+  rotate: false
+  xy: 1555, 227
+  size: 334, 292
+  orig: 334, 293
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_guangci_05
+  rotate: true
+  xy: 236, 215
+  size: 291, 277
+  orig: 291, 278
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_guangci_06
+  rotate: true
+  xy: 704, 204
+  size: 261, 276
+  orig: 262, 277
+  offset: 1, 1
+  index: -1
+effect/skl3_sf_guangci_07
+  rotate: true
+  xy: 466, 148
+  size: 242, 271
+  orig: 243, 272
+  offset: 1, 1
+  index: -1
+effect/skl3_sf_guangci_08
+  rotate: false
+  xy: 3, 1322
+  size: 178, 288
+  orig: 179, 288
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_guangci_09
+  rotate: false
+  xy: 1881, 241
+  size: 165, 250
+  orig: 166, 250
+  offset: 1, 0
+  index: -1
+effect/skl3_sf_guangci_10
+  rotate: false
+  xy: 1861, 96
+  size: 161, 165
+  orig: 163, 166
+  offset: 1, 0
+  index: -1
+effect/skl3_sf_guangci_11
+  rotate: false
+  xy: 339, 495
+  size: 142, 107
+  orig: 144, 109
+  offset: 1, 1
+  index: -1
+effect/skl3_sf_qiliu_00
+  rotate: 270
+  xy: 63, 40
+  size: 174, 179
+  orig: 174, 180
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qiliu_02
+  rotate: 270
+  xy: 454, 56
+  size: 178, 176
+  orig: 178, 176
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qiliu_04
+  rotate: 270
+  xy: 1070, 21
+  size: 179, 178
+  orig: 179, 178
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qiliu_06
+  rotate: 270
+  xy: 701, 59
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qiliu_08
+  rotate: 270
+  xy: 1309, 99
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qiliu_10
+  rotate: false
+  xy: 1570, 89
+  size: 177, 146
+  orig: 177, 146
+  offset: 0, 0
+  index: -1
+effect/skl3_sf_qiliu_12
+  rotate: 270
+  xy: 988, 735
+  size: 156, 154
+  orig: 156, 155
+  offset: 0, 1
+  index: -1
+effect/skl3_sf_qiliu_14
+  rotate: 180
+  xy: 1666, 60
+  size: 156, 167
+  orig: 156, 167
+  offset: 0, 0
+  index: -1

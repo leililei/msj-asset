@@ -1,0 +1,41 @@
+
+huatuo_skill_tx_2.png
+size: 445,317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/atk/gx4/gx4_00000
+  rotate: false
+  xy: 404, 140
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+images/chutu/atk/xg3/xg3_00023
+  rotate: true
+  xy: 310, 11
+  size: 110, 85
+  orig: 116, 88
+  offset: 4, 2
+  index: -1
+images/chutu/skill/gx1/gx1_00033
+  rotate: true
+  xy: 310, 123
+  size: 192, 92
+  orig: 211, 103
+  offset: 6, 4
+  index: -1
+images/chutu/skill/xg2/xg2_00025
+  rotate: true
+  xy: 404, 168
+  size: 147, 39
+  orig: 152, 41
+  offset: 3, 1
+  index: -1
+images/chutu/skill/xg3/xg3_00041
+  rotate: false
+  xy: 2, 2
+  size: 306, 313
+  orig: 328, 329
+  offset: 11, 8
+  index: -1

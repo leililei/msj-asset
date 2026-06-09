@@ -1,0 +1,69 @@
+
+longhun3_gj_2.png
+size: 485,1915
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bz4/00
+  rotate: true
+  xy: 334, 361
+  size: 153, 118
+  orig: 800, 400
+  offset: 247, 129
+  index: -1
+effect/bz4/01
+  rotate: true
+  xy: 318, 3
+  size: 237, 165
+  orig: 800, 400
+  offset: 163, 105
+  index: -1
+effect/bz4/02
+  rotate: false
+  xy: 3, 20
+  size: 313, 220
+  orig: 800, 400
+  offset: 87, 71
+  index: -1
+effect/bz4/04
+  rotate: false
+  xy: 3, 516
+  size: 370, 269
+  orig: 800, 400
+  offset: 30, 38
+  index: -1
+effect/bz4/06
+  rotate: false
+  xy: 3, 1347
+  size: 370, 279
+  orig: 800, 400
+  offset: 30, 33
+  index: -1
+effect/bz4/08
+  rotate: false
+  xy: 3, 1628
+  size: 371, 285
+  orig: 800, 400
+  offset: 29, 29
+  index: -1
+effect/bz4/10
+  rotate: false
+  xy: 3, 1066
+  size: 363, 279
+  orig: 800, 400
+  offset: 37, 31
+  index: -1
+effect/bz4/12
+  rotate: false
+  xy: 3, 787
+  size: 362, 277
+  orig: 800, 400
+  offset: 38, 33
+  index: -1
+effect/bz4/14
+  rotate: false
+  xy: 3, 242
+  size: 329, 272
+  orig: 800, 400
+  offset: 71, 38
+  index: -1

@@ -1,0 +1,138 @@
+
+longhun_5661_sf.png
+size: 1927,1550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/tielian_sf/00
+  rotate: true
+  xy: 2, 1471
+  size: 77, 127
+  orig: 638, 638
+  offset: 282, 256
+  index: -1
+images/effect/tielian_sf/02
+  rotate: false
+  xy: 365, 1248
+  size: 300, 300
+  orig: 638, 638
+  offset: 169, 169
+  index: -1
+images/effect/tielian_sf/04
+  rotate: false
+  xy: 1071, 1128
+  size: 420, 420
+  orig: 638, 638
+  offset: 109, 109
+  index: -1
+images/effect/tielian_sf/06
+  rotate: false
+  xy: 1028, 586
+  size: 540, 540
+  orig: 638, 638
+  offset: 49, 49
+  index: -1
+images/effect/tielian_sf/20
+  rotate: false
+  xy: 1130, 2
+  size: 582, 582
+  orig: 638, 638
+  offset: 28, 28
+  index: -1
+images/effect/tielian_sf/22
+  rotate: false
+  xy: 554, 10
+  size: 574, 574
+  orig: 638, 638
+  offset: 32, 32
+  index: -1
+images/effect/tielian_sf/24
+  rotate: false
+  xy: 2, 146
+  size: 550, 550
+  orig: 638, 638
+  offset: 44, 44
+  index: -1
+images/effect/tielian_sf/26
+  rotate: false
+  xy: 494, 698
+  size: 532, 532
+  orig: 638, 638
+  offset: 53, 53
+  index: -1
+images/effect/tielian_sf/28
+  rotate: false
+  xy: 2, 756
+  size: 490, 490
+  orig: 638, 638
+  offset: 74, 74
+  index: -1
+images/effect/tielian_sf/30
+  rotate: false
+  xy: 1493, 1128
+  size: 432, 420
+  orig: 638, 638
+  offset: 103, 109
+  index: -1
+images/effect/tielian_sf/32
+  rotate: false
+  xy: 667, 1232
+  size: 402, 316
+  orig: 638, 638
+  offset: 118, 161
+  index: -1
+images/effect/tielian_sf/34
+  rotate: false
+  xy: 131, 1322
+  size: 232, 226
+  orig: 638, 638
+  offset: 201, 205
+  index: -1
+
+longhun_5661_sf2.png
+size: 1808,1206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/tielian_sf/08
+  rotate: false
+  xy: 2, 604
+  size: 600, 600
+  orig: 638, 638
+  offset: 19, 19
+  index: -1
+images/effect/tielian_sf/10
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 638, 638
+  offset: 19, 19
+  index: -1
+images/effect/tielian_sf/12
+  rotate: false
+  xy: 604, 604
+  size: 600, 600
+  orig: 638, 638
+  offset: 19, 19
+  index: -1
+images/effect/tielian_sf/14
+  rotate: false
+  xy: 1206, 604
+  size: 600, 600
+  orig: 638, 638
+  offset: 19, 19
+  index: -1
+images/effect/tielian_sf/16
+  rotate: false
+  xy: 604, 2
+  size: 600, 600
+  orig: 638, 638
+  offset: 19, 19
+  index: -1
+images/effect/tielian_sf/18
+  rotate: false
+  xy: 1206, 10
+  size: 592, 592
+  orig: 638, 638
+  offset: 23, 23
+  index: -1

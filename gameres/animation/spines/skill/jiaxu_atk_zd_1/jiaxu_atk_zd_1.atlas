@@ -1,0 +1,83 @@
+
+jiaxu_atk_zd_1.png
+size: 1292,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/attack/1dd1/1dd_0000
+  rotate: false
+  xy: 336, 194
+  size: 323, 111
+  orig: 335, 118
+  offset: 10, 5
+  index: -1
+chutu/attack/1dd1/1dd_0002
+  rotate: false
+  xy: 984, 198
+  size: 306, 107
+  orig: 335, 118
+  offset: 27, 11
+  index: -1
+chutu/attack/1dd1/1dd_0004
+  rotate: false
+  xy: 662, 199
+  size: 319, 106
+  orig: 335, 118
+  offset: 14, 9
+  index: -1
+chutu/attack/1dd1/1dd_0006
+  rotate: false
+  xy: 1, 74
+  size: 329, 111
+  orig: 335, 118
+  offset: 3, 4
+  index: -1
+chutu/attack/1dd1/1dd_0008
+  rotate: false
+  xy: 1, 188
+  size: 332, 117
+  orig: 335, 118
+  offset: 0, 1
+  index: -1
+chutu/attack/1dd2/1dd2_0000
+  rotate: false
+  xy: 1, 6
+  size: 67, 65
+  orig: 67, 67
+  offset: 0, 1
+  index: -1
+chutu/attack/1dd3/1dd3_0000
+  rotate: false
+  xy: 912, 5
+  size: 185, 190
+  orig: 188, 195
+  offset: 2, 2
+  index: -1
+chutu/attack/1dd3/1dd3_0002
+  rotate: true
+  xy: 1100, 10
+  size: 185, 190
+  orig: 188, 195
+  offset: 2, 2
+  index: -1
+chutu/attack/1dd3/1dd3_0004
+  rotate: true
+  xy: 336, 4
+  size: 187, 195
+  orig: 188, 195
+  offset: 0, 0
+  index: -1
+chutu/attack/1dd3/1dd3_0006
+  rotate: false
+  xy: 722, 1
+  size: 187, 195
+  orig: 188, 195
+  offset: 0, 0
+  index: -1
+chutu/attack/1dd3/1dd3_0008
+  rotate: false
+  xy: 534, 1
+  size: 185, 190
+  orig: 188, 195
+  offset: 2, 2
+  index: -1

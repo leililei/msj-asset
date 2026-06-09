@@ -1,0 +1,111 @@
+
+xiaoqiao_skill_tx_2.png
+size: 1908,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/skill/sd1/sd1_00027
+  rotate: false
+  xy: 1286, 5
+  size: 219, 91
+  orig: 247, 109
+  offset: 5, 1
+  index: -1
+images/chutu/skill/sd1/sd1_00029
+  rotate: false
+  xy: 1286, 98
+  size: 244, 104
+  orig: 247, 109
+  offset: 2, 3
+  index: -1
+images/chutu/skill/sd1/sd1_00031
+  rotate: false
+  xy: 1532, 101
+  size: 241, 101
+  orig: 247, 109
+  offset: 1, 7
+  index: -1
+images/chutu/skill/sd1/sd1_00033
+  rotate: true
+  xy: 1622, 27
+  size: 72, 49
+  orig: 247, 109
+  offset: 2, 58
+  index: -1
+images/chutu/skill/sd2/sd2_00002
+  rotate: false
+  xy: 407, 5
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+images/chutu/skill/sd3/sd3_00000
+  rotate: true
+  xy: 1148, 15
+  size: 187, 136
+  orig: 214, 209
+  offset: 5, 2
+  index: -1
+images/chutu/skill/sd3/sd3_00002
+  rotate: false
+  xy: 407, 16
+  size: 204, 186
+  orig: 214, 209
+  offset: 5, 2
+  index: -1
+images/chutu/skill/sd3/sd3_00004
+  rotate: false
+  xy: 2, 2
+  size: 203, 200
+  orig: 214, 209
+  offset: 6, 3
+  index: -1
+images/chutu/skill/sd3/sd3_00006
+  rotate: false
+  xy: 207, 3
+  size: 198, 199
+  orig: 214, 209
+  offset: 9, 4
+  index: -1
+images/chutu/skill/sd3/sd3_00008
+  rotate: false
+  xy: 613, 10
+  size: 191, 192
+  orig: 214, 209
+  offset: 13, 7
+  index: -1
+images/chutu/skill/sd3/sd3_00010
+  rotate: true
+  xy: 806, 21
+  size: 181, 179
+  orig: 214, 209
+  offset: 19, 13
+  index: -1
+images/chutu/skill/sd3/sd3_00012
+  rotate: true
+  xy: 987, 35
+  size: 167, 159
+  orig: 214, 209
+  offset: 27, 22
+  index: -1
+images/chutu/skill/sd3/sd3_00014
+  rotate: true
+  xy: 1775, 55
+  size: 147, 131
+  orig: 214, 209
+  offset: 38, 34
+  index: -1
+images/chutu/skill/sd3/sd3_00016
+  rotate: false
+  xy: 1507, 6
+  size: 113, 90
+  orig: 214, 209
+  offset: 58, 56
+  index: -1
+images/chutu/skill/sd3/sd3_00018
+  rotate: true
+  xy: 1673, 35
+  size: 64, 48
+  orig: 214, 209
+  offset: 83, 80
+  index: -1

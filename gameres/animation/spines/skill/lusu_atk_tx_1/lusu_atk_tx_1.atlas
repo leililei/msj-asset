@@ -1,0 +1,97 @@
+
+lusu_atk_tx_1.png
+size: 721,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/atiaodao/atiaodao_20
+  rotate: true
+  xy: 262, 6
+  size: 123, 159
+  orig: 127, 189
+  offset: 3, 1
+  index: -1
+images/chutu/atiaodao/atiaodao_21
+  rotate: true
+  xy: 2, 2
+  size: 72, 167
+  orig: 127, 189
+  offset: 51, 8
+  index: -1
+images/chutu/atiaodao/atiaodao_22
+  rotate: true
+  xy: 516, 298
+  size: 69, 156
+  orig: 127, 189
+  offset: 49, 32
+  index: -1
+images/chutu/atiaodao/atiaodao_23
+  rotate: false
+  xy: 545, 23
+  size: 69, 151
+  orig: 127, 189
+  offset: 49, 36
+  index: -1
+images/chutu/atiaodao/atiaodao_24
+  rotate: false
+  xy: 632, 155
+  size: 66, 141
+  orig: 127, 189
+  offset: 51, 43
+  index: -1
+images/chutu/glow4_34
+  rotate: false
+  xy: 423, 8
+  size: 120, 121
+  orig: 130, 133
+  offset: 4, 6
+  index: -1
+images/chutu/quan1_21
+  rotate: false
+  xy: 511, 176
+  size: 119, 120
+  orig: 126, 125
+  offset: 4, 2
+  index: -1
+images/chutu/shizi_21
+  rotate: false
+  xy: 616, 47
+  size: 103, 106
+  orig: 123, 123
+  offset: 9, 7
+  index: -1
+images/chutu/xuli/xuli_19
+  rotate: false
+  xy: 276, 348
+  size: 238, 221
+  orig: 312, 291
+  offset: 52, 58
+  index: -1
+images/chutu/xuli/xuli_20
+  rotate: false
+  xy: 2, 309
+  size: 272, 260
+  orig: 312, 291
+  offset: 21, 19
+  index: -1
+images/chutu/xuli/xuli_21
+  rotate: false
+  xy: 2, 76
+  size: 258, 231
+  orig: 312, 291
+  offset: 27, 39
+  index: -1
+images/chutu/xuli/xuli_22
+  rotate: false
+  xy: 276, 131
+  size: 233, 215
+  orig: 312, 291
+  offset: 39, 50
+  index: -1
+images/chutu/xuli/xuli_23
+  rotate: false
+  xy: 516, 369
+  size: 199, 200
+  orig: 312, 291
+  offset: 45, 58
+  index: -1

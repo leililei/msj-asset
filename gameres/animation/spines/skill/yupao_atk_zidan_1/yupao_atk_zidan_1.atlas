@@ -1,0 +1,62 @@
+
+yupao_atk_zidan_1.png
+size: 337,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chutu/1/1_00000
+  rotate: false
+  xy: 166, 58
+  size: 149, 25
+  orig: 204, 77
+  offset: 41, 23
+  index: -1
+images/chutu/1/1_00002
+  rotate: false
+  xy: 171, 2
+  size: 164, 27
+  orig: 204, 77
+  offset: 26, 22
+  index: -1
+images/chutu/1/1_00004
+  rotate: false
+  xy: 2, 33
+  size: 136, 25
+  orig: 204, 77
+  offset: 54, 24
+  index: -1
+images/chutu/1/1_00006
+  rotate: false
+  xy: 179, 85
+  size: 148, 24
+  orig: 204, 77
+  offset: 42, 25
+  index: -1
+images/chutu/1/1_00008
+  rotate: false
+  xy: 2, 60
+  size: 162, 24
+  orig: 204, 77
+  offset: 28, 25
+  index: -1
+images/chutu/1/1_00010
+  rotate: false
+  xy: 2, 86
+  size: 175, 23
+  orig: 204, 77
+  offset: 15, 25
+  index: -1
+images/chutu/1/1_00012
+  rotate: false
+  xy: 140, 31
+  size: 155, 25
+  orig: 204, 77
+  offset: 35, 24
+  index: -1
+images/chutu/1/1_00014
+  rotate: false
+  xy: 2, 4
+  size: 167, 25
+  orig: 204, 77
+  offset: 23, 24
+  index: -1
